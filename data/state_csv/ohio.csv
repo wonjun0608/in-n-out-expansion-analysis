@@ -1,0 +1,775 @@
+osm_type,osm_id,name,brand,state_query,latitude,longitude,city,street,postcode
+node,347438495,Five Guys,Five Guys,Ohio,39.2995975,-84.3142332,Mason,Mason Montgomery Road,45040
+node,636566608,McDonald's,McDonald's,Ohio,40.8472404,-81.9442043,Wooster,Burbank Road,44691-8520
+node,932359248,McDonald's,McDonald's,Ohio,39.1471568,-84.4277955,Cincinnati,Paxton Avenue,45209
+node,1064713794,McDonald's,McDonald's,Ohio,41.1310782,-81.5077362,Cuyahoga Falls,State Road,44223-1305
+node,1447446959,Five Guys,Five Guys,Ohio,41.4203382,-81.9095643,North Olmsted,Lorain Road,44070
+node,1716817752,McDonald's,McDonald's,Ohio,39.9688732,-82.487101,,Integrity Drive,43025
+node,1804092246,McDonald's,McDonald's,Ohio,39.5867151,-82.9519755,,S Court St,43113
+node,1974096765,McDonald's,McDonald's,Ohio,39.7976107,-84.2532657,,Free Pike,45416-1212
+node,2030559121,McDonald's,McDonald's,Ohio,41.3168517,-81.3522963,Aurora,West Garfield,44202-8859
+node,2118729537,Five Guys,Five Guys,Ohio,41.4644913,-81.6871444,Cleveland,Steelyard Drive,44109
+node,2234619432,McDonald's,McDonald's,Ohio,41.4509955,-81.70234,Cleveland,Denison Avenue,44109-2600
+node,2260670202,Five Guys,Five Guys,Ohio,39.7708342,-84.052732,Beavercreek,Pentagon Park Boulevard,45431
+node,2367705828,Five Guys,Five Guys,Ohio,41.6767688,-83.6233348,Toledo,West Central Avenue,43606
+node,2374905119,Culver's,Culver's,Ohio,41.1357101,-81.7891248,Medina,Medina Road,44256
+node,2374912680,McDonald's,McDonald's,Ohio,41.1357021,-81.8011572,Medina,Medina Road,44256
+node,2460485982,McDonald's,McDonald's,Ohio,41.5167813,-81.6524343,Cleveland,East 55th Street,44103-1347
+node,2461944711,McDonald's,McDonald's,Ohio,41.4726969,-81.6226608,Cleveland,Kinsman Avenue,44104-5141
+node,2582557343,Five Guys,Five Guys,Ohio,41.5015599,-81.5372933,South Euclid,Cedar Road,44118
+node,2619298356,Five Guys,Five Guys,Ohio,41.5265618,-81.4376886,Mayfield Heights,S.O.M. Center Road,44124
+node,2715649486,McDonald's,McDonald's,Ohio,41.5388858,-81.6162552,Cleveland,Saint Clair Avenue,44108-1956
+node,2753098717,Five Guys,Five Guys,Ohio,39.9811011,-82.8191413,Columbus,East Broad Street,43213
+node,2867826001,McDonald's,McDonald's,Ohio,41.3088713,-81.8345817,Strongsville,Pearl Road,44136
+node,2953985983,McDonald's,McDonald's,Ohio,41.4991071,-81.5367772,University Heights,Warrensville Center Road,44118
+node,2972063757,McDonald's,McDonald's,Ohio,40.6413479,-81.4441581,,,
+node,2987124117,Five Guys,Five Guys,Ohio,41.023105,-80.663362,Boardman,Market Street,44512
+node,3003790033,Five Guys,Five Guys,Ohio,40.1462646,-82.9606931,Columbus,Polaris Parkway,43240
+node,3108370241,McDonald's,McDonald's,Ohio,40.8379622,-81.3266387,Canton,Harmont Avenue,44705-4330
+node,3329314822,McDonald's,McDonald's,Ohio,39.6732678,-84.2185638,,,
+node,3543233201,McDonald's,McDonald's,Ohio,39.6762357,-84.240982,West Carrollton,East Dixie Drive,45449-1924
+node,3655742322,Five Guys,Five Guys,Ohio,41.5447125,-83.5884766,Rossford,US Highway 20,43460
+node,3686175893,Five Guys,Five Guys,Ohio,40.0626722,-83.0406186,Columbus,Bethel Road,43214
+node,3753298266,McDonald's,McDonald's,Ohio,40.2747805,-81.8699877,Coshocton,Chestnut Street,43812
+node,4444981110,McDonald's,McDonald's,Ohio,40.787783,-82.7384618,,,
+node,4630819210,Steak 'n Shake,Steak 'n Shake,Ohio,41.0741476,-81.5164661,Akron,East Exchange Street,44325
+node,4682648751,McDonald's,McDonald's,Ohio,39.0197396,-82.0417749,,,
+node,4739034425,Five Guys,Five Guys,Ohio,39.9830762,-83.1520925,Hilliard,Hilliard – Rome Road,43026
+node,4793534809,McDonald's,McDonald's,Ohio,41.228271,-81.8407998,Brunswick,Pearl Road,44212
+node,5087568418,McDonald's,McDonald's,Ohio,39.9900093,-81.1595969,,,
+node,5108617263,McDonald's,McDonald's,Ohio,40.9011795,-80.8339195,,,
+node,5295893479,McDonald's,McDonald's,Ohio,41.4704931,-81.9039468,Westlake,Detroit Road,44145-2421
+node,5300908879,Five Guys,Five Guys,Ohio,41.1195962,-81.4722709,Cuyahoga Falls,Howe Avenue,44221
+node,5326450947,Five Guys,Five Guys,Ohio,41.0728076,-81.5131479,Akron,East Exchange Street,44304
+node,5349168111,McDonald's,McDonald's,Ohio,41.4209703,-82.7570478,Sandusky,Tiffin Avenue,44870
+node,5615824337,McDonald's,McDonald's,Ohio,41.5226192,-83.4624318,Perrysburg,Libbey Road,43551-9739
+node,5619402630,McDonald's,McDonald's,Ohio,40.7318919,-81.0974849,,,
+node,5652678656,Five Guys,Five Guys,Ohio,40.1042924,-83.1641924,Dublin,Hospital Drive,43016
+node,5672173821,McDonald's,McDonald's,Ohio,40.8338557,-83.9642718,Beaverdam,East Main Street,45808
+node,5691451207,Five Guys,Five Guys,Ohio,39.7422555,-84.1825902,Dayton,Brown Street,45409
+node,5718340797,McDonald's,McDonald's,Ohio,40.9623102,-81.5654457,Akron,Manchester Road,44319-3911
+node,5732611222,Shake Shack,Shake Shack,Ohio,41.4530603,-81.486686,Beachwood,Park Avenue,44122
+node,5762488813,McDonald's,McDonald's,Ohio,41.1006264,-81.4391501,Tallmadge,Southeast Avenue,44278-2317
+node,5825191007,McDonald's,McDonald's,Ohio,40.4930691,-82.7116949,Mount Gilead,State Route 95,43338
+node,5943291997,Culver's,Culver's,Ohio,41.4687901,-82.0190541,Avon,Center Road,44011
+node,6110436161,Five Guys,Five Guys,Ohio,41.1610639,-81.862886,Medina,Pearl Road,44256
+node,6249901408,McDonald's,McDonald's,Ohio,39.1948998,-84.2344432,Milford,State Route 28,45150
+node,6311915086,Five Guys,Five Guys,Ohio,41.0983341,-80.7626378,Austintown,South Canfield Niles Road,44515
+node,6332167847,Steak 'n Shake,Steak 'n Shake,Ohio,41.4206418,-82.0776371,Sheffield,North Abbe Road,44035
+node,6338092603,Five Guys,Five Guys,Ohio,39.9886375,-83.0329525,Columbus,West Fifth Avenue,43212
+node,6360629793,Five Guys,Five Guys,Ohio,39.5979979,-84.2314885,Miamisburg,Innovation Drive,45342
+node,6422141137,Five Guys,Five Guys,Ohio,41.446959,-81.496867,Warrensville Heights,Richmond Road,44122
+node,6499050537,McDonald's,McDonald's,Ohio,40.9673438,-81.345292,Hartville,West Maple Street,44632-9669
+node,6586707402,Shake Shack,Shake Shack,Ohio,41.5000976,-81.689168,,,
+node,6710880643,Five Guys,Five Guys,Ohio,40.0935698,-83.092303,Columbus,Sawmill Road,43017
+node,6781076024,Shake Shack,Shake Shack,Ohio,39.9773918,-83.0034032,Columbus,North High Street,43215
+node,6864927291,McDonald's,McDonald's,Ohio,41.4133421,-82.1653714,Lorain,Middle Ridge Road,44053
+node,6919260515,Five Guys,Five Guys,Ohio,39.2525728,-84.6018902,,,
+node,6946089612,Five Guys,Five Guys,Ohio,39.0948611,-84.2656975,Cincinnati,Eastgate South Drive,45245
+node,7006775918,Five Guys,Five Guys,Ohio,40.0344164,-82.4344652,Heath,Hebron Road,43056
+node,7209110063,Five Guys,Five Guys,Ohio,41.2767893,-80.7732811,Cortland,Millennium Boulevard,44410
+node,7209392392,McDonald's,McDonald's,Ohio,40.4060592,-82.4926299,,,
+node,7641451866,Steak 'n Shake,Steak 'n Shake,Ohio,41.8816042,-80.7480615,Ashtabula,North Ridge Road East,44004
+node,7647686161,Five Guys,Five Guys,Ohio,41.6759763,-81.3118009,Mentor,Mentor Avenue,44060
+node,7666482296,McDonald's,McDonald's,Ohio,39.8870956,-83.4482031,,,
+node,8082089659,McDonald's,McDonald's,Ohio,41.9138063,-80.5706606,Conneaut,Loves Drive,44030
+node,8327629581,McDonald's,McDonald's,Ohio,41.6395966,-83.6639161,Toledo,North Reynolds Road,43615-5214
+node,8381527399,McDonald's,McDonald's,Ohio,41.3680411,-82.1098331,Elyria,Broad Street,44035
+node,8423653254,Five Guys,Five Guys,Ohio,41.3840754,-81.7429693,Parma,West Ridgewood Drive,44129
+node,8629410923,McDonald's,McDonald's,Ohio,41.9442396,-80.5578417,Conneaut,State Street,44030
+node,8635549127,McDonald's,McDonald's,Ohio,41.8754238,-80.7640451,Ashtabula,North Ridge Road East,44004
+node,8786733581,McDonald's,McDonald's,Ohio,41.3799824,-81.7361386,Parma,Day Drive,44129
+node,8789977409,McDonald's,McDonald's,Ohio,41.3997544,-81.5972452,Garfield Heights,Rockside Road,44125
+node,8828263469,McDonald's,McDonald's,Ohio,40.8910417,-81.406774,North Canton,North Main Street,44720
+node,8850698371,McDonald's,McDonald's,Ohio,41.7058995,-81.3606236,Mentor-on-the-Lake,Andrews Road,44060
+node,8888030205,McDonald's,McDonald's,Ohio,41.4189124,-81.7589902,Brooklyn,Brookpark Road,44144
+node,8890480542,McDonald's,McDonald's,Ohio,41.4263461,-81.7348946,Brooklyn,Ridge Road,44144
+node,8914307655,McDonald's,McDonald's,Ohio,41.5194468,-81.5180316,South Euclid,Mayfield Road,44121
+node,8934140226,McDonald's,McDonald's,Ohio,41.2396991,-81.8028404,Brunswick,Center Road,44212
+node,8934343026,Steak 'n Shake,Steak 'n Shake,Ohio,41.2377835,-81.8060034,Brunswick,Center Road,44212
+node,8939695098,McDonald's,McDonald's,Ohio,41.415552,-81.9248855,North Olmsted,Lorain Road,44070
+node,8969249829,Five Guys,Five Guys,Ohio,41.4612058,-81.8508939,Fairview Park,Westgate Mall,44126
+node,8972480856,McDonald's,McDonald's,Ohio,41.4592064,-81.8601636,Rocky River,Center Ridge Road,44116
+node,8999420192,McDonald's,McDonald's,Ohio,41.3526989,-81.3858437,Aurora,Aurora Road,44202
+node,9005044163,Steak 'n Shake,Steak 'n Shake,Ohio,41.4643761,-81.6883527,Cleveland,Steelyard Drive,44109
+node,9087983093,McDonald's,McDonald's,Ohio,41.4252319,-82.0779581,Sheffield,Detroit Road,44035
+node,9094492820,McDonald's,McDonald's,Ohio,41.8020073,-81.0511595,Madison,North Ridge Road,44057
+node,9105684358,McDonald's,McDonald's,Ohio,41.118616,-81.4771985,Cuyahoga Falls,Howe Avenue,44221
+node,9110884319,Steak 'n Shake,Steak 'n Shake,Ohio,41.1168783,-81.4856848,Akron,Home Avenue,44310
+node,9325414307,McDonald's,McDonald's,Ohio,40.2899693,-83.0679797,Delaware,South Sandusky Street,43015
+node,9670438983,McDonald's,McDonald's,Ohio,41.4118911,-82.2099698,Amherst,Leavitt Road,44001
+node,9687175446,McDonald's,McDonald's,Ohio,40.7513941,-81.4034155,Canton,Faircrest Street Southwest,44706
+node,9694722980,McDonald's,McDonald's,Ohio,41.3647435,-82.0775177,Elyria,East Broad Street,44035-6304
+node,9764622496,McDonald's,McDonald's,Ohio,41.3908341,-82.0180664,North Ridgeville,Center Ridge Road,44039
+node,9764740939,Culver's,Culver's,Ohio,41.6136516,-83.6983404,Holland,Centers Drive,43528
+node,10750843297,McDonald's,McDonald's,Ohio,41.4409119,-82.184801,Lorain,Oberlin Avenue,44052
+node,10819576416,McDonald's,McDonald's,Ohio,41.7617464,-81.0467829,Madison,River Street,44057
+node,10911390649,Freddy's,Freddy's,Ohio,41.2390268,-81.3483376,Streetsboro,State Route 303,44241
+node,11028209305,Five Guys,Five Guys,Ohio,40.9827273,-81.4937795,Green,Arlington Ridge,44312
+node,11101599268,Five Guys,Five Guys,Ohio,39.3633196,-82.9746529,Chillicothe,North Bridge Street,45601
+node,11267554318,McDonald's,McDonald's,Ohio,41.1859446,-80.7655747,Niles,North Main Street,44446-5131
+node,11270515385,McDonald's,McDonald's,Ohio,39.9655699,-83.7848336,Springfield,Derr Road,45503
+node,11599447192,McDonald's,McDonald's,Ohio,40.5919752,-81.5251328,Tuscarawas County,South Wooster Avenue,44680
+node,11608522318,Five Guys,Five Guys,Ohio,41.423485,-81.7351053,Brooklyn,Ridge Road,44144
+node,11641383046,McDonald's,McDonald's,Ohio,40.9590352,-80.6604735,North Lima,,44514
+node,11672942617,McDonald's,McDonald's,Ohio,41.4238712,-81.4975703,Bedford Heights,Miles Road,44128
+node,11774626132,Culver's,Culver's,Ohio,40.7900963,-82.5897297,Ontario,North Lexington-Springmill Road,44906
+node,11982836599,Five Guys,Five Guys,Ohio,39.1477229,-84.4480337,Norwood,Edmondson Road,45209
+node,12191659602,McDonald's,McDonald's,Ohio,41.3725546,-81.866772,,West Bagley Road,44017-1348
+node,12230211113,McDonald's,McDonald's,Ohio,39.8460274,-84.4267725,,,
+node,12271222698,McDonald's,McDonald's,Ohio,39.3192384,-84.4981812,,Boymel Drive,45014
+node,12271264487,McDonald's,McDonald's,Ohio,39.3804144,-84.2231203,,Corwin Nixon Boulevard,45065
+node,12282661375,McDonald's,McDonald's,Ohio,41.4554442,-83.3740744,,West Main Street,43469
+node,12282708792,McDonald's,McDonald's,Ohio,40.5964833,-83.1298363,,North Main Street,43302-2330
+node,12282713087,McDonald's,McDonald's,Ohio,41.282992,-84.334071,,East 2nd Street,43512-2446
+node,12282714762,McDonald's,McDonald's,Ohio,39.9420652,-83.8325193,,Hillcrest Avenue,45503
+node,12282718631,McDonald's,McDonald's,Ohio,40.7048689,-84.1508178,,Shawnee Road,45806-1407
+node,12282718632,McDonald's,McDonald's,Ohio,41.6138932,-83.6252191,,South Byrne Road,43614
+node,12282724062,McDonald's,McDonald's,Ohio,40.8428698,-84.3268241,,Elida Avenue,45833-1778
+node,12282731104,McDonald's,McDonald's,Ohio,40.7302329,-84.0699814,,Harding Highway,45804-3418
+node,12282732021,McDonald's,McDonald's,Ohio,40.7649325,-84.1544508,,Elida Road,45801
+node,12282738733,McDonald's,McDonald's,Ohio,41.7160775,-83.6829353,,West Alexis Road,43560-2365
+node,12282741927,McDonald's,McDonald's,Ohio,40.241172,-83.391912,,Fifth Street,43040
+node,12282744118,McDonald's,McDonald's,Ohio,40.3299079,-83.0735289,,US 23,43015-8804
+node,12282754610,McDonald's,McDonald's,Ohio,39.8289352,-84.0241998,,North Broad Street,45324-5238
+node,12288228874,McDonald's,McDonald's,Ohio,40.0613413,-81.054385,,,43718
+node,12288252294,McDonald's,McDonald's,Ohio,40.0702044,-80.8650462,,Mall Ring Road,43950
+node,12288262890,McDonald's,McDonald's,Ohio,40.1038257,-80.7020097,,Warwood Avenue,26003
+node,12292372365,McDonald's,McDonald's,Ohio,40.509836,-81.452278,,4th Street Northwest,44663
+node,12292381452,McDonald's,McDonald's,Ohio,41.3677041,-81.5103255,,Broadway Avenue,44146
+node,12292381792,McDonald's,McDonald's,Ohio,41.4645269,-82.1562924,,Henderson Drive,44052
+node,12292381793,McDonald's,McDonald's,Ohio,41.2845207,-82.2171004,,South Main Street,44074-1772
+node,12292383988,McDonald's,McDonald's,Ohio,40.7960501,-81.906041,,East Lincoln Way,44691-3818
+node,12292387016,McDonald's,McDonald's,Ohio,41.6772676,-81.427487,,Lake Shore Boulevard,44095
+node,12292390157,McDonald's,McDonald's,Ohio,41.2866521,-82.064039,,Main Street,44044
+node,12292393868,McDonald's,McDonald's,Ohio,41.2461136,-82.1191654,,North Center Street,44050
+node,12292397046,McDonald's,McDonald's,Ohio,41.4620022,-81.4843977,,Chagrin Boulevard,44122
+node,12292397255,McDonald's,McDonald's,Ohio,40.8181793,-81.328978,,Mahoning Road Northeast,44705
+node,12292398762,McDonald's,McDonald's,Ohio,39.425598,-81.47479,,Gilman Avenue,45750
+node,12292471662,McDonald's,McDonald's,Ohio,39.7527634,-84.138591,,South Smithville Road,45403-3421
+node,12292471850,McDonald's,McDonald's,Ohio,39.7087457,-84.2038361,,West Dorothy Lane,45439
+node,12292494055,McDonald's,McDonald's,Ohio,39.7620824,-84.253761,,North Gettysburg Avenue,45417-9552
+node,12292496805,McDonald's,McDonald's,Ohio,40.0823181,-84.6336985,,Sweitzer Street,45331
+node,12312139606,Five Guys,Five Guys,Ohio,40.7706271,-84.1642209,Lima,Elida Road,45805
+node,12465728940,Five Guys,Five Guys,Ohio,39.6270886,-84.1879555,,,
+node,12781980857,Culver's,Culver's,Ohio,41.5466003,-83.5931015,Perrysburg,Fremont Pike,43551
+node,12909656993,Steak 'n Shake,Steak 'n Shake,Ohio,41.4644263,-81.6883517,Cleveland,Steelyard Drive,44109
+node,12944031240,Five Guys,Five Guys,Ohio,41.5809047,-83.6642768,Maumee,Conant Street,43537
+node,12974699610,McDonald's,McDonald's,Ohio,39.7149559,-82.9863202,South Bloomfield,South Walnut Street,43103
+node,13027753704,Steak 'n Shake,Steak 'n Shake,Ohio,41.3775049,-81.7416192,Parma,Ridge Road,44129
+node,13065639935,Five Guys,Five Guys,Ohio,41.4601458,-82.0225083,Avon,Detroit Road,44011
+node,13071315159,McDonald's,McDonald's,Ohio,41.4658591,-82.0590559,Avon,Colorado Avenue,44011
+node,13082068342,McDonald's,McDonald's,Ohio,39.1044698,-84.2985141,,,
+node,13093262711,Freddy's,Freddy's,Ohio,41.4669867,-82.0145319,Avon,Chester Road,44011
+node,13436182472,Shake Shack,Shake Shack,Ohio,41.4561984,-81.9486604,Westlake,Crocker Road,44145
+node,13474345336,Culver's,Culver's,Ohio,41.2385708,-81.8197157,Brunswick,Center Road,44212
+node,13542222107,McDonald's,McDonald's,Ohio,40.2942119,-83.0370082,,,
+node,13626150417,Culver's,Culver's,Ohio,39.6786671,-84.2347321,,,
+node,13828211909,Five Guys,Five Guys,Ohio,40.779715,-82.5897642,,,
+node,13898180735,McDonald's,McDonald's,Ohio,39.9377283,-82.7910629,Reynoldsburg,Reynoldsburg Baltimore Road,43068
+node,13898198009,McDonald's,McDonald's,Ohio,39.9147146,-82.9668727,Columbus,Lockbourne Road,43207
+node,14023144971,Culver's,Culver's,Ohio,41.4236502,-81.7618495,,,
+node,14061417704,Freddy's,Freddy's,Ohio,39.8640463,-84.2863964,Englewood,South Main Street,45322
+node,14099331101,Culver's,Culver's,Ohio,40.2406905,-83.3431058,,Square Drive,43040
+node,14208148115,Five Guys,Five Guys,Ohio,41.4187812,-82.2110745,Lorain,Cooper Foster Park Road,44053
+way,23766529,McDonald's,McDonald's,Ohio,39.262644725,-84.27093704166667,Loveland,Loveland Madeira Road,45140-2703
+way,32058123,Steak 'n Shake,Steak 'n Shake,Ohio,40.02697682,-83.11308011999999,Hilliard,Data Point Court,43026
+way,32303249,McDonald's,McDonald's,Ohio,39.95428107894736,-83.09801832631577,Columbus,West Broad Street,43228-1411
+way,32334038,McDonald's,McDonald's,Ohio,39.981731659999994,-83.15180050000001,Columbus,Renner Road,43228-9361
+way,32429215,Culver's,Culver's,Ohio,39.9814092,-83.14636806,Columbus,Rentra Drive,43228
+way,32900596,McDonald's,McDonald's,Ohio,39.25823872,-84.34085830000001,Cincinnati,Montgomery Road,45242-3213
+way,38937474,Steak 'n Shake,Steak 'n Shake,Ohio,39.97354298,-83.15081504,Columbus,Evans Way Court,43228
+way,40706841,McDonald's,McDonald's,Ohio,39.19988446,-84.37613449999999,Cincinnati,Montgomery Road,45236-4304
+way,41938016,McDonald's,McDonald's,Ohio,39.22639836,-84.39699402,Blue Ash,Hunt Road,45236
+way,42020042,McDonald's,McDonald's,Ohio,40.07691568571429,-83.13008135714286,Dublin,Tuttle Crossing Boulevard,43016
+way,42606487,McDonald's,McDonald's,Ohio,40.162301086666666,-83.01833907333335,Lewis Center,Meadow Park Avenue,43035
+way,43540934,McDonald's,McDonald's,Ohio,39.18996959333333,-84.46231184666667,Cincinnati,Reading Road,45237-3807
+way,43783873,McDonald's,McDonald's,Ohio,41.58502362,-81.47930133999999,Willoughby Hills,Bishop Road,44092
+way,43991593,McDonald's,McDonald's,Ohio,39.16493822857143,-84.51292442857142,Cincinnati,West Mitchell Avenue,45232-1907
+way,48433460,McDonald's,McDonald's,Ohio,39.1129142,-84.57454846,Cincinnati,Warsaw Avenue,45205
+way,51476724,McDonald's,McDonald's,Ohio,41.04302262,-82.72281194,,,
+way,52325614,McDonald's,McDonald's,Ohio,39.3028194923077,-84.52436505384615,Cincinnati,Omniplex Drive,45240-1279
+way,57770534,McDonald's,McDonald's,Ohio,39.07231915333333,-84.34479626666666,Cincinnati,Beechmont Avenue,45255
+way,61358784,Steak 'n Shake,Steak 'n Shake,Ohio,39.162994000000005,-84.42161886,Cincinnati,Ridge Avenue,45209
+way,67476600,Steak 'n Shake,Steak 'n Shake,Ohio,40.052777739999996,-82.92082941999999,Columbus,Morse Crossing,43219
+way,67476711,McDonald's,McDonald's,Ohio,40.053800589999994,-82.91954425,Columbus,Morse Crossing,43219
+way,69688698,McDonald's,McDonald's,Ohio,39.134871584,-84.499992504,Cincinnati,East Martin Luther King Junior Drive,45229
+way,73813141,McDonald's,McDonald's,Ohio,39.125987357142854,-84.48495899999999,Cincinnati,East McMillan Street,45206
+way,84048326,McDonald's,McDonald's,Ohio,41.52052564,-81.45539264,Mayfield Heights,Mayfield Road,44124
+way,84268803,McDonald's,McDonald's,Ohio,39.3372337857143,-84.56126505714285,Fairfield,Nilles Road,45014-2605
+way,96552201,McDonald's,McDonald's,Ohio,39.13054955714286,-84.7068201,,,
+way,98383343,McDonald's,McDonald's,Ohio,39.31837125,-84.31367401666667,Mason,Arbor Square Drive,45040
+way,102313665,McDonald's,McDonald's,Ohio,41.43923224545454,-81.86933823636365,Fairview Park,Lorain Road,44126
+way,102500369,McDonald's,McDonald's,Ohio,41.62719106363637,-81.42824959999999,Willoughby,Euclid Avenue,44094-4454
+way,102923989,Culver's,Culver's,Ohio,39.35250388,-84.32329676,Mason,Tylersville Road,45040
+way,102924016,Culver's,Culver's,Ohio,39.3906033,-84.51147525714285,Hamilton,Princeton Road,45011
+way,103111147,McDonald's,McDonald's,Ohio,39.495565500000005,-84.32132264444445,Franklin,Commerce Drive,45005-5231
+way,103111217,Steak 'n Shake,Steak 'n Shake,Ohio,39.490304779999995,-84.32963219999999,Middletown,Towne Boulevard,45044
+way,107338482,McDonald's,McDonald's,Ohio,39.54813618888889,-81.63770012222223,Beverly,5th Street,45715
+way,111312923,McDonald's,McDonald's,Ohio,39.27090928,-84.3781039,Cincinnati,Cornell Road,45241
+way,111678781,McDonald's,McDonald's,Ohio,39.20102067999999,-84.52037506,Cincinnati,West North Bend Road,45224
+way,112440233,McDonald's,McDonald's,Ohio,39.354028299999996,-84.3684223875,West Chester,Doc Drive,45069
+way,132791288,McDonald's,McDonald's,Ohio,39.30888375,-84.27700303333333,Maineville,W Montgomery Road,45039
+way,132908931,McDonald's,McDonald's,Ohio,39.87659300000001,-84.31033796,Englewood,West National Road,45322-1404
+way,133439295,Culver's,Culver's,Ohio,40.287354119999996,-84.19475114,Sidney,Michigan Street,45365
+way,133440548,McDonald's,McDonald's,Ohio,40.28735696,-84.18826928,Sidney,West Michigan Street,45365
+way,134633793,Culver's,Culver's,Ohio,40.05762516,-84.2457026,Troy,West Main Street,45373
+way,134633806,Steak 'n Shake,Steak 'n Shake,Ohio,40.05432704,-84.23544652000001,Troy,West Main Street,45373
+way,138700942,McDonald's,McDonald's,Ohio,39.94295928,-83.85420859999999,Springfield,Upper Valley Pike,45503
+way,142994279,McDonald's,McDonald's,Ohio,39.69664618,-84.10179502000001,Dayton,Indian Ripple Road,45440-3250
+way,145016088,McDonald's,McDonald's,Ohio,39.704766219999996,-84.14248626,Kettering,Wilmington Pike,45429
+way,148029958,Culver's,Culver's,Ohio,39.841276530769235,-84.19304583846154,Vandalia,Miller Lane,45414
+way,148034650,McDonald's,McDonald's,Ohio,39.84511392,-84.1981812,Dayton,York Commons Boulevard,45414
+way,152358439,McDonald's,McDonald's,Ohio,39.96432137142857,-84.32885101428572,West Milton,North Miami Street,45383
+way,153958404,McDonald's,McDonald's,Ohio,39.347319600000006,-84.54016107999999,Fairfield,State Route 4,45014
+way,154456121,Freddy’s,Freddy's,Ohio,39.25941516666667,-84.80202315555556,Harrison,,45030
+way,154460255,McDonald's,McDonald's,Ohio,39.25370613333333,-84.79529629999999,,,
+way,154464787,Five Guys,Five Guys,Ohio,39.260896128571424,-84.79446008571428,Harrison,Ring Road,45030
+way,155171621,McDonald's,McDonald's,Ohio,39.1889274625,-84.60157812499999,Cincinnati,West North Bend Road,45239
+way,156900992,McDonald's,McDonald's,Ohio,39.35195572,-84.46197028,Hamilton,Princeton Glendale Road,45011
+way,157350621,Steak 'n Shake,Steak 'n Shake,Ohio,39.09243896,-84.26491132,Cincinnati,Clepper Lane,45245
+way,159711627,McDonald's,McDonald's,Ohio,40.983677119999996,-81.4925048,Akron,Arlington Road,44312-5215
+way,164234741,McDonald's,McDonald's,Ohio,39.63023774,-84.22520496,Miamisburg,Springboro Pike,45342-3792
+way,166905021,McDonald's,McDonald's,Ohio,39.988580299999995,-83.03059233846153,Columbus,West Fifth Avenue,43212
+way,168955405,McDonald's,McDonald's,Ohio,39.35796914000001,-84.25908296,Mason,Kings Island Drive,45040
+way,169658048,McDonald's,McDonald's,Ohio,39.28038935882353,-84.56378917058825,Forest Park,Waycross,45240
+way,169706286,McDonald's,McDonald's,Ohio,39.284938679999996,-84.44444464,Sharonville,East Kemper Road,45246
+way,170766541,McDonald's,McDonald's,Ohio,41.451525399999994,-81.8019515,,,
+way,174955781,McDonald's,McDonald's,Ohio,39.09586374,-84.60925655999999,Cincinnati,Delhi Pike,45238-5343
+way,181391177,Steak 'n Shake,Steak 'n Shake,Ohio,39.77258972,-84.04911438,,Centre Drive,45324
+way,181391191,McDonald's,McDonald's,Ohio,39.77253662857144,-84.0502782,Fairborn,Centre Drive,45324
+way,181391908,McDonald's,McDonald's,Ohio,39.7258433,-84.05248705000001,Beavercreek,Dayton Xenia Road,45434
+way,181805614,McDonald's,McDonald's,Ohio,39.84599604615384,-84.4267254230769,Brookville,Triggs Road,45309-9729
+way,182150769,McDonald's,McDonald's,Ohio,41.37412148888889,-83.6301517,Bowling Green,East Wooster Street,43402-3260
+way,183060196,McDonald's,McDonald's,Ohio,39.126978358823536,-84.60589694705881,Cincinnati,North Glenway Avenue,45238-3754
+way,183539986,McDonald's,McDonald's,Ohio,39.50482404,-84.74889306,Oxford,South Locust Street,45056-2111
+way,188166949,McDonald's,McDonald's,Ohio,40.058615460000006,-82.4457644,Newark,Highland Boulevard,43055
+way,188869644,McDonald's,McDonald's,Ohio,39.640963299999996,-84.26537408,Miamisburg,North Heincke Road,45342-2667
+way,191202928,McDonald's,McDonald's,Ohio,39.1425206,-84.36278254000001,Cincinnati,Wooster Pike,45227
+way,191522667,McDonald's,McDonald's,Ohio,39.84531666,-84.11425104,Dayton,Brandt Pike,45424-4041
+way,191523749,Steak 'n Shake,Steak 'n Shake,Ohio,39.872467719999996,-84.13818438,,,45424
+way,191527304,Five Guys,Five Guys,Ohio,39.86641324,-84.13857066,Huber Heights,Old Troy Road,45424
+way,191527376,McDonald's,McDonald's,Ohio,39.866981566666674,-84.13730892222222,Huber Heights,Merily Way,45424-2029
+way,192306979,McDonald's,McDonald's,Ohio,41.35789398,-83.65110502,Bowling Green,South Main Street,43402
+way,195523987,McDonald's,McDonald's,Ohio,39.75331594,-84.18960544,Dayton,South Main Street,45402-2718
+way,196814603,McDonald's,McDonald's,Ohio,39.17108556,-84.42696392,Cincinnati,Ridge Avenue,45213
+way,197499473,McDonald's,McDonald's,Ohio,39.44807682,-83.8067365,,,
+way,198733376,McDonald's,McDonald's,Ohio,38.96441342000001,-84.09119496,Bethel,West Plane Street,45106
+way,200416006,McDonald's,McDonald's,Ohio,39.25818024000001,-84.47043536,Woodlawn,Springfield Pike,45215
+way,200566719,McDonald's,McDonald's,Ohio,39.89089782222223,-84.19029321111111,Vandalia,East National Road,45377-2343
+way,200894071,McDonald's,McDonald's,Ohio,39.235087840000006,-84.50898198,Cincinnati,Winton Road,45231-3936
+way,201065833,McDonald's,McDonald's,Ohio,39.22275184,-84.5876693,Cincinnati,Colerain Avenue,45239
+way,201383114,McDonald's,McDonald's,Ohio,39.150472519999994,-84.62829032,Cincinnati,Glenway Avenue,45211-5221
+way,203334050,McDonald's,McDonald's,Ohio,39.64893628,-84.10968712,Dayton,Wilmington Pike,45459-7020
+way,203335594,Steak 'n Shake,Steak 'n Shake,Ohio,39.6437873,-84.11012728,Dayton,Wilmington Pike,45459
+way,203335595,Freddy's,Freddy's,Ohio,39.659843699999996,-84.10998614,Centerville,Wilmington Pike,45459
+way,203963359,McDonald's,McDonald's,Ohio,39.79735106,-84.12968021999998,Dayton,Harshman Road,45424
+way,204070693,McDonald's,McDonald's,Ohio,39.37215496,-84.38409970000001,West Chester,Liberty Centre Drive,45069
+way,204082920,McDonald's,McDonald's,Ohio,39.41819814,-84.47156848,,,45011
+way,204192687,McDonald's,McDonald's,Ohio,39.15984584,-84.45549179999999,Norwood,Montgomery Road,45212
+way,205734599,McDonald's,McDonald's,Ohio,39.406576380000004,-84.60999786,Hamilton,Millville Avenue,45011
+way,205877937,McDonald's,McDonald's,Ohio,39.541687100000004,-84.29074808,Franklin,Franklin Lebanon Road,45005-4558
+way,205880446,McDonald's,McDonald's,Ohio,39.44079898,-84.33916406,Monroe,Garver Road,45050-1237
+way,212705456,McDonald's,McDonald's,Ohio,39.039655014285714,-83.9195306,Mount Orab,North High Street,45154
+way,216050718,McDonald's,McDonald's,Ohio,39.60975354,-84.15996462000001,Dayton,Dayton Lebanon Pike,45458-3837
+way,216330343,McDonald's,McDonald's,Ohio,39.0826494,-84.15017390000001,Batavia,Hospital Drive,45103
+way,216803127,Steak 'n Shake,Steak 'n Shake,Ohio,39.62785614,-84.22505332,,,45342
+way,220278400,McDonald's,McDonald's,Ohio,41.17318238,-83.64560274,North Baltimore,Deshler Road,45872-0026
+way,220591490,McDonald's,McDonald's,Ohio,39.173663214285725,-84.27700877142857,,,
+way,221788309,McDonald's,McDonald's,Ohio,39.9517758,-83.37917934,,,
+way,224718596,Freddy's,Freddy's,Ohio,39.19056466000001,-84.25359365,Milford,Old State Route 28,45150
+way,225084536,McDonald's,McDonald's,Ohio,39.618965485714284,-83.60519414285714,,,
+way,226685492,McDonald's,McDonald's,Ohio,40.05021334,-84.22873664,Troy,West Main Street,45373-2512
+way,228163446,McDonald's,McDonald's,Ohio,41.6785791,-83.62216323333332,Toledo,Secor Road,43606-1513
+way,229644909,McDonald's,McDonald's,Ohio,39.52720848,-84.08959338000001,Waynesville,South Main Street,45068
+way,229830155,McDonald's,McDonald's,Ohio,40.33281607777778,-83.76200804444446,,South Main Street,43311-1510
+way,230246101,McDonald's,McDonald's,Ohio,41.05822712,-83.6634036,Findlay,West Trenton Avenue,45840
+way,230246118,Steak 'n Shake,Steak 'n Shake,Ohio,41.06043934,-83.66509137999999,Findlay,Broad Avenue,45840
+way,230509621,McDonald's,McDonald's,Ohio,41.053178579999994,-83.61023972000001,Findlay,Tiffin Avenue,45840
+way,231226735,McDonald's,McDonald's,Ohio,39.956894292307695,-82.98912829230768,Columbus,East Main Street,43215
+way,231403448,Culver's,Culver's,Ohio,41.059188136363645,-83.66596135454544,Findlay,West Trenton Avenue,45840
+way,232606051,Five Guys,Five Guys,Ohio,40.877599128571426,-81.43282407142858,North Canton,Strip Avenue Northwest,44720
+way,234014961,McDonald's,McDonald's,Ohio,40.10972360769232,-83.27878369999999,Plain City,Jefferson Avenue,43064
+way,234797653,Five Guys,Five Guys,Ohio,41.154018719999996,-81.34884576,Kent,East Main Street,44240
+way,236712164,McDonald's,McDonald's,Ohio,39.52261119999999,-83.84713738,,,
+way,236787841,McDonald's,McDonald's,Ohio,40.781356442857145,-81.41843264285714,Canton Township,17th Street Southwest,44706
+way,236788882,McDonald's,McDonald's,Ohio,40.83313612,-81.38890296,Canton,Cleveland Avenue,44709
+way,240889281,McDonald's,McDonald's,Ohio,39.22274116,-84.44058376000001,Reading,Reading Road,45215
+way,242339977,McDonald's,McDonald's,Ohio,39.9597674,-84.18816289999998,Tipp City,South Garber Drive,45371-1147
+way,243111472,McDonald's,McDonald's,Ohio,41.030317028571424,-81.90812872857143,Seville,Speedway Drive,44273
+way,243418082,McDonald's,McDonald's,Ohio,39.1950403,-84.66103828,Dent,Harrison Avenue,45248
+way,243719226,McDonald's,McDonald's,Ohio,40.23678384285714,-83.35093051428571,Marysville,Charles Lane,43040
+way,244055436,McDonald's,McDonald's,Ohio,41.6868812,-83.53256912,Toledo,East Manhattan Boulevard,43608-1270
+way,244480547,McDonald's,McDonald's,Ohio,39.5619485,-84.25973977777777,Springboro,West Central Avenue,45066-1113
+way,244482052,McDonald's,McDonald's,Ohio,39.564003480000004,-84.27446824,Franklin,East Second Street,45005
+way,245645491,McDonald's,McDonald's,Ohio,39.42285872,-84.57795014,Hamilton,Washington Boulevard Northwest,45013-1207
+way,245796286,Five Guys,Five Guys,Ohio,39.28732146666667,-84.4563001111111,Springdale,Kemper Road,45246
+way,255857906,McDonald's,McDonald's,Ohio,41.02517712857143,-80.74356738571429,Canfield,East Main Street,44406-1541
+way,256260350,McDonald's,McDonald's,Ohio,41.55207782,-81.49647518,Richmond Heights,Richmond Road,44143-2745
+way,260050560,McDonald's,McDonald's,Ohio,41.57063347777778,-84.13504764444444,Wauseon,North Shoop Avenue,43567
+way,266133923,McDonald's,McDonald's,Ohio,41.02523634,-84.04851704000001,Ottawa,North Perry Street,45875
+way,268161691,McDonald's,McDonald's,Ohio,40.46991888333333,-83.88961948333333,Russells Point,East Main Street,43348
+way,268207584,McDonald's,McDonald's,Ohio,41.0108294,-81.55366640000001,Akron,Manchester Road,44319
+way,270947135,McDonald's,McDonald's,Ohio,41.480954957142856,-81.60473325714285,Cleveland,Buckeye Road,44104
+way,274846070,McDonald's,McDonald's,Ohio,39.31365084,-82.10418922,Athens,Richland Avenue,45701
+way,275376107,McDonald's,McDonald's,Ohio,40.01902947,-83.02500570000002,Columbus,Olentangy River Road,43202
+way,282857040,McDonald's,McDonald's,Ohio,39.8895604,-84.0481995,New Carlisle,Dayton Lakeview Road,45344
+way,289960208,McDonald's,McDonald's,Ohio,41.25935705555556,-82.61258713333332,,,
+way,290257261,Five Guys,Five Guys,Ohio,41.6750127,-83.70837862,Toledo,West Central Avenue,43615
+way,290264399,McDonald's,McDonald's,Ohio,41.673143442857146,-83.71481089999999,Toledo,West Central Avenue,43617
+way,290274894,McDonald's,McDonald's,Ohio,41.333043020000005,-82.62546006,Milan,State Route 250 North,44846
+way,290280311,McDonald's,McDonald's,Ohio,41.228310028571435,-82.60318597142857,,Benedict Ave,44857
+way,290746696,McDonald's,McDonald's,Ohio,41.67503258000001,-83.68355306,Toledo,North Holland-Sylvania Road,43615
+way,290937881,McDonald's,McDonald's,Ohio,41.07306305714285,-81.51419687142857,Akron,East Exchange Street,44304
+way,290989542,McDonald's,McDonald's,Ohio,41.10001808,-80.76498247999999,,Mahoning Avenue,44515
+way,291033832,McDonald's,McDonald's,Ohio,41.061179985714276,-81.45500307142856,Akron,East Market Street,44305
+way,291264491,McDonald's,McDonald's,Ohio,41.08301232,-80.73193942,Austintown Township,South Raccoon Road,44511
+way,291272257,McDonald's,McDonald's,Ohio,41.060424440000006,-80.64396716,Youngstown,East Midlothian Boulevard,44512
+way,291704072,McDonald's,McDonald's,Ohio,39.5405989,-82.43891844,Logan,SR 664,43138
+way,292460581,McDonald's,McDonald's,Ohio,41.69816772,-83.64426526000001,Toledo,Monroe Street,43623-3603
+way,293717854,McDonald's,McDonald's,Ohio,39.637544119999994,-84.34843362000001,Germantown,Dayton Germantown Pike,45327
+way,295040185,McDonald's,McDonald's,Ohio,41.02498475555556,-80.66409847777778,Boardman,Boardman Canfield Road,44512
+way,297186980,McDonald's,McDonald's,Ohio,41.41845667142858,-82.67348607142857,Sandusky,Milan Road,44870-5832
+way,297190300,Steak 'n Shake,Steak 'n Shake,Ohio,41.41223396,-82.66697212,Sandusky,Milan Road,44870
+way,298151781,McDonald's,McDonald's,Ohio,40.02531457999999,-83.01458220666665,Columbus,North High Street,43202
+way,300785131,McDonald's,McDonald's,Ohio,41.1424557,-81.35822632499999,Kent,South Water Street,44240-3844
+way,303368404,McDonald's,McDonald's,Ohio,41.155914859999996,-81.40506910000002,Stow,Kent Road,44224
+way,304623423,McDonald's,McDonald's,Ohio,39.32525228,-84.4331849,West Chester,Allen Road,45069-4834
+way,304633190,Steak 'n Shake,Steak 'n Shake,Ohio,39.2593934,-84.60306901999999,Cincinnati,Colerain Avenue,45251
+way,305101138,McDonald's,McDonald's,Ohio,41.09031973846153,-81.52984426923075,Akron,West Market Street,44303
+way,305180079,McDonald's,McDonald's,Ohio,41.10832225714285,-81.56877837142858,Akron,West Exchange Street,44313-7662
+way,305367421,McDonald's,McDonald's,Ohio,39.39831867142857,-84.55840947142858,Hamilton,South Martin Luther King Junior Boulevard,45011
+way,305375721,McDonald's,McDonald's,Ohio,39.68385120000001,-83.9369629,Xenia,West Main Street,45385
+way,305385056,McDonald's,McDonald's,Ohio,39.743514780000005,-84.11435295999999,Dayton,Linden Avenue,45432-3025
+way,305491587,McDonald's,McDonald's,Ohio,39.819249019999994,-84.18779190000001,Dayton,Needmore Road,45414
+way,305492985,McDonald's,McDonald's,Ohio,39.857322620000005,-84.27948774000001,Englewood,North Main Street,45415-1158
+way,305501995,McDonald's,McDonald's,Ohio,39.821588320000004,-84.28941341999999,Trotwood,Salem Avenue,45426
+way,306342849,McDonald's,McDonald's,Ohio,39.659098959999994,-83.7456874,,,
+way,306342891,McDonald's,McDonald's,Ohio,39.52391674,-83.45877472,,,
+way,306780662,McDonald's,McDonald's,Ohio,40.78971083076923,-81.3206622,Canton Township,Lincoln Street,44707
+way,308022544,McDonald's,McDonald's,Ohio,41.58147616,-81.21181671999999,Chardon,Water Street,44024
+way,308335729,Steak 'n Shake,Steak 'n Shake,Ohio,41.13361432000001,-81.64316396,Akron,Flight Memorial Drive,44333
+way,308345120,Five Guys,Five Guys,Ohio,41.13633633999999,-81.63814047999999,Fairlawn,Medina Road,44333
+way,308346744,McDonald's,McDonald's,Ohio,41.136432757142856,-81.63878869999999,Montrose,Medina Road,44313
+way,310403868,McDonald's,McDonald's,Ohio,41.15821085714286,-81.24805095714285,Ravenna,West Main Street,44266-2716
+way,317242751,McDonald's,McDonald's,Ohio,41.3898435,-81.34013902000001,Bainbridge,Chillicothe Road,44023
+way,318032080,McDonald's,McDonald's,Ohio,40.24854844,-82.86806134000001,Sunbury,Miller Drive,43074
+way,318788461,McDonald's,McDonald's,Ohio,39.63022488,-84.19763292000002,Centerville,Miamisburg-Centerville Road,45459
+way,321909607,McDonald's,McDonald's,Ohio,41.22114885714286,-81.62924637142858,Richfield,Wheatley Road,44286
+way,321937456,McDonald's,McDonald's,Ohio,41.07770175,-81.49964994999999,Akron,East Market Street,44304-1660
+way,322416852,McDonald's,McDonald's,Ohio,41.69223752,-83.56994970000001,Toledo,West Sylvania Avenue,43612-1705
+way,324615518,McDonald's,McDonald's,Ohio,39.8665261,-83.95689912,Enon,Dayton Springfield Road,45323
+way,324623169,Steak 'n Shake,Steak 'n Shake,Ohio,40.1418294,-82.96744988,Columbus,Polaris Parkway,43240
+way,324623170,McDonald's,McDonald's,Ohio,40.14147208888889,-82.96617153333334,Columbus,Orion Place,43240
+way,326482778,McDonald's,McDonald's,Ohio,41.134864300000004,-81.5544548,Akron,Merriman Road,44313-5284
+way,330719705,McDonald's,McDonald's,Ohio,41.38497903333334,-81.97806353333333,North Ridgeville,Lorain Road,44039
+way,342268454,McDonald's,McDonald's,Ohio,41.2866730375,-81.100339425,Garrettsville,State Street,44231
+way,342613448,McDonald's,McDonald's,Ohio,41.60673705454545,-80.5654597,,,
+way,342614022,McDonald's,McDonald's,Ohio,41.71439041428572,-81.30028721428572,Mentor,Heisley Road,44060
+way,342664080,McDonald's,McDonald's,Ohio,41.2809718125,-81.2248456875,Mantua,Main Street,44255
+way,347401156,McDonald's,McDonald's,Ohio,41.4068745,-82.59249120000001,Huron,Cleveland Road West,44839
+way,360042861,McDonald's,McDonald's,Ohio,41.4850965,-81.81178498,Lakewood,Detroit Avenue,44107-3625
+way,362100233,McDonald's,McDonald's,Ohio,40.748120595652175,-81.51765789999999,Massillon,Erie Street South,44646
+way,362334415,McDonald's,McDonald's,Ohio,40.84728465714286,-81.76491968571428,Orrville,North Main Street,44667
+way,366167151,McDonald's,McDonald's,Ohio,40.05990272222222,-82.97480244444445,Columbus,Morse Road,43229
+way,366751396,McDonald's,McDonald's,Ohio,41.03188351111111,-81.42880807777777,Akron,Canton Road,44312
+way,371388680,McDonald's,McDonald's,Ohio,40.06540577142857,-83.09203017142859,Columbus,Bethel Road,43220-2217
+way,376319512,McDonald's,McDonald's,Ohio,39.96634697777778,-81.89641796666666,Zanesville,East Pike,43701
+way,377875738,McDonald's,McDonald's,Ohio,41.41904565555555,-81.6081516,Garfield Heights,Turney Road,44125-2642
+way,378982827,McDonald's,McDonald's,Ohio,41.44653135555556,-81.56428967777777,Cleveland,Lee Road,44128-2462
+way,386884172,McDonald's,McDonald's,Ohio,41.482787099999996,-81.7337199,Cleveland,Detroit Avenue,44102-3025
+way,390171150,McDonald's,McDonald's,Ohio,40.79617746,-81.52585900000001,Massillon,Lincoln Way West,44646
+way,396548981,McDonald's,McDonald's,Ohio,41.48264116,-81.76935706,Lakewood,West 117th Street,44107-5102
+way,397693801,McDonald's,McDonald's,Ohio,41.507949187499996,-83.14404484999999,Oak Harbor,East Water Street,43449
+way,398072029,McDonald's,McDonald's,Ohio,39.27439672857143,-81.58145975714285,Belpre,Washingt On Boulevard,45714
+way,401277382,McDonald's,McDonald's,Ohio,41.661020422222215,-81.37890516666668,Mentor,Palisades Parkway,44060
+way,401311769,McDonald's,McDonald's,Ohio,40.769741249999996,-83.822922775,Ada,South Main Street,45810
+way,403382814,McDonald's,McDonald's,Ohio,41.57301416,-81.52567616000002,Euclid,Euclid Avenue,44117-1616
+way,404460044,McDonald's,McDonald's,Ohio,41.46954782222222,-81.70488233333333,Cleveland,Clark Avenue,44109-1147
+way,404973245,McDonald's,McDonald's,Ohio,40.76367263636364,-81.38172070909091,Canton Township,South Cleveland Avenue,44707-3629
+way,405910607,McDonald's,McDonald's,Ohio,41.70647291666666,-83.58681559166666,Toledo,West Laskey Road,43613
+way,407211235,McDonald's,McDonald's,Ohio,41.46377776,-81.95393438,Westlake,Detroit Road,44145-1945
+way,417273607,McDonald's,McDonald's,Ohio,40.12367390000001,-82.02086108,Dresden,McCoy Crossing,43821
+way,419757956,McDonald's,McDonald's,Ohio,41.52549954,-81.58788867999999,East Cleveland,Euclid Avenue,44112
+way,421891722,McDonald's,McDonald's,Ohio,40.02983476923077,-83.09131424615386,Upper Arlington,Riverside Drive,43221
+way,423032435,McDonald's,McDonald's,Ohio,41.164754328571426,-83.42062278571429,Fostoria,County Line Street,
+way,426920075,Steak 'n Shake,Steak 'n Shake,Ohio,40.08808449,-83.09269536,Dublin,Sawmill Road,43017
+way,426920086,McDonald's,McDonald's,Ohio,40.094958185365854,-83.0868007902439,Columbus,West Dublin Granville Road,43235
+way,428719911,McDonald's,McDonald's,Ohio,41.611796054545444,-83.6983437090909,Holland,Airport Highway,43528-9394
+way,428958722,McDonald's,McDonald's,Ohio,41.60102328181818,-83.66529574545454,Toledo,South Reynolds Road,43614-1411
+way,428965975,Steak 'n Shake,Steak 'n Shake,Ohio,41.60067938,-83.66409845999999,Toledo,South Reynolds Road,43614
+way,429183581,McDonald's,McDonald's,Ohio,41.311902842857144,-81.44762161428571,Twinsburg,East Aurora Road,44087
+way,431102320,McDonald's,McDonald's,Ohio,41.631193159999995,-83.55671473999999,Toledo,Broadway Street,43609-2855
+way,431315815,McDonald's,McDonald's,Ohio,41.65245736153846,-83.55538294615386,,,
+way,431375438,McDonald's,McDonald's,Ohio,41.40381378,-84.13250624000001,Napoleon,Scott Street,43545
+way,431462324,McDonald's,McDonald's,Ohio,40.94205006,-83.39512178,,,
+way,436428228,McDonald's,McDonald's,Ohio,39.76816193999999,-84.12267776,Dayton,Woodman Drive,45431
+way,438077763,McDonald's,McDonald's,Ohio,41.111283639999996,-83.20352381999999,Tiffin,,
+way,446507454,McDonald's,McDonald's,Ohio,41.46240274615384,-81.08611947692309,,,
+way,448856669,McDonald's,McDonald's,Ohio,41.385932533333325,-81.76806445555556,Parma Heights,Pearl Road,44130
+way,449774094,McDonald's,McDonald's,Ohio,41.503135519999994,-81.63006766,Cleveland,Euclid Avenue,44103
+way,453615184,McDonald's,McDonald's,Ohio,41.64854244,-83.52421346000001,Toledo,Main Street,43605-2032
+way,462819748,McDonald's,McDonald's,Ohio,41.64291205714285,-81.46995181428572,Willowick,Vine Street,44095
+way,463926292,McDonald's,McDonald's,Ohio,39.45788736000001,-82.22866016,,,
+way,463933073,McDonald's,McDonald's,Ohio,40.58157637142857,-83.0866761,Marion,Marion-Mt Gilead Road,43302
+way,464396878,McDonald's,McDonald's,Ohio,41.52450012,-82.85953638000001,Port Clinton,Northeast Catawba Road,43452-3701
+way,464658273,McDonald's,McDonald's,Ohio,40.80456566,-81.93497206,Wooster,Beall Avenue,44691-3524
+way,464659596,McDonald's,McDonald's,Ohio,41.53826687777777,-83.63433558888887,Perrysburg,Dixie Highway,43551
+way,464989691,McDonald's,McDonald's,Ohio,40.37798338,-83.7562995,,,
+way,465576542,McDonald's,McDonald's,Ohio,41.11072206666667,-81.24160883333333,Ravenna,Lynn Road,44266-9527
+way,465897722,McDonald's,McDonald's,Ohio,39.33769592,-82.95012894,Chillicothe,East Main Street,45601-2850
+way,466122962,McDonald's,McDonald's,Ohio,40.55305893333334,-84.40708966666666,Saint Marys,Indiana Avenue,45885
+way,467663634,McDonald's,McDonald's,Ohio,41.23973584666667,-81.44912010666667,Hudson,West Streetsboro Street,44326
+way,468512103,McDonald's,McDonald's,Ohio,41.29447244,-84.75966774,,,
+way,468513879,Culver's,Culver's,Ohio,40.158092615384604,-83.09666426923076,Powell,West Powell Road,43065
+way,468645986,McDonald's,McDonald's,Ohio,40.15514671428571,-83.09184605714286,Powell,Attucks Drive,43065
+way,469338110,McDonald's,McDonald's,Ohio,40.10840261666667,-83.01578886666668,Worthington,East Wilson Bridge Road,43085-2302
+way,469737043,McDonald's,McDonald's,Ohio,40.7525488,-84.14755496,Lima,North Cable Road,45805-1703
+way,469746784,McDonald's,McDonald's,Ohio,39.9447583,-83.26098738333333,West Jefferson,East Main Street,43162
+way,469895545,McDonald's,McDonald's,Ohio,40.767827266666664,-84.10921179999998,Lima,North West Street,45801-2632
+way,472638155,McDonald's,McDonald's,Ohio,41.08494108,-82.40007800000001,,,
+way,473043812,McDonald's,McDonald's,Ohio,40.85684631428571,-81.43512271428571,Canton,Belden Village Street Northwest,44718
+way,474525881,McDonald's,McDonald's,Ohio,41.2697831,-82.82082835714286,,,
+way,476373475,McDonald's,McDonald's,Ohio,41.10481532000001,-81.3477216,Kent,State Route 43,44240-6917
+way,476494098,McDonald's,McDonald's,Ohio,41.20214331428571,-81.44108054285714,Stow,Darrow Road,44224-1408
+way,477936184,McDonald's,McDonald's,Ohio,41.18924674615384,-80.97779957692306,Newton Falls,North Canal Street,44444
+way,478443962,McDonald's,McDonald's,Ohio,40.1115635,-83.08984996086956,Columbus,Sawmill Road,43235-1943
+way,479110803,McDonald's,McDonald's,Ohio,40.082851375,-82.8967779875,Westerville,Executive Parkway,43081-3850
+way,479825618,McDonald's,McDonald's,Ohio,41.251392611111115,-80.85553306666667,Warren,Parkman Road Northwest,44485
+way,480975804,McDonald's,McDonald's,Ohio,40.11867483809523,-82.9884244047619,Columbus,Worthington Galena Road,43085-4797
+way,481281192,McDonald's,McDonald's,Ohio,41.39395325384615,-81.64044077692309,Independence,Brecksville Road,44131
+way,482848284,McDonald's,McDonald's,Ohio,40.4108103,-81.34885053333333,,,
+way,485014568,McDonald's,McDonald's,Ohio,40.370837572727275,-80.68678916363636,Wintersville,Main Street,43953
+way,488211906,McDonald's,McDonald's,Ohio,41.44694166666667,-82.67619365555555,Sandusky,River Avenue,44870
+way,488770493,McDonald's,McDonald's,Ohio,41.642512775,-81.37581449999999,Mentor,Broadmoor Road,44060
+way,489597261,McDonald's,McDonald's,Ohio,40.54839011111111,-82.8453573,Mount Gilead,West Marion Street,43338
+way,491454088,McDonald's,McDonald's,Ohio,41.49268265714286,-82.02010935714286,Avon Lake,Walker Road,44012
+way,494383258,McDonald's,McDonald's,Ohio,39.33539892,-82.97503517999999,Chillicothe,North Bridge Street,45601-2614
+way,496301953,McDonald's,McDonald's,Ohio,39.500735680000005,-84.35500686,Middletown,South Breiel Boulevard,45044-6205
+way,496537445,Five Guys,Five Guys,Ohio,41.462279040000006,-81.95576444,Westlake,Detroit Road,44145
+way,497692515,McDonald's,McDonald's,Ohio,41.36842216,-81.80315308,Middleburg Heights,Pearl Road,44130
+way,501051323,McDonald's,McDonald's,Ohio,41.40374620000001,-81.79981388000002,Brook Park,Snow Road,44142
+way,503037322,McDonald's,McDonald's,Ohio,40.76998501999999,-82.5898607,Ontario,North Lexington-Springmill Road,44906
+way,504588169,McDonald's,McDonald's,Ohio,41.0291293,-81.4928827142857,Akron,East Waterloo Road,44306
+way,505705261,McDonald's,McDonald's,Ohio,40.90127668666667,-81.09574702666669,Alliance,East State Street,44601-4915
+way,508757674,McDonald's,McDonald's,Ohio,40.90147673846154,-81.15509056153846,Alliance,West State Street,44601
+way,508991304,McDonald's,McDonald's,Ohio,40.648679769230775,-82.54268526923077,Bellville,State Route 97,44813
+way,510890081,Culver's,Culver's,Ohio,41.642163777777775,-81.43928744444446,Eastlake,Vine Street,44095
+way,512069181,McDonald's,McDonald's,Ohio,41.4159342,-81.73062409999999,Parma,Pearl Road,44129-1503
+way,523920338,McDonald's,McDonald's,Ohio,40.10376226666666,-83.15928092222222,Dublin,Perimeter Loop Road,43017
+way,529355355,McDonald's,McDonald's,Ohio,39.09922596,-84.27066026,Cincinnati,Eastgate North Drive,45245
+way,529553460,McDonald's,McDonald's,Ohio,41.67339706,-81.3262256,Mentor,Mentor Avenue,44060
+way,530878696,McDonald's,McDonald's,Ohio,41.162804916666666,-81.4758789,Cuyahoga Falls,Graham Road,44224-2935
+way,531589822,McDonald's,McDonald's,Ohio,41.52160753333333,-81.34448681666667,Chesterland,Mayfield Road,44026
+way,532692799,McDonald's,McDonald's,Ohio,39.24382870000001,-84.59563758,Cincinnati,Colerain Avenue,45251
+way,537848591,McDonald's,McDonald's,Ohio,40.73970224,-84.11288782,Lima,Market Street,45801
+way,537994374,McDonald's,McDonald's,Ohio,39.3372214,-82.06775348,Athens,East State Street,45701
+way,540516733,McDonald's,McDonald's,Ohio,41.37253382,-81.82715288,Middleburg Heights,Bagley Road,44130
+way,540516778,Five Guys,Five Guys,Ohio,41.371486020000006,-81.82387281999999,Middleburg Heights,Bagley Road,44130
+way,542557495,McDonald's,McDonald's,Ohio,39.378080080000004,-84.55028010000001,Hamilton,South Erie Boulevard,45011-4117
+way,542694916,Freddy's,Freddy's,Ohio,39.36804128,-84.37064722,,,
+way,542971441,McDonald's,McDonald's,Ohio,40.260234579999995,-83.37450833999999,Marysville,Ohio Rt 31,43040
+way,543300680,Culver's,Culver's,Ohio,39.439064125,-84.32983043750001,Monroe,State Highway 63,45050
+way,544062384,McDonald's,McDonald's,Ohio,40.10860291428571,-82.92454377142857,Westerville,South State Street,43081
+way,544373285,McDonald's,McDonald's,Ohio,40.3842313,-82.48565457142857,,,
+way,544373365,McDonald's,McDonald's,Ohio,40.40193061111111,-82.45027106666667,,,
+way,544695480,McDonald's,McDonald's,Ohio,40.094184014285716,-82.8238314,New Albany,New Albany Road West,43054
+way,545016286,McDonald's,McDonald's,Ohio,41.404680819999996,-81.69501269999999,Parma,Snow Road,44134
+way,545317522,McDonald's,McDonald's,Ohio,40.01075107142857,-82.86652115714287,Gahanna,South Hamilton Road,43230
+way,545586250,McDonald's,McDonald's,Ohio,40.05329781818182,-82.4193811090909,Newark,Union Street,43055
+way,545652830,McDonald's,McDonald's,Ohio,40.30682616470588,-83.09069387058823,Delaware,West Central Avenue,43015
+way,546192729,Steak 'n Shake,Steak 'n Shake,Ohio,41.216399483333326,-80.74702371666666,Niles,Youngstown Warren Road,44446
+way,546192762,McDonald's,McDonald's,Ohio,41.214297642105265,-80.74098231052633,Warren,Niles Cortland Road Southeast,44484
+way,546653023,McDonald's,McDonald's,Ohio,41.2347139,-80.81022911111113,Warren,South Street Southeast,44483
+way,546688040,McDonald's,McDonald's,Ohio,41.181780520000004,-80.71843872,Niles,Robbins Avenue,44446-4283
+way,546893634,McDonald's,McDonald's,Ohio,41.23625570740741,-80.76615377037035,Warren,North Road Southeast,44484
+way,549397099,Steak 'n Shake,Steak 'n Shake,Ohio,40.57978078,-83.07413246,Marion,Marion-Mt Gilead Road,43302
+way,549419621,McDonald's,McDonald's,Ohio,41.2770289,-80.8429138,Warren,Mahoning Avenue,44483-1928
+way,549748629,McDonald's,McDonald's,Ohio,40.56361656,-84.17465778,Wapakoneta,Bellefontaine Street,45895
+way,549833360,McDonald's,McDonald's,Ohio,39.21740948888888,-84.54867182222223,Cincinnati,Hamilton Avenue,45224
+way,550207535,McDonald's,McDonald's,Ohio,40.148064842857146,-82.98876478571427,Columbus,Gemini Place,43240
+way,551988387,McDonald's,McDonald's,Ohio,40.063542842857146,-83.0395145,Columbus,Bethel Road,43214-1900
+way,552913375,McDonald's,McDonald's,Ohio,38.93114852000001,-83.56961226,Seaman,,45679
+way,553514654,McDonald's,McDonald's,Ohio,39.94181246,-82.9962746,Columbus,South High Street,43206
+way,553548684,Steak 'n Shake,Steak 'n Shake,Ohio,41.02548322,-80.64373547999999,Boardman,Applewood Boulevard,44512
+way,553689011,McDonald's,McDonald's,Ohio,39.98276717058824,-82.81823301764706,Columbus,East Broad Street,43213
+way,554642752,McDonald's,McDonald's,Ohio,41.41747421875,-81.57210499375,Maple Heights,Broadway Avenue,44137
+way,554752551,McDonald's,McDonald's,Ohio,39.43287888,-84.19410398,Lebanon,East Main Street,45036-1916
+way,557732532,McDonald's,McDonald's,Ohio,40.05476253333333,-83.07035075555555,Columbus,West Henderson Road,43220-2503
+way,558275070,McDonald's,McDonald's,Ohio,40.858680642857145,-82.26691585714286,Ashland,US 250,44805
+way,558510500,McDonald's,McDonald's,Ohio,41.77270855555556,-80.9474021,,,
+way,558512727,McDonald's,McDonald's,Ohio,41.78465715454546,-80.85555951818183,Austinburg,G.H. Drive,44010
+way,561134235,McDonald's,McDonald's,Ohio,40.89967896,-80.69454858,Columbiana,Route 14,44408-9417
+way,562370923,McDonald's,McDonald's,Ohio,40.26610563684211,-82.93044024210526,Sunbury,East Street Route 37,43074-9549
+way,566191084,Freddy's,Freddy's,Ohio,39.14632903333334,-84.40525956666666,Cincinnati,Red Bank Road,45227
+way,566778659,McDonald's,McDonald's,Ohio,39.91502492222222,-82.01332327777779,Zanesville,Maysville Avenue,43701
+way,568487361,McDonald's,McDonald's,Ohio,41.46068714444445,-84.5503954888889,,,
+way,574138745,McDonald's,McDonald's,Ohio,38.86212438,-83.88693028,,,
+way,575398577,McDonald's,McDonald's,Ohio,38.73200644,-83.83657122000001,Ripley,South 2nd Street,45167
+way,577591595,McDonald's,McDonald's,Ohio,40.87161302222223,-82.64643925555555,,,
+way,580287632,McDonald's,McDonald's,Ohio,40.14952433636363,-82.92278436363637,Westerville,North State Street,43082
+way,581659366,Steak 'n Shake,Steak 'n Shake,Ohio,40.84889502,-81.43387238,Canton,Dressler Road Northwest,44718
+way,584192293,McDonald's,McDonald's,Ohio,39.92365364,-83.773711,Springfield,East Main Street,45503-4912
+way,584549119,McDonald's,McDonald's,Ohio,39.80597813333333,-84.02998983333333,Fairborn,Kauffman Avenue,45385
+way,586300090,McDonald's,McDonald's,Ohio,39.895006518181816,-83.08197724545454,Grove City,Broadway,43123-1942
+way,587732009,McDonald's,McDonald's,Ohio,40.67570224285714,-81.26058438571428,,,
+way,588258083,McDonald's,McDonald's,Ohio,40.83844048666666,-81.26006584666668,Louisville,North Chapel Street,44641-1202
+way,589022621,McDonald's,McDonald's,Ohio,39.91994924444444,-83.12581572222223,Columbus,Georgesville Road,43228
+way,589322706,Culver's,Culver's,Ohio,39.944888671428565,-82.79478144285714,Reynoldsburg,Baltimore – Reynoldsburg Road,43068
+way,590248332,McDonald's,McDonald's,Ohio,40.12378878260869,-82.94764962608696,Westerville,South Cleveland Avenue,43081-1247
+way,590292379,Steak 'n Shake,Steak 'n Shake,Ohio,40.69426327777777,-82.51029883333334,Mansfield,Stander Avenue,44903
+way,590545017,Steak 'n Shake,Steak 'n Shake,Ohio,40.16345228,-83.02159534,Powell,Owenfield Drive,43065
+way,590861823,McDonald's,McDonald's,Ohio,41.42432624666666,-82.35110390666667,Vermilion,Liberty Avenue,44089
+way,591109961,McDonald's,McDonald's,Ohio,40.629267399999996,-82.2332034923077,,,
+way,591386766,McDonald's,McDonald's,Ohio,40.03301603999999,-83.13096802,Hilliard,Cemetery Road,43026
+way,592579201,McDonald's,McDonald's,Ohio,39.94644240769231,-82.91700639230768,Columbus,East Livingston Avenue,43209
+way,592876422,McDonald's,McDonald's,Ohio,40.69540931052632,-82.51272958947368,Mansfield,West Hanley Road,44903
+way,593676733,Steak 'n Shake,Steak 'n Shake,Ohio,39.95531164285715,-82.84013684285715,Columbus,East Main Street,43213
+way,593676767,McDonald's,McDonald's,Ohio,39.955808811111105,-82.8741070888889,Whitehall,East Main Street,43213
+way,594082003,McDonald's,McDonald's,Ohio,41.12857119285714,-80.76931317142858,Austintown,North Canfield Niles Road,44515
+way,595232346,Steak 'n Shake,Steak 'n Shake,Ohio,39.91942894,-83.1168504,Columbus,Georgesville Square Drive,43228
+way,595580068,McDonald's,McDonald's,Ohio,39.95434814285714,-82.82779197142857,Reynoldsburg,East Main Street,43068
+way,595972702,McDonald's,McDonald's,Ohio,40.056212599999995,-82.8628284,Columbus,North Hamilton Road,43230
+way,596256392,McDonald's,McDonald's,Ohio,39.7320054,-84.20786278,Dayton,South Edwin C Moses Boulevard,45408-2658
+way,597423829,McDonald's,McDonald's,Ohio,39.93044966,-83.05165464666669,Columbus,Harrisburg Pike,43223-3229
+way,597423839,McDonald's,McDonald's,Ohio,39.945122994736856,-83.03675691578947,Columbus,Harrisburg Pike,43223
+way,598090035,Steak 'n Shake,Steak 'n Shake,Ohio,39.87825974444444,-83.0433776888889,Grove City,Stringtown Road,43123
+way,598193163,McDonald's,McDonald's,Ohio,40.087091856521745,-82.99710792608694,Columbus,Sinclair Road,43229-3204
+way,598346396,McDonald's,McDonald's,Ohio,39.97226427777778,-83.09897751111112,Columbus,Wilson Road,43204
+way,598442448,McDonald's,McDonald's,Ohio,41.54473618095237,-83.59154878095238,Perrysburg,Fremont Pike,43551
+way,601081712,McDonald's,McDonald's,Ohio,40.03130236923077,-82.44400614615385,Heath,South 30th Street,43056-1207
+way,601093845,McDonald's,McDonald's,Ohio,40.08417225000001,-82.42825952727274,Newark,North 21st Street,43055
+way,601093851,Steak 'n Shake,Steak 'n Shake,Ohio,40.08739106,-82.42816792,Newark,North 21st Street,43055
+way,601816953,McDonald's,McDonald's,Ohio,40.00004195454545,-82.93071934545456,Columbus,Cassady Avenue,43219
+way,603344593,McDonald's,McDonald's,Ohio,39.888531388888886,-82.99729748888889,Columbus,South High Street,43207
+way,604066080,McDonald's,McDonald's,Ohio,41.18156738,-82.21651444,,North Main Street,44090-1000
+way,605363194,McDonald's,McDonald's,Ohio,41.51394734,-82.91897428,,,
+way,607116012,Five Guys,Five Guys,Ohio,40.05024347142858,-82.91531272857142,Columbus,Easton Town Center,43219
+way,607981411,McDonald's,McDonald's,Ohio,41.01241690909091,-81.60808037272727,Barberton,West Tuscarawas Avenue,44203-2545
+way,608737257,McDonald's,McDonald's,Ohio,41.24207507142857,-81.35390885714286,Streetsboro,Cleveland East Liverpool Road,44241
+way,609068339,McDonald's,McDonald's,Ohio,41.30594581818181,-81.51794581818181,Macedonia,Macedonia Commons Boulevard,44067
+way,609079647,McDonald's,McDonald's,Ohio,41.34132580000001,-81.52876628,Northfield,Northfield Road,44067
+way,610030165,McDonald's,McDonald's,Ohio,40.58245225555555,-81.09165730000001,,,
+way,614364706,McDonald's,McDonald's,Ohio,40.67373308,-80.57722008,,SR 170,43920
+way,615449372,McDonald's,McDonald's,Ohio,39.70771448235294,-83.93337876470588,Xenia,North Detroit Street,45385
+way,616126621,Five Guys,Five Guys,Ohio,41.053227928571424,-83.61460765714286,Findlay,Tiffin Avenue,45840
+way,616339429,McDonald's,McDonald's,Ohio,40.651736240000005,-83.59093263999999,Kenton,East Columbus Street,43326
+way,618620322,McDonald's,McDonald's,Ohio,40.0190106,-82.88987568461538,Gahanna,Agler Road,43230
+way,621892489,McDonald's,McDonald's,Ohio,41.180767419999995,-81.4839228,Stow,Steels Corners Road,44224
+way,624754427,McDonald's,McDonald's,Ohio,41.31446742,-81.65365378,Broadview Heights,East Royalton Road,44147
+way,627448647,McDonald's,McDonald's,Ohio,41.462578433333334,-81.6465971,Cleveland,Broadway Avenue,44105
+way,629202168,Shake Shack,Shake Shack,Ohio,40.05187273636363,-82.91574997272727,Columbus,The Strand West,43219
+way,631368581,McDonald's,McDonald's,Ohio,38.541106920000004,-82.67502694,Ironton,East Ring Road,45638
+way,632337650,McDonald's,McDonald's,Ohio,41.58744775555556,-83.56708274444445,Rossford,Lime City Road,43460-1613
+way,632340351,McDonald's,McDonald's,Ohio,41.61575414285715,-83.48586755714287,Northwood,Woodville Road,43619-1447
+way,632676057,McDonald's,McDonald's,Ohio,38.41947800909091,-82.50683545454545,South Point,County Road,45680
+way,635370045,McDonald's,McDonald's,Ohio,41.72246797777778,-83.5093015,Toledo,East Alexis Road,43612-3952
+way,635375030,McDonald's,McDonald's,Ohio,41.72121005714286,-83.56257868571427,Toledo,West Alexis Road,43612-4303
+way,635376687,McDonald's,McDonald's,Ohio,41.522498414285714,-83.71682561428572,Waterville,Dutch Road,43566
+way,636132194,McDonald's,McDonald's,Ohio,40.83440958,-83.24435468,Upper Sandusky,,
+way,636142634,McDonald's,McDonald's,Ohio,41.04811852,-81.72933226,Wadsworth,High Street,44281-8763
+way,637757582,McDonald's,McDonald's,Ohio,40.037113938461545,-82.96304865384614,Columbus,Cleveland Avenue,43224
+way,637757583,McDonald's,McDonald's,Ohio,40.08598781111111,-82.96142328888887,Columbus,East Dublin Granville Road,43229
+way,637757584,McDonald's,McDonald's,Ohio,40.10023738461538,-82.9504478846154,Columbus,Cleveland Avenue,43231
+way,637757585,McDonald's,McDonald's,Ohio,40.098641588888896,-83.12359742222223,Dublin,West Bridge Street,43017-2124
+way,637757586,McDonald's,McDonald's,Ohio,40.02684286153846,-83.1612275076923,Hilliard,Main Street,43026
+way,637757587,McDonald's,McDonald's,Ohio,39.95201420666667,-83.12416151333332,Columbus,West Broad Street,43228
+way,637757588,McDonald's,McDonald's,Ohio,39.93571135999999,-83.11343288,Columbus,Georgesville Road,43228-2802
+way,637757589,McDonald's,McDonald's,Ohio,39.87765757142857,-83.05617114285714,Grove City,Stringtown Road,43123-2933
+way,637757590,McDonald's,McDonald's,Ohio,39.839697446666676,-83.07550777333333,Grove City,West London-Groveport Road,43123
+way,637757591,McDonald's,McDonald's,Ohio,40.002421215384615,-82.67631547692307,Pataskala,West Broad Street,43062
+way,637757592,McDonald's,McDonald's,Ohio,39.95152052222222,-82.68400108888889,Pataskala,Etna Crest Boulevard,43062
+way,637757595,McDonald's,McDonald's,Ohio,39.90943088181818,-82.77889705454545,Pickerington,Hill Road,43147-8886
+way,637757600,McDonald's,McDonald's,Ohio,39.84577918,-82.78053837333333,Canal Winchester,Diley Road Northwest,43110
+way,637757604,McDonald's,McDonald's,Ohio,39.855034599999996,-82.82884149310347,Canal Winchester,Gender Road,43110
+way,637757609,McDonald's,McDonald's,Ohio,39.8686799483871,-82.93553432258064,Obetz,Groveport Road,43207
+way,637757614,McDonald's,McDonald's,Ohio,39.897784809523806,-82.88160592857145,Groveport,South Hamilton Road,43125
+way,637757617,McDonald's,McDonald's,Ohio,39.92783361428572,-82.82808852857143,Reynoldsburg,Tussing Road,43068-3983
+way,637757618,McDonald's,McDonald's,Ohio,39.92516317692308,-82.87887583846152,Columbus,South Hamilton Road,43232-4952
+way,637757619,McDonald's,McDonald's,Ohio,39.973223775,-82.90629666875,Columbus,East Broad Street,43213-1116
+way,637757620,McDonald's,McDonald's,Ohio,39.94756493333333,-82.94459626666666,Columbus,Alum Creek Drive,43209-2701
+way,637757621,McDonald's,McDonald's,Ohio,40.000505200000006,-82.98581195384615,Columbus,East 17th Avenue,43211
+way,637757622,McDonald's,McDonald's,Ohio,39.95651792222222,-83.04239283333332,Columbus,West Broad Street,43222-1043
+way,640656550,McDonald's,McDonald's,Ohio,41.148832999999996,-80.66596645555555,Youngstown,Belmont Avenue,44505-1404
+way,640822859,McDonald's,McDonald's,Ohio,41.02469018,-80.63193334,Poland,Boardman Poland Road,44514
+way,641041222,McDonald's,McDonald's,Ohio,41.740678439999996,-80.76906388,,,
+way,648740363,McDonald's,McDonald's,Ohio,40.534474676923075,-81.91746990769231,,,
+way,648828040,McDonald's,McDonald's,Ohio,39.374951571428575,-82.13456635714286,The Plains,North Plains Road,45780
+way,651658753,McDonald's,McDonald's,Ohio,41.15743274545455,-81.86304981818182,Medina,North Court Street,44256-1566
+way,652543337,McDonald's,McDonald's,Ohio,41.373513179999996,-83.11794252,Fremont,North State Route 53,43420
+way,654277271,McDonald's,McDonald's,Ohio,40.121916138461536,-84.62129983846154,,,
+way,655136076,McDonald's,McDonald's,Ohio,41.13965654444444,-81.43967905555556,Munroe Falls,Munroe Falls Avenue,44262
+way,656122847,Steak 'n Shake,Steak 'n Shake,Ohio,39.33682012,-82.07332785999999,Athens,East State Street,45701
+way,656823633,McDonald's,McDonald's,Ohio,41.31444044285714,-81.7228139,North Royalton,Royalton Road,44133-4008
+way,661053408,McDonald's,McDonald's,Ohio,39.48142146666666,-84.41933127777777,Middletown,South Main Street,45042
+way,672549350,McDonald's,McDonald's,Ohio,41.432594,-82.71303783846155,Sandusky,West Perkins,44870-4745
+way,673070677,Five Guys,Five Guys,Ohio,41.41579938181818,-82.67242250909091,Sandusky,Milan Road,44870
+way,678451394,McDonald's,McDonald's,Ohio,41.14261185454546,-80.72223804545455,Girard,Salt Springs Road,44420
+way,679125467,McDonald's,McDonald's,Ohio,39.31994124545455,-84.3656773,West Chester,Cincinnti Columbus Road,45069
+way,687957152,McDonald's,McDonald's,Ohio,40.77661448,-82.47424198,Mansfield,North Stewart Road,44905-2154
+way,692786931,McDonald's,McDonald's,Ohio,40.73577578571428,-82.80240909999999,Galion,Portland Way North,44833
+way,696620283,McDonald's,McDonald's,Ohio,40.71884804285715,-82.54666578571428,Mansfield,Lexington Avenue,44862
+way,697900113,McDonald's,McDonald's,Ohio,41.58151152222222,-83.68643591111112,Maumee,Arrowhead Road,43537
+way,701203145,McDonald's,McDonald's,Ohio,39.526940100000004,-84.38487814,,North Verity Parkway,45042-2464
+way,702216667,McDonald's,McDonald's,Ohio,39.7606647,-84.63721995714286,,,
+way,705659584,McDonald's,McDonald's,Ohio,39.29215334,-83.98978012,,,
+way,707847675,McDonald's,McDonald's,Ohio,40.98846496153846,-80.6352322153846,Boardman,Western Reserve Road,44512
+way,711275397,McDonald's,McDonald's,Ohio,39.5449862923077,-83.42620838461539,,,
+way,711381497,McDonald's,McDonald's,Ohio,40.854706866666675,-82.33632767777779,Ashland,Claremont Avenue,44805-3533
+way,717671652,McDonald's,McDonald's,Ohio,40.893063677777775,-83.8703897111111,,,
+way,722789906,McDonald's,McDonald's,Ohio,40.787791566666655,-80.77510608888889,,,
+way,724125936,McDonald's,McDonald's,Ohio,41.317105494117655,-80.73272821176471,Cortland,Oh-5,44410
+way,725957488,McDonald's,McDonald's,Ohio,40.36929743636364,-80.63771314545454,Steubenville,Sunset Boulevard,43952
+way,726174401,McDonald's,McDonald's,Ohio,40.15067045714286,-84.22246484285714,Piqua,East Ash Street,45356
+way,727302750,McDonald's,McDonald's,Ohio,40.107674700000004,-83.73720970000001,,,
+way,730046421,McDonald's,McDonald's,Ohio,39.290099039999994,-84.46741686,Springdale,Princeton Pike,45246-2505
+way,731933358,McDonald's,McDonald's,Ohio,41.39908761428571,-82.10772435714286,Elyria,Midway Boulevard,44035
+way,732224493,McDonald's,McDonald's,Ohio,39.29207628,-84.31346314,Cincinnati,Fields Ertel Road,45249
+way,737717846,McDonald's,McDonald's,Ohio,41.4332124516129,-81.79356045161288,Cleveland,Puritas Road,44135-2825
+way,739452052,McDonald's,McDonald's,Ohio,40.99968526,-81.99701412,Burbank,Avon Lake Road,44214
+way,741273632,McDonald's,McDonald's,Ohio,38.820012039999995,-82.17868094,,,
+way,741756143,McDonald's,McDonald's,Ohio,39.65378768,-84.15632817999999,Centerville,Far Hills Avenue,45459
+way,742001091,McDonald's,McDonald's,Ohio,39.777986533333326,-84.05707892222222,Fairborn,Colonel Glenn Highway,45324-6250
+way,742042589,McDonald's,McDonald's,Ohio,39.89633054,-83.810981,Springfield,South Limestone Street,45505-4732
+way,744438513,McDonald's,McDonald's,Ohio,41.49966666666667,-81.66542793333333,Cleveland,Carnegie Avenue,44115
+way,747415374,McDonald's,McDonald's,Ohio,40.14707721111111,-82.7008566111111,,,
+way,753131881,McDonald's,McDonald's,Ohio,41.5686108,-83.6564118,,,
+way,754352132,McDonald's,McDonald's,Ohio,41.66391104,-83.5372282,Toledo,Cherry Street,43608-2912
+way,754354792,McDonald's,McDonald's,Ohio,41.6652196,-83.57053800000001,Toledo,Monroe Street,43606
+way,756785689,McDonald's,McDonald's,Ohio,40.88881292857143,-84.58165712857142,,,
+way,761873506,McDonald's,McDonald's,Ohio,41.4402345,-81.72499274,Cleveland,Memphis Avenue,44144-2240
+way,762584405,McDonald's,McDonald's,Ohio,41.109086606249996,-80.65167941874998,Youngstown,5th Avenue,44502-1241
+way,769657277,McDonald's,McDonald's,Ohio,38.438681736363634,-82.38763678181819,Proctorville,Saint Route 7,45669
+way,769739071,McDonald's,McDonald's,Ohio,39.68814746,-84.13267272,Kettering,East Stroop Road,45429-5061
+way,772215928,McDonald's,McDonald's,Ohio,39.420962100000004,-81.44797696666666,,,
+way,772225877,McDonald's,McDonald's,Ohio,41.27687276153846,-80.77466613076925,Cortland,Millennium Boulevard,44410
+way,772544901,McDonald's,McDonald's,Ohio,39.41016978888889,-81.43075926666667,Marietta,Pike Street,45750
+way,774688895,McDonald's,McDonald's,Ohio,39.764648,-81.11509840000001,,,
+way,785475798,McDonald's,McDonald's,Ohio,41.11406376,-81.86349559333333,Medina,Wooster Pike,44256
+way,797064001,McDonald's,McDonald's,Ohio,38.888681119999994,-82.38284566,,,
+way,804717536,McDonald's,McDonald's,Ohio,41.4648741888889,-81.76095383333333,cleveland,Lorain Avenue,44111
+way,807946472,McDonald's,McDonald's,Ohio,40.02905015555555,-81.56562981111112,,,
+way,815087192,McDonald's,McDonald's,Ohio,39.7384542,-81.52745862,,,
+way,816104220,McDonald's,McDonald's,Ohio,41.58074888,-83.88090896000001,Swanton,Airport Highway,43558
+way,822335381,McDonald's,McDonald's,Ohio,40.798293300000005,-81.37226366,Canton,Tuscarawas Street East,44702
+way,828988282,McDonald's,McDonald's,Ohio,39.35734964,-82.9757512,Chillicothe,North Bridge Street,45601
+way,828988295,Steak 'n Shake,Steak 'n Shake,Ohio,39.35451898,-82.9759634,Chillicothe,North Bridge Street,45601
+way,836241115,McDonald's,McDonald's,Ohio,39.78590022,-84.18935658000001,Dayton,North Keowee Street,45404
+way,839426711,McDonald's,McDonald's,Ohio,38.7397589,-82.96449924545455,Portsmouth,Gallia Street,45662
+way,847075790,McDonald's,McDonald's,Ohio,39.290516814285716,-84.39593251428572,Sharonville,Hauck Road,45241
+way,851801861,Freddy's,Freddy's,Ohio,40.98390301111111,-81.49164854444444,,,
+way,852176654,McDonald's,McDonald's,Ohio,40.77333509473684,-82.55119814736844,Mansfield,North Trimble Road,44906
+way,864190969,McDonald's,McDonald's,Ohio,40.00467841428571,-81.57655902857144,Cambridge,Southgate Parkway,43725
+way,868213844,McDonald's,McDonald's,Ohio,39.65840620526316,-81.86398823157896,,,
+way,880879920,Freddy's,Freddy's,Ohio,41.32254582857143,-81.83708020000002,Strongsville,Pearl Road,44136
+way,880879929,McDonald's,McDonald's,Ohio,41.34266366,-81.827877,Strongsville,Pearl Road,44136
+way,891747852,McDonald's,McDonald's,Ohio,41.30100473636364,-84.36009737272728,,North Clinton Street,43512
+way,914209441,McDonald's,McDonald's,Ohio,41.10247427142857,-81.4659494,Akron,East Tallmadge Avenue,44310
+way,915159258,Five Guys,Five Guys,Ohio,40.16588472857143,-83.01905209285715,Lewis Center,Columbus Pike,43035
+way,917455726,McDonald's,McDonald's,Ohio,40.61353166,-80.64129405999999,,,
+way,918453593,McDonald's,McDonald's,Ohio,39.119988420000006,-82.99315715999998,Waverly,West Emmitt Avenue,45690
+way,919318246,McDonald's,McDonald's,Ohio,41.58594188,-84.59363651999999,,,
+way,919407154,McDonald's,McDonald's,Ohio,41.149605539999996,-84.58019954000001,,North Williams Street,
+way,923178849,McDonald's,McDonald's,Ohio,40.78800706190475,-82.98640891904763,Bucyrus,Marion Road,44820
+way,924665693,Steak 'n Shake,Steak 'n Shake,Ohio,39.947374419999996,-81.99926826,Zanesville,Zane Street,43701
+way,924819064,McDonald's,McDonald's,Ohio,40.285748999999996,-81.5650326,,,
+way,928235720,McDonald's,McDonald's,Ohio,41.51134857142857,-84.3058197142857,Archbold,South Defiance Street,43502
+way,932543827,McDonald's,McDonald's,Ohio,41.89174006666666,-80.80510451333333,Ashtabula,Lake Avenue,44004
+way,934084983,Five Guys,Five Guys,Ohio,41.21082556,-80.73955534,Warren,Niles Cortland Road Southeast,44484
+way,936158906,McDonald's,McDonald's,Ohio,39.74510774,-84.39251718,New Lebanon,W Main Street,45345
+way,937277378,McDonald's,McDonald's,Ohio,40.961598566666666,-81.46592989444447,Uniontown,Massillon Road,44685
+way,940797966,McDonald's,McDonald's,Ohio,40.86163958,-81.48463196,Massillon,Wales Avenue Northwest,44646
+way,941100897,McDonald's,McDonald's,Ohio,40.79822073636364,-81.48866397727271,Massillon,Lincoln Way East,44646-5085
+way,945523153,McDonald's,McDonald's,Ohio,41.355282957142855,-83.13401020714285,,,
+way,958516616,McDonald's,McDonald's,Ohio,41.31461754,-82.9906986,Clyde,,43410
+way,965337435,McDonald's,McDonald's,Ohio,39.72931652,-82.6128388,Lancaster,North Memorial Drive,43130
+way,965337453,McDonald's,McDonald's,Ohio,39.71441042,-82.57371806,Lancaster,East Main Street,43130
+way,973367933,Steak 'n Shake,Steak 'n Shake,Ohio,39.92708784,-82.78619286,Pickerington,Hill Road North,43147
+way,978218588,McDonald's,McDonald's,Ohio,39.81159854,-84.22598301999999,Dayton,North Main Street,45405-5021
+way,979399661,McDonald's,McDonald's,Ohio,39.72104512307693,-82.20476727692309,,,
+way,981012588,McDonald's,McDonald's,Ohio,41.665584300000006,-81.24517387692306,Concord Township,Auburn Road,44077
+way,984689185,McDonald's,McDonald's,Ohio,41.05064394,-81.39504615999999,Mogadore,Mogadore Road,44260
+way,985201819,McDonald's,McDonald's,Ohio,41.72465235454546,-81.24796751818182,Painesville,Richmond Street,44077-3251
+way,999617747,McDonald's,McDonald's,Ohio,41.699269040000004,-81.27858022000001,Painesville,Mentor Avenue,44077
+way,1001604374,McDonald's,McDonald's,Ohio,38.953263957142845,-81.76424048571428,,,
+way,1015567872,McDonald's,McDonald's,Ohio,40.88198120769231,-81.57272037692309,Canal Fulton,Locust Street,44614
+way,1016409013,Freddy's,Freddy's,Ohio,39.98029444444444,-82.01716008888889,Zanesville,Maple Avenue,43701
+way,1016740131,Freddy's,Freddy's,Ohio,40.860945019999996,-81.42427156000001,,,
+way,1020473144,McDonald's,McDonald's,Ohio,41.533055971428574,-83.36066885714285,,,
+way,1021743527,McDonald's,McDonald's,Ohio,41.552737576470584,-81.57581840588236,Cleveland,Saint Clair,44110
+way,1022441858,McDonald's,McDonald's,Ohio,41.716800423076926,-83.47855640769232,Toledo,North Summit Street,43611
+way,1023717425,McDonald's,McDonald's,Ohio,39.97266841904762,-82.01181793333335,Zanesville,Maple Avenue,43701
+way,1024437088,McDonald's,McDonald's,Ohio,39.94256524,-82.48083351999999,Buckeye Lake,Hebron Road Southeast,43025
+way,1027496403,Five Guys,Five Guys,Ohio,40.050224400000005,-82.91531196,,,
+way,1032724842,McDonald's,McDonald's,Ohio,41.36199404285714,-81.68739601428571,Parma,West Pleasant Valley,44134-6715
+way,1035883414,Culver's,Culver's,Ohio,40.85198728571429,-81.43892064285714,Canton,Everhard Road Northwest,44718
+way,1036696538,McDonald's,McDonald's,Ohio,40.50831514285715,-81.62670965714285,,,
+way,1037221997,McDonald's,McDonald's,Ohio,40.8373493,-81.42448873999999,North Canton,Whipple Avenue Northwest,44718
+way,1037382844,McDonald's,McDonald's,Ohio,40.880183826315786,-81.4348547,North Canton,Sunset Strip Avenue Northwest,44720-7089
+way,1041010656,Culver's,Culver's,Ohio,41.411953857142855,-82.66875007142856,Sandusky,Milan Road,44870
+way,1042652618,McDonald's,McDonald's,Ohio,38.78839232,-82.98438156,Portsmouth,Old Scioto Trail,45662
+way,1043482225,McDonald's,McDonald's,Ohio,38.78288065833333,-83.56246879999999,,,
+way,1044768199,McDonald's,McDonald's,Ohio,39.252521816666665,-82.49202611666668,McArthur,US Highway 50,
+way,1047645538,McDonald's,McDonald's,Ohio,40.799585255555556,-81.3933990888889,Canton,Dueber Street,44704-1110
+way,1051700910,McDonald's,McDonald's,Ohio,39.11226634615384,-82.53402762307691,Wellston,South Pennsylvania Avenue,45692
+way,1060321909,McDonald's,McDonald's,Ohio,40.79543944545455,-81.43573361818181,,West Tuscarawas Avenue,44708-5340
+way,1062113743,Five Guys,Five Guys,Ohio,41.62618334,-81.43922422,Willoughby,Euclid Avenue,44094
+way,1062971552,Culver's,Culver's,Ohio,41.63646455294117,-83.47961194705881,Oregon,Navarre Avenue,43616
+way,1062971553,McDonald's,McDonald's,Ohio,41.63628388181818,-83.47906717272726,Oregon,Navarre Avenue,43616
+way,1062975169,Culver's,Culver's,Ohio,41.3469079,-81.82424641428572,Strongsville,Pearl Road,44136
+way,1079814935,Steak 'n Shake,Steak 'n Shake,Ohio,39.74822394,-82.65284548,Lancaster,Victor Road,43130
+way,1080164855,McDonald's,McDonald's,Ohio,40.142036222222224,-84.26590788888888,Piqua,Covington Avenue,45356
+way,1083617074,McDonald's,McDonald's,Ohio,40.283740957142854,-81.00086037142856,,,
+way,1084931135,Steak 'n Shake,Steak 'n Shake,Ohio,41.71441884,-81.2972216,Mentor,Diamond Centre Drive,44060
+way,1090801217,McDonald's,McDonald's,Ohio,38.717397514285715,-82.85695534285715,Wheelersburg,Ohio River Road,45694
+way,1105324701,McDonald's,McDonald's,Ohio,41.084183841666665,-81.58140764166667,Akron,Copley Road,44320-2537
+way,1134180468,McDonald's,McDonald's,Ohio,39.35222055199999,-83.38181524000001,Greenfield,Jefferson Street,45123
+way,1135822730,McDonald's,McDonald's,Ohio,41.06630068666667,-81.52542167333334,Akron,East Thornton Street,44311
+way,1150974608,McDonald's,McDonald's,Ohio,40.56260918571429,-83.11999952857143,Marion,Marion Waldo Road,43302
+way,1153876698,McDonald's,McDonald's,Ohio,39.96983155454545,-81.53522127272726,,,
+way,1155186782,McDonald's,McDonald's,Ohio,38.93434120833333,-83.41726123333332,Peebles,Measley Ridge Road,45660
+way,1158221206,Culver's,Culver's,Ohio,41.31147865714285,-81.52248200952381,Macedonia,Golden Link Boulevard,44067
+way,1176292990,McDonald's,McDonald's,Ohio,41.35119166,-81.75849614,Parma,Sprague Road,44130
+way,1178532729,McDonald's,McDonald's,Ohio,39.94999175882352,-82.04874404117646,Zanesville,West Pike,43701
+way,1190504673,Culver's,Culver's,Ohio,41.35641572,-83.65312232,Bowling Green,West Gypsy Lane Road,43402
+way,1193818564,McDonald's,McDonald's,Ohio,40.403683380000004,-84.37616756,,,
+way,1199656932,Five Guys,Five Guys,Ohio,39.87942996923077,-83.04425883076922,Grove City,Stringtown Road,43123
+way,1200608997,McDonald's,McDonald's,Ohio,40.09620545714285,-80.72269307142858,Martins Ferry,Hanover Street,43935
+way,1215551681,McDonald's,McDonald's,Ohio,40.873199940000006,-81.36325304,North Canton,Market Avenue North,44721
+way,1219378219,McDonald's,McDonald's,Ohio,41.42145452,-81.52790754,Maple Heights,Northfield Road,44137-2107
+way,1225518476,McDonald's,McDonald's,Ohio,41.08997066,-80.59038654000001,,McCartney Road,44505-5016
+way,1238893992,Shake Shack,Shake Shack,Ohio,40.096670460000006,-83.08982988,Columbus,West Dublin Granville Road,43235
+way,1251354544,McDonald's,McDonald's,Ohio,40.549423340000004,-84.55220806,Celina,,45822
+way,1252428443,McDonald's,McDonald's,Ohio,40.83194178,-80.53923520000001,,South Market Street,44413-1920
+way,1270235370,McDonald's,McDonald's,Ohio,40.85632426,-84.59793618,,South Shannon Street,45891-2446
+way,1296099109,McDonald's,McDonald's,Ohio,40.011555,-80.7450901111111,Bellaire,28th Street,43906
+way,1308662208,Culver's,Culver's,Ohio,41.384857260000004,-81.9789938,North Ridgeville,,44039
+way,1309490347,McDonald's,McDonald's,Ohio,39.33359592000001,-83.01738782000001,,Western Avenue,45601-1169
+way,1310002963,McDonald's,McDonald's,Ohio,40.451040479999996,-80.61457711999999,Toronto,Franklin Avenue,43964
+way,1311839965,McDonald's,McDonald's,Ohio,39.04605092162162,-84.2448925108108,Amelia,West Ohio Pike,45102
+way,1313068113,McDonald's,McDonald's,Ohio,41.064905339999996,-81.57100246,Akron,Vernon Odom Boulevard,44320
+way,1319640530,McDonald's,McDonald's,Ohio,41.02631808823529,-81.63975615294117,Norton,Greenwich Road,44203
+way,1320877815,McDonald's,McDonald's,Ohio,38.96766145185184,-84.28650999999998,New Richmond,Old United States Route 52,45157
+way,1326279855,McDonald's,McDonald's,Ohio,39.229526333333325,-83.61038865555555,Hillsboro,North High Street,45133
+way,1329926981,Freddy's,Freddy's,Ohio,39.05123172631579,-84.25104129999998,Amelia,Waterford Parkway,45102
+way,1330302707,McDonald's,McDonald's,Ohio,39.07109562307692,-84.30302466923075,Cincinnati,Mount Carmel Tobasco Road,45255
+way,1337800852,McDonald's,McDonald's,Ohio,41.17818851199999,-80.569198684,,,
+way,1366302289,McDonald's,McDonald's,Ohio,40.52818176000001,-81.49191698000001,,,
+way,1380574737,Culver's,Culver's,Ohio,39.28677654285714,-84.46652235714285,Springdale,Princeton Pike,45246
+way,1393978598,McDonald's,McDonald's,Ohio,39.232681842857154,-84.16027878571428,Goshen,Goshen Road,45122
+way,1410740434,McDonald's,McDonald's,Ohio,40.480136085714285,-84.61972267142858,,,
+way,1422183852,Freddy's,Freddy's,Ohio,39.875188640000005,-83.03966557999999,,,
+way,1427234430,Shake Shack,Shake Shack,Ohio,39.37004048000001,-84.36920896,,,
+way,1429631846,McDonald's,McDonald's,Ohio,40.19929122,-83.02973118,,,
+way,1453757539,McDonald's,McDonald's,Ohio,39.04534622,-82.62983519999999,Jackson,East Main Street,45640
+way,1458536576,McDonald's,McDonald's,Ohio,38.900835619999995,-82.56969388,Oak Hill,North Jackson Street,45656
+way,1473445975,Freddy's,Freddy's,Ohio,41.23906642222223,-81.34833045555555,,,
+way,1515947474,McDonald's,McDonald's,Ohio,40.06292874,-83.16011188,Dublin,Riggins Road,43016
+way,1524799881,Culver's,Culver's,Ohio,41.683200600000006,-83.62427349999999,Toledo,Executive Parkway,43606
+way,1528288131,McDonald's,McDonald's,Ohio,40.3104667,-84.17230258333332,,,
+way,1548613828,McDonald's,McDonald's,Ohio,41.27772543636364,-81.78452843636363,North Royalton,West 130th Street,44133
+way,1548812627,Culver's,Culver's,Ohio,39.73896128,-82.63191848,Lancaster,North Memorial Drive,43130
+way,1560542346,McDonald's,McDonald's,Ohio,39.94613611999999,-84.0235402,,,
+way,1560904601,McDonald's,McDonald's,Ohio,40.002657320000004,-83.00830806,,,
+way,1562565211,McDonald's,McDonald's,Ohio,39.57909256000001,-84.31312746,Carlisle,Central Avenue,45005
+way,1568641095,Freddy's,Freddy's,Ohio,39.29224066,-84.29521896,,,

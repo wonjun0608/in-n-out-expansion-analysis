@@ -1,0 +1,181 @@
+osm_type,osm_id,name,brand,state_query,latitude,longitude,city,street,postcode
+node,446946353,McDonald's,McDonald's,Nevada,39.5060572,-119.800246,Reno,East Plumb Lane,89502
+node,455226681,Five Guys,Five Guys,Nevada,36.0518857,-115.1715674,Las Vegas,South Las Vegas Boulevard,89123
+node,914010185,McDonald's,McDonald's,Nevada,39.5560728,-119.754742,Sparks,North McCarran,89431
+node,993789695,McDonald's,McDonald's,Nevada,36.0900123,-115.1722784,Las Vegas,South Las Vegas Boulevard,89119-1001
+node,2574819223,McDonald's,McDonald's,Nevada,36.1373957,-115.0646768,Las Vegas,South Nellis Boulevard,89122
+node,2624944898,McDonald's,McDonald's,Nevada,36.181688,-115.256472,Las Vegas,Washington Avenue,89128
+node,2865705453,McDonald's,McDonald's,Nevada,35.4609096,-114.9181901,,Veterans Memorial Highway,89046
+node,3521706898,McDonald's,McDonald's,Nevada,36.1200754,-115.1719251,Las Vegas,South Las Vegas Boulevard,89109
+node,3755336661,Five Guys,Five Guys,Nevada,39.4774073,-119.792861,Reno,South McCarren Boulevard,89509
+node,3834980726,McDonald's,McDonald's,Nevada,36.1748841,-115.0616941,Las Vegas,North Nellis Boulevard,89110-5308
+node,4015588705,McDonald's,McDonald's,Nevada,36.108453,-115.1720299,Paradise,South Las Vegas Boulevard,89109
+node,4020584236,Whataburger,Whataburger,Nevada,36.1061825,-115.1735339,Las Vegas,South Las Vegas Boulevard,89158
+node,4053647124,McDonald's,McDonald's,Nevada,39.5306173,-119.814317,Reno,North Virginia Street,89501
+node,4670111625,McDonald's,McDonald's,Nevada,36.1476919,-115.1564348,Las Vegas,South Las Vegas Boulevard,89104
+node,4670165939,Steak 'n Shake,Steak 'n Shake,Nevada,36.0118598,-115.1749086,Las Vegas,South Las Vegas Boulevard,89183
+node,4734482021,McDonald's,McDonald's,Nevada,36.0993723,-115.297945,Las Vegas,South Fort Apache Road,89147
+node,4742179545,Shake Shack,Shake Shack,Nevada,36.0215891,-115.085422,Henderson,Village Walk Drive,89052
+node,4860223222,In-N-Out Burger,In-N-Out,Nevada,36.1174181,-115.169885,Las Vegas,South Las Vegas Boulevard,89109
+node,5089468922,McDonald's,McDonald's,Nevada,39.5059069,-119.7745618,Reno,,89502
+node,5218646321,McDonald's,McDonald's,Nevada,36.1696634,-115.1420671,Las Vegas,Fremont Street,89101
+node,5353806807,McDonald's,McDonald's,Nevada,36.0223886,-115.1236942,,,89123
+node,5432871335,McDonald's,McDonald's,Nevada,36.1738096,-115.097802,Las Vegas,East Bonanza,89110
+node,5794598348,McDonald's,McDonald's,Nevada,40.6376726,-116.944764,,,
+node,5918270286,McDonald's,McDonald's,Nevada,36.0946345,-115.2943091,,South Fort Apache Road,89148-1722
+node,6040457021,McDonald's,McDonald's,Nevada,36.0418521,-115.1179327,Las Vegas,South Eastern Avenue,89123
+node,6513351985,McDonald's,McDonald's,Nevada,36.2367182,-115.0616819,Las Vegas,North Las Vegas Boulevard,89115
+node,6536168887,McDonald's,McDonald's,Nevada,36.0710731,-115.278793,Las Vegas,South Durango Drive,89113
+node,8291030758,McDonald's,McDonald's,Nevada,39.3938493,-119.7654612,Reno,Wedge Parkway,89511
+node,8868939240,McDonald's,McDonald's,Nevada,40.8472407,-115.7488972,Elko,Idaho Street,89801
+node,9064356042,McDonald's,McDonald's,Nevada,41.0990999,-114.960142,,,
+node,9104529357,McDonald's,McDonald's,Nevada,36.108877,-115.0632824,Las Vegas,Boulder Highway,89121
+node,9742208111,McDonald's,McDonald's,Nevada,36.1150915,-115.261813,Las Vegas,South Buffalo Drive,89117
+node,9750102955,Shake Shack,Shake Shack,Nevada,36.0846373,-115.1518329,,,
+node,9812287117,Shake Shack,Shake Shack,Nevada,36.0847448,-115.151952,,,
+node,9812287217,Shake Shack,Shake Shack,Nevada,36.1627612,-115.1592779,,,
+node,10739946183,Five Guys,Five Guys,Nevada,36.0632087,-115.0440475,Henderson,West Sunset Road,89014
+node,11513107427,McDonald's,McDonald's,Nevada,36.1146284,-115.1959612,Las Vegas,West Flamingo Road,89103
+node,11590164871,McDonald's,McDonald's,Nevada,36.2770563,-115.2793287,,,
+node,11607297219,McDonald's,McDonald's,Nevada,36.1254531,-115.2796896,Las Vegas,West Spring Mountain Road,89146
+node,11607298253,McDonald's,McDonald's,Nevada,36.053454,-115.08302,Henderson,North Green Valley Parkway,89014-5024
+node,11727177030,McDonald's,McDonald's,Nevada,39.5275918,-119.7011166,Sparks,Brierley Way,89434
+node,11879184487,In-N-Out Burger,In-N-Out,Nevada,36.0698589,-115.2418931,Las Vegas,South Rainbow Boulevard,89118
+node,11944226458,Steak 'n Shake,Steak 'n Shake,Nevada,36.1712696,-115.1426013,Las Vegas,Fremont Street Experience,89101
+node,11967657275,McDonald's,McDonald's,Nevada,36.2623673,-115.1793664,,West Ann Road,89031
+node,12288848436,McDonald's,McDonald's,Nevada,39.527827,-119.8270672,,Keystone Avenue,89503-4302
+node,12292068975,McDonald's,McDonald's,Nevada,36.180881,-115.1798647,,West Washington Avenue,89107
+node,12292105875,McDonald's,McDonald's,Nevada,36.2168107,-115.2125044,,North Rancho Drive,89130-3302
+node,12292115547,McDonald's,McDonald's,Nevada,36.2472017,-115.2080566,,West Lone Mountain Road,89130
+node,12650758626,McDonald's,McDonald's,Nevada,35.1633688,-114.5724551,Laughlin,South Casino Drive,89029
+node,12869264942,Steak 'n Shake,Steak 'n Shake,Nevada,36.100539,-115.1676928,,,
+node,12869264943,Steak 'n Shake,Steak 'n Shake,Nevada,36.2383411,-115.1190081,,,
+node,13477795456,Five Guys,Five Guys,Nevada,36.121263,-115.1716256,,,
+node,14121071723,In-N-Out Burger,In-N-Out,Nevada,36.1064061,-115.1724986,Las Vegas,South Las Vegas Boulevard,89109
+way,32828472,McDonald's,McDonald's,Nevada,39.481477863636364,-119.79083550909091,Reno,South Virginia Street,89502
+way,33668236,McDonald's,McDonald's,Nevada,39.53171559999999,-119.86523467692308,Reno,Mae Anne Avenue,89523
+way,38414361,McDonald's,McDonald's,Nevada,36.05639951538461,-115.17141860769229,Las Vegas,South Las Vegas Boulevard,89123
+way,115661794,Shake Shack,Shake Shack,Nevada,36.10301468,-115.17370828,Las Vegas,South Las Vegas Boulevard,89109
+way,151644780,McDonald's,McDonald's,Nevada,36.19634958888889,-115.24077224444444,Las Vegas,North Rainbow Boulevard,89108-7049
+way,180250447,McDonald's,McDonald's,Nevada,36.13559411428572,-115.16334155714287,Las Vegas,South Las Vegas Boulevard,89109
+way,185025853,McDonald's,McDonald's,Nevada,36.00677268181818,-115.11282972727271,Henderson,South Eastern,89052
+way,190828100,McDonald's,McDonald's,Nevada,36.10055862,-115.18636255999999,Las Vegas,West Tropicana Avenue,89118
+way,202777823,McDonald's,McDonald's,Nevada,36.02504741999999,-115.06299531333335,Henderson,South Valle Verde Drive,89012
+way,205499657,McDonald's,McDonald's,Nevada,36.12204372,-115.15445609999999,Las Vegas,Paradise Road,89109
+way,227617245,McDonald's,McDonald's,Nevada,36.013107881818186,-114.96284913636364,Henderson,East Horizon Drive,89015
+way,236020186,McDonald's,McDonald's,Nevada,36.04252467142858,-114.98423572857142,Henderson,N Boulder Highway,89015
+way,242317253,In-N-Out Burger,In-N-Out,Nevada,39.10912422105264,-119.7749327,Carson City,Topsy Lane,89705
+way,254296117,McDonald's,McDonald's,Nevada,36.159068164285706,-115.04704959285716,Las Vegas,East Charleston Boulevard,89142
+way,257307259,In-N-Out Burger,In-N-Out,Nevada,36.1013382882353,-115.18221135882354,Las Vegas,Dean Martin Drive,89103
+way,257307262,In-N-Out Burger,In-N-Out,Nevada,36.10417722,-115.13767830000002,Las Vegas,University Road,89119
+way,257726901,McDonald's,McDonald's,Nevada,35.61015617777778,-115.3879485888889,Primm,South Las Vegas Boulevard,89019
+way,263602943,McDonald's,McDonald's,Nevada,39.130884654545454,-119.76966868181816,Carson City,South Carson Street,89701
+way,273166541,McDonald's,McDonald's,Nevada,36.10175278333333,-115.13745161666667,Las Vegas,Maryland Parkway,89119-6304
+way,276426396,McDonald's,McDonald's,Nevada,36.14478708,-115.17729512000001,Las Vegas,West Sahara Avenue,89102-4370
+way,276426443,In-N-Out Burger,In-N-Out,Nevada,36.14481695714286,-115.1805938857143,Las Vegas,West Sahara Avenue,89102-4347
+way,276427175,McDonald's,McDonald's,Nevada,36.144089380000004,-115.15500514,Las Vegas,Paradise Road,89104
+way,282971042,McDonald's,McDonald's,Nevada,39.54575249999999,-119.78105286666667,Reno,Silverada Boulevard,89512
+way,295885909,In-N-Out Burger,In-N-Out,Nevada,39.53559826,-119.75256714400003,Sparks,Pyramid Way,89431
+way,297275545,McDonald's,McDonald's,Nevada,40.838584659999995,-115.79047136,Elko,Mountain City Highway,89801
+way,306292323,In-N-Out Burger,In-N-Out,Nevada,35.15927112000001,-114.57520062,Laughlin,South Casino Drive,89029
+way,370282953,McDonald's,McDonald's,Nevada,36.1300989,-115.10936559999998,Las Vegas,East Desert Inn Road,89121
+way,370379892,McDonald's,McDonald's,Nevada,39.4846656388889,-119.74766498888887,Reno,South McCarran Boulevard,89502
+way,376910008,McDonald's,McDonald's,Nevada,36.099662939999995,-115.10504282,Las Vegas,East Tropicana Avenue,89121-7328
+way,380174500,In-N-Out Burger,In-N-Out,Nevada,36.16083439166666,-115.06267007499999,Las Vegas,North Nellis Boulevard,89110
+way,383915358,In-N-Out Burger,In-N-Out,Nevada,36.19565598461538,-115.24660506153845,Las Vegas,Rock Springs Drive,89128
+way,412107649,McDonald's,McDonald's,Nevada,36.065423472727275,-115.01305934545456,Henderson,West Sunset Road,89105
+way,417427783,McDonald's,McDonald's,Nevada,36.18808127142857,-115.11519487142857,North Las Vegas,East Owens Avenue,89030
+way,431599878,McDonald's,McDonald's,Nevada,36.11999590833333,-115.13798275,Las Vegas,South Maryland Parkway,89109
+way,431599882,Five Guys,Five Guys,Nevada,36.115555779999994,-115.13815374,Las Vegas,South Maryland Parkway,89119
+way,461504551,In-N-Out Burger,In-N-Out,Nevada,36.02138716190476,-115.11809550952383,Las Vegas,South Eastern Avenue,89123
+way,461571637,In-N-Out Burger,In-N-Out,Nevada,36.063317663157896,-115.03392950526316,Henderson,Sunset Road,89014
+way,462172023,In-N-Out Burger,In-N-Out,Nevada,39.45201214285714,-119.77743636666665,Reno,South Virginia Street,89511
+way,462220966,In-N-Out Burger,In-N-Out,Nevada,36.10062205,-115.3020868285714,Las Vegas,West Tropicana Avenue,89147
+way,467627201,In-N-Out Burger,In-N-Out,Nevada,36.265255960000005,-115.25707794,Las Vegas,Centennial Center Boulevard,89131
+way,469237434,McDonald's,McDonald's,Nevada,38.99412122,-119.16360426000001,,,
+way,518895583,McDonald's,McDonald's,Nevada,39.61232554736843,-119.8494392736842,Reno,Lemmon Drive,89506
+way,532410390,McDonald's,McDonald's,Nevada,36.11482959999999,-115.20907694285714,Las Vegas,West Flamingo Road,89103
+way,534054824,McDonald's,McDonald's,Nevada,36.20904663636364,-115.98612086363636,Pahrump,South Highway 160,89048
+way,545580010,McDonald's,McDonald's,Nevada,36.28148021999999,-115.13454546,North Las Vegas,North Fifth Street,89084
+way,545589325,In-N-Out Burger,In-N-Out,Nevada,36.28522516470588,-115.13436968235294,North Las Vegas,North 5th Street,89084
+way,546254026,McDonald's,McDonald's,Nevada,39.608595980000004,-119.22187758,,,
+way,550954812,Freddy's,Freddy's,Nevada,36.01107796,-115.11931722,Las Vegas,South Eastern Avenue,89183
+way,566194082,McDonald's,McDonald's,Nevada,36.262558111999994,-115.24995194799997,Las Vegas,West Ann Road,89130
+way,579768747,McDonald's,McDonald's,Nevada,39.63962756,-119.71174388,Spanish Springs,Pyramid Highway,89441
+way,592901913,McDonald's,McDonald's,Nevada,39.542292672727264,-119.7359141090909,Sparks,East Prater Way,89431
+way,706818064,McDonald's,McDonald's,Nevada,40.17885858000001,-118.47284146,,,
+way,716908690,McDonald's,McDonald's,Nevada,39.62514332051281,-119.8826006948718,Reno,Stead Boulevard,89506
+way,726606192,McDonald's,McDonald's,Nevada,36.02085518,-115.27790994,Enterprise,Blue Diamond Road,89178
+way,733906433,McDonald's,McDonald's,Nevada,36.196168365000005,-115.027096325,Las Vegas,East Lake Mead Boulevard,89156
+way,745375097,McDonald's,McDonald's,Nevada,36.15848291818182,-115.11932387272726,Las Vegas,East Charleston Boulevard,89104-2046
+way,773015782,McDonald's,McDonald's,Nevada,39.17959777777778,-119.76640174444447,Carson City,North Carson Street,89706
+way,777591619,McDonald's,McDonald's,Nevada,36.012639300000004,-115.17184348,Las Vegas,South Las Vegas Boulevard,89183
+way,785006686,McDonald's,McDonald's,Nevada,36.012788085714284,-115.13537319999998,Las Vegas,East Silverado Ranch Boulevard,89183
+way,815564539,McDonald's,McDonald's,Nevada,36.80055324,-114.10727898,Mesquite,Falcon Ridge Parkway,89027
+way,819991641,In-N-Out Burger,In-N-Out,Nevada,36.04065337272727,-115.19128049999999,Las Vegas,Blue Diamond Road,89139
+way,890851254,McDonald's,McDonald's,Nevada,36.81520934444445,-114.06475655555556,Mesquite,East Pioneer Boulevard,89027
+way,894694526,McDonald's,McDonald's,Nevada,39.24331404,-114.86956554000001,Ely,Great Basin Boulevard,89301
+way,895407637,McDonald's,McDonald's,Nevada,40.739137799999995,-114.06392256000001,West Wendover,Wendover Boulevard,89883
+way,907944279,McDonald's,McDonald's,Nevada,36.159445430769225,-115.07975682307693,Las Vegas,East Charleston,89104
+way,918870579,McDonald's,McDonald's,Nevada,36.11471796,-115.3082424,Las Vegas,South Grand Canyon Drive,89147
+way,942766895,McDonald's,McDonald's,Nevada,36.15944969090909,-115.32034685454545,Las Vegas,West Charleston Boulevard,89135-1020
+way,943068968,McDonald's,McDonald's,Nevada,36.14399585384616,-115.20021656923078,Las Vegas,West Sahara Avenue,89102-3742
+way,959657014,McDonald's,McDonald's,Nevada,36.02157088666667,-115.24389471333333,Las Vegas,South Rainbow Boulevard,89118
+way,959657037,McDonald's,McDonald's,Nevada,36.061789818181815,-115.24187636363636,Las Vegas,South Rainbow Road,89118
+way,1017037802,McDonald's,McDonald's,Nevada,36.113807800000004,-115.06659100000002,Las Vegas,Boulder Highway,89121
+way,1017043787,McDonald's,McDonald's,Nevada,36.1142275,-115.1197137,Las Vegas,South Eastern Avenue,89119
+way,1017279622,McDonald's,McDonald's,Nevada,35.97157681666666,-114.84912901666667,Boulder City,Boulder City Parkway,89005
+way,1017454916,McDonald's,McDonald's,Nevada,36.21726187142857,-115.12839084285713,North Las Vegas,East Cheyenne Avenue,89030
+way,1017456368,McDonald's,McDonald's,Nevada,36.19526589,-115.12842178999999,North Las Vegas,East Lake Mead Boulevard,89030
+way,1017968815,McDonald's,McDonald's,Nevada,36.16683011111111,-115.20548466666666,Las Vegas,Alta Drive,89107
+way,1017983432,McDonald's,McDonald's,Nevada,36.26476794285714,-115.1165379857143,North Las Vegas,Losee Road,89081
+way,1033800595,McDonald's,McDonald's,Nevada,38.532921982352946,-118.62408894705884,Hawthorne,F Street,89415
+way,1038376290,McDonald's,McDonald's,Nevada,36.14569182857144,-115.2425726857143,Las Vegas,South Rainbow Boulevard,89146
+way,1101863382,McDonald's,McDonald's,Nevada,40.9592831347826,-117.74828896521738,Winnemucca,West Winnemucca Boulevard,89445
+way,1113221302,McDonald's,McDonald's,Nevada,39.2680715,-119.57628746,,,
+way,1117020415,McDonald's,McDonald's,Nevada,36.03929464,-115.19146988,Las Vegas,Blue Diamond Road,89139
+way,1117027544,In-N-Out Burger,In-N-Out,Nevada,36.14481666923077,-115.31340583846153,Las Vegas,West Sahara Avenue,89117-0306
+way,1117027562,McDonald's,McDonald's,Nevada,36.14357031111111,-115.13755792222221,Las Vegas,East Sahara Avenue,89104
+way,1118746009,McDonald's,McDonald's,Nevada,39.423574492307694,-119.74191542307693,Reno,Steamboat Parkway,89521
+way,1118748916,McDonald's,McDonald's,Nevada,39.43955514615386,-119.75700842692308,Reno,South Meadows Parkway,89521
+way,1135619974,In-N-Out Burger,In-N-Out,Nevada,36.11572914166667,-115.09166106666667,Las Vegas,East Flamingo Road,89121
+way,1145017939,McDonald's,McDonald's,Nevada,38.96160582,-119.77847693999999,Minden,,
+way,1154862758,Freddy's,Freddy's,Nevada,36.05684274,-115.04150283999999,Henderson,West Warm Springs Road,89014
+way,1155114315,McDonald's,McDonald's,Nevada,36.064043514285714,-115.04671087142857,Henderson,North Stephanie Street,89014
+way,1158101674,McDonald's,McDonald's,Nevada,39.476114960000004,-118.80080063999999,Fallon,West Williams Avenue,89406-2612
+way,1158581592,McDonald's,McDonald's,Nevada,36.301975855555554,-115.28141477777778,,,
+way,1171439648,Shake Shack,Shake Shack,Nevada,36.15123509333333,-115.33279726,,oval drive,89135
+way,1183145075,McDonald's,McDonald's,Nevada,36.1585644,-115.16261086363635,Las Vegas,West Charleston Boulevard,89102-2333
+way,1189246163,McDonald's,McDonald's,Nevada,39.514482957894735,-119.78869944210524,Reno,Kietzke Lane,89502
+way,1196455592,McDonald's,McDonald's,Nevada,36.16149686363636,-115.29104293636364,Las Vegas,South Rampart Boulevard,89145-5800
+way,1230807295,McDonald's,McDonald's,Nevada,36.195312663636365,-115.16121140909091,Las Vegas,West Lake Mead Boulevard,89106-2138
+way,1235194173,McDonald's,McDonald's,Nevada,36.10035695454545,-115.22404464545455,Las Vegas,West Tropicana Avenue,89103
+way,1235629198,McDonald's,McDonald's,Nevada,36.21348426923077,-115.09952286923075,North Las Vegas,Las Vegas Boulevard North,89030
+way,1235647425,McDonald's,McDonald's,Nevada,36.1749508,-115.22347535555556,Las Vegas,North Jones Boulevard,89107
+way,1236460213,McDonald's,McDonald's,Nevada,36.07190794545455,-115.11544239090908,Las Vegas,East Sunset Road,89120-3513
+way,1236483789,McDonald's,McDonald's,Nevada,36.125230577777785,-115.22237524444446,Las Vegas,Spring Mountain Road,89103
+way,1236679362,Freddy's,Freddy's,Nevada,36.1585978,-115.20475322857143,Las Vegas,West Charleston Boulevard,89102-1548
+way,1236680134,McDonald's,McDonald's,Nevada,36.159556387500004,-115.23374043749999,Las Vegas,West Charleston Boulevard,89146
+way,1236686004,Five Guys,Five Guys,Nevada,36.115775042857145,-115.29900277142859,Las Vegas,West Flamingo Road,89147-5745
+way,1236770126,In-N-Out Burger,In-N-Out,Nevada,36.085736635,-115.18485408999997,Las Vegas,West Russell Road,89118
+way,1236784488,McDonald's,McDonald's,Nevada,36.239939311111115,-115.16076738888887,,West Craig Road,89031
+way,1236835902,McDonald's,McDonald's,Nevada,36.27993406,-115.2071748,Las Vegas,North Decatur Boulevard,89131
+way,1243927028,McDonald's,McDonald's,Nevada,36.19658667272728,-115.26178417272727,Las Vegas,West Lake Mead Boulevard,89128-6634
+way,1244108159,McDonald's,McDonald's,Nevada,36.158603077777784,-115.2630618111111,Las Vegas,West Charleston Boulevard,89117
+way,1244148676,McDonald's,McDonald's,Nevada,36.19188592222222,-115.30595347777778,,Village Center Circle,89134
+way,1247101292,McDonald's,McDonald's,Nevada,36.2410198,-115.25029774285714,Las Vegas,West Craig Road,89129
+way,1248755782,McDonald's,McDonald's,Nevada,36.06394264,-115.29726063999999,Las Vegas,South Fort Apache Road,89148
+way,1248756068,McDonald's,McDonald's,Nevada,35.99721682222222,-115.2069614111111,Las Vegas,Southern Highlands Parkway,89141
+way,1248756210,McDonald's,McDonald's,Nevada,35.990479783333335,-115.13873410000001,Henderson,Saint Rose Parkway,89052
+way,1248757360,McDonald's,McDonald's,Nevada,36.195139437499996,-115.0797258125,Las Vegas,North Lamb Boulevard,89115
+way,1248757992,McDonald's,McDonald's,Nevada,36.24018806,-115.12690276000001,North Las Vegas,East Craig Road,89081
+way,1258818560,In-N-Out Burger,In-N-Out,Nevada,39.5290241,-119.82903102,Reno,West 5th Street,89503
+way,1266704444,In-N-Out Burger,In-N-Out,Nevada,35.986414522222226,-115.14208097777777,Henderson,Saint Rose Parkway,89052
+way,1319927929,McDonald's,McDonald's,Nevada,39.57763596666667,-119.78099696666663,Sun Valley,West 1st Avenue,89433
+way,1328597692,McDonald's,McDonald's,Nevada,36.19623948,-115.20650203999999,,North Decatur Boulevard,89108
+way,1334370053,McDonald's,McDonald's,Nevada,39.584860183333326,-119.73718913333335,Sparks,Los Altos Parkway,89436
+way,1344408119,Freddy's,Freddy's,Nevada,36.23925142,-115.12828710000001,North Las Vegas,East Craig Road,89030
+way,1344408434,In-N-Out Burger,In-N-Out,Nevada,36.23969634545454,-115.11143528181816,North Las Vegas,East Craig Road,89030
+way,1344448017,McDonald's,McDonald's,Nevada,36.21902121428571,-115.28137124285715,Las Vegas,West Cheyenne Avenue,89129-7260
+way,1366540364,McDonald's,McDonald's,Nevada,36.53872204,-114.44266078000001,Overton,South Moapa Valley Boulevard,89040
+way,1383835336,Steak 'n Shake,Steak 'n Shake,Nevada,36.10006566,-115.16705119999999,,,89109

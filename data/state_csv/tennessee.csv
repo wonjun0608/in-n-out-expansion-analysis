@@ -1,0 +1,434 @@
+osm_type,osm_id,name,brand,state_query,latitude,longitude,city,street,postcode
+node,678555091,McDonald's,McDonald's,Tennessee,36.0047595,-84.2513914,Oak Ridge,S Illinois Avenue,37830
+node,1133373545,Five Guys,Five Guys,Tennessee,35.9455909,-86.8207715,Franklin,Mallory Lane,37067
+node,1667755935,McDonald's,McDonald's,Tennessee,35.1493242,-89.920333,Memphis,Summer Avenue,38122-4044
+node,1700711074,McDonald's,McDonald's,Tennessee,36.2245214,-83.0451421,,,
+node,1706645737,McDonald's,McDonald's,Tennessee,36.534095,-82.3895545,Blountville,Carolina Pottery Drive,37617
+node,1786329544,McDonald's,McDonald's,Tennessee,36.3214097,-86.6230145,Hendersonville,New Shackle Island Road,37075
+node,1849263717,McDonald's,McDonald's,Tennessee,35.9900868,-84.0758396,Karns,Oak Ridge Highway,37931
+node,1855601679,McDonald's,McDonald's,Tennessee,36.0065853,-84.0245477,Knoxville,Clinton Highway,37849
+node,1856532342,McDonald's,McDonald's,Tennessee,35.6920936,-84.8596483,,,
+node,1859615225,McDonald's,McDonald's,Tennessee,36.025658,-84.2385474,Oak Ridge,Oak Ridge Turnpike,37830
+node,1880695881,Five Guys,Five Guys,Tennessee,35.9357958,-84.0034433,Knoxville,Brookview Center,37919
+node,1961301218,Five Guys,Five Guys,Tennessee,36.1508705,-86.8007309,Nashville,West End Avenue,37203
+node,2149914561,McDonald's,McDonald's,Tennessee,35.4495569,-89.7831157,,,
+node,2188700692,Five Guys,Five Guys,Tennessee,35.1354243,-85.2388295,Hixson,Hixson Pike,37343
+node,2256024270,McDonald's,McDonald's,Tennessee,36.307777,-82.3642499,Johnson City,West Walnut Street,37604
+node,2351373216,McDonald's,McDonald's,Tennessee,35.1433302,-89.7946843,Cordova,North Germantown Parkway,38018-6210
+node,2408422052,McDonald's,McDonald's,Tennessee,36.5730342,-82.1935707,Bristol,Volunteer Parkway,37620
+node,2433036982,McDonald's,McDonald's,Tennessee,35.1269472,-84.7204815,Ocoee,Highway 64,37361
+node,2690647018,Five Guys,Five Guys,Tennessee,35.8068024,-83.5783319,Pigeon Forge,Parkway,37863
+node,2699225972,McDonald's,McDonald's,Tennessee,36.3791052,-85.3336724,,,
+node,2830079159,McDonald's,McDonald's,Tennessee,35.1897549,-84.8802755,Cleveland,25th Street Northwest,37312
+node,2881918872,McDonald's,McDonald's,Tennessee,35.883867,-87.7986001,,,
+node,2924199055,McDonald's,McDonald's,Tennessee,35.2414105,-85.8460034,,,
+node,2929442113,McDonald's,McDonald's,Tennessee,35.1433592,-90.0142381,Memphis,Poplar Avenue,38104-2007
+node,3271420111,McDonald's,McDonald's,Tennessee,36.2006806,-86.7395587,Nashville,Gallatin Pike,37216-3713
+node,3554420250,McDonald's,McDonald's,Tennessee,36.3129004,-82.3844794,Johnson City,West Market Street,37601
+node,3758828326,Five Guys,Five Guys,Tennessee,35.8596352,-84.0764483,Knoxville,Town Center Boulevard,37922
+node,3759764057,Five Guys,Five Guys,Tennessee,35.9020705,-84.1483205,Knoxville,Parkside Drive,37923
+node,3858128657,McDonald's,McDonald's,Tennessee,35.9314811,-84.0235274,Knoxville,Kingston Pike,37934
+node,3860027494,McDonald's,McDonald's,Tennessee,35.9211203,-84.0918785,Knoxville,Cedar Bluff Road,37923
+node,3874124833,McDonald's,McDonald's,Tennessee,35.2938291,-89.6761884,Arlington,Highway 70,38002
+node,4109293576,McDonald's,McDonald's,Tennessee,36.5050069,-82.5539873,Kingsport,John B Dennis Highway,37660
+node,4369311092,McDonald's,McDonald's,Tennessee,35.0446348,-89.7966381,Memphis,Hacks Crossing Road,38125
+node,4439542296,McDonald's,McDonald's,Tennessee,35.8471698,-83.9921703,Louisville,Hawks Landing Drive,37777
+node,4592965992,McDonald's,McDonald's,Tennessee,36.6248625,-87.3172113,Clarksville,Trenton Road,37040
+node,4625416342,Five Guys,Five Guys,Tennessee,36.5149824,-87.3146935,Clarksville,Madison Street,37043
+node,4886835771,McDonald's,McDonald's,Tennessee,36.0062304,-88.4081181,,,
+node,4892249199,McDonald's,McDonald's,Tennessee,35.7648769,-83.9803762,Alcoa,Calderwood Street,37701
+node,4896316450,McDonald's,McDonald's,Tennessee,35.6057847,-87.0653802,Columbia,Trotwood Avenue,38401-4801
+node,4900266630,McDonald's,McDonald's,Tennessee,36.2608599,-85.951909,,,
+node,4904495833,McDonald's,McDonald's,Tennessee,36.2512741,-86.7188318,Madison,Gallatin Road South,37115-4606
+node,4958600794,McDonald's,McDonald's,Tennessee,35.4598152,-86.0571249,,,
+node,5281079345,McDonald's,McDonald's,Tennessee,36.5906541,-82.261784,Bristol,Pinnacle Parkway,37620
+node,5334064898,Five Guys,Five Guys,Tennessee,36.5472486,-82.5156104,Kingsport,East Stone Drive,37660
+node,5473801154,McDonald's,McDonald's,Tennessee,35.802494,-84.2615181,Lenoir City,Highway 321n,37771
+node,5565428421,McDonald's,McDonald's,Tennessee,35.9511614,-83.201059,,,
+node,5813029535,McDonald's,McDonald's,Tennessee,35.5406213,-89.2474059,,,
+node,5943292001,Culver's,Culver's,Tennessee,35.9125435,-84.0850772,Knoxville,Kingston Pike,37923
+node,6071862755,McDonald's,McDonald's,Tennessee,36.5817733,-84.1143015,,,
+node,6141459298,McDonald's,McDonald's,Tennessee,36.3585725,-82.3943952,Johnson City,Brownsmill Road,37604
+node,6238758088,Five Guys,Five Guys,Tennessee,36.3279005,-86.5967415,Hendersonville,Indian Lake Boulevard,37075
+node,6315237834,Shake Shack,Shake Shack,Tennessee,36.1031631,-86.816619,,,
+node,6418565369,McDonald's,McDonald's,Tennessee,35.811348,-86.4586233,Murfreesboro,New Salem Highway,37128
+node,6455349884,McDonald's,McDonald's,Tennessee,35.6577988,-88.4144224,,,
+node,6652372675,McDonald's,McDonald's,Tennessee,35.0846451,-85.1933646,Chattanooga,Highway 58,37416
+node,6711321702,McDonald's,McDonald's,Tennessee,35.963929,-84.980809,Crossville,Peavine Road,38571
+node,6982061840,McDonald's,McDonald's,Tennessee,35.1788124,-89.8368895,Memphis,Whitten Road,38133
+node,6982071035,McDonald's,McDonald's,Tennessee,35.2051928,-89.7938588,Bartlett,US Highway 64,38133
+node,6982072384,McDonald's,McDonald's,Tennessee,35.1076294,-89.8859042,Memphis,Poplar Drive,38119-3513
+node,6982075294,McDonald's,McDonald's,Tennessee,35.0372933,-90.0247461,Memphis,Elvis Presley Boulevard,38116
+node,6982076253,McDonald's,McDonald's,Tennessee,35.133423,-89.9619153,Memphis,Poplar Avenue,38111-3527
+node,6982077094,McDonald's,McDonald's,Tennessee,35.0954,-89.859243,Memphis,Ridgeway Road,38119
+node,7100456835,Five Guys,Five Guys,Tennessee,35.0521115,-85.3109327,Chattanooga,Broad Street,37402
+node,7236660206,McDonald's,McDonald's,Tennessee,36.1536259,-88.8013046,,,
+node,7236660279,McDonald's,McDonald's,Tennessee,35.7946105,-88.7888929,,,
+node,7381258693,McDonald's,McDonald's,Tennessee,36.1429471,-86.7437034,Nashville,Murfreesboro Road,37210-3510
+node,7604103073,McDonald's,McDonald's,Tennessee,35.3406045,-89.9116074,Millington,US Highway 51 North,38053
+node,7623170932,Five Guys,Five Guys,Tennessee,35.744034,-86.9382735,Spring Hill,Crossing Circle,37174
+node,7707601065,McDonald's,McDonald's,Tennessee,36.0764706,-87.3759775,,,
+node,7776562471,McDonald's,McDonald's,Tennessee,36.1221887,-89.2763792,,,
+node,7778006421,McDonald's,McDonald's,Tennessee,35.2065348,-89.7313799,Lakeland,US Highway 64,38002
+node,7952456535,Five Guys,Five Guys,Tennessee,36.0754664,-86.9193226,Nashville,Highway 70S,37221
+node,8157815517,Five Guys,Five Guys,Tennessee,35.6633093,-88.8607992,Jackson,Vann Drive,38305
+node,8157971479,Freddy's,Freddy's,Tennessee,35.6905239,-88.856738,,,
+node,8185647795,McDonald's,McDonald's,Tennessee,35.4467755,-86.7756979,Lewisburg,North Ellington Parkway,37091
+node,8498029359,McDonald's,McDonald's,Tennessee,35.9445455,-84.0694622,Knoxville,Middlebrook Pike,37919
+node,8505552935,McDonald's,McDonald's,Tennessee,35.925135,-84.0654202,Knoxville,Walker Springs Road,37923
+node,8534608190,Steak 'n Shake,Steak 'n Shake,Tennessee,35.8460991,-86.4291978,Murfreesboro,Old Fort Parkway,37129
+node,8557626650,McDonald's,McDonald's,Tennessee,35.8479543,-86.4299925,Murfreesboro,Old Fort Parkway,37130
+node,8561109650,Five Guys,Five Guys,Tennessee,35.8567336,-86.4290589,Murfreesboro,North Thompson Lane,37129
+node,8589955510,McDonald's,McDonald's,Tennessee,35.8685267,-86.386118,Murfreesboro,Memorial Boulevard,37129-1519
+node,8614897363,McDonald's,McDonald's,Tennessee,35.8272351,-86.0684902,,,
+node,8833395143,McDonald's,McDonald's,Tennessee,35.7307272,-84.390026,,,
+node,8909895903,McDonald's,McDonald's,Tennessee,35.9158969,-86.8292031,Franklin,Highway 96 East,37064
+node,8993712145,McDonald's,McDonald's,Tennessee,35.909296,-86.3843834,Murfreesboro,Memorial Boulevard,37130
+node,9101307411,McDonald's,McDonald's,Tennessee,35.8446824,-86.4441395,Murfreesboro,Old Fort Parkway,37130
+node,9178809086,McDonald's,McDonald's,Tennessee,35.1405877,-89.7981406,,,
+node,9231289567,McDonald's,McDonald's,Tennessee,36.2314237,-86.5143809,Mount Juliet,Lebanon Road,37122
+node,9231415860,McDonald's,McDonald's,Tennessee,36.1885236,-86.4102669,Lebanon,Highway 109 North,37090
+node,9244626646,McDonald's,McDonald's,Tennessee,35.5470045,-87.1992776,,,
+node,9335189936,McDonald's,McDonald's,Tennessee,35.0989931,-89.8407375,Memphis,Poplar Avenue,38138
+node,9368718692,McDonald's,McDonald's,Tennessee,35.1992573,-86.0962725,,,
+node,9742561565,McDonald's,McDonald's,Tennessee,36.1692238,-86.5999484,Hermitage,Old Hickory Boulevard,37076
+node,9847048596,Freddy's,Freddy's,Tennessee,35.0457708,-89.6907215,,,
+node,9861442078,McDonald's,McDonald's,Tennessee,36.0226283,-87.3381,Dickson,Christi Drive,37055
+node,9991957491,McDonald's,McDonald's,Tennessee,35.3621842,-85.3943153,,,
+node,10065433284,Freddy's,Freddy's,Tennessee,35.2111578,-84.8612003,,Paul Huff Parkway,37312
+node,10134476075,Freddy's,Freddy's,Tennessee,36.0074958,-84.25696,Oak Ridge,South Illinois Avenue,37830
+node,10751871807,McDonald's,McDonald's,Tennessee,35.0919361,-89.9074311,Memphis,Quince Road,38117
+node,10767433906,Freddy's,Freddy's,Tennessee,36.3442407,-82.2478635,,West Elk Avenue,37643
+node,10805950574,McDonald's,McDonald's,Tennessee,35.5111313,-84.3674442,,,
+node,10822954784,Shake Shack,Shake Shack,Tennessee,36.1290554,-86.6702777,,,
+node,10856035680,Shake Shack,Shake Shack,Tennessee,36.1612267,-86.7790934,,,
+node,11047067510,McDonald's,McDonald's,Tennessee,36.2578981,-86.6576382,Old Hickory,Robinson Road,37138
+node,11139860704,McDonald's,McDonald's,Tennessee,36.2893774,-82.1741536,,,
+node,11220520397,Whataburger,Whataburger,Tennessee,36.296109,-86.6990417,Madison,Gallatin Pike North,37115
+node,11283509493,McDonald's,McDonald's,Tennessee,36.3856345,-86.4551482,Gallatin,West Main Street,37066-3120
+node,11286250881,McDonald's,McDonald's,Tennessee,35.1527543,-84.9530027,Cleveland,Pleasant Grove Road Southwest,37353
+node,11286251182,Five Guys,Five Guys,Tennessee,35.199815,-84.8453227,Cleveland,Stuart Road,37312
+node,11286251196,McDonald's,McDonald's,Tennessee,35.290789,-84.8175745,Charleston,Lower River Road Northwest,37310
+node,11286834913,McDonald's,McDonald's,Tennessee,35.3389452,-84.5208455,McMinn County,North Tennessee Avenue,37331
+node,11303941162,McDonald's,McDonald's,Tennessee,36.2063887,-83.3233195,Morristown,West Andrew Johnson,37814
+node,11394911760,McDonald's,McDonald's,Tennessee,35.8780711,-84.5099719,,,
+node,11507857512,McDonald's,McDonald's,Tennessee,35.5511209,-87.5415234,,,
+node,11599359538,McDonald's,McDonald's,Tennessee,35.1562865,-88.5793144,McNairy County,Mulberry Avenue,38375
+node,11967670277,McDonald's,McDonald's,Tennessee,35.7444461,-89.0979521,,Highway 412 South,38006
+node,11980023906,Five Guys,Five Guys,Tennessee,36.5929944,-82.2603863,Bristol,Pinnacle Parkway North,37620
+node,11990936575,McDonald's,McDonald's,Tennessee,36.575814,-87.315673,,Trenton Road,37040
+node,12070737935,McDonald's,McDonald's,Tennessee,36.4649113,-81.8009018,,,
+node,12111173102,McDonald's,McDonald's,Tennessee,35.944426,-85.4848517,,Roosevelt Drive,38583
+node,12147232789,McDonald's,McDonald's,Tennessee,35.11483,-89.9455719,,South Highland Street,38111-4356
+node,12167312037,McDonald's,McDonald's,Tennessee,35.9917761,-87.4882725,,,37055
+node,12167336098,McDonald's,McDonald's,Tennessee,35.7243496,-86.3192785,,,
+node,12180080392,McDonald's,McDonald's,Tennessee,36.190609,-86.7993303,Nashville,Vantage Way Court,37228
+node,12271256937,McDonald's,McDonald's,Tennessee,36.1216707,-86.7054169,,Murfreesboro Road,37217-2214
+node,12271256938,McDonald's,McDonald's,Tennessee,36.0207432,-86.5769105,,Murfreesboro Road,37086
+node,12271289328,McDonald's,McDonald's,Tennessee,36.575838,-86.514752,,South Broadway,37148
+node,12271295151,McDonald's,McDonald's,Tennessee,36.2354822,-86.7588604,,Dickerson Road,37207-2955
+node,12271299005,McDonald's,McDonald's,Tennessee,36.3595198,-86.4981663,,Greensboro Drive,37066
+node,12271299083,McDonald's,McDonald's,Tennessee,36.1733179,-86.5139361,,North Mount Juliet Road,37122
+node,12271300218,McDonald's,McDonald's,Tennessee,36.3026424,-86.627767,,West Main Street,37075-3312
+node,12271300361,McDonald's,McDonald's,Tennessee,36.1013439,-86.8177034,,Hillsboro Pike,37215-2701
+node,12271310250,McDonald's,McDonald's,Tennessee,35.9976173,-86.6900181,,Nolensville Pike,37027
+node,12271320530,McDonald's,McDonald's,Tennessee,36.000065,-86.5957981,,Waldron Road,37086
+node,12271321077,McDonald's,McDonald's,Tennessee,36.0486526,-86.6521624,,Hickory Hollow Lane,37013-3127
+node,12271332017,McDonald's,McDonald's,Tennessee,36.2154489,-86.593388,,Lebanon Pike,37076-1313
+node,12290482656,McDonald's,McDonald's,Tennessee,36.1703323,-82.8192425,,Austin Street,37745
+node,12290484425,McDonald's,McDonald's,Tennessee,36.5251582,-82.5207635,,Fort Henry Drive,37664
+node,12292329263,McDonald's,McDonald's,Tennessee,35.2209322,-89.974174,,Frayser Boulevard,38127
+node,12292341000,McDonald's,McDonald's,Tennessee,35.064974,-89.9052855,,South Perkins Road,38118-3240
+node,12292357822,McDonald's,McDonald's,Tennessee,35.1651276,-89.9531835,,Jackson Avenue,38122-1009
+node,12292358660,McDonald's,McDonald's,Tennessee,35.6599713,-88.8526041,,,38305-2408
+node,12292358794,McDonald's,McDonald's,Tennessee,36.129416,-88.5081716,,Highland Drive,38201
+node,12292363080,McDonald's,McDonald's,Tennessee,35.0540933,-90.00856,,Winchester Road,38116-3518
+node,12292363963,McDonald's,McDonald's,Tennessee,35.051961,-89.9507665,,Winchester Road,38118-5931
+node,12292363968,McDonald's,McDonald's,Tennessee,35.2433732,-89.3517345,,,38068
+node,12292365812,McDonald's,McDonald's,Tennessee,35.0637208,-90.0587457,,South Third Street,38109-2950
+node,12292368582,McDonald's,McDonald's,Tennessee,35.0965581,-90.0562449,,South Third Street,38109
+node,12292372405,McDonald's,McDonald's,Tennessee,35.0486465,-89.8267296,,Winchester Road,38125
+node,12292435179,McDonald's,McDonald's,Tennessee,36.0718076,-83.9281149,,Maynardville Pike,37918
+node,12292440260,McDonald's,McDonald's,Tennessee,36.6277828,-87.4329883,,Fort Campbell Boulevard,37042
+node,12292443425,McDonald's,McDonald's,Tennessee,35.5793065,-84.270488,,Highway 411,37885
+node,12292444466,McDonald's,McDonald's,Tennessee,36.1877662,-86.2959769,,South Cumberland Street,37087-4109
+node,12292445268,McDonald's,McDonald's,Tennessee,35.0316673,-85.1552221,,Gunbarrel Road,37421
+node,12292447544,McDonald's,McDonald's,Tennessee,35.0358182,-85.5820874,,Tva Road,37347
+node,12292447551,McDonald's,McDonald's,Tennessee,36.192208,-86.624955,,Lebanon Road,37076-2008
+node,12292448568,McDonald's,McDonald's,Tennessee,36.4933049,-86.877317,,Memorial Boulevard,37172
+node,12292463001,McDonald's,McDonald's,Tennessee,36.5237524,-87.2254705,,Sango Road,37043
+node,12292504809,McDonald's,McDonald's,Tennessee,36.139927,-85.6303155,,Fast Lane,38544
+node,12292627200,McDonald's,McDonald's,Tennessee,35.9627873,-85.0373832,,North Main Street,38555
+node,12602045462,Whataburger,Whataburger,Tennessee,36.1914045,-86.4097763,,,
+node,12624767306,Five Guys,Five Guys,Tennessee,36.0266242,-86.7902356,Brentwood,Franklin Road,37027
+node,12781980882,Culver's,Culver's,Tennessee,35.7661486,-83.9848403,Alcoa,Hamilton Crossing Drive,37701
+node,12874432198,Whataburger,Whataburger,Tennessee,36.1911122,-86.2956341,Lebanon,South Cumberland Street,37087
+node,13102821901,Whataburger,Whataburger,Tennessee,35.2035393,-89.7928221,,North Germantown Parkway,38133
+node,13295765380,Steak 'n Shake,Steak 'n Shake,Tennessee,36.2959404,-86.6978353,Madison,Myatt Drive,37115
+node,13395909615,Five Guys,Five Guys,Tennessee,35.7112212,-83.5189345,Gatlinburg,Parkway,37738
+node,13416757040,Culver's,Culver's,Tennessee,35.8651988,-83.547206,,,
+node,13417356106,In-N-Out Burger,In-N-Out,Tennessee,36.0367328,-86.6527213,Antioch,Century Farms Gateway,37013
+node,13423804830,In-N-Out Burger,In-N-Out,Tennessee,36.186688,-86.3257647,Lebanon,South Hartman Drive,37090
+node,13465417613,McDonald's,McDonald's,Tennessee,35.8730386,-84.3233832,Lenoir City,Highway 321 North,37771
+node,13505583801,Whataburger,Whataburger,Tennessee,35.95541,-83.9348572,Knoxville,Cumberland Avenue,37916
+node,13515446114,Freddy's,Freddy's,Tennessee,35.7882578,-83.9892602,Alcoa,Franck Street,37701
+node,13587355977,Whataburger,Whataburger,Tennessee,36.0498165,-83.9953568,Powell,East Emory Road,37849
+node,13596286060,Five Guys,Five Guys,Tennessee,35.7697997,-83.9870616,Alcoa,Hamilton Crossing Drive,37701
+node,13652710995,Whataburger,Whataburger,Tennessee,34.9901562,-85.2062864,,,
+node,13787710902,Whataburger,Whataburger,Tennessee,36.5854074,-87.4131878,,,
+node,13848371101,Five Guys,Five Guys,Tennessee,35.0505718,-89.7319079,,Houston Levee Road,38027
+node,13898940102,Freddy's,Freddy's,Tennessee,35.9070667,-83.8349211,,,
+node,13936522725,Five Guys,Five Guys,Tennessee,35.2070404,-89.8411042,,,
+node,13998041084,Whataburger,Whataburger,Tennessee,36.1833407,-86.4605538,,,
+node,14176125450,McDonald's,McDonald's,Tennessee,36.1784645,-85.4963179,Cookeville,North Washington Avenue,
+node,14241005301,Culver's,Culver's,Tennessee,35.2146502,-84.8712424,,Paul Huff Parkway,37312
+node,14374883435,Culver's,Culver's,Tennessee,36.1422259,-85.5262351,Cookeville,South Willow Avenue,38506
+way,41124115,McDonald's,McDonald's,Tennessee,35.9453685,-86.8237791,Franklin,Frazier Drive,37067
+way,41169819,Whataburger,Whataburger,Tennessee,35.9421928,-86.82183464444444,,,
+way,51967124,McDonald's,McDonald's,Tennessee,35.20107448,-85.15869288,,,
+way,53371819,McDonald's,McDonald's,Tennessee,35.1152375,-85.2544848142857,Chattanooga,Hixson Pike,37415
+way,80513022,McDonald's,McDonald's,Tennessee,35.025440700000004,-85.36383392857144,Chattanooga,Browns Ferry Road,00003-7419
+way,80513390,McDonald's,McDonald's,Tennessee,35.01350864000001,-85.22845382,Chattanooga,4829 Brainerd Road,37416
+way,147151387,McDonald's,McDonald's,Tennessee,34.99888547142857,-85.09557398571428,East Brainerd,Ooltewah-Ringold Road,37363
+way,148101032,McDonald's,McDonald's,Tennessee,35.577185028571435,-89.6440077857143,,,
+way,161243900,McDonald's,McDonald's,Tennessee,35.83456495714286,-87.43373868571429,,,
+way,170245322,McDonald's,McDonald's,Tennessee,36.180231581818184,-85.94699125454544,,,
+way,178476800,McDonald's,McDonald's,Tennessee,35.13877664545455,-85.2471983,Chattanooga,Highway 153,37343
+way,184854892,McDonald's,McDonald's,Tennessee,36.14558242,-86.66619693999999,Nashville,Donelson Pike,37214
+way,185381227,McDonald's,McDonald's,Tennessee,35.046753054545455,-85.28696398181818,Chattanooga,East 3rd Street,37403
+way,185738060,McDonald's,McDonald's,Tennessee,36.23142556666667,-84.15846896666666,,North Main Street,37769
+way,187559894,McDonald's,McDonald's,Tennessee,35.96730402500001,-88.93139140833335,,,
+way,187597048,McDonald's,McDonald's,Tennessee,36.27818767777778,-88.71271692222223,,,
+way,191988942,McDonald's,McDonald's,Tennessee,36.52040308,-86.03560468,,,
+way,192291902,McDonald's,McDonald's,Tennessee,35.616054014285716,-85.18634352857144,,,
+way,242423002,McDonald's,McDonald's,Tennessee,35.966117950000005,-86.81103497857143,Franklin,Galleria Boulevard,37067
+way,247783810,McDonald's,McDonald's,Tennessee,36.08194366428572,-86.72743327142858,Nashville,Nolensville Road,37211
+way,249654712,McDonald's,McDonald's,Tennessee,36.04656948,-86.71268567000001,Nashville,Nolensville Pike,37211
+way,274469705,McDonald's,McDonald's,Tennessee,36.4322954,-84.93368511999999,,,
+way,290409621,McDonald's,McDonald's,Tennessee,35.8650778,-83.5456633142857,,,
+way,295386579,Culver's,Culver's,Tennessee,35.8580093,-86.43997834285713,Murfreesboro,Medical Center Parkway,37129
+way,307851430,McDonald's,McDonald's,Tennessee,36.57670244102564,-87.40895217692308,Clarksville,Fort Campbell Boulevard,37042
+way,307898971,McDonald's,McDonald's,Tennessee,36.321745879999995,-86.86832202000001,,,
+way,311815204,McDonald's,McDonald's,Tennessee,36.17820966,-83.39215684,Morristown,West Andrew Johnson Highway,37813
+way,316301201,McDonald's,McDonald's,Tennessee,36.51506592,-87.30055303333333,Clarksville,Madison Extension,37040
+way,335698350,McDonald's,McDonald's,Tennessee,36.59621948181818,-87.2874026,Clarksville,Wilma Rudolph Boulevard,37040
+way,336018196,McDonald's,McDonald's,Tennessee,36.2198479,-86.69451230000001,Nashville,Rudy Circle,37214-1005
+way,340930930,McDonald's,McDonald's,Tennessee,36.45059131428571,-83.57050337142857,Tazewell,North Broad Street,37879
+way,345595016,McDonald's,McDonald's,Tennessee,35.475221260000005,-85.02947376,,,
+way,345632514,Culver's,Culver's,Tennessee,35.94033057142857,-86.82091062857144,Franklin,Mallory Lane,37064
+way,349580774,McDonald's,McDonald's,Tennessee,36.408350399999996,-82.47528244,Gray,Bobby Hicks Highway,37615
+way,361046999,McDonald's,McDonald's,Tennessee,36.1375171,-85.50267991999999,Cookeville,South Jefferson Street,38501-4019
+way,369611047,McDonald's,McDonald's,Tennessee,36.17066812727273,-86.68017614545455,Nashville,McGavock Pk,37214
+way,372325362,McDonald's,McDonald's,Tennessee,35.86099646363636,-84.06818503636364,Knoxville,South Northshore Drive Southwest,37921
+way,372412537,Whataburger,Whataburger,Tennessee,35.902273,-84.15391468,Knoxville,Wild Geese Road,37934
+way,372503116,McDonald's,McDonald's,Tennessee,35.88450678571429,-84.15476621428571,Farragut,Kingston Pike,37934
+way,374480756,McDonald's,McDonald's,Tennessee,35.81513643076923,-83.98088889999998,Alcoa,Airport Highway,37701
+way,385198166,Steak 'n Shake,Steak 'n Shake,Tennessee,35.912909400000004,-86.81850366,Franklin,Carothers Parkway,37067
+way,389746855,McDonald's,McDonald's,Tennessee,36.53980075,-87.3652080625,Clarksville,North 2nd Street,37040
+way,389983560,McDonald's,McDonald's,Tennessee,35.22402058,-88.24612491999999,Savannah,Main Street,38372
+way,392708772,McDonald's,McDonald's,Tennessee,35.87025158,-83.7554257,,,
+way,397740760,McDonald's,McDonald's,Tennessee,35.972433,-87.12834022000001,,,
+way,405552304,Five Guys,Five Guys,Tennessee,35.13465022727273,-89.99194012727273,Memphis,Union Avenue,38104
+way,405552847,McDonald's,McDonald's,Tennessee,35.13403944615384,-89.99269239230769,Memphis,Union Avenue,38104-4137
+way,414619605,McDonald's,McDonald's,Tennessee,35.784359046153845,-83.55336411538464,Pigeon Forge,Parkway,37863
+way,416309302,McDonald's,McDonald's,Tennessee,35.82763238,-83.57402368000001,,,
+way,425532988,McDonald's,McDonald's,Tennessee,36.33444798000001,-84.17777424,Jacksboro,Appalachian Hwy,37757
+way,425700284,McDonald's,McDonald's,Tennessee,36.0939752,-84.13734483333333,Clinton,Charles Seivers Boulevard,37716
+way,427243603,McDonald's,McDonald's,Tennessee,35.3237729,-87.75899795714288,Waynesboro,Dexter L Woods Memorial Boulevard,38485
+way,439214373,McDonald's,McDonald's,Tennessee,36.0841649,-87.8000158875,,,
+way,444910903,McDonald's,McDonald's,Tennessee,36.34054020000001,-82.37553814,Johnson City,North Roan Street,37604
+way,444935972,McDonald's,McDonald's,Tennessee,36.319675440000005,-82.34553968,Johnson City,East Main Street,37601
+way,444951908,McDonald's,McDonald's,Tennessee,36.30073125333333,-82.46714211333332,Jonesborough,Boones Creek Road,37659
+way,446305471,McDonald's,McDonald's,Tennessee,36.164678609090906,-84.08614365454545,Clinton,North Charles G Seivers Boulevard,37716
+way,450282163,McDonald's,McDonald's,Tennessee,35.81158988571429,-86.36798408571428,Murfreesboro,South Rutherford Boulevard,37130
+way,450292363,McDonald's,McDonald's,Tennessee,35.80684892000001,-86.39688100000001,Murfreesboro,South Church Street,37128
+way,469216817,McDonald's,McDonald's,Tennessee,36.03108798,-83.92999618,Knoxville,North Broadway,37918
+way,471968120,McDonald's,McDonald's,Tennessee,36.154211327272726,-85.51522208181818,Cookeville,South Willow Avenue,38501
+way,472680823,McDonald's,McDonald's,Tennessee,35.25572537142857,-87.32490052857143,Lawrenceburg,North Locust Avenue,38464
+way,474634082,McDonald's,McDonald's,Tennessee,35.08978671818182,-85.3125316,Red Bank,Dayton Boulevard,37405
+way,476935236,McDonald's,McDonald's,Tennessee,35.97198898888889,-83.98614254444443,Knoxville,Western Avenue,37912
+way,477366748,McDonald's,McDonald's,Tennessee,35.84144346,-86.39121700000001,Murfreesboro,Southeast Broad Street,37130-4229
+way,479384911,McDonald's,McDonald's,Tennessee,36.3266202,-86.5943377,Hendersonville,Indian Lake Boulevard,37075
+way,486370229,McDonald's,McDonald's,Tennessee,35.86568138,-83.56796650000001,,,
+way,486682710,McDonald's,McDonald's,Tennessee,36.00827611538462,-83.97495054615385,Knoxville,Merchant Drive,37912
+way,488976996,McDonald's,McDonald's,Tennessee,36.4255399,-82.31614682857142,Piney Flats,Highway 11 East,37686
+way,490529487,McDonald's,McDonald's,Tennessee,36.15247174615384,-86.8440837923077,Nashville,Charlotte Avenue,37209-3405
+way,497276877,Culver's,Culver's,Tennessee,36.32861391428572,-86.5932217,Hendersonville,Indian Lake Boulevard,37075
+way,515937910,McDonald's,McDonald's,Tennessee,36.35094275714285,-82.2217660857143,Elizabethton,Broad Street,37643
+way,517608467,Burger King,McDonald's,Tennessee,36.418872033333336,-82.99644804444443,,James Richardson Lane,37857
+way,518705143,Steak 'n Shake,Steak 'n Shake,Tennessee,36.13875636,-85.50677879999999,Cookeville,Interstate Drive,38501
+way,526608649,McDonald's,McDonald's,Tennessee,36.045516185714284,-86.95369221428571,Nashville,Highway 100,37221
+way,538520145,McDonald's,McDonald's,Tennessee,36.15616236,-86.7875273,Nashville,Broadway,37203-3117
+way,544300233,McDonald's,McDonald's,Tennessee,36.579160885714295,-82.56756797142859,Kingsport,Lynn Garden Road,37665
+way,544407904,McDonald's,McDonald's,Tennessee,36.07475295454545,-86.9214960909091,Nashville,Highway 70 South,37221-2211
+way,545140215,McDonald's,McDonald's,Tennessee,35.01987481818182,-89.82941095454545,Memphis,East Shelby Drive,38125-3417
+way,545666138,Freddy's,Freddy's,Tennessee,36.55020422,-82.4941109,,,
+way,545958360,McDonald's,McDonald's,Tennessee,36.18225147777778,-85.46041335555556,Algood,Bigmac Drive,38506
+way,548007136,McDonald's,McDonald's,Tennessee,35.86548046,-86.44639944000001,Murfreesboro,Medical Center Parkway,37129
+way,552473513,McDonald's,McDonald's,Tennessee,36.54877114,-82.51940955999999,Kingsport,East Stone Drive,37660
+way,556133886,McDonald's,McDonald's,Tennessee,36.55241356,-82.6249435,Kingsport,West Stone Drive,37660
+way,560750716,McDonald's,McDonald's,Tennessee,35.050338025925925,-89.86118278518518,,Winchester Road,38115-4011
+way,565084694,McDonald's,McDonald's,Tennessee,36.14749576,-82.84775527999999,,,
+way,585251790,McDonald's,McDonald's,Tennessee,35.049514900000005,-89.88569721764708,Memphis,South Mendenhall,38115-4801
+way,587295277,Whataburger,Whataburger,Tennessee,35.83685686,-83.57200518,Sevierville,Parkway,37862
+way,589121553,McDonald's,McDonald's,Tennessee,36.47975778,-87.88832713999999,,,
+way,591078825,McDonald's,McDonald's,Tennessee,36.348449466666665,-88.8734334,,,
+way,592893619,McDonald's,McDonald's,Tennessee,35.02061912325581,-90.0079488511628,Memphis,East Shelby Drive,38116
+way,593061036,Steak 'n Shake,Steak 'n Shake,Tennessee,35.20509348,-84.84946664,Cleveland,Paul Huff Parkway,37312
+way,605099608,McDonald's,McDonald's,Tennessee,35.201152423529415,-84.8446768,Cleveland,North Lee Highway,37312
+way,605109513,McDonald's,McDonald's,Tennessee,36.59486556,-82.21422396,Bristol,West State,37620
+way,608813077,McDonald's,McDonald's,Tennessee,35.87173516,-86.35331183999999,Murfreesboro,North Rutherford Boulevard,37130
+way,613907452,Shake Shack,Shake Shack,Tennessee,35.14590624,-84.83207394,,,
+way,623182323,McDonald's,McDonald's,Tennessee,35.737191079999995,-86.89299951999999,Spring Hill,Old Port Royal Road North,37174
+way,629520499,McDonald's,McDonald's,Tennessee,36.04098748965519,-86.74504546551724,Brentwood,Old Hickory Boulevard,37211
+way,629541721,Culver's,Culver's,Tennessee,35.834306,-86.35178816,Murfreesboro,South Rutherford Boulevard,37130
+way,629541740,Culver's,Culver's,Tennessee,36.59128082857143,-87.29629944285715,Clarksville,South Hampton Place,37040
+way,629541742,Culver's,Culver's,Tennessee,35.769369510526325,-86.91898896842105,Spring Hill,Bellshire Village Drive,37174
+way,633818717,McDonald's,McDonald's,Tennessee,36.145952123076924,-86.81218209230768,Nashville,West End Avenue,37203-1426
+way,643063427,McDonald's,McDonald's,Tennessee,36.515480752631575,-84.50633114210525,,,
+way,643097959,McDonald's,McDonald's,Tennessee,36.3977362,-83.01539016000001,,,
+way,645828105,McDonald's,McDonald's,Tennessee,36.10860744,-87.22795871999999,,,
+way,656890369,McDonald's,McDonald's,Tennessee,36.46953946470588,-86.67798349411764,,,
+way,657097373,McDonald's,McDonald's,Tennessee,35.042935066666665,-85.68601887037038,Kimball,Main Street,37347
+way,666393554,McDonald's,McDonald's,Tennessee,35.7446915,-86.93914460833332,Spring Hill,Main Street,37174
+way,690834403,McDonald's,McDonald's,Tennessee,35.956424500000004,-85.81225244,Smithville,South Congress Boulevard,37166
+way,693371332,McDonald's,McDonald's,Tennessee,35.15134701333333,-89.89146926222223,Memphis,Summer Avenue,38122-4408
+way,699505906,McDonald's,McDonald's,Tennessee,35.77683371904762,-86.91474252857142,Spring Hill,Columbia Highway,37174
+way,702198168,Steak 'n Shake,Steak 'n Shake,Tennessee,36.58949416,-87.29107712,Clarksville,Wilma Rudolph Boulevard,37040
+way,702352595,McDonald's,McDonald's,Tennessee,35.08463994444445,-85.06200235000001,Ooltewah,Lee Highway,
+way,706096596,McDonald's,McDonald's,Tennessee,34.98993332222223,-85.21002886666668,East Ridge,Ringgold Road,37412-3835
+way,728862206,McDonald's,McDonald's,Tennessee,35.030319559999995,-85.18465416,Chattanooga,Lee Highway,37421
+way,732110318,McDonald's,McDonald's,Tennessee,35.91004444285714,-84.09988587142857,Knoxville,Kingston Pike,37923
+way,736670189,Culver's,Culver's,Tennessee,35.912554385714294,-84.08508497142859,Knoxville,Kingston Pike,37923
+way,743527838,McDonald's,McDonald's,Tennessee,35.08392065555555,-89.93177691851852,Memphis,Getwell Road,38111-7018
+way,743653955,McDonald's,McDonald's,Tennessee,35.94716432,-84.15946962,Knoxville,Hardin Valley Road,37920
+way,744146588,Culver's,Culver's,Tennessee,36.17560342857142,-86.51474325714285,Mount Juliet,Old Pleasant Grove Road,37122
+way,746819140,McDonald's,McDonald's,Tennessee,36.4812531,-82.49652696666666,Kingsport,Fort Henry Drive,37663
+way,748898400,McDonald's,McDonald's,Tennessee,35.105239787179485,-89.9846702948718,Memphis,South Trezevant Street,38114
+way,757462387,Freddy's Frozen Custard & Steakburgers,Freddy's,Tennessee,35.931243688888884,-84.01059662222221,Knoxville,Kingston Pike,37919
+way,760421724,McDonald's,McDonald's,Tennessee,35.44105750000001,-88.6316779,,,
+way,777346036,Freddy's,Freddy's,Tennessee,36.324237260000004,-82.39423772,Johnson City,North State of Franklin Road,37604
+way,778695344,McDonald's,McDonald's,Tennessee,35.138150555172416,-90.03139257241381,Memphis,Union Avenue,38103-3513
+way,784305101,McDonald's,McDonald's,Tennessee,36.035370213043485,-86.7917187652174,,,37027-7505
+way,787828243,McDonald's,McDonald's,Tennessee,36.12082488,-86.77485551999999,Nashville,8th Avenue South,37204-3008
+way,791949720,McDonald's,McDonald's,Tennessee,35.21154856756755,-90.03268744594594,Memphis,North Thomas Street,38127-6002
+way,796668926,Steak 'n Shake,Steak 'n Shake,Tennessee,36.287191766666666,-88.31209255,Paris,Mineral Wells Avenue,38242
+way,798991355,McDonald's,McDonald's,Tennessee,36.28985864444444,-88.31359061111112,,,
+way,815748339,McDonald's,McDonald's,Tennessee,35.21767541052632,-89.91356151578947,Memphis,Austin Peay Highway,38128-3801
+way,821271183,McDonald's,McDonald's,Tennessee,35.18536155161291,-89.89571732580646,Memphis,Covington Pike,38128-6907
+way,822297036,McDonald's,McDonald's,Tennessee,35.16942345185185,-89.86491723333336,Memphis,Sycamore View,38134-7310
+way,822997719,McDonald's,McDonald's,Tennessee,35.950536955555556,-83.91468144444444,Knoxville,Chapman Highway,37920
+way,823189535,McDonald's,McDonald's,Tennessee,35.90681167142857,-83.8393137,Knoxville,Mountain Grove Drive,37920
+way,827773654,McDonald's,McDonald's,Tennessee,35.17179383846154,-89.79360139230769,Cordova,North Germantown Parkway,38018
+way,832445141,Steak 'n Shake,Steak 'n Shake,Tennessee,35.039847755555556,-85.14971522222223,Chattanooga,Gunbarrel Road,37421
+way,832447148,Whataburger,Whataburger,Tennessee,35.04406136666666,-85.156446375,,,
+way,832790462,McDonald's,McDonald's,Tennessee,35.213476,-84.88360111428571,Cleveland,Georgetown Road Northwest,37312
+way,838288787,McDonald's,McDonald's,Tennessee,35.95594664285714,-83.93333585,Knoxville,West Cumberland Avenue,37912
+way,852475535,McDonald's,McDonald's,Tennessee,36.13848628,-86.88214918,Nashville,Charlotte Pike,37209-4202
+way,856222858,McDonald's,McDonald's,Tennessee,35.996105699999994,-88.43939444444443,,,
+way,856609506,McDonald's,McDonald's,Tennessee,35.09361476666666,-89.80784757333332,Germantown,Germantown Road,38138-2844
+way,857605329,McDonald's,McDonald's,Tennessee,35.72676391428572,-83.47165961428571,,,
+way,879477680,McDonald's,McDonald's,Tennessee,36.0401168,-83.44261592000001,,,
+way,895764587,McDonald's,McDonald's,Tennessee,36.23119124,-83.28784082,Morristown,Buffalo Trail Drive,37814
+way,896027034,McDonald's,McDonald's,Tennessee,36.222403376470595,-83.26005012352942,Morristown,East Morris Boulevard,37813
+way,898008706,McDonald's,McDonald's,Tennessee,36.15040115,-82.41705119999999,,,
+way,914767709,McDonald's,McDonald's,Tennessee,35.99293576153846,-86.52722424615385,,North Lowry Street,37167-2550
+way,918982874,Whataburger,Whataburger,Tennessee,35.84530503846154,-86.42401287692307,Murfreesboro,Old Fort Parkway,37129
+way,929000922,McDonald's,McDonald's,Tennessee,35.70248208888889,-85.78039138888889,McMinnville,Smithville Highway,37110
+way,931222431,McDonald's,McDonald's,Tennessee,36.14322187692308,-83.27698055384616,Morristown,Twin Spires Lane,37814
+way,941659405,McDonald's,McDonald's,Tennessee,36.031322348275864,-83.86998495172415,Knoxville,Millertown Pike,37918
+way,948866407,McDonald's,McDonald's,Tennessee,35.599172200000005,-84.51050229999998,,,
+way,956007046,McDonald's,McDonald's,Tennessee,35.04841452000001,-89.73320498000001,Collierville,South Houston Levee Road,38017
+way,964468931,McDonald's,McDonald's,Tennessee,36.06133633333334,-89.39482233333332,,,
+way,965096596,McDonald's,McDonald's,Tennessee,35.02014856666666,-89.93565596,Memphis,East Shelby Drive,38118
+way,969491986,McDonald's,McDonald's,Tennessee,35.8367365,-88.91570008,,,
+way,970113221,McDonald's,McDonald's,Tennessee,35.76192833333334,-89.54483592000001,,,
+way,974133180,McDonald's,McDonald's,Tennessee,35.933326088235304,-86.53259183529411,Smyrna,Almaville Road,37167
+way,979691261,McDonald's,McDonald's,Tennessee,36.38899661999999,-82.41117915999999,Johnson City,North Roan Street,37615
+way,986147916,McDonald's,McDonald's,Tennessee,36.414649588888885,-89.07104353333334,,,
+way,987026803,Steak 'n Shake,Steak 'n Shake,Tennessee,35.9669288,-86.49559706,Smyrna,Sgt Asbury Hawn Way,
+way,990652456,McDonald's,McDonald's,Tennessee,35.229031428571425,-89.80967612857141,Bartlett,US Highway 70,38133
+way,991789123,McDonald's,McDonald's,Tennessee,35.15827028,-89.72696776000001,Cordova,Houston Levee Road,38018
+way,1002182550,McDonald's,McDonald's,Tennessee,36.00088192727273,-83.92528902727273,Knoxville,North Broadway,37917
+way,1009171179,Freddy's,Freddy's,Tennessee,35.98053812,-86.56059716,,,
+way,1019464681,McDonald's,McDonald's,Tennessee,35.6530426875,-88.82920082499999,Jackson,North Highland Avenue,38305-4509
+way,1020415526,McDonald's,McDonald's,Tennessee,35.67404397777778,-88.7818643111111,Jackson,Chloe Place,38305
+way,1021813905,McDonald's,McDonald's,Tennessee,35.689348833333334,-88.85676018888888,Jackson,Stone Brook,38302
+way,1029856114,Freddy's,Freddy's,Tennessee,36.193370419999994,-83.36009502000002,,,
+way,1030830672,McDonald's,McDonald's,Tennessee,36.16131354444445,-86.51450147777777,Mount Juliet,South Mount Juliet Road,37122
+way,1036611404,McDonald's,McDonald's,Tennessee,36.208431106666666,-86.77730155333333,,Brick Church Pike,37206
+way,1041856596,McDonald's,McDonald's,Tennessee,35.75182102857143,-83.99879891428573,Maryville,Foothills Drive,37801
+way,1065372226,McDonald's,McDonald's,Tennessee,35.90574908333333,-88.75166106666668,,,
+way,1068373424,McDonald's,McDonald's,Tennessee,35.986244671428565,-83.60623647142857,,,
+way,1075133898,McDonald's,McDonald's,Tennessee,35.79053455555556,-88.39100764444444,,,
+way,1075185471,McDonald's,McDonald's,Tennessee,36.12478214285714,-86.75141085714286,Nashville,Nolensville Road,37211-2025
+way,1078285657,McDonald's,McDonald's,Tennessee,36.399732119999996,-86.16203258,Hartsville,East McMurry Boulevard,37074
+way,1078927698,McDonald's,McDonald's,Tennessee,36.10887378333333,-83.33387928333333,White Pine,Roy Messer Highway,37890
+way,1088086224,McDonald's,McDonald's,Tennessee,34.99129531111111,-85.28944723333332,Chattanooga,Rossville Boulevard,37407
+way,1089417446,McDonald's,McDonald's,Tennessee,36.079392530769226,-86.64535931538464,Nashville,Murfreesboro Pike,37217-3554
+way,1089803902,Whataburger,Whataburger,Tennessee,36.19253986,-86.61706138,Hermitage,Old Hickory Boulevard,37076
+way,1098138663,Whataburger,Whataburger,Tennessee,35.98854016666667,-86.54715060000001,Smyrna,West Sam Ridley Parkway,37167
+way,1098305914,McDonald's,McDonald's,Tennessee,35.205282,-89.86175711111112,Bartlett,Stage Road,38134
+way,1098307525,Freddy's,Freddy's,Tennessee,35.20598628571429,-89.83719571428573,,,
+way,1105346498,McDonald's,McDonald's,Tennessee,35.20049334444444,-87.04233325555555,Pulaski,West College Street,
+way,1105873131,McDonald's,McDonald's,Tennessee,35.51691863999999,-84.79071013999999,,,
+way,1110632968,McDonald's,McDonald's,Tennessee,35.7181145,-84.01083672,Maryville,Market Place Drive,37802
+way,1116630699,McDonald's,McDonald's,Tennessee,36.00467213529413,-83.77265150000001,Knoxville,Strawberry Plains Pike,37871
+way,1184101561,McDonald's,McDonald's,Tennessee,35.253350600000005,-85.18231266666668,,Sequoyah Road,
+way,1185726281,Freddy T's Restaurant & Beach Club,Freddy's,Tennessee,34.999875894999995,-88.24833039500001,,,
+way,1192779528,McDonald's,McDonald's,Tennessee,36.273119990909095,-87.06230903636362,Ashland City,South Main Street,37015
+way,1210140949,McDonald's,McDonald's,Tennessee,35.635176060000006,-87.01688044,Columbia,Bear Creek Pike,38401-2261
+way,1212565880,McDonald's,McDonald's,Tennessee,36.08629033999999,-86.6949401,Nashville,Harding Place,37211-3911
+way,1217876245,McDonald's,McDonald's,Tennessee,35.859722479999995,-86.50710918,Murfreesboro,Veterans Parkway,37128
+way,1219251711,McDonald's,McDonald's,Tennessee,36.22655958,-83.84322657999999,,,
+way,1220579983,McDonald's,McDonald's,Tennessee,36.17958488,-82.7743255,,,
+way,1221075985,McDonald's,McDonald's,Tennessee,36.527203539999995,-82.68677856000001,Church Hill,Silver Lake Road,37642
+way,1221227949,McDonald's,McDonald's,Tennessee,36.52353292,-82.3120112,Blountville,Highway 394,37617
+way,1225058590,McDonald's,McDonald's,Tennessee,35.643794660000005,-86.89776584,Columbia,Bear Creek Pike,38401
+way,1225140417,McDonald's,McDonald's,Tennessee,36.21632091818182,-86.33168635454545,Lebanon,West Main Street,37087-3114
+way,1227441141,Whataburger,Whataburger,Tennessee,35.27092702,-89.66731102000001,Arlington,Milton Wilson Road,38002
+way,1227466003,McDonald's,McDonald's,Tennessee,35.04659794,-89.69079205999999,Collierville,West Poplar Avenue,38017
+way,1229445561,Steak 'n Shake,Steak 'n Shake,Tennessee,36.32012168,-86.59862555999999,Hendersonville,Anderson Lane North,37075
+way,1229492909,McDonald's,McDonald's,Tennessee,35.3094091,-86.8795978,Cornersville,Pulaski Highway,37047
+way,1235508195,McDonald's,McDonald's,Tennessee,36.114539788888884,-83.4934394,,,
+way,1242153860,McDonald's,McDonald's,Tennessee,36.3001614909091,-86.70002225454546,Goodlettsville,Two Mile Parkway,37072-2322
+way,1248801927,McDonald's,McDonald's,Tennessee,35.8020346,-83.94350862,Alcoa,Old Knoxville Highway,37804
+way,1248804059,McDonald's,McDonald's,Tennessee,35.99099838,-83.88966386,Knoxville,East Magnolia Avenue,37918
+way,1252424792,McDonald's,McDonald's,Tennessee,34.991589899999994,-86.8406058,Ardmore,Main Street,35739
+way,1253792617,McDonald's,McDonald's,Tennessee,35.22840883076923,-89.51553765384614,Oakland,US-64,38060
+way,1259802673,McDonald's,McDonald's,Tennessee,35.13009464,-86.56582666,,Huntsville Highway,37334-3606
+way,1259803508,McDonald's,McDonald's,Tennessee,35.48740764,-86.44225822,Shelbyville,Madison Street,37160-3523
+way,1271268985,McDonald's,McDonald's,Tennessee,35.91100297999999,-84.58324374,,,
+way,1271275347,McDonald's,McDonald's,Tennessee,35.9253667,-86.87419792307693,Franklin,Highway 96 West,37064
+way,1271540387,McDonald's,McDonald's,Tennessee,35.88149926,-84.66011314,,,
+way,1288969998,McDonald's,McDonald's,Tennessee,35.79869742857142,-83.5883364142857,,Wears Valley Road,37863
+way,1292701630,McDonald's,McDonald's,Tennessee,35.45008877142857,-84.62361281428572,Athens,Congress Pkwy S,37303
+way,1304151432,McDonald's,McDonald's,Tennessee,36.32572533333333,-86.70173651111111,Goodlettsville,Long Hollow Pike,37072-1876
+way,1326471316,Whataburger,Whataburger,Tennessee,36.540663,-87.36479179,Clarksville,North 2nd Street,37040
+way,1327356578,McDonald's,McDonald's,Tennessee,36.05797065714285,-88.11502457142856,,,
+way,1327357192,McDonald's,McDonald's,Tennessee,35.65484601428572,-88.12643867142857,,,
+way,1328625671,McDonald's,McDonald's,Tennessee,35.04857516,-89.82669048,Memphis,Winchester Road,38125
+way,1328625945,McDonald's,McDonald's,Tennessee,35.2568464,-88.99794454,,West Market Street,38008-2243
+way,1328626144,McDonald's,McDonald's,Tennessee,35.56346114,-88.81476751999999,,South Highland Avenue,38301-7718
+way,1328636883,McDonald's,McDonald's,Tennessee,35.37327064,-86.22117674,,North Jackson Street,37388-2334
+way,1328636977,McDonald's,McDonald's,Tennessee,35.50477782,-86.45652500000001,Shelbyville,North Main Street,37160
+way,1328637163,McDonald's,McDonald's,Tennessee,35.86096144,-86.84040314,Franklin,Village Plains Boulevard,37064
+way,1332056106,McDonald's,McDonald's,Tennessee,35.90326517142858,-84.1421117,Knoxville,Lovell Road,37922
+way,1365636001,Shake Shack,Shake Shack,Tennessee,36.03444862222223,-86.64641188888888,,,
+way,1377446777,Whataburger,Whataburger,Tennessee,36.52049522,-87.23459568,Clarksville,Fire Station Road,37043
+way,1377446780,Freddy's,Freddy's,Tennessee,36.52207028,-87.2351182,Clarksville,M.L.K. Jr Parkway,37043
+way,1392153478,Whataburger,Whataburger,Tennessee,36.30707724,-86.60870322000001,,,
+way,1418733160,McDonald's,McDonald's,Tennessee,36.05007701999999,-83.99895252000002,Powell,Emory Road,37938
+way,1424832840,McDonald's,McDonald's,Tennessee,35.13017525294118,-84.86744032352942,,,37312
+way,1434643694,McDonald's,McDonald's,Tennessee,35.97483041176471,-86.49193786470589,Smyrna,Nissan Drive,37167
+way,1443725484,Whataburger,Whataburger,Tennessee,36.23053844,-86.51284744,,,
+way,1446828197,Five Guys,Five Guys,Tennessee,35.031046100000005,-85.15116165,,Gunbarrel Road,37421
+way,1454813930,Culver's,Culver's,Tennessee,35.12834818,-85.241416,Hixson,Northgate Mall Drive,37343
+way,1457051712,Whataburger,Whataburger,Tennessee,35.048789080000006,-89.8043548,Memphis,Winchester Road,38125
+way,1464235458,Freddy's,Freddy's,Tennessee,35.88335345714286,-83.57386095714286,,,
+way,1508011097,In-N-Out Burger,In-N-Out,Tennessee,35.85979791,-86.441071725,Murfreesboro,Medical Center Parkway,37130
+way,1527856040,Shake Shack,Shake Shack,Tennessee,35.93639780000001,-86.82677742,,,
+way,1553328570,Whataburger,Whataburger,Tennessee,35.86361412,-86.44475136,,,
+way,1567217393,Freddy's,Freddy's,Tennessee,36.56377838,-87.31250828,,,
+way,1570482365,In-N-Out Burger,In-N-Out,Tennessee,36.300363,-86.69674552000001,Madison,Gallatin Pike North,37115
+way,1570484975,In-N-Out Burger,In-N-Out,Tennessee,35.86005908,-86.84059106,Franklin,Double Double Drive,37067

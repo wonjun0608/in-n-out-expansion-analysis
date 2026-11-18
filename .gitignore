@@ -1,0 +1,23 @@
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Secrets
+.env
+*.pem
+
+# Large raw OSM files
+*.osm.pbf
+
+# Generated SQLite database
+data/*.db
+
+# Downloaded Census boundary files
+data/boundaries/*.zip

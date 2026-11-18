@@ -1,0 +1,603 @@
+osm_type,osm_id,name,brand,state_query,latitude,longitude,city,street,postcode
+node,471275004,McDonald's,McDonald's,Georgia,33.7815809,-84.6093265,Lithia Springs,Thornton Road,30122
+node,497203850,McDonald's,McDonald's,Georgia,33.7902593,-84.3074143,North Decatur,North Decatur,30033-5910
+node,534028686,McDonald's,McDonald's,Georgia,33.7743037,-84.3695954,Atlanta,526,30308
+node,583668664,McDonald's,McDonald's,Georgia,34.655773,-84.9802512,Dalton,Carbondale Road Southwest,30721-5301
+node,786584015,Five Guys,Five Guys,Georgia,34.0374735,-84.5678905,Kennesaw,Chastain Road,30144
+node,894860497,McDonald's,McDonald's,Georgia,33.9103559,-84.2081831,Norcross,McDonough Boulevard,30093-1204
+node,894860556,McDonald's,McDonald's,Georgia,33.9536049,-84.1314904,Duluth,Pleasant Hill Road,30096-4625
+node,894860589,McDonald's,McDonald's,Georgia,33.9999582,-84.0700762,Suwanee,Old Peachtree Road,30043
+node,895041486,McDonald's,McDonald's,Georgia,34.0735422,-83.9171409,Dacula,Hamilton Mill Parkway,30019
+node,895041549,McDonald's,McDonald's,Georgia,34.1196165,-83.7620235,,,
+node,1073428249,McDonald's,McDonald's,Georgia,33.913552,-84.207833,,,
+node,1314434013,McDonald's,McDonald's,Georgia,33.7332078,-84.9004497,Villa Rica,Mirror Lake Boulevard,30180-2129
+node,1576762944,McDonald's,McDonald's,Georgia,33.7020555,-84.1154779,Lithonia,Evans Mill Road,30058
+node,1578923567,McDonald's,McDonald's,Georgia,33.6641495,-84.0313824,Conyers,Klondike Road,30094
+node,1580552749,McDonald's,McDonald's,Georgia,33.859716,-84.340725,Atlanta,Peachtree Road Northeast,30319-3002
+node,1581564845,McDonald's,McDonald's,Georgia,33.8101849,-84.2748286,Decatur,North Druid Hills Road,30033-3023
+node,1586431822,McDonald's,McDonald's,Georgia,33.7321782,-84.282978,Decatur,Candler Road,30032
+node,1689037888,McDonald's,McDonald's,Georgia,32.4822557,-84.9411714,Columbus,Macon Road,31906
+node,1695484247,McDonald's,McDonald's,Georgia,32.5215467,-84.8887839,Columbus,Milgen Road,31907-1300
+node,1850033155,McDonald's,McDonald's,Georgia,33.9401125,-84.7018862,Powder Springs,Dallas Highway,30127
+node,1863877325,McDonald's,McDonald's,Georgia,32.7436491,-83.7244183,Macon,Hartley Bridge Road,31216
+node,2347941794,McDonald's,McDonald's,Georgia,31.9316783,-81.931141,,,
+node,2390865225,Shake Shack,Shake Shack,Georgia,33.78541,-84.4121409,,Howell Mill Road Northwest,
+node,2437968608,McDonald's,McDonald's,Georgia,33.6431341,-84.0150563,Conyers,Highway 138,30094
+node,2442092146,McDonald's,McDonald's,Georgia,33.885984,-84.254673,Doraville,Chamblee Tucker Road,30341-4353
+node,2575412878,McDonald's,McDonald's,Georgia,32.6178064,-83.6407344,Warner Robins,Watson Boulevard,31093
+node,2702536971,McDonald's,McDonald's,Georgia,32.1413208,-81.2477728,Pooler,Pooler Parkway,31322
+node,2804447227,McDonald's,McDonald's,Georgia,31.4574107,-83.5266729,,,
+node,2851748901,McDonald's,McDonald's,Georgia,33.926848,-84.337678,Dunwoody,Ashford Dunwoody Road Northeast,30346-1515
+node,2875412251,Five Guys,Five Guys,Georgia,34.0708825,-83.9147168,Dacula,Braselton Highway,30019
+node,2906615687,McDonald's,McDonald's,Georgia,31.133798,-81.5681125,,,
+node,2917918507,McDonald's,McDonald's,Georgia,34.8689555,-85.514215,Trenton,Highway 136 West,30752
+node,2924175842,Five Guys,Five Guys,Georgia,33.6421965,-84.4325123,,,
+node,2924606873,McDonald's,McDonald's,Georgia,33.6407139,-84.4249912,Atlanta,,30320
+node,2924606879,Five Guys,Five Guys,Georgia,33.6398528,-84.4292307,,,
+node,2961847733,Steak 'n Shake,Steak 'n Shake,Georgia,31.428711,-83.516323,,,31794
+node,3023420211,McDonald's,McDonald's,Georgia,33.7506762,-84.73128,Douglasville,Fairburn Road,30134-2373
+node,3023422143,Five Guys,Five Guys,Georgia,33.7230891,-84.7334151,,,
+node,3090780795,McDonald's,McDonald's,Georgia,34.1084393,-83.8743829,Flowery Branch,Spout Springs Road,30542
+node,3162280461,Five Guys,Five Guys,Georgia,33.9164181,-83.4429844,Athens,Epps Bridge Parkway,30606
+node,3371451903,McDonald's,McDonald's,Georgia,32.0799307,-81.0951599,Savannah,West Broughton Street,31401
+node,3431915744,McDonald's,McDonald's,Georgia,31.1784968,-83.7822758,Moultrie,1st Avenue South East,31768
+node,3442208940,Five Guys,Five Guys,Georgia,32.1402855,-81.2433582,Pooler,Mill Creek Circle,31322
+node,3518401426,McDonald's,McDonald's,Georgia,33.5280463,-84.6595675,Palmetto,Highway 29,30268
+node,3696220564,Five Guys,Five Guys,Georgia,32.0813372,-81.0933268,Savannah,West Bay Street,31401
+node,3707400960,McDonald's,McDonald's,Georgia,32.5934684,-83.6262221,Warner Robins,Russell Parkway,31088
+node,3750488913,McDonald's,McDonald's,Georgia,33.6391905,-84.4390956,Atlanta,,30320
+node,3813393439,McDonald's,McDonald's,Georgia,32.1362455,-81.6211874,Pembroke,,
+node,3888654574,McDonald's,McDonald's,Georgia,32.0859098,-83.7601839,,,
+node,3890754455,McDonald's,McDonald's,Georgia,33.7538344,-84.3928212,Atlanta,Forsyth Street SW,30303
+node,4124632890,Freddy's,Freddy's,Georgia,34.0208981,-84.1220002,Duluth,Peachtree Industrial Boulevard,30097
+node,4175103681,McDonald's,McDonald's,Georgia,31.216534,-81.519282,Brunswick,New Jesup Highway,31520
+node,4247107665,McDonald's,McDonald's,Georgia,32.8536006,-84.6184268,,,
+node,4265507954,McDonald's,McDonald's,Georgia,32.9003894,-83.6868946,Macon,Riverside Drive,31210
+node,4290489536,McDonald's,McDonald's,Georgia,31.9813099,-81.1683059,Savannah,Abercorn Street Extension,31419
+node,4664879371,Shake Shack,Shake Shack,Georgia,33.8376624,-84.3809139,Atlanta,Peachtree Road,30305
+node,4751030904,McDonald's,McDonald's,Georgia,31.8309012,-81.615766,Hinesville,Elma G Miles Parkway,31313
+node,4782122747,McDonald's,McDonald's,Georgia,31.7798184,-81.3832809,Midway,East Oglethorpe Highway,31320
+node,4782122748,McDonald's,McDonald's,Georgia,31.9263635,-81.334794,,,
+node,4782122751,McDonald's,McDonald's,Georgia,31.9606311,-81.3313544,,,
+node,4829482077,McDonald's,McDonald's,Georgia,32.489829,-82.9346117,,,
+node,4831905993,McDonald's,McDonald's,Georgia,32.7484424,-81.6426153,,,
+node,4997206662,McDonald's,McDonald's,Georgia,34.0865893,-84.5758128,Acworth,Bells Ferry Road,30101
+node,5196224749,Shake Shack,Shake Shack,Georgia,33.923245,-84.339852,,,
+node,5224799021,McDonald's,McDonald's,Georgia,32.1887989,-81.1948621,Port Wentworth,Highway 21,31407
+node,5296246790,McDonald's,McDonald's,Georgia,32.2135332,-82.4027413,,,
+node,5417102183,McDonald's,McDonald's,Georgia,34.7917437,-84.9614361,Dalton,Cleveland Road,30720
+node,5534799957,McDonald's,McDonald's,Georgia,32.067507,-82.8978994,,,
+node,5958038101,McDonald's,McDonald's,Georgia,34.3317332,-83.8415664,Gainesville,Thompson Bridge Road,30501
+node,6150194032,Five Guys,Five Guys,Georgia,33.8530916,-84.6021292,Austell,East West Connector,30106
+node,6297837280,Five Guys,Five Guys,Georgia,34.0877003,-84.1646364,Suwanee,Peachtree Parkway,30024
+node,6323190773,McDonald's,McDonald's,Georgia,34.112708,-84.1532093,Cumming,Old Atlanta Road,30041
+node,6400676790,McDonald's,McDonald's,Georgia,33.9443201,-83.7558159,Bethlehem,Loganville Highway,30620
+node,6414923197,Five Guys,Five Guys,Georgia,33.7781167,-84.3845449,Atlanta,Peachtree Street Northeast,30308
+node,6455593898,Culver's,Culver's,Georgia,34.4727921,-84.4619623,Jasper,Noah Drive,30143
+node,6544425774,McDonald's,McDonald's,Georgia,33.5036931,-84.2362711,Stockbridge,Hudson Bridge Road,30281
+node,6544494519,McDonald's,McDonald's,Georgia,33.9397169,-84.1209,Lawrenceville,Pleasant Hill Road,30044
+node,6566844868,Freddy's,Freddy's,Georgia,32.5492746,-83.6900596,,,
+node,6964231127,Culver's,Culver's,Georgia,32.0011023,-81.1362647,Savannah,West Montgomery Crossroad,31406
+node,6975055419,Five Guys,Five Guys,Georgia,33.3907041,-84.7646447,Newnan,Newnan Crossing Bypass,30265
+node,7020493173,Five Guys,Five Guys,Georgia,34.1733186,-84.7816002,Cartersville,Cherokee Place,30121
+node,7180008754,Freddy's,Freddy's,Georgia,32.8812793,-83.7666979,Macon,Zebulon Road,31201
+node,7403924739,McDonald's,McDonald's,Georgia,33.7061455,-84.1699467,Lithonia,Panola Road,30038
+node,7519538811,Five Guys,Five Guys,Georgia,33.4769551,-82.1978188,Grovetown,Bentley Drive,30813
+node,7610255561,Five Guys,Five Guys,Georgia,31.6171094,-84.2220745,Albany,Dawson Road,31707
+node,7653203350,McDonald's,McDonald's,Georgia,33.4101206,-84.5668116,Peachtree City,Crossings,30269
+node,7722479452,McDonald's,McDonald's,Georgia,33.4222553,-83.2687618,,,
+node,7766333010,Five Guys,Five Guys,Georgia,31.234405,-81.4954372,Brunswick,Canal Road,31525
+node,8042517665,McDonald's,McDonald's,Georgia,34.0871487,-84.483177,Woodstock,Highway 92,30188
+node,8069820685,Five Guys,Five Guys,Georgia,34.3560815,-84.0447213,Dawsonville,Power Center Drive,30534
+node,8401886235,Five Guys,Five Guys,Georgia,33.3971426,-84.5978389,Peachtree City,West Lanier Avenue,30269
+node,8455422567,McDonald's,McDonald's,Georgia,34.0353488,-84.3431236,Roswell,Holcomb Bridge Road,30076
+node,8695566171,Five Guys,Five Guys,Georgia,34.0627295,-84.3971037,Roswell,Woodstock Road,30075
+node,8967697267,McDonald's,McDonald's,Georgia,33.6206427,-84.3826995,Forest Park,Old Dixie Highway,30297
+node,8990445091,McDonald's,McDonald's,Georgia,33.8681245,-84.1877382,Norcross,Jimmy Carter Boulevard,30093
+node,9001603510,Five Guys,Five Guys,Georgia,33.8554913,-84.2098366,Tucker,Lawrenceville Highway,30084
+node,9064047254,Five Guys,Five Guys,Georgia,32.5426589,-84.9494404,Columbus,Whittlesey Boulevard,31909
+node,9173463515,McDonald's,McDonald's,Georgia,33.7266193,-82.7161176,,,
+node,9174483524,Five Guys,Five Guys,Georgia,34.0396076,-84.6902915,Acworth,Cobb Parkway Northwest,30101
+node,9178413873,McDonald's,McDonald's,Georgia,33.4011689,-84.6002505,,,
+node,9186843577,McDonald's,McDonald's,Georgia,32.9262511,-84.334505,,,
+node,9250111585,McDonald's,McDonald's,Georgia,31.5388305,-82.4620782,,,
+node,9286862960,McDonald's,McDonald's,Georgia,33.2099746,-82.3876387,,,
+node,9389297507,Five Guys,Five Guys,Georgia,34.0020331,-84.0827407,Duluth,Satellite Boulevard Northwest,30097
+node,9706556669,Culver's,Culver's,Georgia,34.0847952,-84.6554191,Acworth,Highway 92,30102
+node,9775264435,McDonald's,McDonald's,Georgia,34.0768046,-84.6542069,Acworth,Cowan Road,30101-5198
+node,9789334419,McDonald's,McDonald's,Georgia,31.1941636,-81.4862085,,Altama Avenue,
+node,9910943610,McDonald's,McDonald's,Georgia,31.5946505,-81.871154,,,
+node,10029041726,McDonald's,McDonald's,Georgia,33.5482563,-83.2043221,,,
+node,10061744023,McDonald's,McDonald's,Georgia,30.7886079,-81.655213,,,
+node,10065608193,McDonald's,McDonald's,Georgia,31.1575933,-81.4797292,,,
+node,10067817933,McDonald's,McDonald's,Georgia,31.3936233,-81.4473066,,,
+node,10083450845,McDonald's,McDonald's,Georgia,32.5399737,-82.9429898,,,
+node,10088952434,Five Guys,Five Guys,Georgia,34.2375134,-84.4548111,Canton,Cumming Highway,30115
+node,10089669154,Five Guys,Five Guys,Georgia,34.0532951,-83.9938114,Buford,Buford Drive,30519
+node,10090458267,Five Guys,Five Guys,Georgia,33.4211266,-84.1893994,McDonough,Highway 20,30253
+node,10689815325,Shake Shack,Shake Shack,Georgia,33.7837995,-84.3787469,Atlanta,Piedmont Avenue Northeast,30309
+node,11035079217,McDonald's,McDonald's,Georgia,31.9112234,-81.2784579,,,31324
+node,11046649428,Whataburger,Whataburger,Georgia,34.0517906,-83.9935036,Buford,Buford Drive,30519
+node,11094544227,Shake Shack,Shake Shack,Georgia,33.6427053,-84.4392679,,,
+node,11172562110,McDonald's,McDonald's,Georgia,33.3950974,-82.0046639,Augusta,Mike Padgett Highway,30906
+node,11396656422,Five Guys,Five Guys,Georgia,33.4970032,-82.0800554,Augusta,Crane Creek Drive,30907
+node,11612945787,McDonald's,McDonald's,Georgia,32.063987,-84.253203,,US Highway 19 South,31719
+node,11764133917,Freddy's,Freddy's,Georgia,33.6213402,-83.8388637,,,
+node,11764139586,Whataburger,Whataburger,Georgia,33.6191012,-83.8416472,Covington,Town Center Drive,30014
+node,11775794596,Culver's,Culver's,Georgia,34.1211168,-83.8273086,Braselton,Old Winder Highway,30517
+node,11811631283,McDonald's,McDonald's,Georgia,34.0102957,-83.8518329,,,
+node,11839365148,McDonald's,McDonald's,Georgia,34.1223496,-84.524654,Woodstock,Ridgewalk Parkway,30076
+node,11839397430,Whataburger,Whataburger,Georgia,34.0857299,-84.5262025,Woodstock,GA-92,30188
+node,11858232852,Culver's,Culver's,Georgia,33.9064723,-84.0041302,Lawrenceville,Scenic Highway,30045
+node,11891720916,McDonald's,McDonald's,Georgia,30.829021,-82.0058512,,,
+node,11929250148,Freddy's,Freddy's,Georgia,33.9414257,-83.7528046,,,
+node,11938443982,McDonald's,McDonald's,Georgia,32.0884685,-81.2765231,,Pooler Parkway,31322
+node,11952489513,Five Guys,Five Guys,Georgia,33.926756,-84.378136,Sandy Springs,Roswell Road,30328
+node,11952489525,Five Guys,Five Guys,Georgia,33.8466782,-84.3624171,Atlanta,Peachtree Road Northeast,30326
+node,11952489527,Five Guys,Five Guys,Georgia,33.8459161,-84.2529229,Tucker,Lavista Road,30084
+node,11952492816,McDonald's,McDonald's,Georgia,33.5894707,-84.3398282,Morrow,Jonesboro Road,30260
+node,11967451338,Five Guys,Five Guys,Georgia,34.0010193,-84.5818632,Kennesaw,Ernest West Barrett Parkway Northeast,30144
+node,11967451343,Five Guys,Five Guys,Georgia,34.1209189,-84.5227971,Woodstock,Ridgewalk Parkway,30188
+node,11967451354,Culver's,Culver's,Georgia,34.088501,-84.4912033,Woodstock,Highway 92,30188
+node,11992392245,Freddy's,Freddy's,Georgia,33.0489922,-85.024334,,,
+node,12045064116,McDonald's,McDonald's,Georgia,34.4718797,-84.9217448,,,
+node,12290474500,McDonald's,McDonald's,Georgia,31.8456795,-81.5933102,,West Oglethorpe Highway,31313
+node,12290477630,McDonald's,McDonald's,Georgia,32.0260559,-81.0985304,,East DeRenne Avenue,31405
+node,12290486274,McDonald's,McDonald's,Georgia,32.162759,-81.9036383,,North Duval Street,30417
+node,12291894645,McDonald's,McDonald's,Georgia,30.7930964,-81.5715461,,,31547-5000
+node,12291934953,McDonald's,McDonald's,Georgia,33.3530199,-84.12248,,Bill Gardner Parkway,30248
+node,12291934968,McDonald's,McDonald's,Georgia,33.4576351,-84.4532181,,Glynn Street North,30214
+node,12291949465,McDonald's,McDonald's,Georgia,31.0411579,-83.0771795,,West Thigpen Avenue,31635
+node,12291955149,McDonald's,McDonald's,Georgia,33.36683,-84.1800928,,,30248
+node,12291969271,McDonald's,McDonald's,Georgia,33.2942269,-83.9607665,,East 3rd Street,30233
+node,12291991919,,McDonald's,Georgia,30.8581348,-83.2816643,,North Ashley Street,31602-2607
+node,12291994358,McDonald's,McDonald's,Georgia,32.3868122,-83.3560494,,North Second Street,31014
+node,12291999599,McDonald's,McDonald's,Georgia,33.3723838,-84.5683638,,Crosstown Court,30269
+node,12292002613,McDonald's,McDonald's,Georgia,33.247615,-84.2726703,,West Taylor Street,30223-2717
+node,12292399171,McDonald's,McDonald's,Georgia,33.627338,-83.9770569,,Salem Road Southeast,30013
+node,12292409168,McDonald's,McDonald's,Georgia,33.9767271,-84.0921125,,Duluth Highway,30096
+node,12292420200,McDonald's,McDonald's,Georgia,34.0823743,-84.3580199,,Arnold Mill Road,30004
+node,12292428720,McDonald's,McDonald's,Georgia,34.0362694,-83.9888199,,Buford Drive,30043
+node,12292430602,McDonald's,McDonald's,Georgia,34.0353025,-84.052956,,Lawrenceville Suwanee Road Northwest,30024
+node,12292436489,McDonald's,McDonald's,Georgia,34.251724,-84.473917,,Riverstone Parkway,30114
+node,12292437817,McDonald's,McDonald's,Georgia,34.1980368,-84.5090538,,Ridge Road,30114
+node,12292439384,McDonald's,McDonald's,Georgia,34.2724632,-84.8075325,,Cassville White Road,30120
+node,12292440401,McDonald's,McDonald's,Georgia,34.1095189,-84.5529864,,Towne Lake Parkway,30189
+node,12292446000,McDonald's,McDonald's,Georgia,34.1085478,-82.860763,,Elbert Street,30635
+node,12292447531,McDonald's,McDonald's,Georgia,33.9690027,-83.8876165,,Harbins Road,30019
+node,12444618246,McDonald's,McDonald's,Georgia,30.9110565,-83.2633299,Valdosta,Bemiss Road,31605
+node,12466314914,,Five Guys,Georgia,30.8410775,-83.3188746,,,
+node,12750197684,McDonald's,McDonald's,Georgia,33.448157,-82.1182909,,,
+node,12781980892,Culver's,Culver's,Georgia,32.8963396,-83.6909926,Macon,Northside Drive,31210
+node,12781980907,Culver's,Culver's,Georgia,34.0802729,-84.0582588,Sugar Hill,Peachtree Industrial Boulevard,30518
+node,12781980914,Culver's,Culver's,Georgia,32.552227,-83.6613312,Warner Robins,Highway 96,31005
+node,12923220240,Whataburger,Whataburger,Georgia,33.9400904,-83.3241016,Athens,Lexington Road,30605
+node,13111144723,Whataburger,Whataburger,Georgia,34.3524361,-84.0484474,,,
+node,13148236659,Five Guys,Five Guys,Georgia,34.1798446,-84.1326509,,,
+node,13151827721,McDonald's,McDonald's,Georgia,34.5121748,-84.9208523,,Red Bud Road Northeast,
+node,13298792207,McDonald's,McDonald's,Georgia,33.6144493,-83.9210836,,,
+node,13474676970,Whataburger,Whataburger,Georgia,34.0339862,-84.0506836,,,
+node,13570775320,Five Guys,Five Guys,Georgia,33.5515667,-85.0740138,,,
+node,13702514035,Whataburger,Whataburger,Georgia,34.2496973,-83.4610952,,,
+node,13769751701,Whataburger,Whataburger,Georgia,33.536367,-84.5775316,,Senoia Road,30213
+node,13771779521,Five Guys,Five Guys,Georgia,34.0914707,-84.2754665,,,
+node,13776028088,McDonald's,McDonald's,Georgia,33.79509,-83.7436513,Monroe,West Spring Street,30655
+node,13812125187,Whataburger,Whataburger,Georgia,34.0182313,-84.1893749,,,
+node,14032179735,McDonald's,McDonald's,Georgia,31.7100257,-83.6409585,,,
+node,14095579258,Five Guys,Five Guys,Georgia,34.1093879,-84.2189146,Alpharetta,Ollie Walk,30005
+node,14138383101,Freddy's Frozen Custard & Steakburgers,Freddy's,Georgia,33.951481,-84.6627638,,Dallas Highway,30064
+node,14185903730,Shake Shack,Shake Shack,Georgia,33.7536781,-84.3655487,,DeKalb Avenue Northeast,
+way,26580701,McDonald's,McDonald's,Georgia,33.47435862857143,-81.98604517142857,Augusta,Walton Way,30904
+way,41338971,Steak 'n Shake,Steak 'n Shake,Georgia,33.81716532,-84.31215388,Atlanta,North Druid Hills Road,30329
+way,51287560,McDonald's,McDonald's,Georgia,33.778228215384615,-84.29582134615384,,,
+way,77862907,McDonald's,McDonald's,Georgia,33.53326435,-82.12601472499999,Evans,Washington Road,30809
+way,97046771,McDonald's,McDonald's,Georgia,33.88644463157896,-84.06099338947368,Lilburn,Five Forks Trickum Road,30047
+way,106343166,McDonald's,McDonald's,Georgia,33.96682426875,-84.41070648125002,Marietta,Lower Roswell Road Northeast,30068
+way,146661738,McDonald's,McDonald's,Georgia,34.258883455555555,-83.46438413333334,Commerce,US-441,30529
+way,167079071,McDonald's,McDonald's,Georgia,33.439693899999995,-84.12169084,McDonough,Highway 81 East,30252
+way,180640655,McDonald's,McDonald's,Georgia,32.81489706666667,-83.66327098333333,Macon,Pio Nono,31206
+way,180754101,McDonald's,McDonald's,Georgia,32.79065868,-83.67036254,Macon,Rocky Creek Road,31206
+way,186010416,McDonald's,McDonald's,Georgia,32.84914757777778,-83.62611354444444,Macon,Gray Highway,31201
+way,196940112,Shake Shack,Shake Shack,Georgia,34.070070720000004,-84.29419232000001,,Haynes Bridge Road,
+way,201141823,McDonald's,McDonald's,Georgia,33.72286036,-84.50763632,Atlanta,Cascade Road,30311
+way,201421532,McDonald's,McDonald's,Georgia,33.72898512,-84.57383378,Atlanta,Fulton Industrial Boulevard Southwest,30331
+way,219843088,McDonald's,McDonald's,Georgia,33.20817618888889,-84.05848802222222,,,
+way,220362760,McDonald's,McDonald's,Georgia,33.81990042857143,-84.3518284142857,Atlanta,Cheshire Bridge Road,30324
+way,220363482,McDonald's,McDonald's,Georgia,33.84182051111111,-84.31330612222224,Atlanta,Clairmont Road Northeast,30329
+way,231177687,Shake Shack,Shake Shack,Georgia,33.9478577375,-83.40900302499999,Athens,Alps Road,30606
+way,236478961,McDonald's,McDonald's,Georgia,32.46848996,-83.74143794,,,
+way,238875021,McDonald's,McDonald's,Georgia,33.99485086,-84.35063563999998,Atlanta,Roswell Road,30350
+way,242756399,McDonald's,McDonald's,Georgia,33.962544925,-83.39589268333334,Athens,Prince Avenue,30601
+way,242787292,McDonald's,McDonald's,Georgia,32.932163440000004,-83.7275377,Macon,Bass Road,31210
+way,243878478,McDonald's,McDonald's,Georgia,33.57229102,-85.09335092,Carrollton,Maple Street,30117
+way,248598016,McDonald's,McDonald's,Georgia,33.991304279999994,-83.72327648000001,,,
+way,250698466,McDonald's,McDonald's,Georgia,33.69657856,-84.08819702000001,Lithonia,Turner Hill Road,30038
+way,250698473,Steak 'n Shake,Steak 'n Shake,Georgia,33.6986248,-84.09115752,,,30038
+way,251038818,Steak 'n Shake,Steak 'n Shake,Georgia,32.53278758,-84.97025978,Columbus,Bradley Park Drive,31904
+way,261093626,McDonald's,McDonald's,Georgia,33.834548392857144,-83.89074649285715,,Atlanta Highway,
+way,264847749,McDonald's,McDonald's,Georgia,33.9005664,-84.47463238571429,Marietta,Windy Hill Road Southeast,30067
+way,264851427,Steak 'n Shake,Steak 'n Shake,Georgia,33.88713532,-84.47351394,Smyrna,Cobb Parkway South,30080
+way,264851896,McDonald's,McDonald's,Georgia,33.883835787500004,-84.47652326250001,Smyrna,Spring Road Southeast,30080
+way,267556043,McDonald's,McDonald's,Georgia,33.84700943529411,-84.4295323382353,Atlanta,Northside Parkway Northwest,30327
+way,267772885,McDonald's,McDonald's,Georgia,33.83518705714285,-84.38172663571427,Atlanta,Peachtree Road Northeast,30305
+way,267990306,McDonald's,McDonald's,Georgia,33.87387234285715,-84.3814230857143,Atlanta,Roswell Road Northeast,30342
+way,268686142,McDonald's,McDonald's,Georgia,33.80920886,-84.41318222,Atlanta,Howell Mill Road Northwest,30318
+way,269740942,McDonald's,McDonald's,Georgia,33.89412109090909,-84.32892266363636,Atlanta,Ashford Dunwoody Road Northeast,30319
+way,270152801,McDonald's,McDonald's,Georgia,33.32567404,-84.77984771999999,Newnan,South US 29,30263-5294
+way,270482355,McDonald's,McDonald's,Georgia,33.75774062,-84.50345612,Atlanta,Martin Luther King Jr Drive Southwest,30331
+way,270938857,McDonald's,McDonald's,Georgia,33.75095795,-84.46726031249999,Atlanta,Martin Luther King Jr Drive Southwest,30331
+way,271015512,McDonald's,McDonald's,Georgia,33.74189496,-84.34961120000001,Atlanta,Moreland Avenue Southeast,30316
+way,271278446,McDonald's,McDonald's,Georgia,33.73823348888889,-84.42571052222223,Atlanta,Ralph David Abernathy Boulevard,30310
+way,274054184,McDonald's,McDonald's,Georgia,33.69816964444445,-84.40848090000001,Atlanta,Metropolitan Parkway Southwest,30315
+way,274812837,McDonald's,McDonald's,Georgia,34.092023420000004,-84.27599014,Alpharetta,Windward Parkway,30004
+way,275479119,McDonald's,McDonald's,Georgia,34.09064462222222,-84.20396228888889,Alpharetta,McGinnis Ferry Road,30005
+way,275579890,McDonald's,McDonald's,Georgia,33.680797760000004,-84.41626167999999,East Point,Cleveland Avenue Southwest,30344
+way,275604779,McDonald's,McDonald's,Georgia,33.93655152000001,-84.51221792,Marietta,Cobb Parkway South,30062
+way,277644288,McDonald's,McDonald's,Georgia,33.659365622222225,-84.42876154444444,Atlanta,Virginia Avenue,30344
+way,278548431,McDonald's,McDonald's,Georgia,33.6545598,-84.49435392857143,Atlanta,Camp Creek Parkway,30344
+way,279198752,McDonald's,McDonald's,Georgia,33.64786739230769,-84.36575768461537,Forest Park,Jonesboro Road,30297
+way,279405447,McDonald's,McDonald's,Georgia,33.653853440000006,-84.39798954000001,Hapeville,North Central Avenue,30274
+way,280519238,McDonald's,McDonald's,Georgia,33.61597752857143,-84.47333864285714,Atlanta,Old National Highway,30349
+way,280847921,McDonald's,McDonald's,Georgia,32.532764775000004,-84.9681766125,Columbus,Bradley Park Drive,31904
+way,282792191,McDonald's,McDonald's,Georgia,33.04035544,-83.93884974,Forsyth,Cabiness Road,31029
+way,284049829,McDonald's,McDonald's,Georgia,33.92328405714286,-84.48272065714285,Marietta,Delk Road Southeast,30067
+way,287426153,McDonald's,McDonald's,Georgia,33.80628928,-84.53054166,Mableton,Southeast Veterans Memorial Drive,30126
+way,288256616,McDonald's,McDonald's,Georgia,33.92828357142857,-84.55061182857143,Marietta,South Cobb Drive,30060
+way,289232889,McDonald's,McDonald's,Georgia,33.54304482,-84.57626902000001,Fairburn,Senoia Road,30213
+way,290274008,McDonald's,McDonald's,Georgia,34.160113366666664,-84.17550561666667,Cumming,Atlanta Highway,30040
+way,290274009,McDonald's,McDonald's,Georgia,34.2534788111111,-84.08930265555556,,,
+way,290774769,McDonald's,McDonald's,Georgia,34.875627111111115,-83.39897852222222,,,
+way,292470841,McDonald's,McDonald's,Georgia,33.952440300000006,-84.57536834444444,Marietta,Whitlock Avenue Southwest,30064
+way,292488525,McDonald's,McDonald's,Georgia,33.979661115384616,-84.46332496923077,Marietta,Roswell Road,30062-5558
+way,292626692,Whataburger,Whataburger,Georgia,34.03622299999999,-84.57157638,Kennesaw,Townpark Lane Northwest,30144
+way,292629943,Whataburger,Whataburger,Georgia,34.005511920000004,-84.57620282,Kennesaw,Ernest W. Barrett Parkway Northwest,30144
+way,293372398,McDonald's,McDonald's,Georgia,31.718995449999998,-84.17317181666667,Leesburg,US Highway 19 South,31763-4870
+way,293490272,McDonald's,McDonald's,Georgia,33.55328870666667,-84.46578084666668,Riverdale,Old National Highway,30296
+way,293574735,McDonald's,McDonald's,Georgia,34.000177414285716,-84.7049691,Acworth,Mars Hill Road,30101
+way,293580495,McDonald's,McDonald's,Georgia,33.86573022,-84.62602758,Austell,Marathon Circle,30106
+way,293633349,McDonald's,McDonald's,Georgia,33.89169627333333,-84.75695963333332,Hiram,Jimmy Lee Smith Parkway,30141
+way,293804337,McDonald's,McDonald's,Georgia,33.90503872000001,-84.42986462,Sandy Springs,Powers Ferry Road Northwest,30339
+way,295037127,McDonald's,McDonald's,Georgia,33.92339661818182,-84.57544186363637,Marietta,Powder Sprgs Road,30064
+way,295395231,McDonald's,McDonald's,Georgia,34.59422223333333,-83.76288212222222,,,
+way,298466196,Culver's,Culver's,Georgia,33.39009595555555,-84.76194764444443,Newnan,Newnan Crossing Bypass,30265
+way,299023965,McDonald's,McDonald's,Georgia,33.56865258571428,-84.53818901428572,Union City,Jonesboro Road,30291
+way,299023981,Steak 'n Shake,Steak 'n Shake,Georgia,33.57023416363637,-84.53973138181819,Union City,Shannon Parkway,30291
+way,303238446,McDonald's,McDonald's,Georgia,33.940161499999995,-83.47165310000001,Athens,Atlanta Highway,30606
+way,307637515,McDonald's,McDonald's,Georgia,33.73095158333333,-84.73655646666667,Douglasville,Chapel Hill Road,30135-1704
+way,307665059,McDonald's,McDonald's,Georgia,33.72448512,-84.76278373,Douglasville,Highway 5,30135
+way,308115937,Steak 'n Shake,Steak 'n Shake,Georgia,33.723469425,-84.76293779999999,,,30135
+way,308628893,McDonald's,McDonald's,Georgia,34.06260878,-84.72427666,Acworth,Acworth Dallas Road,30101
+way,308653011,McDonald's,McDonald's,Georgia,34.002172814285714,-84.59899927142858,Kennesaw,Cobb Parkway,30152
+way,308827598,McDonald's,McDonald's,Georgia,34.304975314285706,-85.1750693,Rome,Martha Berry Boulevard,30165
+way,309934624,McDonald's,McDonald's,Georgia,34.10796952,-83.69895082,,,
+way,311053590,McDonald's,McDonald's,Georgia,33.949853985714284,-83.41126532857142,Athens,West Broad Street,30606
+way,311563661,Whataburger,Whataburger,Georgia,34.03565554,-84.46268308666667,Marietta,Sandy Plains Road Northeast,30066
+way,313829524,McDonald's,McDonald's,Georgia,33.915502385714284,-83.4471143,Athens,Epps Bridge Parkway,30606
+way,315996257,McDonald's,McDonald's,Georgia,33.78528378888888,-84.16154237777778,Stone Mountain,South Stone Mountain Lithonia Road,30087
+way,321399381,McDonald's,McDonald's,Georgia,33.9824782,-84.55848916,Marietta,Bells Ferry Road,30066
+way,326846755,McDonald's,McDonald's,Georgia,34.017497320000004,-84.49127524000001,Marietta,Sandy Plains Road Northeast,30066
+way,328670802,McDonald's,McDonald's,Georgia,33.919864180000005,-84.37854868,Sandy Springs,Roswell Road,30328
+way,330741943,McDonald's,McDonald's,Georgia,34.02465363846154,-84.5280468076923,Marietta,Canton Road,30066
+way,333630176,McDonald's,McDonald's,Georgia,33.91119582857142,-84.80209,,,
+way,340302320,McDonald's,McDonald's,Georgia,34.569266687500004,-83.30391544999999,Toccoa,South Big A Road,30577
+way,341330786,McDonald's,McDonald's,Georgia,34.013602840000004,-84.56070214,Kennesaw,Ernest W. Barrett Parkway Northwest,30144
+way,342652990,McDonald's,McDonald's,Georgia,34.22720688,-83.8655515,Gainesville,Frontage Road,30504
+way,343357262,McDonald's,McDonald's,Georgia,33.95792595384615,-84.30292798461541,,,
+way,344343724,McDonald's,McDonald's,Georgia,34.06911305,-84.16836335999999,Suwanee,Peachtree Parkway,30024
+way,347778470,McDonald's,McDonald's,Georgia,32.11116780526316,-81.23632282105264,Pooler,US Highway 80,31322
+way,352450810,McDonald's,McDonald's,Georgia,33.98962942,-84.27433862000001,Alpharetta,Holcomb Bridge Road,30022
+way,353742403,McDonald's,McDonald's,Georgia,34.019811809677414,-84.31844401612905,Roswell,Holcomb Bridge Road,30076
+way,356688077,McDonald's,McDonald's,Georgia,33.726337176923074,-84.93902069999999,Villa Rica,Carrollton Villa Rica Highway,30180
+way,363617390,McDonald's,McDonald's,Georgia,33.45879883333333,-82.19296556666667,Grovetown,Horizon South Parkway,30813
+way,363659985,McDonald's,McDonald's,Georgia,33.0291923,-85.07061872222224,Lagrange,West Point Road,30240
+way,365313656,Five Guys,Five Guys,Georgia,33.65507774,-84.50700426,Atlanta,Camp Creek Parkway,30331
+way,366052580,McDonald's,McDonald's,Georgia,31.199325742857145,-83.25158501428572,Nashville,South Davis Street,31639
+way,366528706,McDonald's,McDonald's,Georgia,30.679935911111116,-83.22540272222221,Lake Park,Lakes Boulevard,31636
+way,370207756,McDonald's,McDonald's,Georgia,30.896457820000002,-83.33097690000001,Valdosta,North Valdosta Road,31602
+way,374962431,McDonald's,McDonald's,Georgia,34.1754165,-84.41859149999999,Canton,Hickory Flat Highway,30115
+way,376970660,McDonald's,McDonald's,Georgia,30.820586528571432,-83.31295875714285,Valdosta,West Hill Avenue,31601
+way,377377155,McDonald's,McDonald's,Georgia,34.67820332307692,-84.4786937923077,East Ellijay,Maddox Drive,30539
+way,377724281,McDonald's,McDonald's,Georgia,33.57215907142857,-82.19332444285715,Evans,Washington Road,30809
+way,380451537,McDonald's,McDonald's,Georgia,32.55728743571429,-83.88409188571428,Fort Valley,North Camelia Boulevard,31030
+way,381823297,McDonald's,McDonald's,Georgia,34.09452766,-84.01205162000001,Buford,Buford Drive,30518
+way,382389330,McDonald's,McDonald's,Georgia,33.8759022,-84.53216139999999,Smyrna,South Cobb Drive,30080
+way,387339466,McDonald's,McDonald's,Georgia,34.16402258,-84.11775911999999,Cumming,Buford Highway,30041
+way,387339513,McDonald's,McDonald's,Georgia,34.12181482857143,-84.07908532857142,Sugar Hill,Cumming Highway North East,30518
+way,387405586,McDonald's,McDonald's,Georgia,34.187059107692306,-84.1424000076923,Cumming,Atlanta Road,30040
+way,387526015,McDonald's,McDonald's,Georgia,34.06369711111111,-83.99084992222222,Buford,Buford Drive,30519
+way,387811438,Steak 'n Shake,Steak 'n Shake,Georgia,34.178897777777784,-84.13139733333333,,,30041
+way,387820396,McDonald's,McDonald's,Georgia,34.14267096666667,-83.95242394666667,Buford,Golden Avenue,30519
+way,387822794,McDonald's,McDonald's,Georgia,34.177126799999996,-83.90983168,Flowery Branch,Spout Springs Road,30542
+way,388491343,McDonald's,McDonald's,Georgia,33.986693499999994,-83.98522745714286,Lawrenceville,Swanson Drive,30045
+way,388509727,McDonald's,McDonald's,Georgia,33.96732955555555,-84.01467386666667,Lawrenceville,Pike Street,30045
+way,388532476,McDonald's,McDonald's,Georgia,34.151675777777776,-83.6427873222222,Jefferson,US Highway 129 North,30549
+way,388681431,Steak 'n Shake,Steak 'n Shake,Georgia,34.0739056,-83.98492428888889,Buford,Buford Drive,30519
+way,388690221,McDonald's,McDonald's,Georgia,33.9455073,-84.2414954888889,Norcross,Jimmy Carter Boulevard,30071
+way,388725400,McDonald's,McDonald's,Georgia,33.92385195384616,-84.17229357692307,Norcross,Indian Trail Lilburn Road,30093-2615
+way,388739046,McDonald's,McDonald's,Georgia,33.94459606666666,-84.20493379999999,Norcross,Buford Highway,30071
+way,388754541,McDonald's,McDonald's,Georgia,33.87543337142857,-84.01391202857143,Snellville,Scenic Highway,30078
+way,388760821,McDonald's,McDonald's,Georgia,33.855447881818186,-84.02505982727274,Snellville,Main Street West,30078
+way,388866961,McDonald's,McDonald's,Georgia,34.29888221538461,-83.85764057692307,Gainesville,Dawsonville Highway,30501
+way,388895094,McDonald's,McDonald's,Georgia,34.29262701428571,-83.82989282857145,Gainesville,Jesse Jewell Parkway,30501
+way,389304610,McDonald's,McDonald's,Georgia,34.44637454,-83.11983532,,,
+way,389390803,McDonald's,McDonald's,Georgia,34.312708300000004,-83.79711769090909,Gainesville,Jesse Jewell Parkway Southeast,30501
+way,389555638,Steak 'n Shake,Steak 'n Shake,Georgia,33.97002082222222,-84.02110139999999,,Lawrenceville Suwanee Road,30043
+way,389575029,McDonald's,McDonald's,Georgia,34.00533188,-84.17094964666668,Duluth,Peachtree Industrial Boulevard,30096
+way,389803311,McDonald's,McDonald's,Georgia,34.04846636923077,-84.09387875384617,Suwanee,Peachtree Industrial Road,30024
+way,389916373,McDonald's,McDonald's,Georgia,33.9561092,-84.05636974285713,Lawrenceville,Sugarloaf Parkway,30045
+way,389931697,McDonald's,McDonald's,Georgia,34.363484485714274,-84.03774969999999,,,
+way,390257202,McDonald's,McDonald's,Georgia,34.23912883636364,-84.19417490909092,Cumming,Bethelview Road,30040
+way,390263940,McDonald's,McDonald's,Georgia,34.25381241428571,-84.35906272857143,Canton,Cumming Highway,30115
+way,390266591,McDonald's,McDonald's,Georgia,34.23585687142857,-84.45225848571428,Canton,Cumming Highway,30114
+way,390853450,McDonald's,McDonald's,Georgia,33.897315033333335,-84.30215246666666,Chamblee,Peachtree Industrial Boulevard,30341
+way,390975756,McDonald's,McDonald's,Georgia,33.89841033636364,-83.96138809999998,Grayson,Grayson Highway,30017
+way,391071434,Steak 'n Shake,Steak 'n Shake,Georgia,33.39750825555555,-84.73798844444445,,,30265
+way,391118315,McDonald's,McDonald's,Georgia,33.161002688888885,-84.87442353333333,,,
+way,391119467,McDonald's,McDonald's,Georgia,33.04182087142857,-84.98111098571428,Lagrange,Lafayette Parkway,30241
+way,392340177,McDonald's,McDonald's,Georgia,34.00897627142857,-84.12979299999999,Duluth,Old Peachtree Road Northwest,30097
+way,392374789,Whataburger,Whataburger,Georgia,33.946721714285715,-84.12700964285715,,,
+way,392458476,McDonald's,McDonald's,Georgia,33.8240144,-84.11103793333334,Stone Mountain,Highway 78,30087
+way,392502837,McDonald's,McDonald's,Georgia,33.9090067,-84.26736037142858,Doraville,Buford Highway,30340
+way,392772862,McDonald's,McDonald's,Georgia,34.14296956,-84.25162612000001,Alpharetta,Atlanta Highway,30004
+way,394125951,McDonald's,McDonald's,Georgia,32.41201344444445,-81.76703516666666,Statesboro,Arch Way,30458
+way,394138300,McDonald's,McDonald's,Georgia,32.4390165,-81.7625019,Statesboro,Northside Drive East,30458
+way,395162625,McDonald's,McDonald's,Georgia,34.525716977777776,-83.97711592222223,Dahlonega,Mountain Drive,30533
+way,397433018,McDonald's,McDonald's,Georgia,33.830214940000005,-84.33260458,Atlanta,North Druid Hills Road,30329
+way,409389909,McDonald's,McDonald's,Georgia,33.733565133333336,-84.66892085555557,Lithia Springs,Lee Road,30122-3368
+way,412858878,McDonald's,McDonald's,Georgia,34.06738666,-84.26214938000001,Alpharetta,North Point Parkway,30022
+way,423050406,McDonald's,McDonald's,Georgia,34.1190257,-84.74348856,Emerson,Old Allatoona Road,30121
+way,427460339,McDonald's,McDonald's,Georgia,32.043208400000005,-81.00605977000001,Savannah,US Highway 80 East,31410
+way,429977345,McDonald's,McDonald's,Georgia,34.376443585714284,-84.91494244285715,,,
+way,430433488,McDonald's,McDonald's,Georgia,31.710068314285714,-83.64097108571427,Ashburn,East Washington Avenue,31714
+way,449371425,McDonald's,McDonald's,Georgia,32.015909871428576,-80.97830142857143,Savannah,Johnny Mercer Boulevard,31410
+way,472556301,McDonald's,McDonald's,Georgia,31.651613880000003,-81.3929557,,,
+way,473246186,McDonald's,McDonald's,Georgia,34.20985126000001,-84.7592143,Cartersville,Canton Highway,30121
+way,474210183,McDonald's,McDonald's,Georgia,34.1742502,-84.76334232,Cartersville,Canyon Road,30121
+way,474518107,McDonald's,McDonald's,Georgia,34.15130802857143,-84.82450232857141,Cartersville,West Avenue,30120
+way,474785062,Steak 'n Shake,Steak 'n Shake,Georgia,32.61721408,-83.68917818,Warner Robins,Watson Boulevard,31093
+way,475640402,Steak 'n Shake,Steak 'n Shake,Georgia,34.04993352222222,-84.28768703333334,Alpharetta,North Point Court,30022
+way,481956524,McDonald's,McDonald's,Georgia,33.11291008571428,-83.25944299999999,,North Columbia Street,
+way,483705445,Freddy's,Freddy's,Georgia,33.879436399999996,-84.01133402,Snellville,Scenic Highway North,30078
+way,486490089,McDonald's,McDonald's,Georgia,33.07363602,-83.22549204,,,
+way,488151688,McDonald's,McDonald's,Georgia,34.46505296,-84.45553614,Jasper,West Church Street,30143
+way,489170801,McDonald's,McDonald's,Georgia,32.425661257142856,-84.94929515714286,Columbus,Victory Drive,31903-2116
+way,492695648,Freddy's,Freddy's,Georgia,33.91483154,-83.44859446000001,Athens,Oconee Connector,30606
+way,493458259,McDonald's,McDonald's,Georgia,34.511645900000005,-83.54563875999999,,,
+way,497792653,McDonald's,McDonald's,Georgia,34.41701259999999,-84.11298981428571,Dawsonville,Main Street,30534
+way,500011347,McDonald's,McDonald's,Georgia,33.55794265714285,-83.47458078571428,,,
+way,506288387,McDonald's,McDonald's,Georgia,34.604270760000006,-83.5194844,,,
+way,510028929,Steak 'n Shake,Steak 'n Shake,Georgia,34.00510044,-84.57504736000001,Kennesaw,Ernest W. Barrett Parkway Northwest,30144
+way,511082773,McDonald's,McDonald's,Georgia,34.060297874999996,-84.59323675833333,Kennesaw,Wade Green Road Northwest,30144
+way,514344457,McDonald's,McDonald's,Georgia,33.29349557142857,-84.54336384285715,Senoia,Highway 85,30276
+way,520926741,McDonald's,McDonald's,Georgia,34.95607046,-83.7595965,,,
+way,532438386,Five Guys,Five Guys,Georgia,32.618566660000006,-83.6907217,Warner Robins,Margie Drive,31093
+way,533901082,Steak 'n Shake,Steak 'n Shake,Georgia,34.037188061538465,-84.68579854615385,Acworth,Cobb Parkway,30101
+way,536798240,Steak 'n Shake,Steak 'n Shake,Georgia,34.08455516,-84.54191896,Woodstock,Lauren Lane,30189
+way,538690191,McDonald's,McDonald's,Georgia,33.004241060000005,-83.54890496,Gray,West Clinton Street,31032
+way,541551908,McDonald's,McDonald's,Georgia,31.57049386,-84.10809418,Albany,East Oglethorpe Boulevard,31705
+way,543412300,McDonald's,McDonald's,Georgia,33.43045978260869,-84.4569831869565,Fayetteville,Glynn Street,30214
+way,543919063,McDonald's,McDonald's,Georgia,33.59523968,-85.03741854,Carrollton,Bankhead Highway,30116-8587
+way,544221310,McDonald's,McDonald's,Georgia,31.611234746153848,-84.17530642307693,Albany,North Slappey Boulevard,31701
+way,544841506,McDonald's,McDonald's,Georgia,34.001594371428574,-83.91048245714286,Dacula,Dacula Road,30019
+way,545346607,McDonald's,McDonald's,Georgia,34.87142248,-83.96450836,,,
+way,550176547,McDonald's,McDonald's,Georgia,31.13535183846154,-83.43677696153847,,,
+way,550521676,Steak 'n Shake,Steak 'n Shake,Georgia,33.889904022222225,-84.74752533333334,Hiram,Jimmy Lee Smith Parkway,30141
+way,551962381,McDonald's,McDonald's,Georgia,33.867851831578946,-84.8422698631579,Dallas,Villa Rica Highway,30132
+way,552227182,McDonald's,McDonald's,Georgia,34.01126767272727,-84.75390893636364,Dallas,Dallas Acworth Highway,30157
+way,555053737,McDonald's,McDonald's,Georgia,32.971784619999994,-82.80881853999999,Sandersville,South Harris Street,31082
+way,560425126,Steak 'n Shake,Steak 'n Shake,Georgia,33.88519096,-84.00963536,,,30078
+way,563887503,McDonald's,McDonald's,Georgia,33.40819008571429,-84.67854147142859,Newnan,East Highway 34,30264
+way,564779599,McDonald's,McDonald's,Georgia,34.874166214285715,-84.32196538571428,Blue Ridge,,30513
+way,571844498,McDonald's,McDonald's,Georgia,33.3767876,-84.75391118571429,Newnan,Newnan Crossing Boulevard East,30265
+way,573673148,McDonald's,McDonald's,Georgia,32.37586148461539,-82.06290311538461,,Lewis Street,
+way,585094694,McDonald's,McDonald's,Georgia,32.08712636,-82.1168817,,,
+way,586428785,McDonald's,McDonald's,Georgia,33.51243756666667,-82.08670676666667,Martinez,Washington Road,30907
+way,586446079,McDonald's,McDonald's,Georgia,33.5110127,-82.03854193999999,Augusta,Washington Road,30909
+way,586456201,Five Guys,Five Guys,Georgia,33.53839032,-82.13079903999999,Evans,Washington Road,30809
+way,588972945,McDonald's,McDonald's,Georgia,33.76729037142858,-84.25208554285715,Decatur,Memorial Drive,30032
+way,589074936,McDonald's,McDonald's,Georgia,33.4807081,-82.12967472,Augusta,Jimmie Dyess Parkway,30909
+way,589454100,Culver's,Culver's,Georgia,33.479530280000006,-82.19652436,Grovetown,Gateway Boulevard,30813
+way,605992521,McDonald's,McDonald's,Georgia,31.585271020000004,-84.22006586,Albany,South Westover Boulevard,31707
+way,607137040,McDonald's,McDonald's,Georgia,33.880855540000006,-84.27476862,Doraville,Chamblee Tucker Road,30340
+way,607933519,Freddy's,Freddy's,Georgia,34.34956542222222,-84.04758422222223,Dawsonville,Crossroads Boulevard,30534
+way,629541744,Culver's,Culver's,Georgia,34.361868657142864,-84.04055805714286,Dawsonville,South 400 Center Lane,30534
+way,629541745,Culver's,Culver's,Georgia,34.05346501428571,-83.99525024285713,Buford,Buford Drive,30519
+way,634219339,McDonald's,McDonald's,Georgia,32.047592853846155,-81.06496083846153,Savannah,Skidaway,31404
+way,655426658,McDonald's,McDonald's,Georgia,34.176101114285714,-84.78701862857143,Cartersville,Dixie Avenue,30120
+way,663357422,McDonald's,McDonald's,Georgia,33.4819171,-82.09013047142857,Augusta,Wheeler Road,30909
+way,665380613,McDonald's,McDonald's,Georgia,33.50695932,-82.1426645,Martinez,Columbia Road,30907
+way,676113364,McDonald's,McDonald's,Georgia,33.872487279999994,-83.44039542,Watkinsville,Experiment Station Road,30677
+way,677527756,McDonald's,McDonald's,Georgia,31.232853620000004,-81.49834052,Brunswick,Canal Road,31525
+way,677904083,McDonald's,McDonald's,Georgia,33.50906466,-82.50208194000001,Thomson,Washington Road,30824
+way,677984735,McDonald's,McDonald's,Georgia,33.46856254,-82.07747459999999,Augusta,Wrightsboro Road,30909
+way,682730599,McDonald's,McDonald's,Georgia,33.41926984,-82.07875166,Augusta,Deans Bridge Road,30906
+way,686507471,Whataburger,Whataburger,Georgia,33.881245161538466,-84.4620976923077,Atlanta,Cobb Parkway South,30339
+way,688202009,Culver's,Culver's,Georgia,34.08692592222222,-84.1632182,Suwanee,Peachtree Parkway,30024
+way,690365270,McDonald's,McDonald's,Georgia,34.95301068,-85.24448355999999,Fort Oglethorpe,Battlefield Parkway,30742-3960
+way,693441143,Steak 'n Shake,Steak 'n Shake,Georgia,34.95189942727273,-85.24475177272728,Fort Oglethorpe,Battlefield Parkway,30742
+way,695839367,McDonald's,McDonald's,Georgia,34.05750474,-84.38080276000001,Roswell,West Crossville Road,30075
+way,696233829,McDonald's,McDonald's,Georgia,33.61172592,-84.29999496,Ellenwood,Forest Parkway,30294
+way,697211860,Whataburger,Whataburger,Georgia,33.55936471428572,-85.07380924285714,,,
+way,697211865,McDonald's,McDonald's,Georgia,33.56112794444445,-85.07403415555557,Carrollton,South Park Street,30117
+way,698351600,McDonald's,McDonald's,Georgia,34.91169312727273,-85.12498300000001,Ringgold,Alabama Highway,30736
+way,700189332,McDonald's,McDonald's,Georgia,34.72362586,-85.28051692,,,
+way,701169929,McDonald's,McDonald's,Georgia,33.60252968571429,-83.85304284285714,Covington,Highway 278 Northeast,30014
+way,705269440,McDonald's,McDonald's,Georgia,34.882292740000004,-85.27122098,Chickamauga,Lafayette Road,30707
+way,721774563,McDonald's,McDonald's,Georgia,32.61589066,-83.69521958,Warner Robins,Watson Boulevard,31093
+way,731831557,Steak 'n Shake,Steak 'n Shake,Georgia,34.25989895714286,-85.1666390857143,,,30161
+way,732484126,Five Guys,Five Guys,Georgia,34.93760884,-85.20508215999999,Fort Oglethorpe,Battlefield Parkway,30736
+way,736333583,McDonald's,McDonald's,Georgia,31.56294722727273,-84.17701079999999,Albany,South Slappey Boulevard,31701
+way,744105541,Culver's,Culver's,Georgia,34.26049747142857,-83.46518057142855,Commerce,Grove Creek Point,30529
+way,744106118,Culver's,Culver's,Georgia,34.17196922857143,-84.18673701428573,Cumming,Bethelview Road,30040
+way,744108911,Culver's,Culver's,Georgia,33.42653224,-84.18470222,McDonough,Highway 81 West,30253
+way,744138932,Culver's,Culver's,Georgia,32.136345399999996,-81.24681783999999,Pooler,Tanger Outlet Boulevard,31322
+way,744145479,Culver's,Culver's,Georgia,34.30460528571429,-83.85974194285714,Gainesville,Dawsonville Highway,30501
+way,744145575,Culver's,Culver's,Georgia,34.17010071428572,-84.41474778571428,Canton,Hickory Flat Highway,30115
+way,744145731,Culver's,Culver's,Georgia,34.01410957142858,-84.61506445714285,Kennesaw,Kennesaw Due West Road Northwest,30152
+way,745112064,Steak 'n Shake,Steak 'n Shake,Georgia,33.550999479999994,-85.07271538,,,30117
+way,745520605,Freddy's,Freddy's,Georgia,34.173544299999996,-84.77737354000001,,,
+way,746280605,McDonald's,McDonald's,Georgia,33.57959095454546,-83.96366944545456,Covington,Salem Road,30016
+way,750341393,McDonald's,McDonald's,Georgia,34.17355288,-84.54954891999999,Canton,Sixes Road,30114
+way,752113942,Steak 'n Shake,Steak 'n Shake,Georgia,34.17403624,-84.78015596,,East Main Street,
+way,754159915,McDonald’s,McDonald's,Georgia,30.840191679999997,-83.32007642,Valdosta,North Saint Augustine Road,31601
+way,755506965,Whataburger,Whataburger,Georgia,30.839361320000002,-83.94319556,Thomasville,US 19,31757
+way,756764999,McDonald's,McDonald's,Georgia,34.20775262,-84.81984346,Cartersville,Joe Frank Harris Parkway Southeast,30120
+way,760864093,McDonald's,McDonald's,Georgia,32.58208088,-83.69489722,Warner Robins,Richard B. Russell Parkway,31088
+way,761381992,McDonald's,McDonald's,Georgia,34.8938706375,-84.94606735,Dalton,Cleveland Highway,30721
+way,779014262,McDonald's,McDonald's,Georgia,30.884036220000002,-84.20312822,Cairo,US-84 E,39828
+way,792252640,McDonald's,McDonald's,Georgia,33.72082292857143,-85.02943637142857,Temple,Carrollton Street,30179
+way,800562785,McDonald's,McDonald's,Georgia,32.47208845555556,-84.98707425555556,Columbus,Veterans Parkway,31901
+way,803812514,McDonald's,McDonald's,Georgia,33.48754252,-82.20049598,Grovetown,Lewiston Road,30813
+way,806203055,McDonald's,McDonald's,Georgia,33.83261976666667,-84.33808356666665,Atlanta,North Druid Hills Road Northeast,30329
+way,815926083,McDonald's,McDonald's,Georgia,33.90393799333334,-84.11914247333333,Lilburn,Lawrenceville Highway,30047
+way,817900016,McDonald's,McDonald's,Georgia,34.08649577058823,-84.52249120588236,Woodstock,Highway 92,30188
+way,821993138,McDonald's,McDonald's,Georgia,33.937683414285715,-83.32443988571428,Athens,Gaines School Road,30605
+way,834097591,McDonald's,McDonald's,Georgia,34.76038106666667,-84.99961375555556,Dalton,Walnut Avenue,30720
+way,834354564,Steak 'n Shake,Steak 'n Shake,Georgia,34.75964847142858,-84.98994814285713,,,30720
+way,834354586,Five Guys,Five Guys,Georgia,34.75856378333334,-84.99102071666667,Dalton,West Walnut Avenue,30720
+way,841884945,McDonald's,McDonald's,Georgia,33.99365852,-83.33911858,Athens,US 29 North,30601
+way,844689256,McDonald's,McDonald's,Georgia,32.99115382857143,-85.03028061428572,Lagrange,Whitesville Road,30240
+way,845565664,McDonald's,McDonald's,Georgia,34.049388400000005,-84.22446376,Alpharetta,State Bridge Road,30022
+way,845905132,McDonald's,McDonald's,Georgia,31.49194084,-82.85061864,,,
+way,847283842,McDonald's,McDonald's,Georgia,33.4630066,-84.21411259999999,McDonough,Jonesboro Road,30253
+way,847361281,McDonald's,McDonald's,Georgia,33.613565900000005,-84.34851114,Lake City,Jonesboro Road,30260
+way,849933993,McDonald's,McDonald's,Georgia,33.70428408888889,-84.27158607777778,Decatur,Flat Shoals Road,30034
+way,850788891,Freddy's,Freddy's,Georgia,33.09942868,-83.24565918,Milledgeville,North Columbia Street,31061
+way,852561531,Five Guys,Five Guys,Georgia,32.023018914285714,-81.10889038571428,Savannah,Abercorn Street,31405
+way,858057587,Five Guys,Five Guys,Georgia,31.821999740000003,-81.59912538,Hinesville,West Oglethorpe Highway,31313
+way,864710911,Freddy's Frozen Custard & Steakburgers,Freddy's,Georgia,33.9965063,-84.59023735999999,Kennesaw,Ernest W. Barrett Parkway Northwest,
+way,889673526,McDonald's,McDonald's,Georgia,34.02282884,-84.4266576,Marietta,Johnson Ferry Road Northeast,30062
+way,899959055,McDonald's,McDonald's,Georgia,31.989322849999997,-81.0816065,Savannah,East Montgomery Cross Road,31406
+way,900513212,McDonald's,McDonald's,Georgia,33.38493571428571,-84.78476484285714,Newnan,Bullsboro Road,30263
+way,902095387,McDonald's,McDonald's,Georgia,33.84330655,-84.25779507500002,,,
+way,902853108,McDonald's,McDonald's,Georgia,33.85645939999999,-84.31271699999999,Brookhaven,Clairmont Road Northeast,30329
+way,905683579,McDonald's,McDonald's,Georgia,33.921309199999996,-84.313479,Dunwoody,Cotillion Drive,30338
+way,905925636,McDonald's,McDonald's,Georgia,32.00465274,-81.28142390000001,Savannah,A Gateway Boulevard East,31419
+way,913897483,McDonald's,McDonald's,Georgia,32.0249822,-81.225792,Savannah,Ogeechee Road,31405
+way,923616299,McDonald's,McDonald's,Georgia,33.85852058,-84.6713942,Powder Springs,Powder Springs Road,30127
+way,925829618,McDonald's,McDonald's,Georgia,32.19474548000001,-83.1765879,,,
+way,925887710,McDonald's,McDonald's,Georgia,31.8602262,-82.6055724,,,
+way,925919768,McDonald's,McDonald's,Georgia,31.779799200000003,-82.34776240000001,,,
+way,926253564,McDonald's,McDonald's,Georgia,33.322528,-83.38666880000001,,,
+way,928311478,McDonald's,McDonald's,Georgia,32.87944956,-83.76530476,Macon,Zebulon Road,31210
+way,929875260,McDonald's,McDonald's,Georgia,31.444566199999997,-83.54492560000001,,,
+way,930402031,McDonald's,McDonald's,Georgia,32.07168752,-84.21645046,,East Lamar Street,31709
+way,930539441,McDonald's,McDonald's,Georgia,31.530546571428573,-83.82649957142857,,,
+way,935528235,McDonald's,McDonald's,Georgia,32.661641200000005,-83.7405674,Byron,Georgia Highway 49 North,31008
+way,948846100,McDonald's,McDonald's,Georgia,33.4285038,-84.1791434,McDonough,,30253
+way,948851421,Freddy's,Freddy's,Georgia,33.42370698,-84.1858974,,,
+way,949823209,McDonald's,McDonald's,Georgia,33.4528816,-84.16556080000001,McDonough,Jonesboro Road,30253
+way,949865272,McDonald's,McDonald's,Georgia,33.55427528,-84.26653404000001,Stockbridge,Highway 138,30281
+way,949890582,Steak 'n Shake,Steak 'n Shake,Georgia,33.56276228,-84.32107836,,,30260
+way,949891584,McDonald's,McDonald's,Georgia,33.56198311111112,-84.32114966666668,Morrow,Mount Zion Parkway,30260
+way,951328276,Five Guys,Five Guys,Georgia,33.88658985555556,-84.01053528888889,Snellville,Scenic Highway South,30078
+way,951614508,McDonald's,McDonald's,Georgia,31.702428200000003,-83.2528366,,,
+way,953186559,McDonald's,McDonald's,Georgia,32.05308813636364,-81.1068656,Savannah,Montgomery Street,31405
+way,958086891,McDonald's,McDonald's,Georgia,32.519675533333334,-84.95564026666668,Columbus,Airport Thruway,31904
+way,958089379,McDonald's,McDonald's,Georgia,32.55413804285714,-84.94669938571428,Columbus,Veterans Parkway,31909
+way,958420957,McDonald's,McDonald's,Georgia,32.46445751428572,-84.92371182857143,Columbus,Buena Vista Road,31907
+way,958424736,McDonald's,McDonald's,Georgia,32.50664248571429,-84.97130495714285,Columbus City,Manchester Expressway,31904
+way,962645719,McDonald's,McDonald's,Georgia,32.00248194444444,-81.1213727111111,Savannah,White Bluff Road,31406
+way,964024813,McDonald's,McDonald's,Georgia,32.1082554,-81.1554656,Garden City,Augusta Road,31408
+way,965022353,McDonald's,McDonald's,Georgia,33.40980384,-82.02645599999998,Augusta,Peach Orchard Road,30906
+way,965807842,McDonald's,McDonald's,Georgia,32.55495620000001,-83.6617886,Bonaire,Highway 96,31005
+way,966855703,McDonald's,McDonald's,Georgia,32.00685437,-81.10032673,Savannah,Waters Avenue,31406-2718
+way,966994193,McDonald's,McDonald's,Georgia,33.1976832,-84.283859,Griffin,Highway 19,30223
+way,967154228,McDonald's,McDonald's,Georgia,33.4468792,-84.325219,Hampton,Tara Boulevard,30228
+way,967185179,McDonald's,McDonald's,Georgia,33.522489627272726,-84.42369095454545,Jonesboro,State Route 85,30236
+way,968258885,McDonald's,McDonald's,Georgia,33.53929732,-84.3649924,Jonesboro,Tara Boulevard,30236
+way,968505330,McDonald's,McDonald's,Georgia,33.57228162857143,-84.37125522857143,Jonesboro,Tara Boulevard,30236
+way,968825283,McDonald's,McDonald's,Georgia,33.6142058,-84.43747060000001,College Park,Riverdale Road,30349
+way,968829437,McDonald's,McDonald's,Georgia,33.570935799999994,-84.4131094,Riverdale,State Route 85,30274
+way,970423982,McDonald's,McDonald's,Georgia,32.81205413333333,-83.72305416666667,Macon,Harrison Road,31206
+way,971270167,McDonald's,McDonald's,Georgia,32.80603184,-83.56786976000001,Macon,Ocmulgee Boulevard,31217
+way,972514004,McDonald's,McDonald's,Georgia,33.8039706,-84.193214875,,,
+way,972517407,McDonald's,McDonald's,Georgia,33.8496314,-84.2168484,Tucker,Lawrenceville Highway,30084-4620
+way,972592681,McDonald's,McDonald's,Georgia,33.8408696,-84.20030563999998,Tucker,Mountain Industrial Boulevard,30084
+way,975058960,McDonald's,McDonald's,Georgia,31.616796114285712,-84.2198223,Albany,Dawson Road,31707
+way,979913718,McDonald's,McDonald's,Georgia,31.47240592727273,-83.50353787272728,Tifton,Tift Avenue North,31794
+way,980679819,McDonald's,McDonald's,Georgia,33.0489612,-85.0236656,Lagrange,Commerce Avenue,30240
+way,981113643,McDonald's,McDonald's,Georgia,33.59911048,-85.07947990000001,Carrollton,North Park Street,30117
+way,981710881,McDonald's,McDonald's,Georgia,33.68764406,-85.15232533999999,Bremen,Alabama Street,30110-2504
+way,982067700,McDonald's,McDonald's,Georgia,34.0097044,-85.04164560000001,,,
+way,982074667,McDonald's,McDonald's,Georgia,34.045548600000004,-85.23554579999998,,,
+way,982077657,McDonald's,McDonald's,Georgia,34.01866328571429,-85.25279328571428,,,
+way,983309681,McDonald's,McDonald's,Georgia,34.24604300000001,-85.16176872727274,Rome,Turner McCall Boulevard,30161
+way,983311894,McDonald's,McDonald's,Georgia,34.27096285714286,-85.22861685714288,Rome,Shorter Avenue,30165
+way,984568564,McDonald's,McDonald's,Georgia,34.493854428571424,-85.33595157142857,,,
+way,988198295,McDonald's,McDonald's,Georgia,34.78468866000001,-84.77156040000001,,,
+way,992867810,McDonald's,McDonald's,Georgia,34.03508585714285,-84.67587957142857,Acworth,Cobb Parkway,30101
+way,992883474,McDonald's,McDonald's,Georgia,34.04792195714286,-84.6113325,Kennesaw,Jiles Road,30144
+way,993543746,McDonald's,McDonald's,Georgia,33.27518071428572,-84.29184642857142,Griffin,North Expressway,30223
+way,996015687,McDonald's,McDonald's,Georgia,31.230378660000003,-84.1995973,,,
+way,999104276,McDonald's,McDonald's,Georgia,33.7854694,-84.1014924,Stone Mountain,North Deshon Road,30087
+way,999655220,McDonald's,McDonald's,Georgia,34.20878562,-84.22027062000001,Cumming,Drew Campground Road,30040
+way,1000005670,Freddy's,Freddy's,Georgia,33.634727285714284,-84.01494642857143,,,
+way,1000138693,McDonald's,McDonald's,Georgia,33.5189696,-84.193057,Stockbridge,Eagles Landing Parkway,30281
+way,1000152490,McDonald's,McDonald's,Georgia,33.54345844,-84.28151686,Stockbridge,Highway 138 West,30281
+way,1000169365,McDonald's,McDonald's,Georgia,33.6199866625,-84.23592846249998,Ellenwood,Fairview Road,30281
+way,1001233026,McDonald's,McDonald's,Georgia,31.19761411428572,-82.32490414285714,Waycross,Memorial Drive,31503
+way,1006241969,McDonald's,McDonald's,Georgia,33.011085099999995,-82.39929229999998,,,
+way,1006993594,McDonald's,McDonald's,Georgia,33.44047114285714,-82.0211917142857,Augusta,Deans Bridge Road,30906
+way,1007010837,McDonald's,McDonald's,Georgia,33.3764866,-82.0737394,Hephzibah,Tobacco Road,30815
+way,1010559196,McDonald's,McDonald's,Georgia,33.835606999999996,-84.5767822,Mableton,Floyd Road Southwest,30126
+way,1010579889,McDonald's,McDonald's,Georgia,33.85557014285714,-84.6015032857143,Austell,Austell Road,30106
+way,1013567690,McDonald's,McDonald's,Georgia,33.82728066,-84.49248958000001,Smyrna,South Cobb Drive,30082
+way,1016099436,Steak n’ Shake,Steak 'n Shake,Georgia,30.837746227272728,-83.31747451818181,Valdosta,Saint Augustine Road,31601
+way,1016103787,McDonald's,McDonald's,Georgia,30.858081219999995,-83.2818068,Valdosta,North Ashley Street,31602
+way,1016108629,McDonald's,McDonald's,Georgia,30.822099999999995,-83.2739081111111,Valdosta,South Patterson Street,31601
+way,1018782816,McDonald's,McDonald's,Georgia,32.2940264125,-84.02139485,,,
+way,1023611260,McDonald's,McDonald's,Georgia,34.286408820000005,-83.15980696,,,
+way,1024438803,McDonald's,McDonald's,Georgia,33.948551744444444,-83.98752795555555,Lawrenceville,South Clayton Street,30045
+way,1024989355,Five Guys,Five Guys,Georgia,33.844005474999996,-84.4906009625,Smyrna,West Village Place,30080
+way,1028224321,McDonald's,McDonald's,Georgia,33.92341566666667,-84.01682436666668,Lawrenceville,Sugarloaf Parkway,30045
+way,1036545214,McDonald's,McDonald's,Georgia,32.473109220000005,-83.70441468,,,
+way,1049992220,McDonald's,McDonald's,Georgia,31.30675665555556,-82.24116396666666,,US-84,
+way,1052520426,McDonald's,McDonald's,Georgia,32.0486818,-81.16617114,Savannah,Ogeechee Road,31405
+way,1055557059,McDonald's,McDonald's,Georgia,33.6106113,-83.8269944,,,
+way,1055744064,McDonald's,McDonald's,Georgia,33.50713830769231,-84.14165330769232,McDonough,East Lake Parkway,30253-4802
+way,1056006381,Steak 'n Shake,Steak 'n Shake,Georgia,33.3551239,-84.12227180000001,,,30248
+way,1057825177,McDonald's,McDonald's,Georgia,30.904318699999997,-84.55341469999999,,,
+way,1070762583,Freddy's Frozen Custard & Steakburgers,Freddy's,Georgia,34.016239209090905,-84.49236331818183,,Sandy Plains Road Northeast,
+way,1099322506,McDonald's,McDonald's,Georgia,33.61270214285714,-84.6115702857143,Atlanta,Campbellton-Fairburn Road,30213
+way,1102785440,McDonald's,McDonald's,Georgia,32.27713738,-81.2304238,Rincon,South Columbia Avenue,31326
+way,1104822661,Five Guys,Five Guys,Georgia,33.985280755555564,-84.42606093333335,Marietta,Roswell Road,30062
+way,1106451325,McDonald's,McDonald's,Georgia,32.544260699999995,-84.8726499,Midland,Flat Rock Road,31820
+way,1109992054,McDonald's,McDonald's,Georgia,33.10104890000001,-82.02282238000001,,,
+way,1117855279,McDonald's,McDonald's,Georgia,33.054921042857146,-84.1530395,,,
+way,1201150531,McDonald's,McDonald's,Georgia,31.961265250000004,-83.75630664999998,,,
+way,1203013671,Culver's,Culver's,Georgia,32.54388252,-84.87552819999999,Columbus,Midland Commons Boulevard,31909
+way,1215572399,McDonald's,McDonald's,Georgia,33.57041236363636,-83.84814145454546,,,
+way,1216905691,McDonald's,McDonald's,Georgia,34.352406359999996,-82.93022386,Hartwell,W Franklin St,30643
+way,1217647376,McDonald's,McDonald's,Georgia,33.52883508888889,-82.07331697777778,Martinez,Furys Ferry Road,30907
+way,1220098274,McDonald's,McDonald's,Georgia,33.76090482222222,-84.19624714444444,Stone Mountain,South Hairston Road,30088
+way,1235507110,McDonald's,McDonald's,Georgia,32.281789172727265,-83.46598026363637,,,
+way,1235508708,McDonald's,McDonald's,Georgia,30.784822879999997,-83.56741795999999,,,
+way,1249419465,McDonald's,McDonald's,Georgia,31.76858868,-84.44746153999999,,Roundtree Drive Southwest,39842
+way,1249421614,McDonald's,McDonald's,Georgia,31.37513337142857,-84.93657471428573,,Columbia Street,39823
+way,1251167084,McDonald's,McDonald's,Georgia,33.718961660000005,-84.21584898,Decatur,Wesley Chapel Road,30035
+way,1251167742,McDonald's,McDonald's,Georgia,33.80492921333334,-84.04271218,Snellville,Georgia Highway 124,30278
+way,1263556379,McDonald's,McDonald's,Georgia,34.76589932,-84.92908202,Dalton,East Walnut Avenue,30721
+way,1266848532,Whataburger,Whataburger,Georgia,34.44864778,-83.12587718,,,
+way,1272215254,Steak 'n Shake,Steak 'n Shake,Georgia,31.61619582,-84.22247401999999,,,
+way,1277327401,Whataburger,Whataburger,Georgia,33.892562786666666,-84.00728012,Snellville,Scenic Highway,30078
+way,1281903905,McDonald's,McDonald's,Georgia,31.160254940000005,-81.39219716,Saint Simons Island,Demere Road,31522
+way,1289441832,McDonald's,McDonald's,Georgia,32.80338447999999,-81.94981356000001,Millen,US-25,30442
+way,1292929934,McDonald's,McDonald's,Georgia,32.58541294,-82.32383208000002,,,30401
+way,1305316510,Freddy's,Freddy's,Georgia,33.37815706666667,-84.75487332222222,Newnan,Newnan Crossing Boulevard,30265
+way,1312085651,Whataburger,Whataburger,Georgia,33.939523539999996,-83.45087508,Athens,Atlanta Highway,30606
+way,1328635771,McDonald's,McDonald's,Georgia,33.9929385,-83.43702748000001,,Jefferson Road,30606
+way,1350766385,Culver's,Culver's,Georgia,30.89661718,-83.32783800000001,Valdosta,North Valdosta Road,31602
+way,1370751493,Whataburger,Whataburger,Georgia,33.29758344,-83.38883258,,,
+way,1428894443,,McDonald's,Georgia,30.858184987499996,-83.94972918124999,,,
+way,1453466589,McDonald's,McDonald's,Georgia,34.03084862000001,-84.77771665999998,,,
+way,1454033029,Culver's,Culver's,Georgia,34.01086822,-85.0294851,,,
+way,1468984131,Whataburger,Whataburger,Georgia,34.17813608,-84.42317622,,,
+way,1487278747,Whataburger,Whataburger,Georgia,33.80497132000001,-83.72834066666665,,,
+way,1507362865,Whataburger,Whataburger,Georgia,34.1852156,-84.14156892,Cumming,Lakeland Plaza,30040
+way,1549629536,McDonald's,McDonald's,Georgia,31.209593999999996,-82.38293731666666,,,
+way,1562971791,Five Guys,Five Guys,Georgia,33.479119299999994,-84.22219089999999,,,
+way,1564497235,Whataburger,Whataburger,Georgia,33.48145566000001,-84.22529414,,,
+way,1565581219,McDonald's,McDonald's,Georgia,33.81703404,-84.8126614,,,
+way,1565584109,Whataburger,Whataburger,Georgia,34.217803520000004,-83.86099468,,,
+way,1580215855,Freddy's,Freddy's,Georgia,33.5118602,-82.04861848,,,

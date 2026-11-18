@@ -1,0 +1,544 @@
+osm_type,osm_id,name,brand,state_query,latitude,longitude,city,street,postcode
+node,650857860,McDonald's,McDonald's,Indiana,39.2867188,-86.7568777,Spencer,East Morgan Street,47460
+node,874233279,McDonald's,McDonald's,Indiana,41.3581896,-86.3108556,,,
+node,956278956,McDonald's,McDonald's,Indiana,39.7172141,-86.0076571,Indianapolis,South Post Road,46239
+node,958316790,McDonald's,McDonald's,Indiana,39.5480183,-85.7761588,,,
+node,968657865,Five Guys,Five Guys,Indiana,39.7642274,-86.3255477,Indianapolis,Rockville Road,46234
+node,968657925,McDonald's,McDonald's,Indiana,39.763152,-86.3319023,Avon,East US 36,46123
+node,968657999,Steak 'n Shake,Steak 'n Shake,Indiana,39.763153,-86.334154,Avon,Highway 36,46123
+node,990710901,McDonald's,McDonald's,Indiana,39.4921469,-86.0638494,Franklin,N Morton Street,46131
+node,1332795086,McDonald's,McDonald's,Indiana,40.5543349,-85.5491336,Marion,Tippy Ditch,46952
+node,1417679146,McDonald's,McDonald's,Indiana,39.9496786,-86.2754113,Zionsville,Brendon Way,46077
+node,1449438131,McDonald's,McDonald's,Indiana,40.1975155,-84.8081601,,South Columbia Street,47390
+node,1497263105,McDonald's,McDonald's,Indiana,39.6082002,-86.3756302,Mooresville,West South Street,46158-1731
+node,1837059999,Steak 'n Shake,Steak 'n Shake,Indiana,39.6201461,-86.3539194,Mooresville,Town Center Drive,46158
+node,2095769730,McDonald's,McDonald's,Indiana,41.7122836,-86.1862624,Mishawaka,Grape Road,46545
+node,2127061873,Five Guys,Five Guys,Indiana,39.9915837,-85.9319874,Noblesville,Town Center Boulevard,46060
+node,2155232176,Five Guys,Five Guys,Indiana,41.6918354,-86.2358119,South Bend,North Eddy Street,46617
+node,2399883300,McDonald's,McDonald's,Indiana,41.2301444,-85.8006085,,,
+node,2479597481,McDonald's,McDonald's,Indiana,39.7443907,-86.2796278,Indianapolis,West Washington Street,46241
+node,2548026997,McDonald's,McDonald's,Indiana,39.7149046,-86.297571,Indianapolis,,46241
+node,2705146106,Five Guys,Five Guys,Indiana,39.9585842,-86.0123906,Fishers,Commercial Drive,46038
+node,2760035031,Five Guys,Five Guys,Indiana,39.1666907,-86.5285699,Bloomington,East Kirkwood Avenue,47401
+node,2978355891,McDonald's,McDonald's,Indiana,39.8504114,-85.143165,,Frontage Rd,
+node,3157172798,McDonald's,McDonald's,Indiana,40.503603,-86.8691536,West Lafayette,State Road 43 North,47906
+node,3213218653,McDonald's,McDonald's,Indiana,40.4402507,-86.1256464,Kokomo,East Alto Road,46902-4312
+node,3247264571,McDonald's,McDonald's,Indiana,41.6044421,-87.1154732,Burns Harbor,Melton Road,46304
+node,3308527981,McDonald's,McDonald's,Indiana,37.9554829,-87.5139143,Evansville,Covert Avenue,47714-4033
+node,3453099486,Steak 'n Shake,Steak 'n Shake,Indiana,41.3629728,-85.0824552,,,
+node,3656104242,Steak 'n Shake,Steak 'n Shake,Indiana,39.85096,-86.122714,,,46220
+node,3749948046,McDonald's,McDonald's,Indiana,41.3661944,-85.0764572,,,
+node,3881400309,McDonald's,McDonald's,Indiana,39.9575626,-86.010652,Fishers,East 116th Street,46038
+node,3881400311,Steak 'n Shake,Steak 'n Shake,Indiana,39.9579988,-86.0107677,,,46038
+node,3911758095,McDonald's,McDonald's,Indiana,39.8822012,-86.2660814,Indianapolis,West 71st Street,46268
+node,4035619246,McDonald's,McDonald's,Indiana,39.8990189,-85.9946575,Indianapolis,Fall Creek Road,46256
+node,4326352725,Five Guys,Five Guys,Indiana,41.4691224,-87.0294994,Valparaiso,LaPorte Avenue,46383
+node,4381096321,McDonald's,McDonald's,Indiana,39.5092747,-87.3844504,Terre Haute,Lafayette Avenue,47805
+node,4401924268,McDonald's,McDonald's,Indiana,37.9370498,-86.7590807,,,
+node,4455309512,Five Guys,Five Guys,Indiana,40.0007462,-86.1255076,Carmel,East Greyhound Pass,46033
+node,4529699682,McDonald's,McDonald's,Indiana,37.963352,-87.5439178,Evansville,Washington Avenue,47714
+node,4529699688,McDonald's,McDonald's,Indiana,37.9838402,-87.4922213,Evansville,North Green River Road,47715-2415
+node,4602268278,Steak 'n Shake,Steak 'n Shake,Indiana,39.8159365,-85.7691014,,,46140
+node,4640542867,McDonald's,McDonald's,Indiana,38.6525613,-87.1581013,,,
+node,4643055322,McDonald's,McDonald's,Indiana,37.934744,-87.8838266,,,
+node,4780015129,Five Guys,Five Guys,Indiana,38.3058798,-85.8418453,New Albany,State Street,47150
+node,4962330122,Freddy's,Freddy's,Indiana,40.000879,-86.1145503,Carmel,East 146th Street,46033
+node,4979463251,McDonald's,McDonald's,Indiana,41.703078,-85.8881094,Elkhart,State Highway 120,46514
+node,4979544809,Steak 'n Shake,Steak 'n Shake,Indiana,41.6222041,-85.9011371,,,46526
+node,4995442791,Five Guys,Five Guys,Indiana,39.7754888,-85.9922346,Indianapolis,East Washington Street,46229
+node,5002274663,Steak 'n Shake,Steak 'n Shake,Indiana,39.9128328,-86.2237321,Indianapolis,Michigan Road,46268
+node,5003170955,McDonald's,McDonald's,Indiana,39.9257471,-86.228635,Indianapolis,West 96th Street,46268
+node,5015177838,Five Guys,Five Guys,Indiana,39.9044775,-86.0779325,Indianapolis,East 82nd Street,46250
+node,5194524266,McDonald's,McDonald's,Indiana,39.4504326,-85.6264434,St Paul,North Old US Hwy 421,47272
+node,5211314524,Five Guys,Five Guys,Indiana,41.1187634,-85.1286162,Fort Wayne,Northcrest Shopping Center,46805
+node,5216696250,Steak 'n Shake,Steak 'n Shake,Indiana,39.6168424,-86.1579098,,,46142
+node,5216696282,McDonald's,McDonald's,Indiana,39.6176925,-86.1591688,Greenwood,Marlin Drive,46142
+node,5272851651,McDonald's,McDonald's,Indiana,39.9047434,-86.0641038,Indianapolis,East 82nd Street,46250
+node,5586799027,Culver's,Culver's,Indiana,41.0686226,-85.0594559,Fort Wayne,West State Rd 930,46803
+node,5670314313,McDonald's,McDonald's,Indiana,38.3389817,-85.8162458,New Albany,Hausfeldt Lane,47150-7270
+node,5776168425,McDonald's,McDonald's,Indiana,39.6161887,-86.4786813,Mooresville,Koger Street,46158
+node,5851475434,McDonald's,McDonald's,Indiana,40.573677,-85.6760277,Marion,North Baldwin Avenue,46952-2533
+node,5859771278,McDonald's,McDonald's,Indiana,40.3001099,-85.2498081,,,
+node,5943291993,Culver's,Culver's,Indiana,39.7635617,-86.3062246,Indianapolis,Country Village Drive,46214
+node,5943291994,Culver's,Culver's,Indiana,39.6332054,-86.0831146,Greenwood,North Emerson Avenue,46143
+node,6061570861,McDonald's,McDonald's,Indiana,39.7510364,-86.0291579,Indianapolis,Brookville Road,46239
+node,6274416138,McDonald's,McDonald's,Indiana,41.5366392,-86.000565,Wakarusa,East Waterford Street,46573
+node,6289203502,McDonald's,McDonald's,Indiana,41.5939329,-85.8579128,Goshen,Elkhart Road,46526-1940
+node,6298353995,McDonald's,McDonald's,Indiana,40.1134065,-85.5735402,Daleville,West Commerce,47334
+node,6308702368,McDonald's,McDonald's,Indiana,39.9923408,-85.8444993,Pendleton,West Interpark Drive,46064
+node,6417785978,Five Guys,Five Guys,Indiana,41.5636415,-87.5084925,Munster,Calumet Avenue,46321
+node,6479327185,Five Guys,Five Guys,Indiana,39.7672754,-86.1564804,Indianapolis,East Washington Street,46204
+node,6887320762,Shake Shack,Shake Shack,Indiana,39.7176261,-86.2969113,,,
+node,6960761924,McDonald's,McDonald's,Indiana,39.4516263,-87.1249699,,,
+node,6964913901,Culver's,Culver's,Indiana,40.0720298,-86.4746027,Lebanon,North Lebanon Street,46052
+node,7023181742,McDonald's,McDonald's,Indiana,39.1022919,-87.4243739,Sullivan,W Wolfe St,47882
+node,7110728197,Five Guys,Five Guys,Indiana,39.2171649,-85.8836955,Columbus,North National Road,47201
+node,7155246481,McDonald's,McDonald's,Indiana,41.6681401,-85.8201969,Goshen,US-20,46528
+node,7616932930,Five Guys,Five Guys,Indiana,39.4011308,-87.4036617,Terre Haute,South Highway 41,47802
+node,7674506728,McDonald's,McDonald's,Indiana,38.4909197,-85.7701612,Memphis,Memphis-Blue Lick Road,47143
+node,7826582528,McDonald's,McDonald's,Indiana,39.2140525,-86.5920826,Bloomington,West State Road 46,47404
+node,8309283548,McDonald's,McDonald's,Indiana,39.0694843,-85.2545096,Versailles,S Adams St,47042
+node,8425106038,Culver's,Culver's,Indiana,41.0542339,-85.2265124,Fort Wayne,West Jefferson Boulevard,46804
+node,8963977987,Freddy's,Freddy's,Indiana,39.9280036,-86.229838,Carmel,North Michigan Road,46032
+node,8999282713,Five Guys,Five Guys,Indiana,38.3286483,-85.7459002,Jeffersonville,Veterans Parkway,47130
+node,9027137030,Culver's,Culver's,Indiana,40.0464728,-86.026033,Noblesville,Westfield Road,46060
+node,9033084815,Steak 'n Shake,Steak 'n Shake,Indiana,40.0346035,-85.9959938,Noblesville,Clover Road,46060
+node,9038330352,McDonald's,McDonald's,Indiana,40.0437259,-86.0750856,Noblesville,Village Center Drive,46062
+node,9089914433,McDonald's,McDonald's,Indiana,39.9276404,-86.0256529,Fishers,North By Northeast Boulevard,46038
+node,9089914439,Steak 'n Shake,Steak 'n Shake,Indiana,39.9266772,-86.0238768,,,46256
+node,9126645913,Five Guys,Five Guys,Indiana,41.7195307,-86.189202,Mishawaka,Grape Road,46545
+node,9188459636,McDonald's,McDonald's,Indiana,40.1232062,-86.0128666,Cicero,South Peru,46034
+node,9506837501,McDonald's,McDonald's,Indiana,39.525844,-87.1147397,,,
+node,9519998996,McDonald's,McDonald's,Indiana,39.6256106,-85.4443699,,,
+node,9573542645,McDonald's,McDonald's,Indiana,41.6345252,-85.0438799,,,
+node,9588805131,McDonald's,McDonald's,Indiana,39.8436296,-85.5577595,Knightstown,South State Route 109,46148
+node,9588902291,McDonald's,McDonald's,Indiana,40.1483453,-85.6741879,Anderson,North Broadway,46012
+node,9588961122,McDonald's,McDonald's,Indiana,40.0621948,-85.6536321,Anderson,Scatterfield Road,46013-2923
+node,9611778686,McDonald's,McDonald's,Indiana,39.8049949,-86.082516,Indianapolis,North Emerson Avenue,46218
+node,9893499810,McDonald's,McDonald's,Indiana,39.4721594,-87.3729332,Terre Haute,Wabash Avenue,47803
+node,9905115536,McDonald's,McDonald's,Indiana,39.5299582,-86.8014841,,,
+node,9980092408,Five Guys,Five Guys,Indiana,39.858009,-86.3900182,Brownsburg,East Northfield Drive,46112
+node,9982981346,McDonald's,McDonald's,Indiana,38.2899772,-85.9140548,Georgetown,North Luther Road,47122-9123
+node,10048016764,Freddy's,Freddy's,Indiana,39.8018537,-86.2708202,,,
+node,10283031392,McDonald's,McDonald's,Indiana,39.583591,-85.8183428,,,
+node,10552880140,McDonald's,McDonald's,Indiana,41.4195594,-87.3292482,Crown Point,East 109th Place,46307
+node,11182191126,Steak 'n Shake,Steak 'n Shake,Indiana,40.0469283,-86.4928012,,,46052
+node,11252405934,McDonald's,McDonald's,Indiana,39.8243664,-86.1584563,Indianapolis,West 38th Street,46208
+node,11474433796,Five Guys,Five Guys,Indiana,40.4136771,-86.8393813,Lafayette,South Creasy Lane,47905
+node,11599322237,McDonald's,McDonald's,Indiana,40.4388737,-84.9785024,Jay County,North Meridian Street,47371-1134
+node,11630859625,McDonald's,McDonald's,Indiana,39.551514,-86.0461882,Whiteland,County Road 500 North,46184
+node,11630865466,McDonald's,McDonald's,Indiana,39.6654231,-86.0831736,Indianapolis,Southport Crossing Place,46227
+node,11650144094,Culver's,Culver's,Indiana,39.5540703,-85.774425,Shelbyville,North Morristown Road,46176
+node,11834988769,Steak 'n Shake,Steak 'n Shake,Indiana,39.650366,-86.1379838,Indianapolis,US 31 South,46227
+node,11957248674,McDonald's,McDonald's,Indiana,38.3280642,-85.7433914,Jeffersonville,Veterans Parkway,47130
+node,11957254248,Culver's,Culver's,Indiana,39.9259595,-85.3827452,,,
+node,11975131078,Five Guys,Five Guys,Indiana,39.6528044,-86.1362051,Indianapolis,South 31,46227
+node,11976772323,Culver's,Culver's,Indiana,38.9593497,-85.8479229,Seymour,,47274
+node,11981626083,Culver's,Culver's,Indiana,39.3544135,-85.4855926,,,
+node,12058168132,McDonald's,McDonald's,Indiana,38.0572111,-87.5460403,,East Mount Pleasant Road,47725
+node,12060319210,McDonald's,McDonald's,Indiana,38.6747231,-86.9125877,Loogootee,East Broadway Street,47553
+node,12092474308,Steak 'n Shake,Steak 'n Shake,Indiana,39.7655007,-86.1602312,Indianapolis,West Maryland Street,46225
+node,12121206912,Culver's,Culver's,Indiana,38.7767143,-85.3797127,Madison,,47250
+node,12271227247,McDonald's,McDonald's,Indiana,39.2198755,-84.855492,,State Line Road,47025
+node,12282640330,McDonald's,McDonald's,Indiana,41.0641444,-86.6028588,,US 35,46996
+node,12282646662,McDonald's,McDonald's,Indiana,41.4655788,-86.4808182,,Roosevelt Road,46574
+node,12282646669,McDonald's,McDonald's,Indiana,41.4193974,-87.3647851,,North Main Street,46307-4064
+node,12282688076,McDonald's,McDonald's,Indiana,41.3765397,-87.4706548,,Wicker Avenue,46303
+node,12282688097,McDonald's,McDonald's,Indiana,40.663818,-84.956194,,US 27,46711-1021
+node,12282708624,McDonald's,McDonald's,Indiana,40.2930477,-87.2521034,,West Jackson Street,47918
+node,12282718617,McDonald's,McDonald's,Indiana,41.1800433,-85.0796734,,East Dupont Road,46845
+node,12282727358,McDonald's,McDonald's,Indiana,41.3642492,-85.222899,,East Albion Street,46710
+node,12292452959,McDonald's,McDonald's,Indiana,37.9778369,-87.5643861,,North Main Street,47710
+node,12292457035,McDonald's,McDonald's,Indiana,39.4837644,-86.0186734,,East King Street,46131
+node,12292460730,McDonald's,McDonald's,Indiana,39.829351,-86.0424071,,Pendleton Pike,46226-5172
+node,12292463019,McDonald's,McDonald's,Indiana,39.6946316,-86.2702915,,Kentucky Avenue,46221
+node,12292466433,McDonald's,McDonald's,Indiana,40.4549142,-86.129406,,East Lincoln Road,46902-3562
+node,12292470949,McDonald's,McDonald's,Indiana,38.354759,-87.5920663,,West Broadway Street,47670-1084
+node,12292471657,McDonald's,McDonald's,Indiana,40.0966237,-85.6519152,,Scatterfield Road,46013
+node,12292471847,McDonald's,McDonald's,Indiana,39.7875381,-86.2175107,,West 16th Street,46222-2659
+node,12292471848,McDonald's,McDonald's,Indiana,39.915521,-85.3834653,,South Memorial Drive,47362-1214
+node,12292472497,McDonald's,McDonald's,Indiana,40.4990421,-86.1086179,,North Reed Road,46901-2590
+node,12292472617,McDonald's,McDonald's,Indiana,39.9796236,-86.39572,,South Indianapolis Road,46075
+node,12292473879,McDonald's,McDonald's,Indiana,39.7946419,-86.0463692,,North Shadeland Avenue,46219
+node,12292473884,McDonald's,McDonald's,Indiana,40.2776671,-85.8105562,,,46036
+node,12292474951,McDonald's,McDonald's,Indiana,39.8544548,-86.1945457,,Michigan Road,46228
+node,12292483475,McDonald's,McDonald's,Indiana,40.4874788,-86.1640906,,West Sycamore Street,46901-4107
+node,12292487554,McDonald's,McDonald's,Indiana,39.8255917,-86.0094671,,North Post Road,46226-6063
+node,12292487561,McDonald's,McDonald's,Indiana,39.8617263,-85.9731517,,Pendleton Pike,46256
+node,12292498904,McDonald's,McDonald's,Indiana,40.2823477,-86.0308484,,East Jefferson Street,46072-1853
+node,12292502332,McDonald's,McDonald's,Indiana,40.5235395,-85.6729994,,South Western Avenue,46953
+node,12292512680,McDonald's,McDonald's,Indiana,38.5623082,-86.6133653,,,47469-9415
+node,12342747859,Freddy's,Freddy's,Indiana,39.2007191,-85.9638495,Columbus,Jonathan Moore Pike,47201
+node,12372276438,Shake Shack,Shake Shack,Indiana,39.7710472,-86.1545962,,,
+node,12449895731,Freddy's,Freddy's,Indiana,38.9573997,-85.8566863,,,
+node,12450017693,Freddy's,Freddy's,Indiana,39.5048101,-86.0702236,,,
+node,12450017699,Culver's,Culver's,Indiana,39.4838117,-86.0159093,Franklin,Granville Drive,46131
+node,12781980822,Culver's,Culver's,Indiana,39.8961983,-85.9196625,McCordsville,West Broadway,46055
+node,12781980825,Culver's,Culver's,Indiana,41.3660917,-85.0798222,Auburn,Touring Drive,46706
+node,12781980855,Culver's,Culver's,Indiana,40.2785221,-86.4839744,Frankfort,East Wabash Street,46041
+node,12781980867,Culver's,Culver's,Indiana,39.4177314,-87.4170541,Terre Haute,US 41,47802
+node,12781980885,Culver's,Culver's,Indiana,39.7756007,-85.9643463,Cumberland,East Washington Street,46229
+node,12781980900,Culver's,Culver's,Indiana,41.6849747,-86.1109467,Mishawaka,McKinley Avenue,46545
+node,12781980918,Culver's,Culver's,Indiana,41.6626587,-85.0000229,Angola,North Wayne Street,46703
+node,12781980923,Culver's,Culver's,Indiana,39.7605858,-86.4869308,Danville,South County Road 200 East,46122
+node,13403511646,Five Guys,Five Guys,Indiana,39.912302,-86.2206222,Indianapolis,West 86th Street,46268
+node,13623480995,Shake Shack,Shake Shack,Indiana,39.9545443,-86.2437276,,,
+node,13704987701,Five Guys,Five Guys,Indiana,41.551126,-87.1813807,,,
+node,14141141731,McDonald's,McDonald's,Indiana,40.1422773,-87.3991664,Covington,Pearl Street,47932
+node,14178863234,Culver's,Culver's,Indiana,40.0035619,-85.7645759,Pendleton,State Street,46064
+node,14247027470,Five Guys,Five Guys,Indiana,41.7238879,-85.9748147,,,
+node,14253802460,Five Guys,Five Guys,Indiana,41.492984,-87.4704195,Schererville,Indianapolis Boulevard,46375
+way,29550035,Five Guys,Five Guys,Indiana,39.1537789,-86.49727576000001,Bloomington,South College Mall Road,47404
+way,30937568,McDonald's,McDonald's,Indiana,41.22526049090909,-85.31688646363637,Churubusco,South Main Street,46723
+way,41546073,Steak 'n Shake,Steak 'n Shake,Indiana,41.457034220000004,-87.03382450000001,Valparaiso,Strongbow Center Drive,46383
+way,71497510,McDonald's,McDonald's,Indiana,40.45291357142857,-86.91755154285714,West Lafayette,Sagamore Parkway West,47906
+way,72371246,McDonald's,McDonald's,Indiana,41.62663718,-86.23554677999999,South Bend,South Miami,46614-3225
+way,82004384,McDonald's,McDonald's,Indiana,41.12082412,-85.06318633999999,Fort Wayne,Stellhorn Road,46815-5347
+way,89781929,Steak 'n Shake,Steak 'n Shake,Indiana,41.13115726666667,-85.012982,Fort Wayne,Meijer Drive,46835
+way,102923628,Culver's,Culver's,Indiana,39.716198,-86.3575624,Plainfield,Perry Road,46168
+way,102923657,Culver's,Culver's,Indiana,39.69982610769231,-86.26295159230769,Indianapolis,Kentucky Avenue,46221
+way,102923704,Culver's,Culver's,Indiana,41.473436153846144,-87.31760697692309,Merrillville,East 79th Avenue,46410
+way,102923740,Culver's,Culver's,Indiana,39.882494300000005,-86.24536912,Indianapolis,West 71st Street,46268
+way,102923759,Culver's,Culver's,Indiana,41.46755877142857,-87.03554047142858,Valparaiso,Laporte Avenue,46383
+way,102923794,Culver's,Culver's,Indiana,37.99272049333333,-87.47327148666668,Evansville,Hirschland Road,47715
+way,102923809,Culver's,Culver's,Indiana,39.92656637272728,-86.04334706363638,Indianapolis,East 96th Street,46250
+way,102923883,Culver's,Culver's,Indiana,40.01181391538462,-86.9044788846154,Crawfordsville,South US 231,47933
+way,102923925,Culver's,Culver's,Indiana,41.4911981,-87.4750896,Schererville,West Lincoln Highway,46375
+way,102924034,Culver's,Culver's,Indiana,41.664903884615384,-86.89332124615385,Michigan City,North Frontage Road,46360
+way,102924067,Culver's,Culver's,Indiana,41.54992404615383,-87.17748041538462,Portage,US-6,46368
+way,102924140,Culver's,Culver's,Indiana,38.23349974,-86.13262638,Corydon,Federal Drive,47112
+way,102924305,Culver's,Culver's,Indiana,40.42096742,-86.84015855999999,Lafayette,North Creasy Lane,47905
+way,109265960,Steak 'n Shake,Steak 'n Shake,Indiana,41.127652044444446,-85.13642525555557,Fort Wayne,Coldwater Road,46825
+way,111650838,McDonald's,McDonald's,Indiana,41.09715082380952,-85.08898490952382,Fort Wayne,East State Boulevard,46805
+way,111650855,McDonald's,McDonald's,Indiana,41.07481896,-85.1456704,Fort Wayne,Fairfield Avenue,46802
+way,113615915,McDonald's,McDonald's,Indiana,39.58399468,-86.100616,Greenwood,US 31 South,46143
+way,116427228,McDonald's,McDonald's,Indiana,40.42258766,-86.9048239,West Lafayette,East State Street,47906
+way,117150000,McDonald's,McDonald's,Indiana,40.41822788888888,-86.82639584444445,Lafayette,South Street,47905
+way,121635174,McDonald's,McDonald's,Indiana,41.11865818888889,-85.1394160888889,Fort Wayne,East Coliseum Boulevard,46805-1002
+way,121774213,McDonald's,McDonald's,Indiana,41.133194342857145,-85.10155184285715,Fort Wayne,Saint Joe Center Road,46835
+way,121900295,McDonald's,McDonald's,Indiana,41.06930010000001,-85.0452869,New Haven,West State Route 930,46774
+way,127676092,McDonald's,McDonald's,Indiana,39.614781099999995,-86.07930382222223,Greenwood,South Park Drive,46143-9059
+way,129284089,McDonald's,McDonald's,Indiana,41.6536758,-84.9987169333333,Angola,North Wayne Street,46703
+way,136372849,McDonald's,McDonald's,Indiana,41.67266827142857,-86.3186016,South Bend,Western Avenue,46619-2311
+way,137138397,McDonald's,McDonald's,Indiana,41.03259035238094,-85.2571673904762,Fort Wayne,Coventry Lane,46804
+way,153272146,McDonald's,McDonald's,Indiana,38.68561696842105,-85.79216869473684,,,
+way,153516952,McDonald's,McDonald's,Indiana,41.56240986923077,-87.51507714615383,Munster,Ridge Road,46321
+way,156513047,McDonald's,McDonald's,Indiana,38.8605714,-86.51791182,Bedford,16th Street,47421
+way,156518178,Steak 'n Shake,Steak 'n Shake,Indiana,38.86718206,-86.51897106,Bedford,James Avenue,47421
+way,156546644,McDonald's,McDonald's,Indiana,38.72473301428572,-86.47874788571428,,,
+way,170661228,McDonald's,McDonald's,Indiana,40.8128971,-85.83650359999999,Wabash,Cass Street,46992
+way,178773421,McDonald's,McDonald's,Indiana,41.680976814285714,-86.25004012857143,South Bend,North Michigan Street,46601-1228
+way,184317143,McDonald's,McDonald's,Indiana,41.56044027333334,-85.79642804666668,Goshen,Lincolnway East,46526-6416
+way,184918643,McDonald's,McDonald's,Indiana,41.177894890909094,-85.1258081909091,Fort Wayne,Dupont Road,46825
+way,186971323,McDonald's,McDonald's,Indiana,39.83336586,-84.82452032,Richmond,Commerce Road,47374
+way,186971427,Culver's,Culver's,Indiana,39.83343688,-84.82321714,Richmond,Commerce Road,47374
+way,187307979,McDonald's,McDonald's,Indiana,39.7164414,-86.3592179,Plainfield,East Main Street,46168
+way,195638533,McDonald's,McDonald's,Indiana,39.96249028888889,-86.1145449,Carmel,East Carmel Drive,46032
+way,195643983,Culver's,Culver's,Indiana,41.62974571428571,-86.25038154285714,South Bend,South Michigan Street,46614
+way,195909772,McDonald's,McDonald's,Indiana,39.92655962,-86.15865163999999,Indianapolis,North Meridian Street,46260
+way,196731929,McDonald's,McDonald's,Indiana,39.99525414,-85.92954452000001,Noblesville,Tegler Drive,46060
+way,197315909,McDonald's,McDonald's,Indiana,41.446794260000004,-86.16717711999999,,,
+way,204629266,McDonald's,McDonald's,Indiana,39.11168257333333,-84.85184969333334,Lawrenceburg,East Eads Parkway,47025
+way,204646469,Steak 'n Shake,Steak 'n Shake,Indiana,39.08665413999999,-84.87907795999999,Lawrenceburg,West Eads Parkway,47025
+way,204646514,McDonald's,McDonald's,Indiana,39.08606854,-84.87806604,Lawrenceburg,West Eads Parkway,47025
+way,211390375,McDonald's,McDonald's,Indiana,41.70237962666666,-87.52499896666664,Chicago,East 106th Street,60617
+way,220387674,McDonald's,McDonald's,Indiana,39.77430192857143,-85.99385204285714,Indianapolis,East Washington Street,46229-3037
+way,220492368,Steak 'n Shake,Steak 'n Shake,Indiana,39.7751482,-85.97616547999999,Indianapolis,East Washington Street,46229
+way,220524537,Steak 'n Shake,Steak 'n Shake,Indiana,39.8638106,-85.9714339,Indianapolis,Pendleton Pike,46236
+way,220676022,McDonald's,McDonald's,Indiana,39.959834754545454,-86.03952537272727,Fishers,Fishers Crossing Drive,46038
+way,220685128,Steak 'n Shake,Steak 'n Shake,Indiana,39.802519079999996,-86.0104964,Indianapolis,Post Drive,46219
+way,220685373,Steak 'n Shake,Steak 'n Shake,Indiana,39.7734403,-86.02679306,Indianapolis,East Washington Street,46219
+way,221148971,McDonald's,McDonald's,Indiana,41.69208768,-86.29461210000001,,,
+way,221248122,McDonald's,McDonald's,Indiana,41.679928360000005,-86.19481832,Mishawaka,West McKinley,46545
+way,227769859,McDonald's,McDonald's,Indiana,41.451949739999996,-85.26922404,Kendallville,West North Street,46755
+way,229132853,McDonald's,McDonald's,Indiana,39.86665538,-84.88950082,Richmond,Chester Boulevard,47374
+way,230412848,McDonald's,McDonald's,Indiana,39.829375999999996,-84.87845784,Richmond,East Main Street,47374
+way,230555902,McDonald's,McDonald's,Indiana,39.823124899999996,-84.94369459999999,Richmond,National Road West,47374
+way,230964734,McDonald's,McDonald's,Indiana,39.856490140000005,-86.24101083999999,Indianapolis,West 57th Street,46254
+way,232514378,Steak 'n Shake,Steak 'n Shake,Indiana,39.883010139999996,-86.06927604,Indianapolis,East 71st Street,46220
+way,232517140,McDonald's,McDonald's,Indiana,39.881621972727274,-86.07028079090908,Indianapolis,Graham Road,46220
+way,234074102,McDonald's,McDonald's,Indiana,39.92986656,-85.91826868000001,McCordsville,Olio Road,46040
+way,240060761,Steak 'n Shake,Steak 'n Shake,Indiana,39.76058373076923,-86.2260905,,,
+way,240158949,McDonald's,McDonald's,Indiana,39.75409854444444,-86.24711633333332,Indianapolis,West Washington Street,46241
+way,240525737,Steak 'n Shake,Steak 'n Shake,Indiana,39.6717524,-86.36997125714285,,,46168
+way,240976620,McDonald's,McDonald's,Indiana,39.67468614285715,-86.36922832857142,Plainfield,Cambridge Way,46168
+way,241796327,McDonald's,McDonald's,Indiana,41.074720920000004,-85.27646675999999,Fort Wayne,Illinois Road,46814
+way,242958966,McDonald's,McDonald's,Indiana,39.67192818,-85.13514617999999,,,
+way,252164036,McDonald's,McDonald's,Indiana,41.453608853846156,-85.58694275384616,,,
+way,256640455,McDonald's,McDonald's,Indiana,40.431038423529415,-86.91313173529412,West Lafayette,Stadium Avenue,47906-2667
+way,258010058,McDonald's,McDonald's,Indiana,39.847082480000005,-86.12245924000001,Indianapolis,North Keystone Avenue,46205
+way,258120400,McDonald's,McDonald's,Indiana,39.8249181,-86.12063429090911,Indianapolis,East 38th Street,46218
+way,262557958,McDonald's,McDonald's,Indiana,41.46222545555556,-87.08638797777779,Valparaiso,Morthland Drive,46383
+way,264029247,Culver's,Culver's,Indiana,39.86627934,-86.12161355999999,Indianapolis,North Keystone Avenue,46220
+way,271381375,McDonald's,McDonald's,Indiana,39.887673355555556,-86.12146137777778,Indianapolis,North Keystone Avenue,46240
+way,277463811,McDonald's,McDonald's,Indiana,39.91125752,-86.2199499,Indianapolis,West 86th Street,46268-1930
+way,282513997,McDonald's,McDonald's,Indiana,39.164863100000005,-86.49531141999998,Bloomington,East 3rd Street,47401
+way,282527730,Steak 'n Shake,Steak 'n Shake,Indiana,39.1463515,-86.57663779999999,Bloomington,South Liberty Drive,47403
+way,282540203,McDonald's,McDonald's,Indiana,39.16506424285715,-86.5716711,Bloomington,West 3rd Street,47404
+way,282544285,McDonald's,McDonald's,Indiana,39.18717906,-86.53371836000001,Bloomington,North Walnut Street,47404
+way,283276303,McDonald's,McDonald's,Indiana,40.394070000000006,-86.85465496,Lafayette,Sagamore Parkway South,47905
+way,283289477,Steak 'n Shake,Steak 'n Shake,Indiana,40.41554554444444,-86.81521164444445,Lafayette,Meijer Drive,47905
+way,283335390,Steak 'n Shake,Steak 'n Shake,Indiana,40.41791884,-86.85862540000001,Lafayette,Sagamore Parkway,47904
+way,283611917,McDonald's,McDonald's,Indiana,39.46398424285714,-87.41350051428572,Terre Haute,South 3rd Street,47807
+way,286009616,McDonald's,McDonald's,Indiana,39.87025031666667,-86.14080080000001,Indianapolis,Broad Ripple Avenue,46220
+way,286356748,McDonald's,McDonald's,Indiana,39.82405325999999,-86.28055406,Indianapolis,West 38th Street,46254
+way,290360950,McDonald's,McDonald's,Indiana,41.4718111875,-87.3125537,Merrillville,East 80th Avenue,46410
+way,295520684,McDonald's,McDonald's,Indiana,39.31106648,-85.96469486000001,Edinburgh,North US Highway 31,46124
+way,300959364,McDonald's,McDonald's,Indiana,39.8376281,-86.38304872857144,Brownsburg,East Main Street,46112
+way,303561484,McDonald's,McDonald's,Indiana,41.61558781666666,-86.73202173333334,La Porte,Pine Lake Avenue,46350
+way,305742286,McDonald's,McDonald's,Indiana,40.172418444444446,-84.96587319999999,,,
+way,307816655,McDonald's,McDonald's,Indiana,39.78905771428571,-86.15693572857143,Indianapolis,North Meridian Street,46202
+way,312015579,Five Guys,Five Guys,Indiana,40.46288996,-86.11192564000001,Kokomo,East Boulevard Street,46902
+way,314635520,Culver's,Culver's,Indiana,41.131955595652165,-85.15823954782608,Fort Wayne,West Washington Center Road,46825
+way,314635539,McDonald's,McDonald's,Indiana,41.13197692105264,-85.15730617894738,Fort Wayne,West Washington Center Road,46825
+way,315553923,McDonald's,McDonald's,Indiana,38.00901452,-87.4929284,Evansville,North Green River Road,47715-1352
+way,317236779,McDonald's,McDonald's,Indiana,39.64305756,-86.33265398,Camby,Windfall Lane,46113
+way,318324997,McDonald's,McDonald's,Indiana,41.61647582,-87.04471333999999,Chesterton,Indian Boundary Line Road,46304-1513
+way,322818831,McDonald's,McDonald's,Indiana,39.01286788,-85.63848381999999,,,
+way,325320877,McDonald's,McDonald's,Indiana,39.8040765,-85.77040186000002,Greenfield,North State Street,46140-1058
+way,325432943,Culver's,Culver's,Indiana,39.8115874,-85.77045408571428,Greenfield,North State Street,46140
+way,329512551,McDonald's,McDonald's,Indiana,40.3676718,-86.86335044,Lafayette,Osborne Drive,47909
+way,343008881,McDonald's,McDonald's,Indiana,41.752801111111104,-86.11938197777779,Granger,Saint Road 23,46530
+way,350933465,McDonald's,McDonald's,Indiana,37.978009,-87.47327358,Evansville,Burkhardt Road,47715-2725
+way,350935667,Freddy's,Freddy's,Indiana,37.97475132222222,-87.64221151111113,,,
+way,350939580,McDonald's,McDonald's,Indiana,37.97816340769231,-87.62858837692306,Evansville,South Rosenberger Avenue,47712-5900
+way,351225033,McDonald's,McDonald's,Indiana,37.98640568181818,-87.60000135454544,Evansville,North Saint Joseph Avenue,47712
+way,351262651,Culver's,Culver's,Indiana,37.97621578571428,-87.63427487142857,Evansville,West Lloyd Expressway,47712
+way,367812106,Culver's,Culver's,Indiana,38.329596114285714,-85.74515771428571,Jeffersonville,Veterans Parkway,47130
+way,386887263,McDonald's,McDonald's,Indiana,41.606861380000005,-87.17115614,Portage,Ameriplex Drive,46368
+way,387969822,McDonald's,McDonald's,Indiana,39.779573740000004,-86.28829728,Indianapolis,West 10th Street,46214
+way,389783066,Culver's,Culver's,Indiana,41.559951420000004,-85.79583192,Goshen,Lincoln Way East,46526
+way,391991668,McDonald's,McDonald's,Indiana,39.7231564,-85.8982834888889,New Palestine,West Highway 52,46163
+way,399259477,McDonald's,McDonald's,Indiana,40.19130154,-85.3811997,,,
+way,412879725,McDonald's,McDonald's,Indiana,41.741077572727264,-85.00003389090911,Fremont,North Old US Highway 27,46737
+way,421350698,McDonald's,McDonald's,Indiana,41.7242635,-86.28611258,South Bend,Portage Avenue,46628
+way,422547536,McDonald's,McDonald's,Indiana,41.54982998,-87.13711464,Valparaiso,West US Highway 6,46383-7914
+way,444793284,McDonald's,McDonald's,Indiana,40.0078198,-86.1265557181818,Carmel,Thatcher Lane,46032
+way,448058539,McDonald's,McDonald's,Indiana,39.79988478,-86.26829158,Indianapolis,Crawfordsville Road,46224
+way,449154271,McDonald's,McDonald's,Indiana,40.00075853529412,-86.06548939411765,Noblesville,Hazel Dell Crossing,46062
+way,458145212,McDonald's,McDonald's,Indiana,41.468025440000005,-87.02905742,Valparaiso,LaPorte Avenue,46383
+way,458530316,McDonald's,McDonald's,Indiana,41.17361835714286,-85.16677944285713,Fort Wayne,Lima Road,46818
+way,461289137,McDonald's,McDonald's,Indiana,41.06033934,-85.21355193999999,Fort Wayne,West Jefferson Boulevard,46804
+way,467191873,McDonald's,McDonald's,Indiana,41.64779524,-85.93737612,Elkhart,South Main Street,46517-3125
+way,473430596,McDonald's,McDonald's,Indiana,41.69602767777778,-86.21706391111111,South Bend,North Ironwood Drive,46635
+way,484770708,McDonald's,McDonald's,Indiana,41.099984416216216,-85.15687964594592,Fort Wayne,Goshen Avenue,46808
+way,484941941,McDonald's,McDonald's,Indiana,41.62876122,-86.17604748,Mishawaka,Bremen Highway,46544-6500
+way,494079393,Five Guys,Five Guys,Indiana,41.673188800000005,-86.89337464,Michigan City,Franklin Street,46360
+way,494087984,McDonald's,McDonald's,Indiana,41.66754172222223,-86.89344327777775,Michigan City,Franklin Street,46360
+way,494323759,McDonald's,McDonald's,Indiana,41.690761640000005,-86.89452170000001,Michigan City,South Franklin,46361
+way,497276888,Culver's,Culver's,Indiana,41.427998228571425,-87.3373232,Crown Point,East Summit Street,46307
+way,497276889,Culver's,Culver's,Indiana,39.98751651428571,-85.91837411428571,Fishers,Olio Road,46037
+way,497276890,Culver's,Culver's,Indiana,40.21927608571429,-85.40138978571429,Muncie,West McGalliard Road,47303
+way,505667553,McDonald's,McDonald's,Indiana,39.95001165714286,-86.34005217142858,Whitestown,Heartland Drive,46075
+way,507398532,McDonald's,McDonald's,Indiana,39.9548056,-86.16310712,Carmel,North Illinois Street,46032
+way,509470520,McDonald's,McDonald's,Indiana,40.04340228181818,-86.14140843636365,Westfield,East Tournament Trail,46074
+way,525073828,McDonald's,McDonald's,Indiana,41.049676399999996,-85.13583322,Fort Wayne,East Rudisill,46806
+way,526524361,McDonald's,McDonald's,Indiana,41.01907032,-85.16987558000001,Fort Wayne,Bluffton Road,46809-2702
+way,527130642,Culver's,Culver's,Indiana,41.17837618461538,-85.10052748461538,Fort Wayne,East Dupont Road,46825
+way,527130643,Culver's,Culver's,Indiana,41.11999265714286,-85.06435078571428,Fort Wayne,Stellhorn Road,46815
+way,533430665,McDonald's,McDonald's,Indiana,40.72305324,-85.43699616,,,
+way,533648952,Steak 'n Shake,Steak 'n Shake,Indiana,39.2271839,-85.89735716,Columbus,Herman Darlage Drive,47201
+way,534122897,McDonald's,McDonald's,Indiana,39.21803876,-85.88587574,Columbus,National Road,47201-4503
+way,535248676,McDonald's,McDonald's,Indiana,40.4672007,-85.37055196000001,Hartford City,North Walnut Street,47348
+way,535357830,McDonald's,McDonald's,Indiana,39.75802673,-86.50894670000001,Danville,East Main Street,46122
+way,539152056,McDonald's,McDonald's,Indiana,41.29044204,-87.4006402,Lowell,East Commercial Avenue,46356
+way,539267408,McDonald's,McDonald's,Indiana,38.35770186,-85.70118426,Jeffersonville,IN 62 East,47130
+way,542202585,McDonald's,McDonald's,Indiana,41.28876778,-87.29671954000001,Hebron,East 181st Avenue,46341
+way,544064524,Steak 'n Shake,Steak 'n Shake,Indiana,38.31783071428571,-85.75433280000001,Clarksville,East Lewis and Clark Parkway,47129
+way,544352467,Steak 'n Shake,Steak 'n Shake,Indiana,39.884713500000004,-85.38501678,,,47362
+way,545277006,McDonald's,McDonald's,Indiana,39.19979,-85.94886661428572,Columbus,Jonathon Moore Pike,47201-4727
+way,545374592,McDonald's,McDonald's,Indiana,41.14078038000001,-84.85004894000001,Woodburn,North State Rd 101,46797
+way,546894334,McDonald's,McDonald's,Indiana,38.23070216,-86.13226436,,,
+way,551568626,Culver's,Culver's,Indiana,40.81554081428572,-85.835896,Wabash,North Cass Street,46992
+way,552406928,McDonald's,McDonald's,Indiana,39.519572933333336,-85.75191227777778,,,
+way,556172749,McDonald's,McDonald's,Indiana,41.576410433333336,-87.1785044111111,Portage,Central Avenue,46368
+way,556371247,Steak 'n Shake,Steak 'n Shake,Indiana,38.95768148,-85.86327795999999,Seymour,East Tipton Street,47274
+way,556866646,McDonald's,McDonald's,Indiana,37.97697096153847,-87.39310846153846,Newburgh,State Route 66,47630
+way,556926922,McDonald's,McDonald's,Indiana,39.14588576,-86.53164933999999,Bloomington,South Walnut Street,47401
+way,573022426,McDonald's,McDonald's,Indiana,40.77895162857143,-86.1283148,Peru,West 100 North,46970
+way,579521080,Culver's,Culver's,Indiana,40.05085033846153,-85.65233313076922,Anderson,South Scatterfield Road,46013
+way,580681949,McDonald's,McDonald's,Indiana,39.9794976,-86.00489032,Fishers,East 131st Street,46038-3553
+way,583491436,McDonald's,McDonald's,Indiana,39.20165843636364,-86.2385874090909,Nashville,E State Road 46,47448
+way,590171926,McDonald's,McDonald's,Indiana,39.2011009,-85.91786966,Columbus,3rd Street,47201
+way,590476920,Culver's,Culver's,Indiana,39.19918381428572,-85.95194778571428,Columbus,Johnson Boulevard,47201
+way,591079400,McDonald's,McDonald's,Indiana,38.958913560000006,-85.83721355999998,,,
+way,592214889,McDonald's,McDonald's,Indiana,39.69311606923077,-86.18752176923077,Indianapolis,Knights Way,46217-9330
+way,592574449,McDonald's,McDonald's,Indiana,41.7094198,-86.87050104,Michigan City,East Michigan Boulevard,46360
+way,596685209,Culver's,Culver's,Indiana,39.85422610769231,-86.00956326923077,Lawrence,North Post Road,46216
+way,599493627,Culver's,Culver's,Indiana,41.7109651,-86.1788846,Mishawaka,North Main Street,46545
+way,599495069,Culver's,Culver's,Indiana,41.57707991428572,-87.04478524285716,Chesterton,Matson Street,46304
+way,610250379,Steak 'n Shake,Steak 'n Shake,Indiana,41.7355876,-85.97306877999999,Elkhart,Cassopolis Street,46514
+way,610253911,McDonald's,McDonald's,Indiana,41.68811644,-85.97341377999999,Elkhart,North Main Street,46514
+way,612045330,McDonald's,McDonald's,Indiana,40.76525058,-87.12700609999999,,,
+way,620395289,Steak 'n Shake,Steak 'n Shake,Indiana,39.60595033749999,-86.10967595000001,Greenwood,West Smith Valley Road,46142
+way,624487989,McDonald's,McDonald's,Indiana,41.44312352,-85.98464010000001,,,
+way,628688407,Steak 'n Shake,Steak 'n Shake,Indiana,41.70977860000001,-86.18812743333334,Mishawaka,Grape Road,46545
+way,629541685,Culver's,Culver's,Indiana,40.43539578000001,-86.12794929999998,Kokomo,Pipeline Way,46902
+way,629541712,Culver's,Culver's,Indiana,40.53998309999999,-85.67320295714285,Marion,South Western Avenue,46953
+way,629541719,Culver's,Culver's,Indiana,41.24668562,-85.82192812000001,Warsaw,North Parker Street,46582
+way,629541731,Culver's,Culver's,Indiana,41.55108385714285,-87.43309855714286,Highland,Ridge Road,46322
+way,629541739,Culver's,Culver's,Indiana,40.0432595,-86.13956381428571,Westfield,Sun Park Drive,46074
+way,629541749,Culver's,Culver's,Indiana,39.6100005,-86.15930342,Greenwood,Highway 135,46142
+way,633447836,McDonald's,McDonald's,Indiana,41.65739052857143,-86.21847498571428,South Bend,Lincolnway East,46613-3423
+way,652253851,McDonald's,McDonald's,Indiana,39.309013122222225,-85.21491967777779,,,
+way,658865387,McDonald's,McDonald's,Indiana,38.4279744,-86.93740876000001,,Newton Street,47546
+way,659406751,McDonald's,McDonald's,Indiana,39.78110993333333,-86.09007265714287,Indianapolis,East 10th Street,46201
+way,659597616,McDonald's,McDonald's,Indiana,40.04597068,-86.00099628000001,Noblesville,East Conner Street,46060
+way,668163900,McDonald's,McDonald's,Indiana,41.622710788888895,-86.69409404444444,La Porte,Boyd Boulevard,46350
+way,668164576,McDonald's,McDonald's,Indiana,41.05191407272727,-86.2173244,,,
+way,668408669,McDonald's,McDonald's,Indiana,41.50660035555555,-87.3172259888889,Merrillville,Mississippi Street,46410
+way,668426420,McDonald's,McDonald's,Indiana,40.92600329090909,-87.15555365454546,,,
+way,669610872,McDonald's,McDonald's,Indiana,39.42385408181818,-85.0130512,Brookville,Main Street,47012
+way,674843459,McDonald's,McDonald's,Indiana,38.303000371428574,-85.83819735714285,New Albany,State Street,47150-4922
+way,677353029,McDonald's,McDonald's,Indiana,39.42338634,-87.41557304,Terre Haute,South US Highway 41,47802
+way,681621589,McDonald's,McDonald's,Indiana,41.238633580000005,-86.26025674,,,
+way,693445249,McDonald's,McDonald's,Indiana,38.68909077777778,-87.50675459999998,Vincennes,North 6th Street,47591
+way,702975296,McDonald's,McDonald's,Indiana,41.42171939999999,-87.23841249230769,Crown Point,Randolph Street,46307
+way,706821520,McDonald's,McDonald's,Indiana,41.549992399999994,-87.18001724000001,Portage,US Highway 6,46368
+way,706821758,McDonald's,McDonald's,Indiana,41.59724254117647,-87.26599516470588,Gary,South Lake Street,46403
+way,706822256,McDonald's,McDonald's,Indiana,41.54782686153847,-87.47062694615384,Highland,Indianapolis Boulevard,46322
+way,706822305,McDonald's,McDonald's,Indiana,41.680769028571426,-87.50128914285715,Hammond,Indianapolis Boulevard,46394
+way,719056416,McDonald's,McDonald's,Indiana,40.42210390769231,-86.85898355384614,Lafayette,Sagamore Parkway,47904
+way,722055097,McDonald's,McDonald's,Indiana,40.38750751428572,-86.905125,Lafayette,Old US 231 South,47909
+way,723905483,McDonald's,McDonald's,Indiana,38.665157279999995,-87.51121020000002,,,
+way,724146298,McDonald's,McDonald's,Indiana,38.77997626,-87.31409628,,,
+way,727598157,McDonald's,McDonald's,Indiana,38.31498438,-85.89710751999999,Floyds Knobs,Lafollette Station,47119
+way,728025592,McDonald's,McDonald's,Indiana,40.47625694,-86.10848561999998,Kokomo,East Markland Avenue,46902
+way,731971350,Culver's,Culver's,Indiana,39.44297612222223,-87.33234717777778,Terre Haute,East New Margaret Drive,47803
+way,731971370,McDonald's,McDonald's,Indiana,39.43480406666666,-87.33364506666668,Terre Haute,State Road 46,47803
+way,731983796,Steak 'n Shake,Steak 'n Shake,Indiana,39.43535087777778,-87.41317786666667,,,47802
+way,745623149,McDonald's,McDonald's,Indiana,40.74444302857143,-86.09585427142856,,West Main Street,
+way,763368596,McDonald's,McDonald's,Indiana,39.35488011428572,-85.48031714285715,Greensburg,North Lincoln Street,47240
+way,765766514,McDonald's,McDonald's,Indiana,41.638405355555555,-85.4171527111111,,,
+way,766136626,McDonald's,McDonald's,Indiana,41.65562285714286,-85.70508338571427,Middlebury,South Main Street,46540
+way,766784430,McDonald's,McDonald's,Indiana,41.725028788888885,-85.97254797777777,Elkhart,Cassopolis Street,46514
+way,766784439,Culver's,Culver's,Indiana,41.72753654,-85.97259762,Elkhart,Brittany Court,46514
+way,769818707,McDonald's,McDonald's,Indiana,41.41116382,-85.745538,Syracuse,South Huntington Street,46567
+way,773642642,McDonald's,McDonald's,Indiana,41.675233500000004,-86.00268752000001,Elkhart,South Nappanee Street,46516
+way,779739133,McDonald's,McDonald's,Indiana,41.26906329999999,-85.8536175,,,
+way,783044640,McDonald's,McDonald's,Indiana,41.01426849999999,-85.11263564,Fort Wayne,South Anthony Boulevard,46816
+way,785902230,Freddy's,Freddy's,Indiana,40.46795587999999,-86.95919932000001,,,
+way,792373903,McDonald's,McDonald's,Indiana,41.72802086,-86.25144636,South Bend,State Route 933,46637
+way,792373935,Steak 'n Shake,Steak 'n Shake,Indiana,41.724144620000004,-86.25120924000001,South Bend,State Road 933 North,46637
+way,798991009,Freddy's,Freddy's,Indiana,39.16349284,-86.57655353999999,Bloomington,West 3rd Street,47404
+way,803472523,McDonald's,McDonald's,Indiana,39.63592978,-86.11793449999999,Indianapolis,East County Line Road,46227
+way,805171303,McDonald's,McDonald's,Indiana,39.66594738571428,-86.0980239142857,Indianapolis,East Southport Road,46227
+way,817356136,Culver's,Culver's,Indiana,41.59877672857142,-85.86346921428571,Goshen,Elkhart Road,46526
+way,823971932,McDonald's,McDonald's,Indiana,38.3913254625,-85.76574744375,Sellersburg,Enterprise Way,47172-1061
+way,836509912,McDonald's,McDonald's,Indiana,38.20873778,-86.86656722,Ferdinand,Industrial Park Road,
+way,848720220,McDonald's,McDonald's,Indiana,39.0382233,-87.1460554,Linton,,47441
+way,858056384,McDonald's,McDonald's,Indiana,39.85628669230769,-86.39192153076922,Brownsburg,North Green Street,46112
+way,864644975,Steak 'n Shake,Steak 'n Shake,Indiana,40.2194092,-85.44148476000001,Muncie,North Morrison Road,47304
+way,871916193,Freddy's,Freddy's,Indiana,38.003409600000005,-87.49297873333332,,,
+way,875643999,McDonald's,McDonald's,Indiana,38.39001487777778,-86.94058781111113,Jasper,US-231,47546
+way,875850610,Freddy's Catering,Freddy's,Indiana,39.518145419999996,-87.14228038000002,,,
+way,886526098,McDonald's,McDonald's,Indiana,41.24056675999999,-85.85316168,Warsaw,North Detroit Street,46580
+way,893591716,McDonald's,McDonald's,Indiana,39.65148122857143,-86.13743432857143,Indianapolis,US 31,46227
+way,895782946,McDonald's,McDonald's,Indiana,39.758871742857146,-86.11309945714287,Indianapolis,Southeastern Avenue,46203
+way,911328312,McDonald's,McDonald's,Indiana,39.66723615714286,-86.01924247142857,Indianapolis,East Southport Road,46259
+way,914275465,McDonald's,McDonald's,Indiana,39.70078016,-86.08154854,Indianapolis,South Emerson Avenue,46203
+way,918499448,McDonald's,McDonald's,Indiana,40.768622822727274,-87.4392255,Brook,North 7th Street,47951
+way,920591210,Steak 'n Shake,Steak 'n Shake,Indiana,41.51671968,-87.47191842,Schererville,Indianapolis Boulevard,46375
+way,939079517,Shake Shack,Shake Shack,Indiana,39.95644646,-86.0019076,Fishers,East 116th Street,46037
+way,955146126,McDonald's,McDonald's,Indiana,41.48658698,-87.04956542,Valparaiso,Calumet Avenue,46383
+way,955513883,McDonald's,McDonald's,Indiana,39.75026516,-86.22625372,Indianapolis,West Morris Street,46241-2618
+way,959592311,McDonald's,McDonald's,Indiana,39.72498226,-86.15210584000002,Indianapolis,South Madison Avenue,46225-2406
+way,979874239,McDonald's,McDonald's,Indiana,40.04711451428572,-86.48622715714284,Lebanon,West South Street,46052
+way,982006646,McDonald's,McDonald's,Indiana,38.881563,-86.0399106,,,
+way,994836614,McDonald's,McDonald's,Indiana,40.757413740000004,-86.32670188,Logansport,East Market Street,46947
+way,996743150,Steak 'n Shake,Steak 'n Shake,Indiana,41.07392708,-85.21905358,Fort Wayne,Illinois Road,46804
+way,1007207836,McDonald's,McDonald's,Indiana,39.6455258,-86.84157298461538,Greencastle,Indianapolis Rd,46135
+way,1013359842,McDonald's,McDonald's,Indiana,41.205944020000004,-87.19932381999999,,,
+way,1016002560,McDonald's,McDonald's,Indiana,40.00410368888888,-85.76999295555555,Pendleton,Enterprise Drive,46064
+way,1024001336,McDonald's,McDonald's,Indiana,41.627773514285714,-87.48040037142857,East Chicago,Indianapolis Boulevard,46312
+way,1025969010,Steak 'n Shake,Steak 'n Shake,Indiana,39.82323287,-86.26070039999999,Indianapolis,West 38th Street,46254
+way,1031511987,Culver's,Culver's,Indiana,39.16490114285714,-86.55984414285714,Bloomington,West 3rd Street,47404
+way,1032479346,McDonald's,McDonald's,Indiana,39.77201717692307,-86.03884754615385,Indianapolis,East Washington Street,46219
+way,1033651018,McDonald's,McDonald's,Indiana,39.73686206666667,-86.10231325555557,Indianapolis,South Sherman Drive,46203-4854
+way,1033673528,McDonald's,McDonald's,Indiana,39.71267654285714,-86.12001417142858,Indianapolis,South Keystone Avenue,46227
+way,1037268331,McDonald's,McDonald's,Indiana,41.629265520000004,-87.50834653999999,Hammond,Calumet Avenue,46327
+way,1037874793,McDonald's,McDonald's,Indiana,39.82344145555557,-86.23683493333333,Indianapolis,West 38th Street,46222
+way,1041534817,McDonald's,McDonald's,Indiana,40.18077942,-85.46116124,Yorktown,South Nebo Road,47396
+way,1041802717,McDonald's,McDonald's,Indiana,40.191863260000005,-85.41954188,Muncie,South Tillotson Avenue,47304-4358
+way,1041996620,McDonald's,McDonald's,Indiana,39.76328618181819,-86.40242881818182,Avon,East US Highway 36,46122-9181
+way,1042790725,McDonald's,McDonald's,Indiana,39.680292511111105,-86.13157045555555,Indianapolis,Madison Avenue,46227
+way,1042793137,McDonald's,McDonald's,Indiana,39.689021006666664,-86.14938842,Indianapolis,South East Street,46227-1920
+way,1044090746,McDonald's,McDonald's,Indiana,40.21866244,-85.37619830000001,Muncie,East McGalliard Street,47303-2022
+way,1046265578,Five Guys,Five Guys,Indiana,40.21938896,-85.43245252,Muncie,West Bethel Avenue,47304
+way,1046269450,McDonald's,McDonald's,Indiana,40.21949073333333,-85.43140981666666,Muncie,North Chadam Lane,47305
+way,1046393760,Culver's,Culver's,Indiana,39.697886909090904,-86.0817467,Indianapolis,Shear Avenue,46203
+way,1053145297,McDonald's,McDonald's,Indiana,40.27855563999999,-86.49328912000001,Frankfort,East Wabash Street,46041
+way,1071719700,Culver's,Culver's,Indiana,39.76235045555555,-86.38760684444443,Avon,US 36,46123
+way,1073916838,McDonald's,McDonald's,Indiana,39.699733099999996,-86.41040475999999,Plainfield,West Main Street,46168
+way,1076481774,Culver's,Culver's,Indiana,39.86019902857144,-86.39152585714285,Brownsburg,North Green Street,46112
+way,1078080538,Culver's,Culver's,Indiana,41.61817348888889,-86.73400086666668,La Porte,Pine Lake Avenue,46350
+way,1086267342,McDonald's,McDonald's,Indiana,38.59924577777778,-86.10100311111111,,South Main Street,47167-1039
+way,1087791575,McDonald's,McDonald's,Indiana,41.547941460000004,-86.89646192000001,,,
+way,1093670238,McDonald's,McDonald's,Indiana,38.32296548000001,-85.71210874,Jeffersonville,East 10th Street,47130-5902
+way,1097417925,McDonald's,McDonald's,Indiana,40.07621666923077,-86.90440443076923,Crawfordsville,Smith Avenue,47933
+way,1101577606,McDonald's,McDonald's,Indiana,40.10175066,-85.68085854,,West 14th Street,46016
+way,1102249665,,McDonald's,Indiana,40.149024957142856,-85.67404064285715,,,
+way,1105299282,McDonald's,McDonald's,Indiana,38.049582228571424,-87.28183001428572,Boonville,West Locust Street,47601-1531
+way,1112151195,Culver's,Culver's,Indiana,40.001574760000004,-86.09054548,Westfield,Gray Road,46062
+way,1116642972,Culver's,Culver's,Indiana,41.72640805714286,-86.2510701142857,South Bend,State Route 933,46637
+way,1116699623,McDonald's,McDonald's,Indiana,38.7233916090909,-85.46796135454544,,East Lagrange Road,47243
+way,1118784298,Culver's,Culver's,Indiana,41.35947857777777,-86.31088476666667,Plymouth,North Michigan Street,46563
+way,1118814344,McDonald's,McDonald's,Indiana,38.316204371428576,-85.8051606857143,New Albany,Charlestown Road,47150
+way,1131858877,Five Guys,Five Guys,Indiana,41.06131726666667,-85.2161811,Fort Wayne,West Jefferson Boulevard,46804
+way,1133349695,McDonald's,McDonald's,Indiana,41.448817559999995,-86.30964526000001,,,
+way,1149197775,McDonald's,McDonald's,Indiana,41.601651253846164,-87.35615220769229,Gary,West 5th Avenue,46402
+way,1164259838,McDonald's,McDonald's,Indiana,41.6533879,-86.25027174444443,South Bend,South Michigan Street,46613-2317
+way,1167614328,Culver's,Culver's,Indiana,41.269750688888884,-85.85359983333333,Warsaw,Jalynn Street,46582
+way,1175991361,McDonald's,McDonald's,Indiana,40.487508257142856,-85.59487505714286,Gas City,East Main Street,46933
+way,1184917579,Culver's,Culver's,Indiana,41.7524386,-86.12309994545454,Granger,South State Road 23,46530
+way,1192762560,McDonald's,McDonald's,Indiana,38.95855998888888,-85.8759703888889,,East Tipton Street,47274
+way,1193668716,Culver's,Culver's,Indiana,38.333908099999995,-85.70974311428571,Jeffersonville,East 10th Street,47130
+way,1201759911,Freddy's,Freddy's,Indiana,40.3876893,-86.84033322857142,,,
+way,1204323137,McDonald's,McDonald's,Indiana,41.17043965999999,-85.48545792,Columbia City,Spartan Drive,46725
+way,1206211238,McDonald's,McDonald's,Indiana,40.58486898571429,-86.6787314142857,,,46923
+way,1208608274,McDonald's,McDonald's,Indiana,41.66173417142858,-86.13542324285716,Mishawaka,Lincolnway East,46544-3535
+way,1228855563,Culver's,Culver's,Indiana,39.95062154444444,-86.34901633333334,Whitestown,Mills Drive,46075
+way,1230102441,McDonald's,McDonald's,Indiana,38.77521074,-85.40286613999999,,Clifty Drive,47250-1613
+way,1231266678,McDonald's,McDonald's,Indiana,40.755760844444445,-85.1668018,,,
+way,1243268176,McDonald's,McDonald's,Indiana,41.55404172222222,-87.35625765555555,Gary,Grant Street,46408-1422
+way,1243413024,Culver's,Culver's,Indiana,41.569992855555554,-87.47878586666667,Hammond,Cabela Drive,46324
+way,1243416016,McDonald's,McDonald's,Indiana,37.969203400000005,-87.49383424,Evansville,Lincoln Avenue,47715
+way,1251235282,McDonald's,McDonald's,Indiana,39.57859146,-86.15960551999999,Greenwood,South State Road 135,46143
+way,1251751505,Culver's,Culver's,Indiana,40.461903359999994,-86.93536898,West Lafayette,Sachem Court South,47906
+way,1252138705,McDonald's,McDonald's,Indiana,41.00056578181819,-85.79373323636362,,,46962
+way,1252138869,McDonald's,McDonald's,Indiana,40.89258008571428,-85.50400982857143,,Home Street,46750-1346
+way,1264634775,McDonald's,McDonald's,Indiana,38.453139945454545,-85.67131355454548,,Country Road 160,47111
+way,1264634874,McDonald's,McDonald's,Indiana,38.309344128571425,-85.7696227142857,Clarksville,Eastern Boulevard,47129-1706
+way,1264635055,McDonald's,McDonald's,Indiana,38.2783766,-85.74684515714286,Jeffersonville,Indiana Avenue,47130
+way,1270559916,McDonald's,McDonald's,Indiana,37.992731,-87.53910762,Evansville,Bartlett Avenue,47711
+way,1285355958,McDonald's,McDonald's,Indiana,40.75147029473684,-86.37789534736841,Logansport,West Market Street,46947
+way,1289209954,McDonald's,McDonald's,Indiana,38.29857194,-86.9558772,Huntingburg,North Main Street,47542
+way,1290090007,McDonald's,McDonald's,Indiana,41.57815736,-87.4620562,,Kennedy Avenue,46323
+way,1290754032,McDonald's,McDonald's,Indiana,41.42999880000001,-84.88681942,,,46721
+way,1290764284,McDonald's,McDonald's,Indiana,41.471553328571424,-87.3733346,Merriville,West 81st Avenue,46410
+way,1291717642,Culver's,Culver's,Indiana,39.796760240000005,-86.04485322000002,Indianapolis,East 21st Street,46219
+way,1291912136,McDonald's,McDonald's,Indiana,39.41117166,-86.15717972,,,46181
+way,1296112527,McDonald's,McDonald's,Indiana,38.01216832,-87.57458666,Evansvile,North First Avenue,47710
+way,1296647190,McDonald's,McDonald's,Indiana,40.27620272,-85.67110426,,North Park Avenue,46001
+way,1298231031,Steak 'n Shake,Steak 'n Shake,Indiana,39.5011534,-86.0688278,Franklin,N Morton,46131
+way,1300120510,McDonald's,McDonald's,Indiana,41.52570429166667,-87.471957375,Highland,Indianapolis Boulevard,46322
+way,1300147555,McDonald's,McDonald's,Indiana,39.911893320000004,-86.18598202000001,,West 86th Street,46260
+way,1300588722,Culver's,Culver's,Indiana,40.11419642,-85.55826318,Daleville,,47334
+way,1301864189,McDonald's,McDonald's,Indiana,38.158061520000004,-87.5518552,Evansville,US 41,47725
+way,1302042334,Culver's,Culver's,Indiana,38.40484253333333,-86.93719461111112,Jasper,Newton Street,47546
+way,1303536429,Culver's,Culver's,Indiana,40.756683599999995,-86.3130533714286,Logansport,East Market Street,46947
+way,1310565873,McDonald's,McDonald's,Indiana,39.40848526,-86.44037712000001,,,
+way,1319797006,Culver's,Culver's,Indiana,41.440103755555555,-87.469315,St. John,Wicker Avenue,46373
+way,1319797008,McDonald's,McDonald's,Indiana,41.4413689,-87.46940162000001,St. John,Wicker Avenue,46373
+way,1327631584,McDonald's,McDonald's,Indiana,41.283555185714285,-86.62132055714285,Knox,South Heaton Street,46534-2315
+way,1327631701,McDonald's,McDonald's,Indiana,40.7453706,-86.77346993333332,,West Broadway Street,47960
+way,1327632464,McDonald's,McDonald's,Indiana,41.48787538,-87.47033342,Schererville,Wicker Avenue,46375-1601
+way,1327632489,McDonald's,McDonald's,Indiana,41.588555340000006,-87.44048805999999,Hammond,169th Street,46323
+way,1327632658,McDonald's,McDonald's,Indiana,41.55029598,-87.24201769999999,Hobart,East Ridge Road,46342-2454
+way,1327633691,McDonald's,McDonald's,Indiana,40.83285932,-84.93725726,,,
+way,1328605016,McDonald's,McDonald's,Indiana,39.657539316666664,-87.43028775,,,47842
+way,1328641099,McDonald's,McDonald's,Indiana,39.81662942857143,-85.91584372857143,,North 600 West,46140-9643
+way,1329760872,McDonald's,McDonald's,Indiana,41.492983980000005,-87.50502291999999,Dyer,Joliet Street,46311
+way,1359699999,McDonald's,McDonald's,Indiana,41.638738440000004,-87.44922308,East Chicago,East Columbus Drive,46312
+way,1359710975,McDonald's,McDonald's,Indiana,41.59617162,-87.49973838,Hammond,Columbia Avenue,46320
+way,1360664548,Culver's,Culver's,Indiana,41.17022236,-85.51023513999999,Columbia City,Connexion Way,46725
+way,1375134927,McDonald's,McDonald's,Indiana,39.832262528571434,-86.35079298571429,Brownsburg,Gipper Way,46112
+way,1375153771,McDonald's,McDonald's,Indiana,41.55138028333334,-87.43460251666666,Highland,Ridge Road,46322
+way,1378997158,Steak 'n Shake,Steak 'n Shake,Indiana,41.47165568,-87.34589976000001,Merrillville,West 81st Avenue,46410
+way,1382195749,Steak 'n Shake,Steak 'n Shake,Indiana,40.01585672,-86.90315446,,,
+way,1392745347,Culver's,Culver's,Indiana,41.376911666666665,-87.45363077777776,Cedar Lake,West 133rd Avenue,46303
+way,1396484223,Culver's,Culver's,Indiana,39.961486812500006,-86.118993625,Carmel,East Carmel Drive,46032
+way,1412808279,McDonald's,McDonald's,Indiana,40.02384012857142,-86.90222355714286,,,
+way,1422407080,Freddy's,Freddy's,Indiana,41.72130234,-85.97334359999999,,,
+way,1449262666,McDonald's,McDonald's,Indiana,40.48730631111111,-85.59393234444445,Gas City,East Main Street,46933
+way,1485565415,Culver's,Culver's,Indiana,38.867862980000005,-86.51219724,Bedford,John A Williams Boulevard,47421
+way,1501243037,McDonald's,McDonald's,Indiana,39.926440559999996,-86.1133184,,,
+way,1513142071,Culver's,Culver's,Indiana,41.460561240000004,-87.08351616,Valparaiso,Thornapple Way,46385
+way,1524165636,McDonald's,McDonald's,Indiana,41.50792404,-87.33426104,Merrillville,Broadway,46410
+way,1527658438,Culver's,Culver's,Indiana,37.97925558,-87.41316828,Newburgh,High Pointe Drive,47630
+way,1530482979,Culver's,Culver's,Indiana,39.41357291111112,-86.42286124444443,Martinsville,Prather Drive,46151
+way,1530941166,Culver's,Culver's,Indiana,38.694873920000006,-87.49747863999998,Vincennes,Executive Boulevard,47591
+way,1546309998,Culver's,Culver's,Indiana,39.994167742857144,-86.26182525714285,Zionsville,South US 421,46077
+way,1550210219,McDonald's,McDonald's,Indiana,40.94147588571428,-87.21678218571428,Rensselaer,State Road 114,47978
+way,1550412994,Steak 'n Shake,Steak 'n Shake,Indiana,39.62022562,-86.35395006,Mooresville,N Town Center Rd,46158
+way,1554036805,Culver's,Culver's,Indiana,41.60642505384616,-87.17107776153846,,,

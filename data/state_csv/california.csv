@@ -1,0 +1,1688 @@
+osm_type,osm_id,name,brand,state_query,latitude,longitude,city,street,postcode
+node,314115730,McDonald's,McDonald's,California,37.8723029,-122.268629,Berkeley,Shattuck Avenue,94704
+node,316513005,McDonald's,McDonald's,California,37.0082012,-121.5514239,Gilroy,Camino Arroyo,95020
+node,320610117,McDonald's,McDonald's,California,34.1077136,-118.0555181,Temple City,East Las Tunas Drive,91780-2209
+node,320633253,McDonald's,McDonald's,California,34.0997975,-118.1177359,Alhambra,East Main Street,91801
+node,342742766,Shake Shack,Shake Shack,California,37.8725339,-122.2667539,Berkeley,University Avenue,
+node,356611575,Five Guys,Five Guys,California,37.1513378,-121.6562099,Morgan Hill,Cochrane Road,95037
+node,365355719,McDonald's,McDonald's,California,32.6929813,-117.1343828,San Diego,Main Street,92113-3712
+node,365355729,McDonald's,McDonald's,California,33.2207381,-117.245255,Santa,North Santa Fe Avenue,92083
+node,365355749,McDonald's,McDonald's,California,32.9500164,-117.1076564,San Diego,Rancho Peñasquitos Boulevard,92129-2935
+node,365355757,McDonald's,McDonald's,California,32.8668261,-117.2153561,San Diego,Nobel Drive,92122-1126
+node,365355821,McDonald's,McDonald's,California,32.603742,-117.079272,Chula Vista,Broadway,91911-2911
+node,365355833,McDonald's,McDonald's,California,33.224509,-117.33348,Oceanside,Misson Boulevard,92054-1417
+node,365355893,McDonald's,McDonald's,California,32.797622,-117.249498,San Diego,Garnet Avenue,92109-2906
+node,365355901,McDonald's,McDonald's,California,33.2896241,-117.2265219,Bonsall,Mission Avenue,92028
+node,365355904,McDonald's,McDonald's,California,32.652727,-117.089249,Chula Vista,Highland Avenue,91950
+node,365355947,McDonald's,McDonald's,California,32.626969,-117.08748,Chula Vista,Broadway,91910-5309
+node,365356060,McDonald's,McDonald's,California,32.7206163,-117.0845627,San Diego,Euclid Avenue,92105
+node,365356205,McDonald's,McDonald's,California,32.640454,-117.098554,Chula Vista,E Street,91910
+node,365356314,McDonald's,McDonald's,California,32.7894357,-117.098113,San Diego,Mission Gorge Road,92120
+node,365356708,McDonald's,McDonald's,California,32.7579684,-117.0810495,,,
+node,365356735,McDonald's,McDonald's,California,32.7548229,-117.1391997,San Diego,El Cajon Boulevard,92104-1105
+node,365356739,McDonald's,McDonald's,California,33.0672648,-117.2639405,Encinitas,North El Camino Real,92024
+node,365356760,McDonald's,McDonald's,California,33.045558,-117.2614488,Encinitas,Encinitas Boulevard,92024
+node,365357148,McDonald's,McDonald's,California,32.5817334,-117.0349774,San Diego,Dennery Road,92173
+node,365357185,McDonald's,McDonald's,California,32.7279388,-117.2267579,San Diego,Rosecrans Street,92106
+node,365357227,McDonald's,McDonald's,California,32.7738524,-117.0262012,La Mesa,Fletcher Parkway,91942
+node,365357229,McDonald's,McDonald's,California,32.7835308,-117.1279348,San Diego,Northside Drive,92108
+node,365357240,McDonald's,McDonald's,California,32.9153468,-117.130259,San Diego,Mira Mesa Boulevard,92126
+node,365357268,McDonald's,McDonald's,California,32.628731,-117.0386795,Chula Vista,Telegraph Canyon Road,91911
+node,365357286,McDonald's,McDonald's,California,33.3728073,-117.2512021,,,
+node,365357406,McDonald's,McDonald's,California,32.670645,-117.096134,National City,Highland Avenue,91950
+node,365357424,McDonald's,McDonald's,California,32.555836,-116.938166,,,
+node,365357479,McDonald's,McDonald's,California,32.689023,-117.043769,San Diego,Paradise Valley Road,92139-1218
+node,365357567,McDonald's,McDonald's,California,32.785708,-117.170114,San Diego,Linda Vista Road,92111
+node,403753217,McDonald's,McDonald's,California,36.983085,-122.0223471,Santa Cruz,Ocean Avenue,95060
+node,406683076,Five Guys,Five Guys,California,36.9717674,-122.025728,Santa Cruz,Pacific Avenue,95060
+node,406683114,McDonald's,McDonald's,California,36.9671084,-122.0390643,Santa Cruz,Mission Street,95060-4738
+node,434874627,In-N-Out Burger,In-N-Out,California,37.8077668,-122.4184666,San Francisco,Jefferson Street,94133
+node,457759360,McDonald's,McDonald's,California,34.0342947,-117.0712094,Yucaipa,Yucaipa Boulevard,92399
+node,467875533,McDonald's,McDonald's,California,34.4018295,-119.7223439,Santa Barbara,Cliff Drive,93109
+node,471293440,McDonald's,McDonald's,California,33.8179496,-117.9684774,Anaheim,West Ball Road,92804-5210
+node,566383046,McDonald's,McDonald's,California,34.2592518,-118.3063392,Sunland,Foothill Boulevard,91040-2937
+node,576879840,McDonald's,McDonald's,California,38.7961629,-121.3148292,Roseville,Blue Oaks Boulevard,95765
+node,577490288,McDonald's,McDonald's,California,34.0801724,-118.0823412,Rosemead,East Valley Boulevard,91770
+node,579354900,McDonald's,McDonald's,California,34.078883,-118.0533302,El Monte,Valley Boulevard,91731
+node,579457982,McDonald's,McDonald's,California,34.0667269,-118.0257341,El Monte,East Valley Boulevard,91732-3036
+node,582842771,McDonald's,McDonald's,California,34.0185284,-118.1742058,East Los Angeles,East Olympic Boulevard,90023
+node,593972624,McDonald's,McDonald's,California,33.7209949,-116.3954657,Palm Desert,Highway 111,92260-3310
+node,595974399,Five Guys,Five Guys,California,33.1123979,-117.1028192,Escondido,West Valley Parkway,92029
+node,596195510,McDonald's,McDonald's,California,32.833146,-117.2019046,San Diego,Clairemont Drive,92117-2710
+node,596342362,McDonald's,McDonald's,California,33.0366815,-116.877495,Ramona,Main Street,92065
+node,596544732,McDonald's,McDonald's,California,32.8080382,-116.973136,El Cajon,Fletcher Parkway,92020
+node,596737771,McDonald's,McDonald's,California,33.2319922,-117.3081625,Oceanside,Old Grove Road,92057
+node,597000616,McDonald's,McDonald's,California,32.6471709,-116.9667461,Chula Vista,Otay Lakes Road,91915
+node,597166423,McDonald's,McDonald's,California,32.9366582,-117.0981451,San Diego,Scripps Poway Parkway,92131
+node,598640889,McDonald's,McDonald's,California,37.243848,-121.9597713,Los Gatos,Los Gatos Boulevard,95032-2501
+node,610178519,McDonald's,McDonald's,California,34.080601,-118.260636,Los Angeles,Glendale Boulevard,90026
+node,614042924,McDonald's,McDonald's,California,34.0740599,-118.2087196,Los Angeles,North Broadway,90031-2703
+node,627183562,McDonald's,McDonald's,California,34.0122044,-118.494212,Santa Monica,2nd Avenue,90405
+node,628896036,McDonald's,McDonald's,California,33.8894412,-118.1692623,Paramount,Alondra Boulevard,90723
+node,633931105,McDonald's,McDonald's,California,33.8107446,-118.2908148,Torrance,Sepulveda Boulevard,90502
+node,692180041,McDonald's,McDonald's,California,34.2159416,-119.005868,Camarillo,Santa Rosa Road,93012
+node,704265994,McDonald's,McDonald's,California,38.6150946,-121.2699445,Rancho Cordova,Sunrise Boulevard,95670
+node,720622157,McDonald's,McDonald's,California,37.6087314,-122.066402,Hayward,Industrial Parkway Southwest,94544-6905
+node,775206993,McDonald's,McDonald's,California,34.3968085,-119.5123961,,,
+node,775345953,McDonald's,McDonald's,California,34.106925,-117.5593702,Rancho Cucamonga,Foothill Boulevard,91730
+node,824230702,McDonald's,McDonald's,California,34.137166,-118.1882869,Eagle Rock,North Figueroa Street,90041
+node,849037322,McDonald's,McDonald's,California,37.1258851,-120.25513,,,
+node,869225716,McDonald's,McDonald's,California,35.1256336,-117.958269,,,
+node,897276261,McDonald's,McDonald's,California,34.1805148,-119.1651348,Oxnard,Pacific Avenue,93033
+node,897649383,McDonald's,McDonald's,California,34.1960794,-119.160434,Oxnard,South Rose Avenue,93030
+node,904625626,McDonald's,McDonald's,California,34.4239894,-119.28852,,,
+node,953325069,Soro's,McDonald's,California,33.4957315,-117.1513993,,,
+node,964923631,McDonald's,McDonald's,California,33.858355,-117.9596432,Fullerton,South Brookhurst Road,92833-4459
+node,1067596078,Five Guys,Five Guys,California,37.3666479,-122.0320214,Sunnyvale,East El Camino Real,94085
+node,1071334575,McDonald's,McDonald's,California,37.6044345,-122.0675521,Union City,Union Landing Boulevard,94587
+node,1102361706,Shake Shack,Shake Shack,California,37.2949661,-121.9312586,San Jose,South Bascom Avenue,95125
+node,1126567518,McDonald's,McDonald's,California,37.6313265,-122.0964512,Hayward,West Tennyson Road,94545-4233
+node,1212920875,McDonald's,McDonald's,California,38.5880194,-121.2882741,Rancho Cordova,White Rock Road,95670-6031
+node,1223355423,McDonald's,McDonald's,California,34.0772948,-118.1394196,Alhambra,West Valley Boulevard,91803
+node,1229920544,McDonald's,McDonald's,California,37.7131382,-122.4445763,San Francisco,Mission Street,94112
+node,1234340565,Shake Shack,Shake Shack,California,33.9171112,-117.900384,Brea,West Imperial Highway,92821
+node,1315928642,Five Guys,Five Guys,California,37.7563659,-122.250481,Alameda,South Shore Center,94501
+node,1319685192,McDonald's,McDonald's,California,33.7139756,-117.1906216,Sun City,Bradley Road,92586
+node,1324652620,McDonald's,McDonald's,California,33.8451334,-117.2247713,Perris,Ramona Expressway,92571
+node,1373596541,McDonald's,McDonald's,California,33.8919422,-117.206132,Moreno Valley,Iris Avenue,92555
+node,1383894349,McDonald's,McDonald's,California,34.4698688,-117.3659991,Victorville,Bear Valley Road,92392
+node,1387190545,McDonald's,McDonald's,California,38.8072101,-121.2048843,Rocklin,Sierra College Boulevard,95677
+node,1390348314,McDonald's,McDonald's,California,37.4344507,-121.901318,Milpitas,North Milpitas Boulevard,95035
+node,1467717299,Five Guys,Five Guys,California,37.8288552,-122.2823035,Emeryville,Emery Street,94608
+node,1488271075,McDonald's,McDonald's,California,33.9352793,-117.4545244,Riverside,Van Buren Boulevard,92503
+node,1519304747,McDonald's,McDonald's,California,36.2635366,-119.9000587,Lemoore,Franklin Avenue,93246
+node,1648518130,Five Guys,Five Guys,California,36.6205733,-121.8450604,Sand City,Playa Avenue,93955
+node,1654135032,Five Guys,Five Guys,California,37.5053639,-121.9694267,Fremont,Christy Street,94538
+node,1659685801,McDonald's,McDonald's,California,35.2614278,-118.914708,Lamont,Main Street,93241
+node,1671098154,McDonald's,McDonald's,California,34.1363534,-117.298989,San Bernardino,West Highland Avenue,92405-3839
+node,1671335674,McDonald's,McDonald's,California,35.1260273,-118.408364,,,
+node,1695757488,McDonald's,McDonald's,California,37.7443263,-122.1710747,Oakland,East 14th Street,94603-2509
+node,1701563989,McDonald's,McDonald's,California,38.1610074,-121.6907345,,,
+node,1713512780,McDonald's,McDonald's,California,34.0240091,-118.3727676,Los Angeles,South La Cienega Boulevard,90016
+node,1732628993,McDonald's,McDonald's,California,34.0733879,-117.9071877,West Covina,N Azusa Avenue,91791
+node,1756763860,Five Guys,Five Guys,California,37.4161401,-121.9548727,San Jose,North 1st Street,95134
+node,1759017528,McDonald's,McDonald's,California,34.0107501,-118.281899,Los Angeles,South Figueroa Street,90037
+node,1760337591,McDonald's,McDonald's,California,34.2794982,-118.7361917,Simi Valley,Galena Avenue,93065
+node,1762926011,McDonald's,McDonald's,California,36.7352591,-120.0614088,,West Whitesbridge Avenue,93630-1019
+node,1769148420,McDonald's,McDonald's,California,34.2349521,-119.0385588,Camarillo,Arneill Road,93010-3402
+node,1774180949,McDonald's,McDonald's,California,34.9355492,-120.4191539,Santa Maria,Bradley Road,93454
+node,1777461033,McDonald's,McDonald's,California,34.9296395,-120.4354138,Santa Maria,South Broadway,93458
+node,1781280691,McDonald's,McDonald's,California,34.9561828,-120.435094,Santa Maria,North Broadway,93454-4417
+node,1782119846,McDonald's,McDonald's,California,34.920281,-120.453538,Santa Maria,Skyway Drive,93455
+node,1791241446,McDonald's,McDonald's,California,36.8518601,-119.7290392,Clovis,North Willow Avenue,93612
+node,1818064496,McDonald's,McDonald's,California,33.9250852,-116.899327,Banning,West Ramsey Street,92220-4283
+node,1843864471,McDonald's,McDonald's,California,34.2514129,-117.1884908,Lake Arrowhead,Hwy189,92352-0026
+node,1894039610,McDonald's,McDonald's,California,37.6999517,-121.0493773,Modesto,Dale Road,95356-9240
+node,1894039637,McDonald's,McDonald's,California,37.7537285,-121.1386385,Ripon,West Colony Road,95366-9617
+node,1920267542,Five Guys,Five Guys,California,37.95077,-121.9576271,Concord,Ygnacio Valley Road,94521
+node,1932947820,McDonald's,McDonald's,California,34.2357838,-118.4507417,Panorama City,Van Nuys Boulevard,91402-1417
+node,1952047802,Five Guys,Five Guys,California,37.4863545,-122.229002,Redwood City,Middlefield Road,94063
+node,2027449866,Five Guys,Five Guys,California,37.2505852,-121.879294,San Jose,Almaden Expressway,95118
+node,2033292787,McDonald's,McDonald's,California,32.8049869,-116.966687,,,
+node,2035836714,McDonald's,McDonald's,California,34.6970191,-118.1724025,Lancaster,Valley Central Way,93536
+node,2047680012,McDonald's,McDonald's,California,38.4956989,-121.4575252,Sacramento,Florin Road,95823
+node,2047680017,McDonald's,McDonald's,California,38.4964941,-121.4306192,Sacramento,Florin Road,95823
+node,2113096278,McDonald's,McDonald's,California,38.6446894,-121.456358,Sacramento,Norwood Avenue,95838
+node,2124640003,Five Guys,Five Guys,California,34.2409312,-119.1787852,Oxnard,Portico Way,93036
+node,2124643355,McDonald's,McDonald's,California,38.6414379,-121.5081073,Sacramento,Truxel Road,95834
+node,2131735925,Five Guys,Five Guys,California,37.9450044,-122.0614235,Pleasant Hill,Crescent Drive,94523
+node,2142031007,McDonald's,McDonald's,California,37.7971331,-121.1942486,Manteca,East Yosemite Avenue,95336
+node,2239048918,Five Guys,Five Guys,California,37.29285,-121.991783,San Jose,Prospect Road,95129
+node,2261957372,Five Guys,Five Guys,California,35.2939034,-120.673083,San Luis Obispo,Foothill Boulevard,93405
+node,2278977525,McDonald's,McDonald's,California,38.6497487,-121.0682043,El Dorado Hills,Town Center Boulevard,95762
+node,2365742146,McDonald's,McDonald's,California,37.7889505,-122.4014996,San Francisco,Market Street,94105
+node,2376630414,Five Guys,Five Guys,California,32.8206504,-117.179039,San Diego,Balboa Avenue,92117
+node,2472318734,Five Guys,Five Guys,California,40.5853977,-122.353891,Redding,Dana Drive,96003
+node,2527019141,McDonald's,McDonald's,California,36.6390959,-120.6263401,Firebaugh,West Panoche Road,93622
+node,2532910843,McDonald's,McDonald's,California,35.986942,-119.9589239,,Ward Avenue,
+node,2565271207,McDonald's,McDonald's,California,37.4426808,-122.1704739,Palo Alto,Stanford Shopping Center,94304
+node,2588223971,McDonald's,McDonald's,California,38.596668,-121.4158499,Sacramento,Howe Avenue,95825
+node,2588328222,Five Guys,Five Guys,California,38.5904278,-121.5503609,West Sacramento,Ikea Court,95605
+node,2589394570,McDonald's,McDonald's,California,38.5591751,-121.4820994,Sacramento,Broadway,95818
+node,2590574461,McDonald's,McDonald's,California,38.3860219,-121.932999,Vacaville,Leisure Town Road,95687
+node,2602885428,Shake Shack,Shake Shack,California,34.059202,-117.1823691,,,
+node,2639921793,Five Guys,Five Guys,California,33.8736432,-117.8893599,Fullerton,North State College Boulevard,92831
+node,2718534578,McDonald's,McDonald's,California,33.1726234,-117.2531569,Oceanside,Cannon Road,92056
+node,2844879940,Five Guys,Five Guys,California,33.0476496,-117.2602588,Encinitas,North El Camino Real,92024
+node,2865600212,In-N-Out Burger,In-N-Out,California,38.6702663,-121.7279475,Woodland,Bronze Star Drive,95776
+node,2882807969,McDonald's,McDonald's,California,32.5554706,-116.9385155,,,
+node,2926184053,McDonald's,McDonald's,California,37.3319262,-119.6550237,,,
+node,2939949383,Five Guys,Five Guys,California,33.8542384,-118.1388116,Lakewood,Candlewood Street,90712
+node,2962128081,McDonald's,McDonald's,California,38.0229933,-121.2738746,,,
+node,2993362645,McDonald's,McDonald's,California,37.5539421,-122.3163898,San Mateo,South El Camino Real,94402
+node,3019365963,McDonald's,McDonald's,California,33.7975813,-116.3853542,Palm Desert,Monterey Avenue,92211
+node,3052461551,McDonald's,McDonald's,California,33.9627252,-117.6951991,Chino Hills,Los Serranos Country Club Drive,91709
+node,3061274433,McDonald's,McDonald's,California,37.786093,-121.2517537,Manteca,Daniels Street,95337
+node,3065879945,McDonald's,McDonald's,California,38.4089069,-121.4766383,Elk Grove,Elk Grove Boulevard,95758
+node,3085540013,McDonald's,McDonald's,California,32.6793219,-117.1199262,San Diego,Cummings Road,92136
+node,3085542118,Five Guys,Five Guys,California,32.6898542,-117.1288935,San Diego,Callahan Highway,92136
+node,3245615132,McDonald's,McDonald's,California,37.5396124,-121.9231339,Fremont,Mission Boulevard,94539-5301
+node,3268103859,McDonald's,McDonald's,California,33.6966641,-117.8858714,Santa Ana,South Bristol Avenue,92704-7456
+node,3307695471,McDonald's,McDonald's,California,37.6064846,-122.3983419,Milbrae,El Camino Real,94030
+node,3429757001,McDonald's,McDonald's,California,34.0428248,-118.3767904,Los Angeles,South La Cienega Boulevard,90035
+node,3445863248,McDonald's,McDonald's,California,34.0397822,-118.1443866,Monterey Park,West Floral Drive,91754-6203
+node,3455025884,McDonald's,McDonald's,California,37.6521849,-122.4912604,Pacifica,Monterey Road,94044
+node,3471659543,In-N-Out Burger,In-N-Out,California,38.5980058,-121.419456,Sacramento,Alta Arden Expressway,95825
+node,3476999717,McDonald's,McDonald's,California,34.1236341,-118.072601,San Gabriel,Rosemead Boulevard,91775
+node,3493796030,McDonald's,McDonald's,California,36.8455131,-119.6641499,Clovis,East Alluvial Avenue,93611
+node,3567233816,Five Guys,Five Guys,California,34.1450866,-118.414918,Studio City,Ventura Boulevard,91604
+node,3611753516,McDonald's,McDonald's,California,38.0614,-122.5321355,Novato,Nave Drive,94949
+node,3699391909,McDonald's,McDonald's,California,35.1245708,-118.4696042,,,
+node,3722344329,Five Guys,Five Guys,California,37.6674822,-122.1195666,Hayward,Hesperian Boulevard,94541
+node,3750103626,McDonald's,McDonald's,California,36.323155,-119.673403,Hanford,North 12th Avenue,93230
+node,3750107626,McDonald's,McDonald's,California,36.32218,-119.675739,,,
+node,3810642508,McDonald's,McDonald's,California,37.8031883,-122.282176,Oakland,Market Street,94607-3116
+node,3862258853,McDonald's,McDonald's,California,37.96667,-121.2979004,Stockton,North Center Street,95202-1022
+node,3864112660,McDonald's,McDonald's,California,37.9376053,-121.2955275,Stockton,West Charter Way,95206-1709
+node,3877034398,Shake Shack,Shake Shack,California,33.9778475,-118.438194,Marina del Rey,Admiralty Way,90292
+node,3917769287,McDonald's,McDonald's,California,38.605524,-122.868412,Healdsburg,Healdsburg Avenue,95448-4018
+node,3934305662,McDonald's,McDonald's,California,37.7638731,-122.1961999,Oakland,East 14th Street,94621-3826
+node,3946139907,Five Guys,Five Guys,California,37.3315123,-121.9124632,San Jose,The Alameda,95126
+node,3953049474,Five Guys,Five Guys,California,37.5572343,-122.2755279,Foster City,East Hillsdale Boulevard,94404
+node,3977061530,McDonald's,McDonald's,California,35.048192,-118.171828,,,
+node,3999911076,McDonald's,McDonald's,California,34.0930091,-118.0268631,El Monte,Santa Anita Road,91731
+node,4004486092,McDonald's,McDonald's,California,36.7929328,-119.699548,Fresno,East Ashlan Avenue,93727
+node,4020775929,McDonald's,McDonald's,California,37.781451,-122.2342414,Oakland,East 12th Street,94601-1502
+node,4045991177,McDonald's,McDonald's,California,34.0705761,-118.2682023,Los Angeles,North Alvarado Street,90026
+node,4047682791,McDonald's,McDonald's,California,41.3976266,-122.3796805,Weed,Shastina Drive,96094
+node,4093400981,McDonald's,McDonald's,California,38.0021134,-121.292234,Stockton,East March Lane,95210-3544
+node,4104945993,McDonald's,McDonald's,California,33.8612568,-118.1683127,Long Beach,Cherry Avenue,90815
+node,4105632189,Shake Shack,Shake Shack,California,37.7274014,-122.4763498,San Francisco,20th Avenue,94132
+node,4216515136,McDonald's,McDonald's,California,38.0828653,-120.5599697,,,
+node,4217407521,McDonald's,McDonald's,California,34.0842005,-117.9678973,Baldwin Park,Ramona Parkway,91706
+node,4220779496,McDonald's,McDonald's,California,34.031333,-117.91539,West Covina,South Azusa,91791
+node,4221638111,McDonald's,McDonald's,California,34.0715988,-117.959279,Baldwin Park,Baldwin Park,91706
+node,4275280053,Five Guys,Five Guys,California,36.8494907,-119.7881508,Fresno,Paseo Del Centro,93720
+node,4282010595,McDonald's,McDonald's,California,34.1084085,-117.9346458,Irwindale,Irwindale Avenue,91706
+node,4284192491,McDonald's,McDonald's,California,34.0874941,-118.175825,Los Angeles,Huntington Drive,90032-1643
+node,4310341595,Five Guys,Five Guys,California,34.0712075,-117.9318225,,,
+node,4311259394,McDonald's,McDonald's,California,34.0708112,-117.9331919,,,
+node,4311327390,McDonald's,McDonald's,California,34.0699876,-117.9788472,Baldwin Park,Baldwin Park Boulevard,91706
+node,4367365960,McDonald's,McDonald's,California,34.5587919,-118.0461803,Palmdale,47th Street East,93552
+node,4390546116,McDonald's,McDonald's,California,37.8825037,-122.296847,Berkeley,San Pablo Avenue,94706-2245
+node,4425419136,McDonald's,McDonald's,California,38.6649243,-121.2715387,Citrus Heights,Sunrise Boulevard,95610
+node,4435233189,McDonald's,McDonald's,California,34.1070698,-117.3970451,Rialto,West Foothill Boulevard,92376-4647
+node,4516268389,McDonald's,McDonald's,California,38.8888925,-121.2930635,Lincoln,Lincoln Boulevard,95648
+node,4555833632,McDonald's,McDonald's,California,38.0210048,-121.9423092,Bay Point,Bailey Road,94565
+node,4563993977,McDonald's,McDonald's,California,37.4923815,-120.8720638,Turlock,West Main Street,95380-9434
+node,4589500415,McDonald's,McDonald's,California,33.0132307,-117.0786148,San Diego,Bernardo Center Drive,92128
+node,4626983989,McDonald's,McDonald's,California,37.7892272,-122.4077251,San Francisco,Sutter Street,94108
+node,4726641731,Five Guys,Five Guys,California,37.5767131,-122.3470283,Burlingame,Primrose Drive,94010
+node,4747939207,Five Guys,Five Guys,California,38.2623759,-122.057858,Fairfield,Gateway Boulevard,94533
+node,4790760223,McDonald's,McDonald's,California,33.8865956,-117.8634978,Placentia,North Kraemer Boulevard,92870
+node,4809024489,Five Guys,Five Guys,California,37.994515,-122.2864323,Pinole,Pinole Valley Road,94564
+node,4836184672,McDonald's,McDonald's,California,33.8602568,-117.7922667,Anaheim,East La Palma Avenue,92807
+node,4853169544,Five Guys,Five Guys,California,34.4262059,-117.385686,Hesperia,Main Street,92344
+node,4890387527,Five Guys,Five Guys,California,37.6448273,-122.4529512,South San Francisco,Westborough Boulevard,94080
+node,4903112327,McDonald's,McDonald's,California,34.0566094,-118.426033,Los Angeles,Santa Monica Boulevard,90025-5031
+node,4903112334,Shake Shack,Shake Shack,California,34.0886009,-118.377319,West Hollywood,West Knoll Drive,90069
+node,4927493958,Five Guys,Five Guys,California,34.0270769,-118.2763462,Los Angeles,West 27th Street,90007
+node,4934586882,Five Guys,Five Guys,California,33.8152582,-118.350338,,,
+node,4986032453,McDonald's,McDonald's,California,34.3951435,-118.922857,Fillmore,Ventura Street,93015
+node,5031196624,McDonald's,McDonald's,California,34.0193357,-118.1508636,East Los Angeles,East Whittier Boulevard,90022
+node,5225590921,McDonald's,McDonald's,California,32.978884,-115.54209,Brawley,West Main Street,92227-2352
+node,5240023997,Shake Shack,Shake Shack,California,34.1427824,-118.2547408,,South Brand Boulevard,91204
+node,5246350528,Five Guys,Five Guys,California,34.0872141,-118.3812521,West Hollywood,Santa Monica Boulevard,90069
+node,5258617698,Five Guys,Five Guys,California,38.6175372,-121.2687889,Rancho Cordova,Sunrise Boulevard,95670
+node,5326303587,McDonald's,McDonald's,California,38.6767345,-121.7503348,Woodland,East Main Street,95695-6200
+node,5350242037,Five Guys,Five Guys,California,33.9940617,-117.9309718,Industry,Azusa Avenue,91748
+node,5355831858,McDonald's,McDonald's,California,34.1216507,-117.198775,Highland,Baseline Street,92346
+node,5406084605,Five Guys,Five Guys,California,37.2486649,-121.802683,San Jose,Cottle Road,95123
+node,5484491759,McDonald's,McDonald's,California,33.8021457,-117.2257646,Perris,North Perris Boulevard,92571
+node,5499607845,McDonald's,McDonald's,California,38.0843852,-122.2318115,Vallejo,Lincoln Road East,94591-8206
+node,5593232121,McDonald's,McDonald's,California,37.8896427,-121.6207212,Discovery Bay,Highway 4,94514
+node,5597560758,In-N-Out Burger,In-N-Out,California,34.1455816,-118.25526,Glendale,South Brand Boulevard,91204
+node,5600906679,McDonald's,McDonald's,California,34.1456038,-118.2595275,,,
+node,5642659224,McDonald's,McDonald's,California,33.6784732,-117.8622186,Santa Ana,,92707-5200
+node,5642683721,McDonald's,McDonald's,California,33.680509,-117.8609849,Santa Ana,,92707-5200
+node,5646644293,Five Guys,Five Guys,California,38.6555461,-121.1234299,Folsom,East Bidwell Street,95630
+node,5652148805,McDonald's,McDonald's,California,33.9458293,-118.3446655,Inglewood,West Century Boulevard,90301
+node,5687987159,Five Guys,Five Guys,California,33.8038849,-118.0113195,,,
+node,5707588917,Shake Shack,Shake Shack,California,34.0444877,-118.2560652,Los Angeles,West 8th Street,90014
+node,5749514348,McDonald's,McDonald's,California,36.32799,-119.3314254,Visalia,West Mineral King Avenue,93277
+node,5840819502,McDonald's,McDonald's,California,33.9455587,-116.5009706,Desert Hot Springs,Palm Drive,92240-6846
+node,5846218917,Five Guys,Five Guys,California,38.6187349,-121.3996373,Sacramento,Pasatiempo Lane,95821
+node,5850756474,McDonald's,McDonald's,California,38.5715751,-121.4668544,Sacramento,K Street,95816
+node,5855350206,McDonald's,McDonald's,California,38.5253251,-121.4418388,Sacramento,Fruitridge Road,95820-5508
+node,5897870785,Five Guys,Five Guys,California,33.1277647,-117.2694081,Carlsbad,Palomar Airport Road,92011
+node,6070285430,McDonald's,McDonald's,California,34.4222641,-119.6802126,Santa Barbara,North Milpas Street,93103
+node,6127611985,McDonald's,McDonald's,California,38.9299606,-122.617228,Clearlake,Dam Road,95422
+node,6157860886,McDonald's,McDonald's,California,34.1531576,-118.2576695,Glendale,North Central Avenue,91203
+node,6162773685,McDonald's,McDonald's,California,38.1191636,-122.2554433,Vallejo,Sonoma Boulevard,94590
+node,6248454585,Five Guys,Five Guys,California,37.5220768,-122.251529,Redwood City,Redwood Shores Parkway,94065
+node,6277597578,McDonald's,McDonald's,California,37.2728549,-121.933524,San Jose,Union Avenue,95124
+node,6278441244,McDonald's,McDonald's,California,34.0110768,-118.317922,Los Angeles,West Martin Luther King Jr Boulevard,90008
+node,6329876614,McDonald's,McDonald's,California,37.9257144,-121.7363689,Brentwood,Balfour Road,94513
+node,6338306875,McDonald's,McDonald's,California,32.8225001,-117.1010849,San Diego,Tierrasanta Boulevard,92124
+node,6388732307,Five Guys,Five Guys,California,34.2311599,-118.553207,Northridge,Tampa Avenue,91324
+node,6405180193,Five Guys,Five Guys,California,32.6301559,-117.0873539,Chula Vista,Broadway,91910
+node,6413021572,Shake Shack,Shake Shack,California,32.7254964,-117.1694861,,,
+node,6434425810,McDonald's,McDonald's,California,38.4387414,-121.3966911,Elk Grove,Sheldon Road,95624
+node,6509035073,McDonald's,McDonald's,California,37.6087262,-120.9383664,Ceres,Mitchell Road,95307
+node,6526789812,Five Guys,Five Guys,California,33.9537678,-117.3954362,Riverside,Central Avenue,92506
+node,6536141316,McDonald's,McDonald's,California,38.6548815,-121.3834978,North Highlands,Watt Avenue,95660
+node,6536240028,In-N-Out Burger,In-N-Out,California,38.6604251,-121.3571339,Sacramento,Madison Avenue,95841
+node,6536460673,Five Guys,Five Guys,California,37.3836366,-121.896918,San Jose,East Brokaw Road,95131
+node,6536797497,Five Guys,Five Guys,California,36.3251156,-119.6725008,Hanford,West Lacey Boulevard,93230
+node,6546782103,McDonald's,McDonald's,California,34.0803094,-117.7185945,Claremont,Indian Hill Boulevard,91711
+node,6567050722,McDonald's,McDonald's,California,38.7078349,-121.3124297,Citrus Heights,Lichen Drive,95621
+node,6594591083,McDonald's,McDonald's,California,36.3276916,-119.650545,Hanford,West Lacey Boulevard,93230-4435
+node,6634191713,Five Guys,Five Guys,California,37.6373475,-122.4172135,,,
+node,6643020481,McDonald's,McDonald's,California,33.8730381,-118.393709,Manhattan Beach,Artesia Boulevard,90266-6904
+node,6645053459,Five Guys,Five Guys,California,32.5836252,-117.116066,Imperial Beach,Palm Avenue,91932
+node,6691788576,Five Guys,Five Guys,California,32.6303651,-117.0875483,Chula Vista,Broadway,91910
+node,6709187219,McDonald's,McDonald's,California,38.7044561,-121.2714595,Citrus Heights,Sunrise Boulevard,95610-2308
+node,6709187223,Five Guys,Five Guys,California,38.7424161,-121.226555,Roseville,Sierra College Boulevard,95661
+node,6709187229,McDonald's,McDonald's,California,38.7415689,-121.2268138,Roseville,Sierra College Boulevard,95661
+node,6709375249,Five Guys,Five Guys,California,37.614693,-122.0873392,Hayward,Hesperian Boulevard,94545
+node,6751939945,Five Guys,Five Guys,California,38.4620353,-122.7168641,Santa Rosa,Mendocino Avenue,95401
+node,6757388068,Shake Shack,Shake Shack,California,37.948116,-122.509474,Larkspur,Larkspur Landing Circle,94939
+node,6757501157,Shake Shack,Shake Shack,California,37.4436354,-122.168519,Palo Alto,El Camino Real,94304
+node,6757511694,Shake Shack,Shake Shack,California,37.7979181,-122.4355026,San Francisco,Fillmore Street,94123
+node,6757564076,Shake Shack,Shake Shack,California,37.5351966,-122.2993059,San Mateo,,94403
+node,6758016027,Five Guys,Five Guys,California,32.9561322,-117.0426956,Poway,Poway Road,92064
+node,6768398986,McDonald's,McDonald's,California,34.1392294,-117.9809391,Duarte,East Huntington Drive,91010-2451
+node,6771875137,McDonald's,McDonald's,California,33.9167298,-118.308294,Gardena,West El Segundo Boulevard,90249-2011
+node,6777255887,Shake Shack,Shake Shack,California,34.1018045,-118.324075,,,90028
+node,6783209471,McDonald's,McDonald's,California,35.3535486,-119.019637,Bakersfield,South Chester Avenue,93304
+node,6791104543,Five Guys,Five Guys,California,36.7170054,-121.654307,,,
+node,6795644381,Five Guys,Five Guys,California,37.7535914,-121.4701442,Tracy,West Grant Line Road,95304
+node,6810225670,Five Guys,Five Guys,California,34.5977681,-118.1468793,Palmdale,10th Street West,93551
+node,6813394549,McDonald's,McDonald's,California,38.3448703,-122.7110158,,,
+node,6853390910,McDonald's,McDonald's,California,34.2794324,-118.874198,Moorpark,New Los Angeles,93021
+node,6855980755,McDonald's,McDonald's,California,36.6728629,-121.6293131,Salinas,East Alisal Street,93901-2606
+node,6959320979,McDonald's,McDonald's,California,37.6784253,-120.958126,Modesto,Oakdale Road,95355
+node,6959330752,McDonald's,McDonald's,California,39.3207812,-120.208727,Truckee,Deerfield Drive,96161
+node,6959335351,McDonald's,McDonald's,California,37.4573936,-121.910989,Milpitas,North Milpitas Boulevard,95035
+node,6959338200,McDonald's,McDonald's,California,37.300016,-120.4943749,Merced,West 13th Street,95340-5817
+node,6959343524,McDonald's,McDonald's,California,36.7655573,-119.736042,Fresno,East McKinley,93703-3532
+node,6959345704,McDonald's,McDonald's,California,37.7008073,-121.0739493,Salida,Salida Boulevard,95368-9320
+node,6959345718,McDonald's,McDonald's,California,37.5249062,-122.281858,Belmont,El Camino Real,94002-2121
+node,6959350147,McDonald's,McDonald's,California,37.670753,-122.1207538,Hayward,Hesperian Boulevard,94541-2248
+node,6959350148,McDonald's,McDonald's,California,37.689164,-122.0631185,Castro Valley,Grove Way,94546
+node,6959355617,McDonald's,McDonald's,California,36.7794237,-119.8617464,Fresno,West Shields Avenue,93722-6702
+node,6959355927,McDonald's,McDonald's,California,37.6439763,-122.4036196,South San Francisco,South Airport Boulevard,94080
+node,6959356767,McDonald's,McDonald's,California,37.3185315,-120.4732955,Merced,West Olive Avenue,95348
+node,6959367098,McDonald's,McDonald's,California,37.5407588,-121.266371,Westley,Howard Road,95387
+node,6959368150,McDonald's,McDonald's,California,37.2593723,-120.9997997,Gustine,1st Avenue,95322
+node,6959370158,McDonald's,McDonald's,California,36.9752915,-121.963683,Capitola,41st Avenue,95010
+node,6959370289,McDonald's,McDonald's,California,38.1131148,-121.3072777,Lodi,Lower Sacramento Road,95242
+node,6959372193,McDonald's,McDonald's,California,37.8492783,-122.2860423,Oakland,San Pablo Avenue,94608-1237
+node,6959372416,McDonald's,McDonald's,California,37.4792611,-122.224271,Redwood City,Chestnut Street,94063
+node,6959374048,McDonald's,McDonald's,California,37.6920803,-122.0897475,Castro Valley,Strobridge Avenue,94546
+node,6959378225,McDonald's,McDonald's,California,39.1572894,-122.1460336,,,
+node,6961286128,McDonald's,McDonald's,California,32.5450236,-117.0387107,San Diego,Camino de la Plaza,92173
+node,6961286130,McDonald's,McDonald's,California,32.9802968,-117.2495297,Del Mar,Via de la Valle,92014
+node,6961286131,McDonald's,McDonald's,California,34.0477536,-117.2416064,Loma Linda,Barton Road,92354
+node,6961331805,McDonald's,McDonald's,California,32.7428814,-117.0438042,Lemon Grove,Broadway,91945
+node,6961339512,McDonald's,McDonald's,California,34.2439639,-117.2778618,Crestline,Lake Drive,92325
+node,6961354018,McDonald's,McDonald's,California,33.0714643,-117.0705673,Escondido,Del Lago Boulevard,92029
+node,6961359563,McDonald's,McDonald's,California,34.0478447,-117.309428,Colton,South Mount Vernon Avenue,92324-4200
+node,6964848830,McDonald's,McDonald's,California,33.6216093,-117.6607284,Mission Viejo,Trabuco Road,92691
+node,6964901051,McDonald's,McDonald's,California,33.6159338,-117.7079085,Lake Forest,Bridger Road,92630
+node,6967918389,Five Guys,Five Guys,California,37.262428,-121.9318058,San Jose,Camden Avenue,95124
+node,6982286013,McDonald's,McDonald's,California,38.4135348,-122.7130468,Santa Rosa,Santa Rosa Avenue,95407
+node,7005597486,McDonald's,McDonald's,California,38.474858,-121.4470779,Sacramento,Mack Road,95823
+node,7039664985,Five Guys,Five Guys,California,33.9212986,-118.3958687,El Segundo,North Sepulveda Boulevard,90245
+node,7097453202,McDonald's,McDonald's,California,33.9807225,-117.9733187,Hacienda Height,Hacienda Boulevard,91745
+node,7098913285,Five Guys,Five Guys,California,33.4932479,-117.6975141,,,
+node,7106318762,McDonald's,McDonald's,California,38.6179424,-121.3670424,Sacramento,Marconi Avenue,95821-4213
+node,7106416131,McDonald's,McDonald's,California,33.1938543,-117.235204,Vista,South Santa Fe Avenue,92083
+node,7141562423,McDonald's,McDonald's,California,38.5589081,-121.4385179,Sacramento,Folsom Boulevard,95819
+node,7141589501,McDonald's,McDonald's,California,36.7119179,-119.5575611,Sanger,Academy Avenue,93657-2128
+node,7170868992,Five Guys,Five Guys,California,34.1096302,-117.5752269,Rancho Cucamonga,Haven Avenue,91730
+node,7280120017,McDonald's,McDonald's,California,38.2787227,-122.0348419,,,
+node,7344314585,McDonald's,McDonald's,California,35.2953619,-119.0206354,Bakersfield,Panama Lane,93307
+node,7409729834,McDonald's,McDonald's,California,39.1421488,-121.6550715,Yuba City,Harter Road,95993
+node,7519631430,McDonald's,McDonald's,California,38.2527979,-121.2946575,Galt,Pine Street,95632-2046
+node,7520346624,McDonald's,McDonald's,California,38.2907461,-121.3105682,Galt,Stockton Boulevard,95632
+node,7523512343,McDonald's,McDonald's,California,33.8889492,-117.8105585,Yorba Linda,Yorba Linda Boulevard,92886
+node,7524933491,Five Guys,Five Guys,California,38.0997283,-121.2659883,,,
+node,7527267422,McDonald's,McDonald's,California,38.1299911,-121.275866,Lodi,West Lodi Avenue,95240-3519
+node,7549518690,McDonald's,McDonald's,California,38.6785533,-121.7867161,Woodland,West Court Street,95695
+node,7703818290,Five Guys,Five Guys,California,37.797735,-121.919135,Danville,Camino Tassajara,94506
+node,7732023570,McDonald's,McDonald's,California,34.1162645,-117.8263139,,,
+node,7949401600,Five Guys,Five Guys,California,38.9481424,-119.957557,South Lake Tahoe,Lake Tahoe Boulevard,96150
+node,8119557226,McDonald's,McDonald's,California,34.4461645,-118.5529458,Santa Clarita,North McBean Parkway,91354
+node,8246289181,Five Guys,Five Guys,California,34.0706138,-117.2095062,Redlands,Alabama Street,92374
+node,8301099756,McDonald's,McDonald's,California,34.0003807,-118.4028147,Culver City,South Sepulveda Boulevard,90230-4821
+node,8363056276,Five Guys,Five Guys,California,37.3019537,-121.865108,San Jose,Curtner Avenue,95125
+node,8379762121,McDonald's,McDonald's,California,37.4127259,-121.897772,Milpitas,Great Mall Drive,95035
+node,8379778569,Shake Shack,Shake Shack,California,34.0580906,-118.4194162,Los Angeles,Santa Monica Boulevard,90067
+node,8412353096,McDonald's,McDonald's,California,33.7368294,-117.9154438,Santa Ana,West McFadden Avenue,92704
+node,8439169217,In-N-Out Burger,In-N-Out,California,32.6596905,-117.1066457,National City,Mile of Cars Way,91950
+node,8630649437,Five Guys,Five Guys,California,33.7536931,-118.1084611,Long Beach,East Pacific Coast Highway,90803
+node,8656138882,Shake Shack,Shake Shack,California,34.0527594,-118.2522907,,,
+node,8699215394,The Brothers Sushi Culver City,Culver's,California,34.0255981,-118.3928677,,Culver Boulevard,90232
+node,8748525783,McDonald's,McDonald's,California,36.4183192,-121.3213705,Soledad,South Front Street,93960-2975
+node,8770951103,McDonald's,McDonald's,California,36.5140141,-121.4370236,Gonzales,5th Street,93926
+node,8813610870,McDonald's,McDonald's,California,36.3267991,-121.2490557,Greenfield,El Camino Real,93927
+node,8828551517,McDonald's,McDonald's,California,33.9755864,-118.3733952,Los Angeles,La Tijera Boulevard,90045-1954
+node,8857943104,Culver and Main,Culver's,California,34.0247835,-118.3947422,,Main Street,90232
+node,8882795315,Five Guys,Five Guys,California,34.0619276,-117.4362592,Fontana,Sierra Avenue,92337
+node,9008899289,Five Guys,Five Guys,California,37.8513314,-122.0353383,Alamo,Alamo Plaza,94507
+node,9156015828,In-N-Out Burger,In-N-Out,California,33.9156675,-117.4420167,Riverside,Van Buren Boulevard,92503
+node,9170192673,McDonald's,McDonald's,California,38.6314864,-121.219508,Rancho Cordova,Tributary Point Drive,95670
+node,9178440421,McDonald's,McDonald's,California,34.5570564,-118.0422096,,,
+node,9181610024,McDonald's,McDonald's,California,32.7417399,-117.0534749,San Diego,College Avenue,92115
+node,9333531936,Five Guys,Five Guys,California,33.9859043,-118.394837,Culver City,Sepulveda Boulevard,90230
+node,9374258601,Shake Shack,Shake Shack,California,38.5687299,-121.487534,,,
+node,9396005985,McDonald's,McDonald's,California,33.9692087,-118.0985238,Pico Rivera,Slauson Avenue,90660-4525
+node,9431635003,McDonald's,McDonald's,California,33.1360077,-117.1234314,,,
+node,9443860057,McDonald's,McDonald's,California,37.9535392,-122.059776,Pleasant Hill,Contra Costa Boulevard,94523
+node,9446577915,McDonald's,McDonald's,California,34.2332879,-119.1728296,,Riverpark Boulevard,93036
+node,9448529996,McDonald's,McDonald's,California,33.8316201,-118.0027706,Anaheim,West Lincoln Avenue,92801
+node,9522704369,Five Guys,Five Guys,California,33.8450819,-118.262642,Carson,Avalon Boulevard,90746
+node,9556814998,McDonald's,McDonald's,California,34.0339954,-118.472994,Santa Monica,Santa Monica Boulevard,90404-2408
+node,9702050479,Five Guys,Five Guys,California,38.5410314,-121.4824307,Sacramento,Crocker Drive,95818
+node,9743998824,Shake Shack,Shake Shack,California,37.3245034,-121.9470898,,,
+node,9828722917,McDonald's,McDonald's,California,37.724861,-122.1569918,San Leandro,Washington Street,94577-3646
+node,9830722796,McDonald's,McDonald's,California,34.1071227,-117.4898227,Fontana,Foothill Boulevard,92335-3083
+node,9903215201,McDonald's,McDonald's,California,36.73804,-119.7212261,Fresno,East Kings Canyon,93727
+node,9906488243,McDonald's,McDonald's,California,34.0416268,-118.3085845,Los Angeles,South Western Avenue,90006
+node,9934027611,McDonald's,McDonald's,California,36.8080889,-119.7006658,Clovis,East Shaw Avenue,93612
+node,9980865058,McDonald's,McDonald's,California,37.6437828,-122.453704,South San Francisco,Gellert Boulevard,94080-5411
+node,9982332932,Five Guys,Five Guys,California,34.0621626,-118.349831,Los Angeles,Wilshire Boulevard,90036
+node,9987580602,McDonald's,McDonald's,California,38.5957337,-121.3450187,Carmichael,Fair Oaks Boulevard,95608
+node,9998360182,Five Guys,Five Guys,California,37.9621219,-121.7292821,Brentwood,Lone Tree Way,94513
+node,10012556976,McDonald's,McDonald's,California,38.1167274,-121.2569805,Lodi,East Kettleman Lane,95240-6405
+node,10019823836,McDonald's,McDonald's,California,40.8045039,-124.1528179,Eureka,4th Street,95501-0722
+node,10041139169,McDonald's,McDonald's,California,40.5824069,-124.146336,,,
+node,10067495441,McDonald's,McDonald's,California,38.3357271,-121.9537284,Vacaville,Alamo,95687
+node,10073612338,McDonald's,McDonald's,California,33.7675173,-116.9555619,San Jacinto,South San Jacinto Avenue,92583
+node,10117355759,McDonald's,McDonald's,California,34.0105407,-118.2569133,Los Angeles,South Central,90059
+node,10158425912,Five Guys,Five Guys,California,33.6163106,-117.8748784,Newport Beach,Newport Center Drive,92660
+node,10203025597,In-N-Out Burger,In-N-Out,California,38.4086698,-121.4128061,Elk Grove,Elk Grove Boulevard,95757
+node,10236770755,Five Guys,Five Guys,California,35.3837021,-119.1119347,Bakersfield,Calloway Drive,93312
+node,10277264193,McDonald's,McDonald's,California,33.9597569,-118.3006885,Los Angeles,West Manchester Avenue,90047-5422
+node,10279493632,McDonald's,McDonald's,California,33.9307074,-118.326002,Inglewood,Imperial Highway,90303-3113
+node,10279493634,Five Guys,Five Guys,California,33.930744,-118.3253707,Inglewood,West Imperial Highway,90303
+node,10285356509,McDonald's,McDonald's,California,38.9224479,-121.0557961,,Lincoln Way,95603-3250
+node,10294580713,McDonald's,McDonald's,California,35.1207562,-120.586488,,,
+node,10297755174,McDonald's,McDonald's,California,37.9772121,-120.3163288,,,
+node,10299277961,McDonald's,McDonald's,California,34.0459874,-118.4647921,West Los Angeles,Wilshire Boulevard,90025
+node,10555296617,McDonald's,McDonald's,California,33.7412175,-118.2926329,San Pedro,South Gaffey Street,90732
+node,10571999734,McDonald's,McDonald's,California,33.5995675,-117.1165547,Winchester,Winchester Road,92596
+node,10634721890,McDonald's,McDonald's,California,33.9749211,-118.2311922,Huntington Park,East Florence Avenue,90255-5620
+node,10683754062,Five Guys,Five Guys,California,34.1418559,-118.132019,Pasadena,South Lake Avenue,91101
+node,10694596309,Shake Shack,Shake Shack,California,34.1818449,-118.3097709,,North San Fernando Boulevard,91502
+node,10694619008,Shake Shack,Shake Shack,California,34.1614934,-118.512564,,,91316
+node,10719845100,McDonald's,McDonald's,California,36.6036683,-119.458219,Reedley,North Reed Avenue,93654-2434
+node,10731903405,Shake Shack,Shake Shack,California,37.8340529,-122.2918857,,,
+node,10752103003,McDonald's,McDonald's,California,38.6145103,-121.5316186,Sacramento,West El Camino Avenue,95833
+node,10798690186,McDonald's,McDonald's,California,34.0260827,-118.2768769,Los Angeles,South Figueroa Street,90007-3257
+node,10820222005,Five Guys,Five Guys,California,34.1135619,-117.8274179,San Dimas,West Gladstone Street,91773
+node,10874084838,Five Guys,Five Guys,California,32.7017483,-117.1837272,San Diego,,92135
+node,10874836785,McDonald's,McDonald's,California,33.9134444,-117.9709624,La Habra,South Beach Boulevard,90631
+node,10935427153,McDonald's,McDonald's,California,35.602013,-119.349711,Wasco,Highway 46,93280
+node,10940414512,Five Guys,Five Guys,California,38.2438082,-122.6262324,Petaluma,Kenilworth Drive,94952
+node,11018699235,McDonald's,McDonald's,California,35.2957766,-119.0771866,Bakersfield,Panama Lane,93313
+node,11074197730,McDonald's,McDonald's,California,34.1549076,-118.4750692,Encino,Ventura Boulevard,91436
+node,11077979409,McDonald's,McDonald's,California,38.5549214,-121.3723113,Sacramento,Folsom Boulevard,95826-3203
+node,11126800462,McDonald's,McDonald's,California,34.1988577,-118.4491525,Van Nuys,Van Nuys Boulevard,91405
+node,11133339092,McDonald's,McDonald's,California,34.2744415,-118.4121139,Pacoima,Glenoaks Boulevard,91331-1620
+node,11162008279,Shake Shack,Shake Shack,California,34.0201466,-118.4974056,,Wilshire Boulevard,
+node,11163983226,McDonald's,McDonald's,California,37.6672814,-122.0811589,Hayward,Watkins Street,94544-1028
+node,11247323206,In-N-Out Burger,In-N-Out,California,33.7363437,-116.4076788,Rancho Mirage,Bob Hope Drive,92270
+node,11337281619,McDonald's,McDonald's,California,33.9748876,-118.2830454,Los Angeles,West Florence Avenue,90044
+node,11337718337,McDonald's,McDonald's,California,33.9312596,-118.2829603,Los Angeles,West Imperial Highway,90044-4222
+node,11340859059,McDonald's,McDonald's,California,38.4960473,-121.4844102,Sacramento,Florin Road,95822
+node,11361257941,Shake Shack,Shake Shack,California,34.0622711,-118.308744,,,
+node,11369333092,Five Guys,Five Guys,California,33.1401677,-117.1908524,San Marcos,South Las Posas Drive,92078
+node,11385037535,McDonald's,McDonald's,California,33.9451982,-118.2655318,Los Angeles,South Avalon Boulevard,90003
+node,11391069606,Shake Shack,Shake Shack,California,34.0920653,-118.279732,,,
+node,11406975013,McDonald's,McDonald's,California,33.9887873,-118.2910344,Los Angeles,West Slauson Avenue,90043
+node,11525833078,Five Guys,Five Guys,California,38.4218323,-121.3985859,Elk Grove,Laguna Springs Drive,95758
+node,11603353427,McDonald's,McDonald's,California,34.200989,-118.407985,North Hollywood,Sherman Way,91605
+node,11611877882,McDonald's,McDonald's,California,33.8311569,-118.3033609,Torrance,West Carson Street,90501-3920
+node,11611883698,McDonald's,McDonald's,California,33.872401,-118.2495489,Carson,South Central Avenue,90746
+node,11611948709,McDonald's,McDonald's,California,33.9025117,-118.2539968,Los Angeles,East Rosecrans Avenue,90059-3645
+node,11611949445,McDonald's,McDonald's,California,33.8964157,-118.2250426,Compton,South Compton,90220
+node,11611950434,McDonald's,McDonald's,California,33.903895,-118.208983,Compton,Long Beach Boulevard,90221
+node,11611952069,McDonald's,McDonald's,California,33.9581643,-118.2314936,Los Angeles,South Alameda Street,90002
+node,11611954842,McDonald's,McDonald's,California,33.847108,-118.265222,Carson,South Avalon Boulevard,90746
+node,11611957828,McDonald's,McDonald's,California,33.7511029,-118.3087338,San Pedro,North Western Avenue,90732
+node,11630463021,McDonald's,McDonald's,California,34.2982894,-118.437334,San Fernando,Glenoaks Boulevard,91340-1622
+node,11630488732,McDonald's,McDonald's,California,34.2331128,-118.4377801,Pacoima,Osborne Street,91331-6025
+node,11630493003,McDonald's,McDonald's,California,34.1861763,-118.3708107,North Hollywood,Victory Boulevard,91606
+node,11630510159,McDonald's,McDonald's,California,34.5800609,-118.0988458,Palmdale,East Palmdale Boulevard,93550
+node,11655490507,McDonald's,McDonald's,California,33.9751528,-118.3312238,Los Angeles,Crenshaw Boulevard,90043
+node,11682526139,Five Guys,Five Guys,California,36.2928557,-119.314456,Visalia,South Mooney Boulevard,93277
+node,11712115136,McDonald's,McDonald's,California,34.0403675,-118.2843455,Los Angeles,West Washington Boulevard,90006
+node,11712117618,McDonald's,McDonald's,California,34.0680745,-118.2920691,Los Angeles,South Vermont Avenue,90020-1806
+node,11732321693,McDonald's,McDonald's,California,37.6883596,-122.1386912,San Leandro,Greenhouse Marketplace,94578
+node,11732324074,McDonald's,McDonald's,California,37.707821,-122.132957,San Leandro,East 14th Street,94578-2921
+node,11742639841,McDonald's,McDonald's,California,35.3805923,-119.0230873,,F Street,93301
+node,11742676319,McDonald's,McDonald's,California,35.2964594,-119.0396863,Bakersfield,Panama Lane,93313
+node,11742688152,McDonald's,McDonald's,California,35.3755814,-118.9502943,Bakersfield,Niles Street,93306
+node,11742702929,McDonald's,McDonald's,California,35.2094001,-118.832952,Arvin,Bear Mountain Boulevard,93203
+node,11742706112,McDonald's,McDonald's,California,36.1970165,-119.327322,Tulare,East Bardsley Avenue,93274
+node,11742715869,McDonald's,McDonald's,California,36.1809154,-119.3299693,Tulare,South Blackstone Street,93274
+node,11760053874,McDonald's,McDonald's,California,38.4737649,-121.4285236,Sacramento,Mack Road,95823
+node,11762038014,In-N-Out Burger,In-N-Out,California,34.0745597,-117.3708177,Rialto,South Riverside Avenue,92376
+node,11763934300,McDonald's,McDonald's,California,36.6267205,-119.6828826,Fowler,West Merced Street,93625
+node,11772683377,Five Guys,Five Guys,California,33.9229473,-118.1313602,Downey,Apollo Way,90242
+node,11779131453,McDonald's,McDonald's,California,38.4804209,-122.7359316,Santa Rosa,Hopper Avenue,95403
+node,11828801578,McDonald's,McDonald's,California,38.5505246,-121.4885558,Sacramento,Freeport Boulevard,95818-3842
+node,11879184488,In-N-Out Burger,In-N-Out,California,33.71257,-116.29265,La Quinta,Highway 111,92253
+node,11879184489,In-N-Out Burger,In-N-Out,California,32.5774169,-117.0805352,San Diego,Outer Road,92154
+node,11910159474,McDonald's,McDonald's,California,32.77756,-117.009409,La Mesa,Grossmont Center,91942
+node,11910166703,Five Guys,Five Guys,California,32.8062739,-116.9662318,El Cajon,Fletcher Parkway,92020
+node,11923897143,McDonald's,McDonald's,California,34.071026,-117.879539,West Covina,East Garvey Avenue South,91791-2303
+node,11923897145,McDonald's,McDonald's,California,34.1340988,-117.9843287,Duarte,South Mountain Avenue,91010
+node,11923897156,McDonald's,McDonald's,California,34.053674,-117.974115,La Puente,Amar Road,91746
+node,11923897166,McDonald's,McDonald's,California,34.135239,-118.049797,Arcadia,South Baldwin Avenue,91007
+node,11923916977,McDonald's,McDonald's,California,34.0505459,-118.0850883,Rosemead,Walnut Grove Avenue,91770
+node,11923916979,McDonald's,McDonald's,California,34.063046,-118.105499,Rosemead,Garvey Avenue,91770-2911
+node,11957856140,Five Guys,Five Guys,California,36.8068822,-119.7786433,Fresno,East Shaw Avenue,93710
+node,11965646617,Five Guys,Five Guys,California,34.1452292,-118.2588172,Glendale,Galleria Way,91210
+node,11965646646,Five Guys,Five Guys,California,34.223436,-118.5018982,Northridge,Balboa Boulevard,91329
+node,11967638487,McDonald's,McDonald's,California,38.8752771,-121.2965858,,Lincoln Boulevard,95648
+node,11967683000,McDonald's,McDonald's,California,34.10713,-117.8646618,,West Arrow Highway,91740-5963
+node,11976444411,Shake Shack,Shake Shack,California,32.8705228,-117.212246,,,
+node,11980210133,Five Guys,Five Guys,California,34.0494553,-118.2607998,Los Angeles,South Figueroa Street,90017
+node,11980210166,Five Guys,Five Guys,California,34.0470258,-118.3402958,Los Angeles,West Venice Boulevard,90019
+node,11980219018,McDonald's,McDonald's,California,33.984982,-118.104921,Pico Rivera,Washington Boulevard,90660
+node,11980259920,McDonald's,McDonald's,California,33.893238,-118.283485,Gardena,South Figueroa Avenue,90248
+node,11980260001,Five Guys,Five Guys,California,33.891824,-118.2975951,Gardena,West Redondo Beach Boulevard,90247
+node,11980571244,Five Guys,Five Guys,California,33.940553,-118.046205,Whittier,Carmenita Road,90605
+node,12005954237,McDonald's,McDonald's,California,36.2263128,-119.3373648,Tulare,E Prosperity Ave,93274
+node,12048104945,McDonald's,McDonald's,California,37.3108938,-121.9313967,,South Bascom Avenue,95128-2605
+node,12099831026,Shake Shack,Shake Shack,California,32.9519142,-117.2356428,San Diego,Paseo Place,92130
+node,12117334306,In-N-Out Burger,In-N-Out,California,38.414588,-122.7129892,Santa Rosa,Santa Rosa Avenue,95407
+node,12117354714,Five Guys,Five Guys,California,32.7367138,-117.2166311,,,
+node,12125709005,McDonald's,McDonald's,California,37.3252769,-121.8146053,,,
+node,12161086845,McDonald's,McDonald's,California,38.5246089,-121.4097225,,Fruitridge Road,95824
+node,12192130578,Five Guys,Five Guys,California,38.6647874,-121.2251062,,Hazel Avenue,
+node,12265557106,McDonald's,McDonald's,California,39.1467357,-121.644423,,Stabler Lane,95911
+node,12288509150,McDonald's,McDonald's,California,40.4559452,-122.2942314,,McMurray Drive,96007-4600
+node,12288536216,McDonald's,McDonald's,California,39.9048261,-122.1980029,,Sunrise Way,96021-9748
+node,12288536221,McDonald's,McDonald's,California,38.6629429,-121.2262174,,Hazel Avenue,95628
+node,12288544566,McDonald's,McDonald's,California,37.9493913,-121.2893142,,South Center Street,95203
+node,12288548989,McDonald's,McDonald's,California,38.0054637,-121.3541267,,West Benjamin Holt Drive,95219
+node,12288558515,McDonald's,McDonald's,California,38.0215641,-121.3445586,,West Hammer Lane,95209
+node,12288561112,McDonald's,McDonald's,California,39.359863,-121.6883134,,,95948-3106
+node,12288563957,McDonald's,McDonald's,California,37.646583,-121.030662,,North Carpenter Road,95351-1182
+node,12288568306,McDonald's,McDonald's,California,38.671688,-121.1617456,,East Bidwell Street,95630-3120
+node,12288704948,McDonald's,McDonald's,California,37.9469759,-121.69645,,Brentwood Boulevard,94513-2026
+node,12288721154,McDonald's,McDonald's,California,37.9888379,-121.7859642,,Deer Valley Road,94509
+node,12288745685,McDonald's,McDonald's,California,38.0036815,-121.8345352,,Mahogany Way,94509-2966
+node,12288745687,McDonald's,McDonald's,California,36.7154058,-121.6259777,,East Boronda Road,93906
+node,12288746142,McDonald's,McDonald's,California,36.9321285,-121.7694035,,Freedom Boulevard,95076-3007
+node,12288749030,McDonald's,McDonald's,California,37.9665819,-121.7828724,,Lone Tree Way,94509
+node,12288760984,McDonald's,McDonald's,California,37.6386701,-120.7700496,,Yosemite Boulevard,95386
+node,12288761102,McDonald's,McDonald's,California,37.6386926,-120.9262441,,Yosemite Boulevard,95357
+node,12288761877,McDonald's,McDonald's,California,36.8078638,-119.8499119,,West Shaw Avenue,93711-3225
+node,12288780663,McDonald's,McDonald's,California,36.7361927,-119.7495147,,East Kings Canyon Road,93702-3708
+node,12288780669,McDonald's,McDonald's,California,36.5175456,-119.5621114,,Sierra Street,93631-1710
+node,12288800159,McDonald's,McDonald's,California,34.1712333,-119.1770135,,,93033-5311
+node,12288802347,McDonald's,McDonald's,California,36.9719599,-120.0451691,,West Yosemite Avenue,93637
+node,12288802352,McDonald's,McDonald's,California,34.1991058,-119.1953878,,,93030
+node,12288802354,McDonald's,McDonald's,California,34.1934888,-118.5878924,,,91303
+node,12288805030,McDonald's,McDonald's,California,34.020646,-118.1211123,,West Beverly Boulevard,90640-3939
+node,12288806735,McDonald's,McDonald's,California,36.5433525,-119.2863806,,Road 128,93647
+node,12288811365,McDonald's,McDonald's,California,36.3429544,-119.6565941,,West Grangeville Boulevard,93230
+node,12288811478,McDonald's,McDonald's,California,36.3129165,-119.781213,,North Lemoore Avenue,93245-2336
+node,12288874070,McDonald's,McDonald's,California,36.758694,-119.7902389,,North Blackstone Avenue,93703
+node,12288874082,McDonald's,McDonald's,California,36.3414301,-119.3489389,,West Goshen,93291
+node,12288874367,McDonald's,McDonald's,California,36.5457983,-119.3766337,,East El Monte Way,93618-9317
+node,12288876186,McDonald's,McDonald's,California,34.221406,-119.0708461,,Daily Drive,93010-5812
+node,12288876187,McDonald's,McDonald's,California,34.2193037,-118.6070853,,Roscoe Boulevard,91304-3836
+node,12288876938,McDonald's,McDonald's,California,34.0111139,-118.294042,,Martin Luther King Junior Boulevard,90037
+node,12288878301,McDonald's,McDonald's,California,36.7435535,-119.7897358,,Divisadero Street,93701-1920
+node,12288880226,McDonald's,McDonald's,California,33.9709901,-118.0654669,,,90606-3123
+node,12288883197,McDonald's,McDonald's,California,34.1723631,-118.3722753,,Burbank Boulevard,91601
+node,12288885217,McDonald's,McDonald's,California,36.0978133,-119.5724622,,Whitley Avenue,93212-2017
+node,12288894703,McDonald's,McDonald's,California,34.0517511,-118.3690233,,West Pico Boulevard,90035-2658
+node,12288897154,McDonald's,McDonald's,California,33.9023864,-118.0983975,,,90650-3605
+node,12288897155,McDonald's,McDonald's,California,33.939402,-117.9377196,,East Whittier Boulevard,90631-3932
+node,12289612968,McDonald's,McDonald's,California,33.9620967,-118.3501194,,Manchester Boulevard,90301
+node,12289612969,McDonald's,McDonald's,California,34.0329737,-117.7553766,,Rio Rancho Road,91767
+node,12289625337,McDonald's,McDonald's,California,33.9877566,-117.7059699,,Ramona Avenue,91710
+node,12289628365,McDonald's,McDonald's,California,34.0719312,-117.7893499,,Murchison Avenue,91768-1145
+node,12289633969,McDonald's,McDonald's,California,33.9930338,-118.4510576,,Lincoln Boulevard,90291-5040
+node,12289640506,McDonald's,McDonald's,California,33.8492454,-117.8889033,,North State College Boulevard,92806-2703
+node,12289654801,McDonald's,McDonald's,California,34.0238904,-117.6887069,,Central Avenue,91710-3509
+node,12289655003,McDonald's,McDonald's,California,33.9847942,-117.7479499,,Chino Hills Parkway,91709
+node,12289656218,McDonald's,McDonald's,California,33.9748257,-117.5556939,,Limonite Avenue,91752
+node,12292074574,McDonald's,McDonald's,California,34.1651443,-117.2811917,,East 40th Street,92404
+node,12292086223,McDonald's,McDonald's,California,33.5661204,-117.7082693,,La Paz Road,92677
+node,12292093370,McDonald's,McDonald's,California,33.681522,-118.0057553,,Goldenwest Street,92648
+node,12292093395,McDonald's,McDonald's,California,34.091746,-117.3141337,,South Mount Vernon Avenue,92410
+node,12292099585,McDonald's,McDonald's,California,34.1370315,-117.3941124,,Casmalia Street,92377
+node,12292103697,McDonald's,McDonald's,California,32.855635,-115.5696223,,North Imperial Avenue,92251
+node,12292105863,McDonald's,McDonald's,California,33.7158428,-118.039656,,Warner Avenue,92649
+node,12292108431,McDonald's,McDonald's,California,34.6140392,-120.1892442,,McMurray Road,93427
+node,12292108755,McDonald's,McDonald's,California,33.7587782,-118.005386,,Westminster Avenue,92683-4233
+node,12292115520,McDonald's,McDonald's,California,33.917663,-117.2364131,,Alessandro Boulevard,92553
+node,12292118629,McDonald's,McDonald's,California,34.0676488,-117.3266515,,Valley Boulevard,92324-2933
+node,12292119754,McDonald's,McDonald's,California,35.0379084,-120.4844738,,West Tefft Street,93444
+node,12292121943,McDonald's,McDonald's,California,34.1024498,-117.2982016,,West 2nd Street,92410
+node,12292128022,McDonald's,McDonald's,California,33.9387535,-117.2478425,,Sunnymead Boulevard,92553
+node,12292132538,McDonald's,McDonald's,California,35.1367285,-120.6265241,,Five Cities Drive,93449
+node,12316369901,Shake Shack,Shake Shack,California,37.538465,-122.3015374,,,
+node,12406888080,McDonald's,McDonald's,California,37.9129904,-121.294325,,,
+node,12406892128,McDonald's,McDonald's,California,37.7901131,-120.9960191,,,
+node,12406902054,McDonald's,McDonald's,California,38.1010085,-121.2677443,,,
+node,12409416120,McDonald's,McDonald's,California,33.2204559,-117.2257318,,,
+node,12409420824,McDonald's,McDonald's,California,33.741589,-116.2649766,,,
+node,12476980431,Five Guys,Five Guys,California,35.1202207,-120.6019313,,East Grand Avenue,
+node,12564277867,Shake Shack,Shake Shack,California,33.8311977,-118.3491933,,,
+node,12606141792,McDonald's,McDonald's,California,38.5579628,-121.2424192,,,
+node,12740380761,McDonald's,McDonald's,California,34.3815369,-117.4120929,Hesperia,Fashion Court,92344
+node,12848724739,McDonald's,McDonald's,California,36.8080483,-119.6395549,,,
+node,12955382110,Shake Shack,Shake Shack,California,33.6513558,-117.7457858,,,
+node,13137197796,Shake Shack,Shake Shack,California,33.7217331,-117.7920654,,,
+node,13145103785,McDonald's,McDonald's,California,32.7312484,-117.1925748,,,
+node,13184492761,Five Guys,Five Guys,California,34.1508983,-117.4752318,,,
+node,13291582650,McDonald's,McDonald's,California,32.7709122,-117.0711572,San Diego,Montezuma Road,92115
+node,13382472289,McDonald's,McDonald's,California,34.4290165,-119.8701302,Goleta,Marketplace Drive,93117
+node,13433505957,McDonald's,McDonald's,California,34.1596203,-118.1328324,Pasadena,North Lake Avenue,91104
+node,13436410886,McDonald's,McDonald's,California,34.15018,-118.0912352,Pasadena,East Foothill Boulevard,91107-3463
+node,13436927356,McDonald's,McDonald's,California,34.145659,-118.1231532,Pasadena,East Colorado Boulevard,91106
+node,13437022775,McDonald's,McDonald's,California,34.1514512,-118.0267447,Arcadia,East Foothill Boulevard,91006-2506
+node,13438655399,McDonald's,McDonald's,California,34.0875457,-118.1490968,Alhambra,West Commonwealth Avenue,91803
+node,13438655411,In-N-Out Burger,In-N-Out,California,34.1060339,-118.1343776,Alhambra,North Atlantic Boulevard,91801
+node,13438810216,In-N-Out Burger,In-N-Out,California,34.1453244,-118.0312041,Arcadia,North Santa Anita Avenue,91006
+node,13453340802,McDonald's,McDonald's,California,34.0630157,-118.0638394,South El Monte,East Garvey Avenue,91733
+node,13458470681,McDonald's,McDonald's,California,34.0330298,-118.1533973,East Los Angeles,South Atlantic Boulevard,90022
+node,13462996079,McDonald's,McDonald's,California,34.1174311,-118.1498822,South Pasadena,Fair Oaks Avenue,91030-2604
+node,13468464291,McDonald's,McDonald's,California,34.1400068,-118.0091212,Monrovia,West Huntington Drive,91016
+node,13475411651,In-N-Out Burger,In-N-Out,California,34.1495071,-118.1067943,Pasadena,East Foothill Boulevard,91107
+node,13478147798,Shake Shack,Shake Shack,California,34.1328384,-118.1470487,Pasadena,South Arroyo Parkway,91105
+node,13478199329,McDonald's,McDonald's,California,34.1826484,-118.1600966,Altadena,North Lincoln Avenue,91001-5449
+node,13512505343,McDonald's,McDonald's,California,34.4368692,-119.8301974,Goleta,South Fairview Avenue,93117
+node,13513312444,McDonald's,McDonald's,California,34.4408562,-119.7530556,Santa Barbara,State Street,93105
+node,13527495749,In-N-Out Burger,In-N-Out,California,34.0364893,-118.0975591,Monterey Park,Market Place Drive,91755
+node,13571497720,In-N-Out Burger,In-N-Out,California,34.2684187,-119.2728981,Ventura,East Harbor Boulevard,93001
+node,13574457690,McDonald's,McDonald's,California,34.2665129,-119.2723355,San Buenaventura,East Harbor Boulevard,93001
+node,13608653490,McDonald's,McDonald's,California,35.3547885,-119.0615468,,,
+node,13665853661,McDonald's,McDonald's,California,33.7988395,-118.1249192,,,
+node,13683322443,Five Guys,Five Guys,California,32.7486655,-117.1587913,San Diego,University Avenue,92103
+node,13874343600,Shake Shack,Shake Shack,California,34.2414008,-119.1809422,Oxnard,Town Center Drive,93036
+node,13915592756,Shake Shack,Shake Shack,California,37.3749615,-122.0316232,Sunnyvale,South Murphy Avenue,94086
+node,13917429476,McDonald's,McDonald's,California,38.7666169,-121.356811,,,
+node,13938844661,Shake Shack,Shake Shack,California,37.4038972,-122.1112629,Mountain View,San Antonio Road,94040
+node,13972433122,McDonald's,McDonald's,California,36.778914,-119.7909019,Fresno,North Blackstone Avenue,93703
+node,14118037689,Shake Shack,Shake Shack,California,38.7737201,-121.2705118,Roseville,Galleria Boulevard,95678
+node,14134032985,In-N-Out Burger,In-N-Out,California,34.1400676,-118.0114191,Monrovia,West Huntington Drive,91016
+node,14181697902,McDonald's,McDonald's,California,33.3465095,-117.4116859,,,
+node,14195705501,McDonald's,McDonald's,California,33.2963763,-117.3515534,,,
+node,14285205250,McDonald's,McDonald's,California,33.7460313,-117.8215781,,,
+node,14311186586,Shake Shack,Shake Shack,California,33.7195317,-116.3871745,Palm Desert,El Paseo,92260
+node,14361230741,Shake Shack,Shake Shack,California,38.408496,-121.4079059,Elk Grove,Elk Grove Boulevard,95757
+way,28074135,McDonald's,McDonald's,California,37.13322392,-121.63135179999999,Morgan Hill,Condit Road,95037
+way,28128943,McDonald's,McDonald's,California,37.00164796,-121.55998995999998,Gilroy,Automall Parkway,95020-6635
+way,28239303,McDonald's,McDonald's,California,36.8589701,-121.40119240000001,Hollister,San Felipe Road,95023-3029
+way,28411751,McDonald's,McDonald's,California,37.01377826923077,-121.58634095384615,Gilroy,First Street,95020-4918
+way,28543803,McDonald's,McDonald's,California,36.8370628,-121.38910997999999,Hollister,Airline Highway,95023
+way,28659140,McDonald's,McDonald's,California,37.1112637,-121.64197886,Morgan Hill,Vineyard Town Center,95037-5445
+way,28714380,In-N-Out Burger,In-N-Out,California,37.15245954,-121.65484096,Morgan Hill,Cochrane Road,95037
+way,28714491,McDonald's,McDonald's,California,37.15058875999999,-121.65527793999999,Morgan Hill,Cochrane Plaza,95037-2812
+way,30328331,In-N-Out Burger,In-N-Out,California,37.989082047058815,-122.31076734705884,Pinole,Fitzgerald Drive,94564
+way,30328535,McDonald's,McDonald's,California,37.96155997083332,-122.32660262083328,San Pablo,San Pablo Dam Road,94806
+way,30355437,McDonald's,McDonald's,California,37.996100999999996,-122.30496253999999,Pinole,Tara Hills Drive,94564-2517
+way,30906534,In-N-Out Burger,In-N-Out,California,37.38041239090909,-122.07403533636362,Mountain View,West El Camino Real,94040
+way,30994357,McDonald's,McDonald's,California,33.56224742,-117.62900778000001,Ladera Ranch,Antonio Parkway,92694
+way,31074067,McDonald's,McDonald's,California,37.41936868,-122.09361655333335,Mountain View,North Rengstorff Avenue,94043
+way,31074131,In-N-Out Burger,In-N-Out,California,37.420969455,-122.09331778000004,Mountain View,North Rengstorff Avenue,94043
+way,31090069,McDonald's,McDonald's,California,37.391422142857145,-122.09641291428572,Mountain View,North El Monte Avenue,94040
+way,31800457,McDonald's,McDonald's,California,32.584171476190484,-117.0397056904762,San Diego,Palm Avenue,92154
+way,31801032,McDonald's,McDonald's,California,32.55750962380952,-117.058314,San Diego,West San Ysidro Boulevard,92173
+way,31802199,McDonald's,McDonald's,California,32.7488405,-117.15080413333332,San Diego,University Avenue,92103
+way,31803209,McDonald's,McDonald's,California,32.83104353333333,-117.13574854444444,San Diego,Clairemont Mesa Bl,92123
+way,31808205,McDonald's,McDonald's,California,32.89285139333334,-117.20343577999999,San Diego,Scranton Road,92121
+way,31809417,McDonald's,McDonald's,California,32.806841180000006,-117.21881938000001,San Diego,Mission Bay Drive,92109
+way,31809794,McDonald's,McDonald's,California,32.83226558571429,-117.16535928571429,San Diego,Clairemont Mesa Boulevard,92111
+way,31810402,McDonald's,McDonald's,California,32.98190568571429,-117.0762256,San Diego,Carmel Mountain Road,92128
+way,31810568,In-N-Out Burger,In-N-Out,California,32.917636771428576,-117.12193454761902,San Diego,Mira Mesa Boulevard,92126
+way,31816516,In-N-Out Burger,In-N-Out,California,32.81963836666666,-117.14864870952384,San Diego,Kearny Mesa Road,92111
+way,31817614,McDonald's,McDonald's,California,32.71867051818182,-117.15408991818181,San Diego,Park Boulevard,92101
+way,31818071,In-N-Out Burger,In-N-Out,California,32.75195178421053,-117.20535101578949,San Diego,Sports Arena Boulevard,92110
+way,31818352,McDonald's,McDonald's,California,32.95443775333333,-117.23145303999999,San Diego,Del Mar Heights Road,92130-2122
+way,31818520,McDonald's,McDonald's,California,32.544401154545454,-117.0291514,San Diego,East San Ysidro Boulevard,92173
+way,31839911,In-N-Out Burger,In-N-Out,California,32.769485776470596,-117.14343559411766,San Diego,Camino del Este,92108
+way,31841725,McDonald's,McDonald's,California,32.80944368,-117.11609659999999,San Diego,Aero Drive,92123
+way,31843177,In-N-Out Burger,In-N-Out,California,32.808943391666666,-117.21886167499999,San Diego,Damon Avenue,92109
+way,31844058,McDonald's,McDonald's,California,32.82065268,-117.17802682000001,San Diego,Balboa Avenue,92111
+way,31844500,McDonald's,McDonald's,California,32.74895644285714,-117.10059298571427,San Diego,Fairmount Avenue,92105
+way,31844770,McDonald's,McDonald's,California,32.80194630909091,-117.01165557272729,San Diego,Lake Murray Boulevard,92119
+way,31964848,McDonald's,McDonald's,California,38.00876911538462,-122.27131964615386,Hercules,Sycamore Avenue,94547-1701
+way,31979576,In-N-Out Burger,In-N-Out,California,34.18497196097561,-118.31608138048784,Burbank,First Street,91502
+way,32946509,McDonald's,McDonald's,California,34.03528683571428,-118.2381185142857,Los Angeles,Alameda Street,90021
+way,33792833,In-N-Out Burger,In-N-Out,California,37.02379996153846,-121.56421365384614,Gilroy,Leavesley Road,95020
+way,34400810,McDonald's,McDonald's,California,38.55055772,-121.69742575999999,Davis,Chiles Road,95616
+way,34898038,McDonald’s,McDonald's,California,37.3232344117647,-121.91330240588235,San Jose,West San Carlos Street,95126
+way,35549081,In-N-Out Burger,In-N-Out,California,37.38803927272726,-121.9820710590909,Santa Clara,Mission College Boulevard,95054
+way,36116610,McDonald's,McDonald's,California,36.61904302727273,-121.84414697272727,Sand City,Playa Avenue,93955
+way,37120283,McDonald’s,McDonald's,California,37.25095160000001,-121.83192494,San Jose,Blossom Hill Road,95123
+way,37260909,McDonald's,McDonald's,California,37.710829544999996,-121.72369106000001,Livermore,North Vasco Road,94550
+way,37548397,In-N-Out Burger,In-N-Out,California,34.235082336842105,-119.17966078947369,Oxnard,West Esplanade Drive,93036
+way,37570732,McDonald's,McDonald's,California,36.79238253333333,-121.66632025555555,Salinas,Vierra Canyon Road,93907
+way,37624198,McDonald's,McDonald's,California,37.26207102307693,-121.9219168076923,San Jose,Camden Avenue,95124
+way,37722558,McDonald's,McDonald's,California,37.04718074,-122.03253952,Scotts Valley,Mount Hermon Road,95066
+way,38652464,McDonald's,McDonald's,California,37.26648088461539,-121.83224370769231,San Jose,Branham Lane,95136
+way,39019785,McDonald's,McDonald's,California,37.245594800000006,-121.88817319444446,San Jose,Blossom Hill Road,95118
+way,39020243,McDonald's,McDonald's,California,37.34873046842105,-121.86507862631579,San Jose,East Santa Clara Street,95116
+way,39041317,McDonald's,McDonald's,California,37.4177887,-121.87160652,San Jose,Landess Avenue,95035
+way,39042013,McDonald's,McDonald's,California,37.427130219999995,-121.92178707999999,Milpitas,Ranch Drive,95035
+way,39127223,McDonald’s,McDonald's,California,37.275145994736846,-121.86520904210529,San Jose,West Capital Auto Mall Expressway,95136
+way,39990457,In-N-Out Burger,In-N-Out,California,38.63684915789473,-121.50423031052632,Sacramento,Truxel Road,95834
+way,41157360,McDonald's,McDonald's,California,37.464731557142855,-121.14149001428572,Patterson,Sperry Avenue,95363
+way,42018503,In-N-Out Burger,In-N-Out,California,34.06836335294118,-117.55717516470588,Ontario,Ontario Mills Parkway,91764
+way,42117788,McDonald's,McDonald's,California,37.02364685294117,-121.56243448235291,Gilroy,Arroyo Circle,95020
+way,42701507,McDonald's,McDonald's,California,37.755238338461545,-122.25201816923078,Alamda,Shore Line Drive,94501
+way,43968070,McDonald's,McDonald's,California,37.57099126153846,-122.03173935384615,Fremont,Decoto Road,94555
+way,44770965,McDonald's,McDonald's,California,37.59023026,-122.02004456,Union City,Union Square,94587-3557
+way,44803333,McDonald's,McDonald's,California,37.29805318,-121.95040872,San Jose,South Winchester Boulevard,95128
+way,45039205,In-N-Out,In-N-Out,California,38.66037397272728,-121.35709544545453,,,
+way,45407095,McDonald's,McDonald's,California,38.78227697894736,-121.26643780526317,Roseville,Stanford Ranch Road,95678
+way,45637749,McDonald's,McDonald's,California,35.262919100000005,-120.6773953,San Luis Obispo,Madonna Road,93401-3109
+way,45886671,In-N-Out Burger,In-N-Out,California,38.78966300416666,-121.28318675416664,Roseville,Fairway Drive,95678
+way,46186790,McDonald's,McDonald's,California,37.52571416000001,-122.00558923999999,Newark,Newpark Mall Road,94560-5204
+way,46689174,In-N-Out Burger,In-N-Out,California,38.5409475,-121.73719399333332,Davis,Olive Drive,95616
+way,47150393,McDonald's,McDonald's,California,38.74649638,-121.27150448,Roseville,Harding Boulevard,95678
+way,47966182,In-N-Out Burger,In-N-Out,California,33.81569081111111,-116.40139211111114,Thousand Palms,Varner Road,92276
+way,49320591,In-N-Out Burger,In-N-Out,California,37.361011307692316,-122.02497316153845,Sunnyvale,East El Camino Real,94087
+way,51210057,In-N-Out Burger,In-N-Out,California,34.27584884285715,-118.56804539999999,Porter Ranch,Rinaldi Street,91326
+way,53435330,McDonald's,McDonald's,California,37.28883625555555,-120.45492761111112,Merced,Motel Drive,95341
+way,55881439,McDonald's,McDonald's,California,33.53091475217391,-117.15197857826088,Temecula,Winchester Road,92591
+way,56008308,McDonald's,McDonald's,California,36.68555679999999,-121.79462197333335,Marina,Reservation Road,93933
+way,56228613,McDonald's,McDonald's,California,33.50868341176471,-117.12692431764705,Temecula,Rancho California Road,92591
+way,56992267,McDonald's,McDonald's,California,33.616234799999994,-117.91093292000001,Newport Beach,West Pacific Coast Highway,92660
+way,59441235,McDonald's,McDonald's,California,38.132083339999994,-122.2236774,Vallejo,Admiral Callaghan Lane,94590
+way,59598734,Freddy's,Freddy's,California,35.38537334,-119.11023596,,,
+way,59690571,In-N-Out Burger,In-N-Out,California,35.38306064000001,-119.09087247333333,Bakersfield,Rosedale Highway,93308
+way,59693235,McDonald's,McDonald's,California,35.31759631999999,-119.08985809999999,Bakersfield,White Lane,93313
+way,59695042,McDonald's,McDonald's,California,35.31723589999999,-119.03328632,Bakersfield,White Lane,93304-6815
+way,59695507,McDonald's,McDonald's,California,35.38308664,-119.14668909,Bakersfield,Rosedale Highway,93312
+way,59695800,McDonald's,McDonald's,California,35.3671771,-119.0428387,Bakersfield,Real Road,93309-1006
+way,59728611,McDonald's,McDonald's,California,35.3399485875,-119.053548575,Bakersfield,Ming Avenue,93309-4822
+way,59733392,In-N-Out Burger,In-N-Out,California,35.35451089130436,-119.05797956521741,Bakersfield,Stockdale Highway,93309
+way,59780057,McDonald's,McDonald's,California,35.40208466666667,-119.0930307,Bakersfield,Coffee Road,93312
+way,59789473,McDonald's,McDonald's,California,35.397275845454544,-118.96715520909092,Bakersfield,Mount Vernon Avenue,93306
+way,59811261,In-N-Out Burger,In-N-Out,California,35.296348011111114,-119.02864523333334,Bakersfield,Panama Lane,93307
+way,59817541,McDonald's,McDonald's,California,35.40827776,-119.02146499999999,Oildale,North Chester Avenue,93308
+way,60429480,McDonald's,McDonald's,California,38.65484258,-121.1244909,Folsom,East Bidwell Street,95630
+way,61234994,McDonald's,McDonald's,California,37.33725656666667,-122.04103588888887,Cupertino,North Stelling Road,95014-0353
+way,61255841,McDonald's,McDonald's,California,36.85166233333334,-119.77297124444446,Fresno,East Nees Avenue,93720
+way,61877394,McDonald's,McDonald's,California,36.80893575714286,-119.71857859999999,Clovis,West Shaw Avenue,93612-3208
+way,62333853,McDonald's,McDonald's,California,33.660415055555546,-117.3003364,Lake Elsinore,Mission Trail,92530
+way,64932168,McDonald's,McDonald's,California,40.9325498,-124.10135179,McKinleyville,Anna Sparks Way,95519
+way,65596288,McDonald's,McDonald's,California,33.104176040000006,-117.0748743,Escondido,West Felicita Avenue,92025
+way,66780597,McDonald's,McDonald's,California,33.65742796923077,-117.9187023153846,Costa Mesa,Harbor Boulevard,92626
+way,67256641,In-N-Out Burger,In-N-Out,California,33.643700284615385,-117.92294920769231,Costa Mesa,West 19th Street,92627
+way,69964596,McDonald's,McDonald's,California,33.47948056,-117.10287035333334,Temecula,Highway 79 South,92592
+way,71269420,McDonald's,McDonald's,California,33.68379154117647,-117.88624835294118,Costa Mesa,Bristol Street,92626
+way,77468135,In-N-Out Burger,In-N-Out,California,37.60081485,-122.38243264999998,Millbrae,Rollins Road,94030
+way,77684997,McDonald's,McDonald's,California,33.24233384,-117.2900793,,,
+way,77685551,McDonald's,McDonald's,California,33.24641885999999,-117.29139468000001,Oceanside,College Boulevard,92057
+way,77687340,In-N-Out Burger,In-N-Out,California,33.23775584074073,-117.29933282592594,Oceanside,Frazee Road,92057
+way,77966296,McDonald's,McDonald's,California,33.203540842857144,-117.36405332857144,Oceanside,Canyon Drive,92054-3549
+way,79162541,In-N-Out Burger,In-N-Out,California,33.1845628125,-117.28496641250001,Vista,Hacienda Drive,92081
+way,80620337,McDonald's,McDonald's,California,34.0524961,-118.34426168571429,Los Angeles,La Brea Avenue,90019
+way,81049478,Five Guys,Five Guys,California,37.396048459999996,-122.10152427999999,Mountain View,El Camino Real,94040
+way,83187911,McDonald's,McDonald's,California,33.64312945454546,-117.92480134545454,Costa Mesa,West 19th Street,92627
+way,85103418,In-N-Out Burger,In-N-Out,California,33.51501102,-117.15898259999999,Temecula,Jefferson Avenue,92590
+way,85450503,McDonald's,McDonald's,California,39.7165784,-121.79577838461537,Chico,Notre Dame Boulevard,95928-7136
+way,85688664,McDonald's,McDonald's,California,38.94189908999999,-121.09585440999999,,,
+way,86256830,McDonald's,McDonald's,California,38.75015033333333,-121.30986701666667,Roseville,Foothills Boulevard,95747
+way,87180002,McDonald's,McDonald's,California,33.8170708076923,-116.40238576923073,,,
+way,89783815,McDonald's,McDonald's,California,37.534314900000005,-121.9667151,Fremont,Grimmer Boulevard,94538
+way,90262605,McDonald's,McDonald's,California,34.222406299999996,-119.15888514999999,Oxnard,North Rose,93030
+way,90551932,McDonald's,McDonald's,California,37.549558819999994,-122.04647812,Newark,Newark Boulevard,94560-1220
+way,90671576,In-N-Out Burger,In-N-Out,California,38.08936804285714,-122.55471249999998,Novato,Vintage Way,94945
+way,91263581,McDonald's,McDonald's,California,35.67404822307692,-119.22815709230767,McFarland,West Sherwood Avenue,93250
+way,95468930,McDonald's,McDonald's,California,37.05648314285714,-120.8350664857143,Los Banos,South Mercey Springs Road,93635
+way,95474703,McDonald's,McDonald's,California,38.40855812857143,-121.38034098571428,Elk Grove,Elk Grove Boulevard,95624
+way,95544171,McDonald's,McDonald's,California,33.116912033333335,-117.09724173333332,Escondido,West Valley Parkway,92025
+way,95968252,McDonald's,McDonald's,California,34.12651001764705,-116.4057993882353,Yucca Valley,Twentynine Palms Highway,92284-3073
+way,97034930,McDonald's,McDonald's,California,33.55448742,-117.19678820000001,Murrieta,Madison Avenue,92562
+way,97535588,McDonald's,McDonald's,California,38.689916260000004,-121.38341222000001,North Highlands,Watt Avenue,95660
+way,98572495,McDonald's,McDonald's,California,35.61543498333333,-119.660667075,Lost Hills,Powers Street,93249
+way,99596750,McDonald's,McDonald's,California,34.98445289090909,-118.94779899999999,,,
+way,99632945,McDonald's,McDonald's,California,38.457656220000004,-121.84163906,Dixon,Ary Lane,95620
+way,99979815,McDonald's,McDonald's,California,37.5111367,-122.26581933999998,San Carlos,El Camino Real,94070
+way,100004771,In-N-Out Burger,In-N-Out,California,33.99032615294118,-117.91536302941175,City of Industry,Colima Road,91748
+way,100004906,McDonald's,McDonald's,California,33.990218363636366,-117.91263573636364,Industry,Colima Road,91748
+way,100106248,McDonald's,McDonald's,California,37.56327869999999,-122.27164843333334,Foster City,Triton Drive,94404-1213
+way,101670486,McDonald's,McDonald's,California,37.393489,-122.028847,Sunnyvale,North Mathilda Avenue,94085
+way,102526673,McDonald's,McDonald's,California,37.59435858,-122.50220329999999,Pacifica,Linda Mar Boulevard,94044
+way,102683966,McDonald's,McDonald's,California,33.734241,-117.76171944000002,Irvine,Portola Parkway,92620
+way,103306812,In-N-Out Burger,In-N-Out,California,33.56496351764706,-117.70737422941177,Laguna Niguel,La Paz Road,92677
+way,103922080,McDonald's,McDonald's,California,37.322661910526314,-121.99280477894735,San Jose,Stevens Creek Boulevard,95129
+way,104839801,McDonald's,McDonald's,California,37.323697187499995,-121.96901398749999,Santa Clara,Stevens Creek Boulevard,95051-7336
+way,105902393,McDonald's,McDonald's,California,34.21720712,-119.17788149999998,Oxnard,North Oxnard Boulevard,93030
+way,106479488,McDonald's,McDonald's,California,38.05624872,-122.15077299999999,Benicia,East 2nd Street,94510
+way,106610109,In-N-Out Burger,In-N-Out,California,38.234567172727274,-122.62087562727271,Petaluma,Lakeville Highway,94952
+way,107476640,In-N-Out Burger,In-N-Out,California,33.47588260740741,-117.12367313333333,Temecula,Temecula Parkway,92592
+way,107901821,McDonald's,McDonald's,California,38.8046959,-121.27375529999999,Rocklin,Sunset Boulevard,95765
+way,107914713,McDonald's,McDonald's,California,33.50398864545455,-117.15362441818182,Temecula,Jefferson Avenue,92590
+way,109689685,McDonald's,McDonald's,California,32.74406658,-116.93292589999999,San Diego,Jamacha Road,92019
+way,109830690,McDonald's,McDonald's,California,32.70695827777778,-117.00902902222222,San Diego,Jamacha Boulevard,91977
+way,109888961,McDonald's,McDonald's,California,37.4602675,-122.13774631999999,East Palo Alto,East Bayshore Avenue,94303
+way,111058295,In-N-Out Burger,In-N-Out,California,33.68114909,-117.17511075000002,Menifee,Haun Road,92584
+way,111246991,McDonald's,McDonald's,California,37.45395985,-122.18314658333334,Menlo Park,El Camino Real,94025-4308
+way,112118965,McDonald's,McDonald's,California,33.59671174761905,-117.24314823333332,Wildomar,Clinton Keith Road,92595
+way,113370112,McDonald's,McDonald's,California,37.362940449999996,-122.02716026,Sunnyvale,East El Camino Real,94086
+way,114185456,McDonald's,McDonald's,California,37.30391627777777,-122.03178936666667,San Jose,South De Anza Boulevard,95129
+way,116539124,McDonald's,McDonald's,California,33.911431551999996,-117.866639484,Brea,East Imperial Highway,92821
+way,116810949,McDonald's,McDonald's,California,37.7683225,-122.22343286,Oakland,Alameda Avenue,94601
+way,117455290,In-N-Out Burger,In-N-Out,California,37.426301205263165,-121.92243216842103,Milpitas,Ranch Drive,95035
+way,119884146,McDonald's,McDonald's,California,32.85286568,-116.93151576,Lakeside,Winter Gardens Boulevard,92040
+way,120077363,McDonald's,McDonald's,California,33.48072091428571,-117.094026,Temecula,Hwy79 South,92592
+way,120618912,In-N-Out Burger,In-N-Out,California,34.44292401764705,-119.79074398235292,Goleta,Calle Real,93111
+way,120650986,McDonald's,McDonald's,California,38.58075128,-121.53113884,West Sacramento,West Capitol Avenue,95691
+way,120652033,McDonald's,McDonald's,California,38.59106731111111,-121.54943197777779,West Sacramento,Ikea Court,95605
+way,120652182,In-N-Out Burger,In-N-Out,California,38.591560844444444,-121.55021893703704,West Sacramento,Ikea Court,95605
+way,120652695,McDonald's,McDonald's,California,38.57903130666667,-121.54824132,West Sacramento,West Capitol Avenue,95691
+way,121923053,McDonald's,McDonald's,California,34.42602242727273,-117.57422907272726,Phelan,Phelan Road,92329
+way,122299823,McDonald's,McDonald's,California,34.507027828571424,-117.3462378,Victorville,Palmdale Road,92392
+way,122395696,In-N-Out Burger,In-N-Out,California,37.688223369444444,-122.47204525277776,Daly City,Washington Street,94015
+way,122712451,McDonald's,McDonald's,California,34.05494506363636,-117.17562126363636,Redlands,East Redlands Boulevard,92374
+way,123165536,McDonald's,McDonald's,California,33.80290992222222,-117.88863562222221,Anaheim,South State College Boulevard,92805
+way,123597057,McDonald's,McDonald's,California,34.855075757142856,-117.0859148,Barstow,Commerce Parkway,92311-9568
+way,124374845,McDonald's,McDonald's,California,37.649003989473684,-122.06591676842103,Hayward,Mission Boulevard,94544-3030
+way,124953401,In-N-Out Burger,In-N-Out,California,34.42711724166667,-117.37820412499998,Hesperia,Main Street,92345
+way,125249304,In-N-Out Burger,In-N-Out,California,33.92439512142857,-117.92371276428571,La Habra,East Lambert Road,90631
+way,126453817,McDonald's,McDonald's,California,33.87424475882352,-117.923259,Fullerton,East Chapman Avenue,92832
+way,129015077,McDonald's,McDonald's,California,34.42709794444445,-117.34909654444444,Hesperia,Main Street,92345
+way,129581594,McDonald's,McDonald's,California,39.094092966666665,-120.95131848333334,,,
+way,129929574,McDonald's,McDonald's,California,37.49101563999999,-121.94949606,Fremont,Cushing Parkway,94536
+way,132768619,McDonald's,McDonald's,California,34.06325907272728,-117.20953790909093,Redlands,Redlands Boulevard,92373-8026
+way,133116293,McDonald's,McDonald's,California,34.13802408,-117.57538444000001,Rancho Cucamonga,Haven Avenue,91730
+way,133574188,McDonald's,McDonald's,California,34.1833382375,-118.604419,Los Angeles,Erwin Street,91367
+way,138216856,In-N-Out Burger,In-N-Out,California,38.758274613333334,-121.25959368000002,Roseville,Taylor Road,95678
+way,138217912,McDonald's,McDonald's,California,38.729076680000006,-121.27251099999998,Roseville,Cirby Way,95746
+way,138358969,Five Guys,Five Guys,California,33.607835259999995,-117.68963552,Mission Viejo,Alicia Parkway,92691
+way,138512301,In-N-Out Burger,In-N-Out,California,33.613361600000005,-117.70866778,Laguna Hills,Avenida de la Carlota,92653
+way,138679209,McDonald's,McDonald's,California,33.91390287142857,-117.45882162857141,Riverside,Magnolia Avenue,92503
+way,141724280,McDonald's,McDonald's,California,33.12892850789475,-117.09104509999997,Escondido,West Mission Avenue,92025
+way,143166125,In-N-Out Burger,In-N-Out,California,33.69498528095238,-117.8271120809524,Tustin,Park Avenue,92782
+way,143526351,McDonald's,McDonald's,California,34.10694188833334,-117.82047435333334,San Dimas,Arrow Highway,91773-2536
+way,143790704,In-N-Out Burger,In-N-Out,California,38.90136981249999,-121.07479595,Auburn,Grass Valley Highway,95603
+way,143811393,McDonald's,McDonald's,California,37.66887614444445,-122.47002454444444,Daly City,Serramonte Boulevard,94015
+way,148530660,McDonald's,McDonald's,California,33.6838672,-116.180999,Coachella,Cesar Chavez Street,92236
+way,149764030,McDonald's,McDonald's,California,34.27784565555555,-119.21369237777779,Ventura,Telegraph Road,93003
+way,151694898,McDonald's,McDonald's,California,36.599718159999995,-121.88813592,Monterey,Del Monte Avenue,93940-2455
+way,152290497,McDonald's,McDonald's,California,33.74035734,-116.21610928,Indio,Jackson Street,92203
+way,152605746,In-N-Out Burger,In-N-Out,California,37.504212845,-121.97402312,Fremont,Pacific Commons Boulevard,94538
+way,157808612,McDonald's,McDonald's,California,37.383157153846156,-121.89561113846153,San Jose,Oakland Road,95131
+way,159024983,McDonald's,McDonald's,California,37.723510899999994,-122.45544673999999,San Francisco,Ocean Avenue,94112-1830
+way,159608151,Shake Shack,Shake Shack,California,37.89751971428571,-122.06175478571429,Walnut Creek,Mount Diablo Boulevard,94596
+way,160534498,McDonald's,McDonald's,California,33.774424612500006,-117.93943947499999,Garden Grove,Garden Grove Boulevard,92840
+way,160950193,McDonald's,McDonald's,California,37.70953086363637,-121.43392788181819,Tracy,SOUTH TRACY BLVD.,95377
+way,161341307,McDonald's,McDonald's,California,35.120831433333336,-120.61254266666667,Grover Beach,West Grand Avenue,93433
+way,162050125,In-N-Out Burger,In-N-Out,California,38.64674843684211,-121.11441368947366,Folsom,Placerville Road,95630
+way,162056368,McDonald's,McDonald's,California,33.70002048333333,-116.21426715,Coachella,Avenue 48,92236
+way,162119284,McDonald's,McDonald's,California,35.12073602857143,-120.5864907,,Grand Avenue,
+way,162500972,In-N-Out Burger,In-N-Out,California,35.12725884117647,-120.59793102352944,Arroyo Grande,West Branch Street,93420
+way,163131827,McDonald's,McDonald's,California,35.368225592857144,-120.84304255714287,,Quintana Road,93442
+way,163917089,In-N-Out Burger,In-N-Out,California,37.350280110344826,-121.92186075517245,San Jose,Newhall Drive,95110
+way,164860582,McDonald's,McDonald's,California,35.59088923636363,-120.69484700909092,Paso Robles,Ramada Drive,93446
+way,164871816,McDonald's,McDonald's,California,35.642771108333335,-120.68651182499998,Paso Robles,Black Oak Drive,93446
+way,164890802,McDonald's,McDonald's,California,35.61469706470589,-120.68176775294117,Paso Robles,Niblick Road,93446
+way,165130342,Five Guys,Five Guys,California,33.530052299999994,-117.15156012222224,Temecula,Winchester Road,92591
+way,165800311,In-N-Out Burger,In-N-Out,California,35.49696998,-120.68437029333334,Atascadero,San Anselmo Road,93422
+way,166091493,McDonald's,McDonald's,California,37.93634932,-122.34726676,Richmond,Macdonald Avenue,94804
+way,166235496,McDonald's,McDonald's,California,38.424005617391295,-121.41470749130434,Elk Grove,Laguna Boulevard,95758
+way,170818950,McDonald's,McDonald's,California,33.78094273999999,-117.91439118000001,Garden Grove,Harbor Boulevard,92840
+way,170973961,In-N-Out Burger,In-N-Out,California,33.831967818518514,-117.83566878888888,Orange,North Tustin Street,92865
+way,170973965,McDonald's,McDonald's,California,33.82868155714285,-117.83565275714287,Orange,North Tustin Street,92865
+way,170977474,McDonald's,McDonald's,California,34.864710776923076,-120.41623269999998,Orcutt,East Clark Avenue,93455
+way,171259478,McDonald's,McDonald's,California,33.788898159999995,-117.96118288,Garden Grove,Chapman Avenue,92841
+way,171265264,McDonald's,McDonald's,California,33.80282492,-117.94243274,Anaheim,Katella Avenue,92804-6134
+way,171298151,McDonald's,McDonald's,California,33.788325019999995,-117.87294876000001,Orange,West Chapman Avenue,92868
+way,171534927,In-N-Out Burger,In-N-Out,California,34.116776619999996,-117.829445416,Glendora,South Lone Hill,91740
+way,171550869,In-N-Out Burger,In-N-Out,California,33.6501693375,-117.84066125000001,Irvine,Campus Drive,92612
+way,172113464,Five Guys,Five Guys,California,33.48106113000001,-117.09693138,Temecula,Temecula Parkway,92592
+way,173220853,McDonald's,McDonald's,California,38.42229730588236,-121.40069334117646,Elk Grove,Laguna Boulevard,95758
+way,174866377,McDonald's,McDonald's,California,38.08181542,-122.19348253999999,Benicia,Columbus Parkway,94510
+way,175482039,In-N-Out Burger,In-N-Out,California,34.850008460000005,-117.08239062,Barstow,Lenwood Road,92311
+way,175579068,McDonald's,McDonald's,California,38.09526968,-122.2292697,Vallejo,Lincoln Road East,94591
+way,176350146,In-N-Out Burger,In-N-Out,California,33.78812680909091,-117.81648383636362,Orange,East Chapman Avenue,92869
+way,177273519,In-N-Out Burger,In-N-Out,California,34.98337036666667,-118.94827417142857,Lebec,Dennis Mccarthy Drive,93243
+way,180862567,In-N-Out Burger,In-N-Out,California,36.83691888,-119.70060038000001,Clovis,North Clovis Avenue,93612
+way,181323285,McDonald's,McDonald's,California,33.73041659,-118.01429905,Huntington Beach,Edinger Boulevard,92647
+way,182314649,McDonald's,McDonald's,California,37.65521862666666,-120.95781191333334,Modesto,Oakdale Road,95355
+way,184235713,McDonald's,McDonald's,California,32.7475332,-116.96126971999999,La Mesa,Avocado Boulevard,91941
+way,184681624,In-N-Out Burger,In-N-Out,California,33.72280424,-117.7936618,Tustin,El Camino Real,92782
+way,184707311,McDonald's,McDonald's,California,33.730690179999996,-117.79825318,Tustin,Bryan Avenue,92782
+way,184708931,In-N-Out Burger,In-N-Out,California,34.12826140526316,-117.8862425842105,Azusa,East Alosta Avenue,91702
+way,184839268,McDonald's,McDonald's,California,33.76024634,-117.92084096,Garden Grove,Harbor Boulevard,92843
+way,184852459,McDonald's,McDonald's,California,34.12828893333334,-117.88742928,Azusa,East Alosta Avenue,91702
+way,185319171,In-N-Out Burger,In-N-Out,California,34.104909323529405,-117.87308241764704,Covina,Grand Avenue,91724
+way,185690820,McDonald's,McDonald's,California,33.78742036,-117.80861832000001,Orange,East Chapman Avenue,92869
+way,186386945,McDonald's,McDonald's,California,33.8561336,-117.91947058000001,Anaheim,North Lemon Street,92801
+way,186386960,In-N-Out Burger,In-N-Out,California,33.8602449,-117.92397945555555,Fullerton,South Harbor Boulevard,92832
+way,186405620,McDonald's,McDonald's,California,37.23166049333334,-121.77330156666667,San Jose,Bernal Road,95119
+way,188482198,McDonald's,McDonald's,California,33.85790196875,-118.01075722499999,Buena Park,Knott Avenue,90620
+way,188704202,In-N-Out Burger,In-N-Out,California,33.83857126333333,-117.94126399666665,Anaheim,North Euclid Street,92801
+way,188704216,McDonald's,McDonald's,California,33.842723639999996,-117.94116994000001,Anaheim,North Euclid Street,92801-4115
+way,189601780,McDonald's,McDonald's,California,37.5493404,-121.98918876,Fremont,Fremont Boulevard,94536-6909
+way,190755751,McDonald's,McDonald's,California,35.35468256,-118.91470846,Bakersfield,Weedpatch Highway,93307
+way,190815251,In-N-Out Burger,In-N-Out,California,37.249000427272726,-121.85935949090907,San Jose,Santa Teresa Boulevard,95123
+way,191166151,In-N-Out Burger,In-N-Out,California,33.87434055,-117.87843865,Placentia,West Chapman Avenue,92870
+way,191201142,In-N-Out Burger,In-N-Out,California,34.93725217647059,-120.4188220823529,Santa Maria,South Bradley Road,93454
+way,192565899,McDonald's,McDonald's,California,37.26084828181819,-121.87595439090909,San Jose,Almaden Expressway,95118
+way,192758229,McDonald's,McDonald's,California,34.039703233333334,-118.67013496000001,Malibu,Pacific Coast Highway,90265-5038
+way,194238539,In-N-Out Burger,In-N-Out,California,38.65536097692307,-121.52590899999998,Sacramento,Del Paso Road,95834
+way,195017608,In-N-Out Burger,In-N-Out,California,33.766439139999996,-117.97207969333334,Garden Grove,Trask Avenue,92844
+way,195058745,McDonald's,McDonald's,California,36.136830180000004,-120.36347287999999,,,
+way,195432217,McDonald's,McDonald's,California,37.30476392352941,-121.86287535882353,San Jose,Monterey Road,95125
+way,195835406,McDonald's,McDonald's,California,38.635907585714286,-121.47645872857142,Sacramento,Northgate Boulevard,95833
+way,196562239,McDonald's,McDonald's,California,37.254617223529415,-121.79976716470588,San Jose,Monterey Road,95138
+way,197110247,McDonald's,McDonald's,California,34.70436591428571,-118.14679810476193,Lancaster,W Avenue I,93534-1926
+way,197697981,McDonald’s,McDonald's,California,37.28996758,-121.88055950857142,San Jose,Almaden Road,95125
+way,198994459,McDonald's,McDonald's,California,38.61185072857143,-121.38356768571428,Sacramento,Watt Avenue,95821
+way,202063698,McDonald's,McDonald's,California,38.556764099999995,-121.54011194615386,West Sacramento,Lake Washington Boulevar,95691
+way,203016069,McDonald's,McDonald's,California,37.38548801428571,-121.99542052857143,Sunnyvale,Lawrence Expressway,94086-4043
+way,203963494,McDonald's,McDonald's,California,37.30092347058823,-121.77235671764704,San Jose,San Felipe Road,95135
+way,203966496,McDonald’s,McDonald's,California,37.31593618000001,-121.79374358,San Jose,South White Road,95148
+way,205563151,In-N-Out Burger,In-N-Out,California,36.679957952941166,-121.64090654117642,Salinas,Kern Street,93905
+way,207694469,McDonald's,McDonald's,California,38.94994413076923,-119.95526737692309,South Lake Tahoe,Lake Tahoe Boulevard,96151
+way,208643460,McDonald's,McDonald's,California,34.60127961333333,-118.14698464333334,Palmdale,W Avenue P,93550
+way,210845897,McDonald's,McDonald's,California,34.67444936551725,-118.15260316896551,Lancaster,West Avenue K,93534
+way,211301915,McDonald's,McDonald's,California,37.35688326,-121.93647888000001,Santa Clara,Coleman Avenue,95050
+way,211365193,McDonald's,McDonald's,California,33.70225496250001,-117.9322522875,Fountain Valley,Talbert Avenue,92708
+way,212248020,McDonald's,McDonald's,California,37.95476296,-122.04211353999999,Concord,Monument Boulevard,94520-4101
+way,212494341,McDonald's,McDonald's,California,33.73851872,-117.92055350000001,Santa Ana,Harbor Boulevard,92704-1384
+way,214625503,McDonald's,McDonald's,California,33.130383339999995,-117.06808512,Escondido,East Valley Parkway,92025
+way,214788801,McDonald's,McDonald's,California,33.88943023076923,-118.35202512307691,Lawndale,Hawthorne Boulevard,90260-2683
+way,215919565,McDonald's,McDonald's,California,38.235602036842096,-122.62289143859651,Petaluma,Lakeville Street,94952-3329
+way,217598855,McDonald's,McDonald's,California,33.87230170909091,-117.74501998181817,Yorba Linda,Old Canal Road,92887
+way,219058693,McDonald's,McDonald's,California,37.47031838235294,-122.4345159411765,Half Moon Bay,North Cabrillo Highway,94019-1609
+way,221153151,McDonald's,McDonald's,California,34.89119092222222,-116.99910614444444,Barstow,East Main Street,92311-3239
+way,222773345,McDonald's,McDonald's,California,38.91244812222222,-120.00332724444443,South Lake Tahoe,Emerald Bay Road,96150-6210
+way,223926155,McDonald's,McDonald's,California,40.18217106,-122.21960882,,,
+way,224056167,In-N-Out Burger,In-N-Out,California,33.83109346470589,-118.08485913529411,Long Beach,Carson Street,90808
+way,226827367,In-N-Out Burger,In-N-Out,California,33.945792743478265,-118.33233265652179,Inglewood,West Century Boulevard,90301
+way,227070457,McDonald's,McDonald's,California,37.30771045789474,-121.84888328421053,San Jose,Tully Road,95112
+way,228727828,McDonald's,McDonald's,California,33.685055139999996,-117.9199243,Costa Mesa,Harbor Boulevard,92626
+way,228727840,In-N-Out Burger,In-N-Out,California,33.68776710909091,-117.91993044545455,Costa Mesa,Harbor Boulevard,92626
+way,228731124,McDonald's,McDonald's,California,33.726851884615385,-117.88891652307692,Santa Ana,West Edinger Avenue,92704
+way,228735049,McDonald's,McDonald's,California,33.79694223571429,-117.83611046428574,Orange,North Tustin Street,92867
+way,228740920,McDonald's,McDonald's,California,33.80959991666666,-117.85210096666667,Orange,East Katella Avenue,92867
+way,228745470,In-N-Out Burger,In-N-Out,California,33.700333309090915,-117.88510112272728,Santa Ana,Bristol Street,92704
+way,228749548,McDonald's,McDonald's,California,33.873585722222224,-117.87868762222222,Placentia,West Chapman Avenue,92870
+way,228755181,McDonald's,McDonald's,California,33.71722294,-117.98868146,Huntington Beach,Beach Boulevard,92647
+way,229938909,McDonald's,McDonald's,California,34.11907632380952,-118.19282583333333,Highland Park,York Boulevard,90042-2643
+way,229959005,McDonald's,McDonald's,California,37.77441256666666,-121.97658603333333,San Ramon,San Ramon Valley Boulevard,94583
+way,230290297,McDonald's,McDonald's,California,33.848116244444455,-117.99852992222223,Buena Park,Beach Boulevard,90620
+way,230292768,McDonald's,McDonald's,California,33.87748702857143,-117.96194231428571,Fullerton,West Malvern Avenue,92833
+way,230356160,In-N-Out Burger,In-N-Out,California,33.75872913846153,-118.01958174615385,Westminster,Westminster Boulevard,92683
+way,230780095,Five Guys,Five Guys,California,33.816614183333336,-116.49246891666667,Palm Springs,East Ramon Road,92264
+way,231047897,McDonald's,McDonald's,California,37.752114188888896,-122.41806118888888,San Francisco,Mission Street,94110
+way,232101270,McDonald's,McDonald's,California,37.706218441666664,-121.92430221666666,Dublin,Dublin Boulevard,94568
+way,232399090,McDonald's,McDonald's,California,32.826621016666664,-116.90190736666666,El Cajon,Camino,92021
+way,233058069,In-N-Out Burger,In-N-Out,California,37.490625875,-122.227865755,Redwood City,Veterans Boulevard,94063
+way,233368062,McDonald's,McDonald's,California,36.60228647999999,-118.06202037999999,Lone Pine,South Main Street,93545
+way,233386983,In-N-Out Burger,In-N-Out,California,33.92385952666667,-118.39536244666667,El Segundo,North Sepulveda Boulevard,90245
+way,233400557,In-N-Out Burger,In-N-Out,California,33.935780988461545,-117.40392033846152,Riverside,Indiana Avenue,92504
+way,233400559,McDonald's,McDonald's,California,33.93541728,-117.40319726,Riverside,Indiana Street,92504
+way,233476023,McDonald's,McDonald's,California,37.72458107692307,-121.94326569230769,San Ramon,San Ramon Valley Boulevard,94583
+way,233673649,McDonald's,McDonald's,California,33.94646134,-117.42156307999998,Riverside,Arlington Avenue,92504-2504
+way,235933054,In-N-Out Burger,In-N-Out,California,34.027488275,-117.83469388500001,City Of Industry,East Valley Boulevard,91789
+way,236659545,McDonald's,McDonald's,California,34.06980092727272,-117.13920263636363,Redlands,East Lugonia Avenue,92374
+way,237330224,In-N-Out Burger,In-N-Out,California,37.70024082,-121.90762376000002,Pleasanton,Johnson Drive,94588
+way,238026645,McDonald's,McDonald's,California,34.106865722222224,-117.53593978888888,Rancho Cucamonga,Monet Avenue,91739
+way,238276903,In-N-Out Burger,In-N-Out,California,33.892118493103446,-118.36179867586209,Redondo Beach,Inglewood Avenue,90278
+way,238540418,In-N-Out Burger,In-N-Out,California,38.12479010666667,-122.22774791333335,Vallejo,Admiral Callaghan Lane,94591
+way,238814511,McDonald's,McDonald's,California,33.74599934,-117.82156664000001,Tustin,East 1st Street,92780
+way,239860239,McDonald's,McDonald's,California,34.24387956363636,-116.89858972727274,Big Bear Lake,Big Bear Boulevard,92315
+way,240147666,In-N-Out Burger,In-N-Out,California,35.986152278571424,-119.95923834285713,Kettleman City,Bernard Drive,93239
+way,240575511,In-N-Out Burger,In-N-Out,California,33.700390876470586,-117.98858237647059,Huntington Beach,Beach Boulevard,92648
+way,241735201,McDonald's,McDonald's,California,39.39459338421054,-123.34958751578951,Willits,South Main Street,95490
+way,242858756,McDonald's,McDonald's,California,37.771285577777775,-120.83593492222222,Oakdale,East F Street,95361
+way,246250896,McDonald's,McDonald's,California,37.47188816,-122.14023870000001,East Palo Alto,University Avenue,94303
+way,252976512,McDonald's,McDonald's,California,37.76178562,-121.43455472000001,Tracy,Tracy Boulevard,95376-1723
+way,253221721,In-N-Out Burger,In-N-Out,California,38.42414603333334,-121.39152225555556,Elk Grove,East Stockton Boulevard,95624
+way,253753075,McDonald's,McDonald's,California,41.755343327272726,-124.19348099090908,,,
+way,253895554,McDonald's,McDonald's,California,39.73793296666666,-121.83532413333334,Chico,Palmetto Avenue,95926-4099
+way,254635502,McDonald's,McDonald's,California,35.40317608,-119.40060314,Buttonwillow,Tracy Avenue,93206
+way,255297212,In-N-Out Burger,In-N-Out,California,37.51291951500001,-122.25859893000002,San Carlos,Industrial Road,94070
+way,255470555,In-N-Out Burger,In-N-Out,California,33.802857476190475,-118.32847324285714,Torrance,Crenshaw Boulevard,90505
+way,256462436,McDonald's,McDonald's,California,37.76539333076923,-122.40792996153844,San Francisco,Potrero Avenue,94103
+way,256750430,McDonald's,McDonald's,California,37.77984083846154,-122.43176716153847,San Francisco,Fillmore Street,94115
+way,257044570,McDonald's,McDonald's,California,37.700647175,-121.87145497499999,Pleasanton,Santa Rita Road,94588
+way,257834013,In-N-Out Burger,In-N-Out,California,36.31340194705883,-119.31426722941175,Visalia,Mooney Boulevard,93277
+way,258213374,McDonald's,McDonald's,California,37.3382953631579,-121.99391035789473,Santa Clara,Homestead Road,95051
+way,258866790,McDonald's,McDonald's,California,37.74215901111111,-122.40515744444444,San Francisco,Bayshore Boulevard,94124
+way,259269852,McDonald's,McDonald's,California,33.915786463157886,-118.39663011052632,El Segundo,South Sepulveda Boulevard,90245
+way,259656207,McDonald's,McDonald's,California,33.80582565,-118.35406764,Torrance,E Pacific Coast Highway,90505
+way,260028099,McDonald's,McDonald's,California,33.901427456,-118.372456256,Hawthorne,West Rosecrans Avenue,90250
+way,262610400,McDonald's,McDonald's,California,33.65279188666667,-117.64695900000001,Mission Viejo,Santa Margarita Parkway,92691
+way,262631566,In-N-Out Burger,In-N-Out,California,37.96115040952382,-121.74776767619048,Brentwood,Lone Tree Way,94513
+way,264263470,In-N-Out Burger,In-N-Out,California,33.859296976923076,-117.79151122307691,Anaheim Hills,East La Palma Avenue,92807
+way,264530267,McDonald's,McDonald's,California,34.086561588888884,-117.87290974444444,Covina,North Grand Avenue,91723
+way,265350121,McDonald's,McDonald's,California,33.93128411904762,-118.35212962857143,Inglewood,Hawthorne Boulevard,90303
+way,268531001,McDonald's,McDonald's,California,34.02157036666667,-117.81097877333333,Diamond Bar,South Diamond Bar Boulevard,91765-1606
+way,272203046,McDonald's,McDonald's,California,37.98782522727272,-121.24607847272728,Stockton,East Waterloo Road,95215
+way,272957768,McDonald's,McDonald's,California,34.136606438095235,-116.0540007857143,Twentynine Palms,Adobe Road,92277-2605
+way,274580744,McDonald's,McDonald's,California,38.30311117777778,-122.47707893333333,Sonoma,Sonoma Highway,95476
+way,276870739,McDonald's,McDonald's,California,35.484082069230766,-120.66583306923077,Atascadero,Highway 41 West,93422
+way,278132724,McDonald's,McDonald's,California,37.52022852,-120.88060904,Turlock,Countryside Drive,95380
+way,278318168,McDonald's,McDonald's,California,37.92817945625001,-122.32089393125,El Cerrito,San Pablo Avenue,94530-1751
+way,281221358,In-N-Out Burger,In-N-Out,California,37.520488085714284,-120.88173216190474,Turlock,Countryside Drive,95380
+way,282603870,In-N-Out Burger,In-N-Out,California,33.9085376,-117.56170118461539,Norco,Hamner Avenue,92860
+way,284862516,McDonald's,McDonald's,California,36.32587923636364,-119.21012069090911,Farmersville,West Noble Road,93223
+way,285802635,McDonald's,McDonald's,California,34.50718116,-117.39787002,Victorville,Palmdale Road,92392
+way,285843804,McDonald's,McDonald's,California,33.8378603375,-118.36721366249999,Torrance,Torrance Boulevard,90503-4115
+way,286956210,McDonald's,McDonald's,California,38.35185126190476,-121.98533333333333,Vacaville,Davis Street,95688
+way,287006318,McDonald's,McDonald's,California,33.897649625,-117.56186823750001,Norco,Hidden Valley Parkway,92860
+way,287546520,In-N-Out Burger,In-N-Out,California,37.996936176923086,-121.31458250769232,Stockton,Pacific Avenue,95207
+way,287601729,McDonald's,McDonald's,California,38.021741411111115,-121.27224361111111,Stockton,East Hammer Lane,95212
+way,287620986,Five Guys,Five Guys,California,38.00101458888889,-121.31832888888887,Stockton,Pacific Avenue,95207
+way,287628238,McDonald's,McDonald's,California,38.02311264285714,-121.32243065714286,Stockton,Lower Sacramento Road,95210-3724
+way,287634062,In-N-Out Burger,In-N-Out,California,37.98471646666667,-121.34560553333334,Stockton,West March Lane,95219
+way,287634070,McDonald's,McDonald's,California,37.989258899999996,-121.31248274285713,Stockton,Pacific Avenue,95207-7694
+way,287634071,McDonald's,McDonald's,California,37.98533075,-121.33846100000001,Stockton,West March Lane,95207
+way,287634124,McDonald's,McDonald's,California,37.96591358,-121.27469282,Stockton,North Wilson Way,95205
+way,287634147,McDonald's,McDonald's,California,38.05337066,-121.37576798,Stockton,Trinity Parkway,95219
+way,289754597,McDonald's,McDonald's,California,37.72806623076923,-122.39267613846154,San Francisco,3rd Street,94124
+way,289859771,McDonald's,McDonald's,California,33.84631392222222,-118.11599866666666,Lakewood,Woodruff Avenue,90713
+way,289864583,McDonald's,McDonald's,California,33.8477532423077,-118.1421232384615,Lakewood,Lakewood Boulevard,90712
+way,290482493,In-N-Out Burger,In-N-Out,California,33.79121462,-118.14013158,Long Beach,Los Coyotes Diagonal,90815
+way,290752216,McDonald's,McDonald's,California,37.70664048571428,-122.41536909523809,Daly City,Geneva Avenue,94014-1521
+way,291398194,McDonald's,McDonald's,California,33.81507486666666,-118.02870952222224,Cypress,Valley View Road,90630-4602
+way,295765206,McDonald's,McDonald's,California,33.78231038461537,-118.15340786153845,Long Beach,East Anaheim Boulevard,90804-4025
+way,295974525,McDonald's,McDonald's,California,33.83279621764706,-118.15955190588235,Lakewood,East Carson Street,90712
+way,296135469,McDonald's,McDonald's,California,37.10041191111111,-121.01515402222223,Gustine,South Highway 33,95322
+way,296804349,McDonald's,McDonald's,California,33.810748705263165,-118.10743399473687,Long Beach,East Spring Street,90808
+way,297121879,McDonald's,McDonald's,California,37.69339482857142,-122.11078835714287,Ashland,East 14th Street,94578
+way,297224502,McDonald's,McDonald's,California,33.801267316,-118.327521204,Torrance,Crenshaw Boulevard,90505
+way,297560334,McDonald's,McDonald's,California,33.803929782352945,-118.1682665882353,Signal Hill,Cherry Avenue,90755-2085
+way,297839704,McDonald's,McDonald's,California,33.80409238888889,-118.1898374222222,Long Beach,Long Beach Boulevard,90806-3157
+way,297977312,McDonald's,McDonald's,California,33.87507972307692,-118.15103889999999,Bellflower,Artesia Boulevard,90706
+way,298918972,McDonald's,McDonald's,California,34.79396251388889,-118.85250136666666,Gorman,Gorman School Road,93243
+way,298977474,In-N-Out Burger,In-N-Out,California,39.7239313173913,-121.80680076956523,Chico,Business Lane,95928
+way,301798396,McDonald's,McDonald's,California,34.14723011818182,-118.76024192727272,Agoura Hills,Canwood Street,91301
+way,302694948,McDonald's,McDonald's,California,33.859743267857134,-118.12554766071425,Lakewood,Bellflower Boulevard,90713
+way,302694951,In-N-Out Burger,In-N-Out,California,33.86100119230769,-118.12471108461537,Lakewwod,Bellflower Boulevard,90712
+way,305493773,McDonald's,McDonald's,California,37.648035019999995,-122.42969448,South San Francisco,Elcamino Real,94080-4402
+way,305512611,McDonald's,McDonald's,California,37.40401564444444,-120.84961025555555,Hilmar,North Lander Avenue,95324
+way,306207556,McDonald's,McDonald's,California,33.798817545000006,-118.12481496000001,Long Beach,North Bellflower Boulevard,90815
+way,306447619,McDonald's,McDonald's,California,35.144740861538466,-119.46567884615385,Taft,Kern Street,93268
+way,308328170,McDonald's,McDonald's,California,36.25388306,-120.24947416,Coalinga,West Dorris Avenue,93210
+way,308498488,McDonald's,McDonald's,California,33.88708880666666,-118.37908406,Manhattan Beach,Manhattan Beach Boulevard,90266-6222
+way,309678759,In-N-Out Burger,In-N-Out,California,34.032714766666665,-117.66781939333333,Ontario,Mountain Avenue,91761
+way,311215862,McDonald's,McDonald's,California,34.168893046875,-118.0978752125,Altadena,North Altadena Drive,91107
+way,311706063,McDonald's,McDonald's,California,37.38885388888888,-120.73768107777778,Livingston,Joseph Gallo Drive,95334
+way,311711030,In-N-Out Burger,In-N-Out,California,37.29840431428572,-120.48196690000002,Merced,Martin Luther King Jr Way,95340
+way,311711317,McDonald's,McDonald's,California,37.34336108,-120.61507462,Atwater,Bell Drive,95301
+way,311711319,McDonald's,McDonald's,California,37.36096098571428,-120.59545515714285,Atwater,Shaffer Road,95301
+way,312212613,McDonald's,McDonald's,California,33.844542293749996,-116.52624367499999,Palm Springs,Vista Chino East,92262
+way,312714067,McDonald's,McDonald's,California,33.80089941999999,-116.5205573,Palm Springs,East Palm Canyon Drive,92264
+way,316105277,McDonald's,McDonald's,California,37.36526519333333,-118.39501229999999,Bishop,North Main Street,93514
+way,316836541,In-N-Out Burger,In-N-Out,California,33.99162916842105,-118.44626954736843,Marina del Rey,West Washington Boulevard,90292
+way,317150983,McDonald's,McDonald's,California,38.15449988571429,-122.25330681428571,Vallejo,Sonoma Boulevard,94589
+way,317268261,McDonald's,McDonald's,California,34.18698452,-118.41466606000002,North Hollywood,Victory Boulevard,91605
+way,317405941,McDonald's,McDonald's,California,37.51515368461538,-120.84849203846154,Turlock,Geer Road,95382
+way,317793338,McDonald's,McDonald's,California,40.77636034444444,-124.19073426666667,Eureka,Broadway Street,95503
+way,317804927,McDonald's,McDonald's,California,33.75841104,-117.88463448,Santa Ana,Bristol Street,92706
+way,318318792,McDonald's,McDonald's,California,37.962180440000004,-121.98661292000001,Concord,Clayton Road,94521-2850
+way,318333609,McDonald's,McDonald's,California,35.440848681818174,-119.07896102727273,Bakersfield,Merle Haggard Drive,93308
+way,318790783,McDonald's,McDonald's,California,35.349178912499994,-119.12680175,Bakersfield,Stockdale Highway,93311
+way,319016989,McDonald's,McDonald's,California,34.18643501000001,-118.45709311333333,Van Nuys,Victory Boulevard,91411
+way,320104232,McDonald's,McDonald's,California,38.11438192,-121.39442354,Lodi,West Banner Street,95242
+way,321182785,McDonald's,McDonald's,California,37.79701774,-121.2357155,Manteca,West Yosemite Avenue,95336
+way,321558902,In-N-Out Burger,In-N-Out,California,34.215041721212124,-118.44832923636365,Panorama City,Van Nuys Boulevard,91402
+way,322793787,McDonald's,McDonald's,California,34.65154330769231,-120.4582407076923,Lompoc,North H Street,93436-4146
+way,323358688,McDonald's,McDonald's,California,33.87762958571428,-118.21801187142856,Compton,Alameda Street,90220
+way,326674296,McDonald's,McDonald's,California,34.04391836363636,-118.29073069090906,Los Angeles,Venice Boulevard,90006
+way,328289577,McDonald's,McDonald's,California,33.68556317777778,-117.85691206666667,Irvine,Main Street,92614
+way,328488805,McDonald's,McDonald's,California,36.65676734444444,-121.65956721111112,Salinas,South Main Street,93901-2207
+way,329946373,In-N-Out Burger,In-N-Out,California,34.18367887916667,-118.9145731916667,Newbury Park,Newbury Road,91320
+way,330700929,McDonald's,McDonald's,California,38.2496254,-122.62728690000002,Petaluma,North McDowell Boulevard,94952-2304
+way,331119852,McDonald's,McDonald's,California,33.68071083000001,-117.66542393,Foothill Ranch,Portola Parkway,92610
+way,331119874,In-N-Out Burger,In-N-Out,California,33.68161425652174,-117.66947355217393,Foothill Ranch,Towne Centre Drive,92610
+way,334657840,In-N-Out Burger,In-N-Out,California,34.10786865,-117.19373326666665,Highland,Greenspot Road,92346
+way,334952315,McDonald's,McDonald's,California,33.60870174,-114.60596108,Blythe,South Lovekin Boulevard,92225
+way,335842323,McDonald's,McDonald's,California,33.72702238888889,-117.82265738888889,Tustin,Red Hill Avenue,92780
+way,336615188,McDonald's,McDonald's,California,37.63913105555556,-121.00017260555553,Modesto,9th Street,95354
+way,337424342,McDonald's,McDonald's,California,33.66717011428572,-117.88216158571429,Costa Mesa,Bristol Street,92626
+way,337497221,McDonald's,McDonald's,California,33.987856199999996,-118.3652379846154,Los Angeles,West Slauson Avenue,90056
+way,337678552,McDonald's,McDonald's,California,34.19897731111112,-118.18761113333335,La Canada Flintridge,Foothill Boulevard,91011-3504
+way,338232009,In-N-Out Burger,In-N-Out,California,34.42546553809524,-118.53927926666665,Santa Clarita,Bouquet Canyon Road,91350
+way,338424686,In-N-Out Burger,In-N-Out,California,34.15210646774194,-118.44834616451611,Sherman Oaks,Van Nuys Boulevard,91403
+way,339126060,McDonald's,McDonald's,California,33.700279775000006,-117.9055754,Santa Ana,West MacArthur Boulevard,92704
+way,343108703,McDonald's,McDonald's,California,38.68342061538462,-121.45619921538461,Rio Linda,Elkhorn Boulevard,95673
+way,343108778,McDonald's,McDonald's,California,37.69961403076923,-121.74253070769231,Livermore,Las Positas Road,94550
+way,344225853,In-N-Out Burger,In-N-Out,California,34.10592809285714,-117.53027608571428,Rancho Cucamonga,Foothill Boulevard,91739
+way,344873553,In-N-Out Burger,In-N-Out,California,32.7714712875,-115.5526755,El Centro,South 4th Street,92243
+way,347399597,McDonald's,McDonald's,California,33.62778949999999,-117.71624482,Lake Forest,Rockfield Boulevard,92630
+way,348382583,McDonald's,McDonald's,California,38.28108152222222,-122.27561286666666,Napa,Imola Avenue,94558
+way,348383240,In-N-Out Burger,In-N-Out,California,38.28113309444444,-122.27624134444447,Napa,West Imola Avenue,94559
+way,349580652,McDonald's,McDonald's,California,33.655273314285715,-117.7022460857143,Lake Forest,Trabuco Road,92630
+way,350237543,In-N-Out Burger,In-N-Out,California,33.88262871999999,-118.02464093333333,La Mirada,Firestone Boulevard,90638
+way,350443611,McDonald's,McDonald's,California,33.9596318,-118.38604963999998,Los Angeles,West Manchester Avenue,90045
+way,351802085,McDonald's,McDonald's,California,33.928764530952385,-118.14793714047619,Downey,Paramount Boulevard,90242
+way,357016679,Crystal Cove Shake Shack,Shake Shack,California,33.57396868,-117.83946704,Newport Coast,Pacific Coast Highway,92657
+way,357545722,McDonald's,McDonald's,California,37.367007486666665,-121.84844856000001,San Jose,McKee Road,95116
+way,358481313,McDonald's,McDonald's,California,33.80278416,-118.07066149999999,Los Alamitos,Katella Avenue,90720
+way,358564856,McDonald's,McDonald's,California,34.16607954,-117.33205548000001,San Bernardino,University Parkway,92407-4699
+way,360426790,McDonald's,McDonald's,California,41.70256032,-122.64494252,,,
+way,360811773,In-N-Out Burger,In-N-Out,California,37.79717165499999,-121.19249901,Manteca,Yosemite Avenue,95336
+way,361611704,In-N-Out Burger,In-N-Out,California,37.78380088888888,-122.27728014444445,Alameda,Willie Stargell Avenue,94501
+way,362165775,McDonald's,McDonald's,California,38.335656885714286,-122.67671287142858,Rohnert Park,East Cotati Avenue,94928
+way,366050752,McDonald’s,McDonald's,California,37.32480100000001,-121.82315114444447,San Jose,Tully Road,95122
+way,366225111,In-N-Out Burger,In-N-Out,California,34.241064986666665,-118.26667766666667,Tujunga,Foothill Boulevard,91042
+way,369271040,McDonald's,McDonald's,California,34.244908697674425,-118.27416150697678,Tujunga,Foothill Boulevard,91042
+way,370053895,McDonald's,McDonald's,California,34.8644886875,-118.176366875,,,
+way,371312494,McDonald's,McDonald's,California,38.3931286,-121.41691294,Elk Grove,Bruceville Road,95757
+way,372609817,McDonald's,McDonald's,California,34.01938637333333,-118.40700041333334,Los Angeles,Venice Boulevard,90034
+way,374980131,McDonald's,McDonald's,California,38.25887091111111,-122.06741082222223,Fairfield,Travis Boulevard,94533-3443
+way,376149029,McDonald's,McDonald's,California,34.05996226,-118.30951878,Los Angeles,South Western Avenue,90005
+way,376970591,McDonald's,McDonald's,California,34.294977741176474,-118.41728758823531,Sylmar,Foothill Boulevard,91341-4928
+way,379966104,McDonald's,McDonald's,California,37.69206827272727,-122.47128587272728,Daly City,Junipero Serra Boulevard,94015-1632
+way,384587417,McDonald's,McDonald's,California,37.66983642,-121.85827502,Pleasanton,Bernal Avenue,94566
+way,384783840,McDonald's,McDonald's,California,32.776310611111114,-115.55296086666665,El Centro,South 4th Street,92243
+way,385393259,In-N-Out Burger,In-N-Out,California,33.75849980370371,-118.11118924814812,Long Beach,Pacific Coast Highway,90803
+way,386065189,McDonald's,McDonald's,California,33.94743383333334,-118.11788131666667,Downey,Lakewood Boulevard,90240
+way,386869769,Five Guys,Five Guys,California,37.704164080000005,-121.88517181999998,Dublin,Dublin Boulevard,94568
+way,389116540,McDonald's,McDonald's,California,33.99452804285714,-117.0573382142857,Calimesa,Calimesa Boulevard,92320
+way,391238447,In-N-Out Burger,In-N-Out,California,34.02646189615385,-118.39429193076923,Los Angeles,Venice Boulevard,90034
+way,391517323,In-N-Out Burger,In-N-Out,California,34.19494662727273,-118.60624809090909,Canoga Park,Topanga Canyon Boulevard,91303
+way,392696553,McDonald's,McDonald's,California,37.76817835454546,-122.17414199090909,Oakland,Bancroft Avenue,94605
+way,392829522,McDonald's,McDonald's,California,34.3090612,-117.47050186000001,,,
+way,394196726,McDonald's,McDonald's,California,33.439507029999994,-117.62014566,San Clemente,Avenida Pico,92673
+way,395220837,McDonald's,McDonald's,California,37.83355181428572,-122.2629896142857,Oakland,Telegraph Avenue,94609-2020
+way,396678825,McDonald's,McDonald's,California,34.188545847058826,-118.31970948235295,Burbank,North San Fernando Boulevard,91504
+way,397156528,McDonald's,McDonald's,California,33.948329666666666,-118.0063644952381,Whittier,Whittier Boulevard,90603
+way,397896842,McDonald's,McDonald's,California,33.856714057894735,-118.16811092631578,,,
+way,401132237,McDonald's,McDonald's,California,34.20059558400001,-118.867890136,Thousand Oaks,North Moorpark Road,91360
+way,401771792,In-N-Out Burger,In-N-Out,California,33.137169862499995,-117.17717875833331,San Marcos,West San Marcos Boulevard,92078
+way,401869009,In-N-Out Burger,In-N-Out,California,33.54526798421052,-117.67383698947368,San Juan Capistrano,Camino Capistrano,92675
+way,401882502,In-N-Out Burger,In-N-Out,California,33.115133,-117.10188588571431,Escondido,West Valley Parkway,92029
+way,402063071,Freddy's,Freddy's,California,33.135070370588245,-117.12014218823528,,Center Drive,
+way,402063168,McDonald's,McDonald's,California,33.133525688235295,-117.1211140764706,San Marcos,Center Drive,92069-3576
+way,402082315,McDonald's,McDonald's,California,38.36128027142856,-121.97232735714285,Vacaville,East Monte Vista Avenue,95688
+way,402106537,McDonald's,McDonald's,California,33.13903762857142,-117.1740584857143,San Marcos,San Marcos Boulevard,92069
+way,402158162,McDonald's,McDonald's,California,33.14821966363637,-117.1997974181818,San Marcos,South Rancho Santa Fe Road,92069
+way,402260955,McDonald's,McDonald's,California,34.2625608,-119.23703927272726,Ventura,East Main Street,93003
+way,402824604,McDonald's,McDonald's,California,34.215407434999996,-118.44943083000003,Panorama City,Van Nuys Boulevard,91402
+way,403722184,McDonald's,McDonald's,California,38.59549713333334,-121.38479963333333,Sacramento,Arden Way,95864
+way,403902731,McDonald's,McDonald's,California,33.87138422,-118.08293612000001,Artesia,Pioneer Boulevard,90701-4006
+way,404277949,McDonald's,McDonald's,California,38.48142968888888,-121.40730723333334,Sacramento,Gerber Road,95828
+way,405589757,McDonald's,McDonald's,California,33.46529932222222,-117.68975744444444,Dana Point,Pacific Coast Highway,92629
+way,406089695,In-N-Out Burger,In-N-Out,California,32.98170165714286,-117.07757757142856,San Diego,Carmel Mountain Road,92128
+way,406114119,In-N-Out Burger,In-N-Out,California,32.74421949999999,-117.0432725153846,Lemon Grove,Broadway,91945
+way,406115081,In-N-Out Burger,In-N-Out,California,32.620494374193555,-116.96199265483872,Chula Vista,Eastlake Parkway,91915
+way,406340732,McDonald's,McDonald's,California,38.68688361111111,-121.34158810000001,Sacramento,Elkhorn Boulevard,95842
+way,406530668,McDonald's,McDonald's,California,38.58843211111112,-121.30537962222222,Rancho Cordova,Folsom Boulevard,95670
+way,406587621,McDonald's,McDonald's,California,33.76004202,-116.29791050000001,Palm Desert,Varner Road,92211-1141
+way,407327483,McDonald's,McDonald's,California,33.90153685357143,-118.2909602142857,Gardena,West Rosecrans Avenue,90247
+way,407406622,McDonald's,McDonald's,California,33.87258797333333,-118.29849383333334,Gardena,West Artesia Boulevard,90248-3371
+way,407552701,Five Guys,Five Guys,California,33.81002832,-117.83679431,Orange,East Katella Avenue,92867
+way,407603075,McDonald's,McDonald's,California,33.57372623333333,-117.2027092,Murrieta,California Oaks Road,92562
+way,407724220,In-N-Out Burger,In-N-Out,California,33.75340435151515,-118.30865166666666,San Pedro,North Western Avenue,90732
+way,407781341,McDonald's,McDonald's,California,33.9255981,-118.23866407777776,Los Angeles,Wilmington Avenue,90059-3016
+way,407807534,McDonald's,McDonald's,California,33.78912580869564,-118.30789975652175,Los Angeles,Pacific Coast Highway,90717
+way,407815218,McDonald's,McDonald's,California,33.797494457894736,-118.30848769473684,Lomita,Lomita Boulevard,90717
+way,408369710,McDonald's,McDonald's,California,33.807724674999996,-118.27379369166665,Carson,West Sepulveda Boulevard,90749
+way,408704081,McDonald's,McDonald's,California,34.0059026,-118.33375310370371,Los Angeles,Crenshaw Boulevard,90008
+way,408796738,In-N-Out Burger,In-N-Out,California,33.83114994117647,-118.28845272941176,Torrance,West Carson Street,90502
+way,409895716,McDonald's,McDonald's,California,33.989032685714285,-118.25602928571429,Los Angeles,Central Avenue,90011-4800
+way,410906195,McDonald's,McDonald's,California,33.9604684551724,-118.27431411724139,Los Angeles,West Manchester Avenue,90003-3323
+way,412191636,McDonald's,McDonald's,California,33.988835577777785,-118.31188621111112,Los Angeles,West Slauson Avenue,90062
+way,412297148,McDonald's,McDonald's,California,33.9457223625,-118.30850007083335,Los Angeles,West Century Boulevard,90050
+way,412764642,McDonald's,McDonald's,California,33.79023752222222,-118.21606152222222,Long Beach,Pacific Coast Highway,90810
+way,412863421,McDonald's,McDonald's,California,34.00561101935483,-118.47406787419355,Santa Monica,Lincoln Boulevard,90405-4623
+way,414036014,McDonald's,McDonald's,California,33.98122442,-118.439388616,Los Angeles,Lincoln Boulevard,90292
+way,414043228,McDonald's,McDonald's,California,38.57375008,-121.40958908,Sacramento,Fair Oaks Boulevard,95825
+way,414514113,McDonald's,McDonald's,California,33.831899250000006,-118.07532155714286,Hawaiian Gardens,East Carson Street,90716
+way,416528718,McDonald's,McDonald's,California,33.87407078571428,-118.18656087142858,Long Beach,Atlantic Avenue,90805
+way,416573283,McDonald's,McDonald's,California,38.371006811111116,-120.7983523111111,Jackson,Trade Center Drive,95642
+way,417141543,In-N-Out Burger,In-N-Out,California,34.14753364666667,-118.79752679333333,Westlake Village,Russell Ranch Road,91361
+way,419787921,McDonald's,McDonald's,California,33.62950121874999,-117.72645991249999,Irvine,Lake Forest Drive,92618
+way,420136652,McDonald's,McDonald's,California,34.08338365217391,-118.2913152043478,Los Angeles,Melrose Avenue,90029-3507
+way,420193325,McDonald's,McDonald's,California,34.0952863967742,-118.28407030645162,Los Angeles,Sunset Boulevard,90029-2112
+way,420302736,McDonald's,McDonald's,California,33.94584793333333,-118.37076694166666,Los Angeles,West Century Boulevard,90045
+way,420983393,In-N-Out Burger,In-N-Out,California,33.953709696551726,-118.39679928275864,Los Angeles,South Sepulveda Boulevard,90045
+way,421511860,In-N-Out Burger,In-N-Out,California,37.69977542857142,-121.06761585714287,Modesto,Pelandale Avenue,95356
+way,421672270,McDonald's,McDonald's,California,34.088712288888885,-118.30970183333335,Los Angeles,Northwestern Avenue,90029-2309
+way,422440620,McDonald's,McDonald's,California,34.043526253846146,-118.42249427692309,,,
+way,423247013,McDonald's,McDonald's,California,34.096590647058825,-118.32712462941178,Hollywood,North Vine,90028
+way,423448323,McDonald's,McDonald's,California,34.10139408181818,-118.3382574136364,Los Angeles,Hollywood Boulevard,90028
+way,424024157,In-N-Out Burger,In-N-Out,California,34.098221032,-118.34171859999998,West Hollywood,West Sunset Boulevard,90028
+way,424685076,McDonald's,McDonald's,California,34.09169195454545,-118.34441965454545,Hollywood,North La Brea Avenue,90038
+way,425132645,McDonald's,McDonald's,California,34.02601152692308,-118.43152202692305,Los Angeles,National Boulevard,90064-3727
+way,425181723,In-N-Out Burger,In-N-Out,California,34.06311585555555,-118.44803007222221,Los Angeles,Gayley Avenue,90024
+way,426617606,McDonald's,McDonald's,California,34.03247374117647,-118.2669624235294,,West Washington Boulevard,90007
+way,426704526,McDonald's,McDonald's,California,34.05597071538462,-118.27090694615384,Los Angeles,Wilshire Boulevard,90017
+way,426712570,McDonald's,McDonald's,California,34.05106901999999,-118.27923647333333,Los Angeles,West Olympic Boulevard,90006
+way,426811793,McDonald's,McDonald's,California,34.00841565384615,-118.22019996923078,Vernon,Soto Street,90058
+way,426960507,McDonald's,McDonald's,California,34.104890690909095,-118.20154197272727,Los Angeles,North Figueroa Street,90042
+way,427247741,McDonald's,McDonald's,California,36.837927300000004,-119.69855050000002,Clovis,Herndon Avenue,93612-0316
+way,427495397,McDonald's,McDonald's,California,34.02760790769231,-118.21917343076925,Los Angeles,South Soto Street,90023-2616
+way,427532438,McDonald's,McDonald's,California,34.11510111764706,-118.24680037058822,Los Angeles,North San Fernando Road,90065-1413
+way,428152653,McDonald's,McDonald's,California,34.031383691304356,-118.24403210869565,,,
+way,428154937,In-N-Out Burger,In-N-Out,California,37.77911506666667,-121.97702390833332,San Ramon,San Ramon Valley Boulevard,94583
+way,428156104,In-N-Out Burger,In-N-Out,California,34.148666574999986,-118.22738358571429,Glendale,North Harvey Drive,91206
+way,428571711,McDonald's,McDonald's,California,34.03029473529411,-118.33468936470587,Los Angeles,Crenshaw Boulevard,90016-3604
+way,428628858,McDonald's,McDonald's,California,34.06396234444444,-118.36671345555555,Los Angeles,Wilshire Boulevard,90048
+way,428857514,McDonald's,McDonald's,California,34.08313885333333,-118.22286158,Los Angeles,North Figueroa Street,90065
+way,428955315,McDonald's,McDonald's,California,34.05843645625,-118.21222887500002,Los Angeles,Marengo Street,90033-1315
+way,429297308,McDonald's,McDonald's,California,34.04633167368421,-118.20859797368422,Los Angeles,North Soto Street,90033-2914
+way,429317665,McDonald's,McDonald's,California,34.02121175333334,-118.35509508666668,Los Angeles,La Brea Avenue,90016-5312
+way,429319889,McDonald's,McDonald's,California,34.026595740000005,-118.19933645333334,Los Angeles,Whittier Boulevard,90023
+way,429630039,McDonald's,McDonald's,California,34.185102184,-118.387137416,North Hollywood,Lankershim Boulevard,91606
+way,429648510,McDonald's,McDonald's,California,34.20081419354839,-118.4315261387097,Van Nuys,Sherman Way,91405
+way,429854823,In-N-Out Burger,In-N-Out,California,34.13505494117647,-118.36061804705884,Los Angeles,Cahuenga Boulevard West,90068
+way,429881201,In-N-Out Burger,In-N-Out,California,34.177459160000005,-118.38193070666668,North Hollywood,Lankershim Boulevard,91601
+way,430319952,McDonald's,McDonald's,California,34.25769404285714,-118.43296568571428,Pacoima,Van Nuys Boulevard,91331-3620
+way,430516088,McDonald's,McDonald's,California,34.200764024242424,-118.46668424848485,Van Nuys,Sepulveda Boulevard,91406
+way,430531987,McDonald's,McDonald's,California,34.28531394186047,-118.50165716279074,Granada Hills,Balboa Boulevard,91344
+way,430679702,In-N-Out Burger,In-N-Out,California,34.20188124800001,-118.50069746800001,Van Nuys,Balboa Boulevard,91406
+way,430680955,In-N-Out Burger,In-N-Out,California,34.25001474705883,-118.50197180588236,Northridge,Balboa Boulevard,91325
+way,430702645,McDonald's,McDonald's,California,34.27033793999999,-118.4676789,Mission Hills,Sepulveda Boulevard,91345
+way,430710858,McDonald's,McDonald's,California,34.218549552000006,-118.36993484800003,North Hollywood,Sunland Boulevard,91352-3949
+way,430712603,McDonald's,McDonald's,California,33.91774709999999,-117.9300631181818,Fullerton,Imperial Highway,92835
+way,430714543,McDonald's,McDonald's,California,34.22806533617021,-118.46720794893616,North Hills,Sepulveda Boulevard,91343
+way,430725187,McDonald's,McDonald's,California,34.25689773333334,-118.58956531111113,Chatsworth,Devonshire Street,91311-2312
+way,430780243,In-N-Out Burger,In-N-Out,California,34.230795,-118.55313734210526,Northridge,Tampa Avenue,91324
+way,430964752,In-N-Out Burger,In-N-Out,California,34.2779565,-118.45310127272728,San Fernando,Laurel Canyon Boulevard,91340
+way,430970177,McDonald's,McDonald's,California,34.25004394285715,-118.50274642857143,Northridge,Balboa Boulevard,91325
+way,430974795,McDonald's,McDonald's,California,34.24971934210526,-118.46711795263158,North Hills,Sepulveda Boulevard,91345
+way,431002649,McDonald's,McDonald's,California,34.30351367692308,-118.47783237307691,Sylmar,Encinitas Avenue,91312
+way,431005500,McDonald's,McDonald's,California,34.216880717391305,-118.3881615826087,North Hollywood,Lankershim Boulevard,91605-1610
+way,431025257,McDonald's,McDonald's,California,34.281890906666675,-118.43872772666666,San Fernando,Truman Street,91340
+way,431033522,McDonald's,McDonald's,California,34.159312104166666,-118.63561499166667,Woodland Hills,Avenue San Luis,91364
+way,431118585,McDonald's,McDonald's,California,34.237876957692315,-118.58904097307689,Chatsworth,North Desoto Avenue,91311
+way,431158577,McDonald's,McDonald's,California,34.19464848888889,-118.50072659999998,Van Nuys,Balboa Boulevard,91406-4555
+way,431187538,McDonald's,McDonald's,California,34.18746338823529,-118.64317139999999,West Hills,Platt Avenue,91307
+way,431341736,In-N-Out Burger,In-N-Out,California,34.171984646153845,-118.56663429230768,Woodland Hills,Ventura Boulevard,91364
+way,431343704,McDonald's,McDonald's,California,34.172759625,-118.54519231666666,Tarzana,Ventura Boulevard,91356
+way,431376156,McDonald's,McDonald's,California,34.16253426,-118.51753645999997,Encino,Ventura Boulevard,91316-3842
+way,431421133,McDonald's,McDonald's,California,34.186352604347825,-118.53651417391306,Tarzana,Victory Boulevard,91335
+way,431591608,McDonald's,McDonald's,California,33.64323421111111,-117.59572074444444,Rancho Santa Margarita,Santa Margarita Parkway,92688
+way,431632724,In-N-Out Burger,In-N-Out,California,34.22194622307692,-118.43079775384616,Panorama City,Roscoe Boulevard,91402
+way,431847707,McDonald's,McDonald's,California,34.1492897,-118.43629125294119,Sherman Oaks,Ventura Boulevard,91423
+way,431875693,McDonald's,McDonald's,California,34.235887426666665,-118.53653065333332,,,
+way,431901522,McDonald's,McDonald's,California,34.22819517692308,-118.50067020769232,North Hills,Parthenia Street,91343-4506
+way,431918659,McDonald's,McDonald's,California,38.58962772857143,-121.26490105714286,Rancho Cordova,White Rock Road,95742
+way,432323182,McDonald's,McDonald's,California,34.19468076666667,-118.34925171212122,Burbank,Hollywood Way,91505-1018
+way,433552945,McDonald's,McDonald's,California,34.25883653846154,-118.5356636,Northridge,Reseda Boulevard,91326-3433
+way,433664987,In-N-Out Burger,In-N-Out,California,33.64254554,-117.60525802000002,Rancho Santa Margarita,Santa Margarita Parkway,92688
+way,436989669,In-N-Out Burger,In-N-Out,California,37.69942227,-121.77326378000001,Livermore,North Livermore Avenue,94550
+way,437474002,In-N-Out Burger,In-N-Out,California,38.72036479999999,-120.83312619999998,Placerville,Forni Road,95667
+way,437474226,In-N-Out Burger,In-N-Out,California,37.76187884800001,-121.43381670000001,Tracy,Clover Road,95376
+way,437482255,In-N-Out Burger,In-N-Out,California,36.321307792000006,-119.67361687199998,Hanford,South 12th Avenue,93230
+way,437482562,In-N-Out Burger,In-N-Out,California,33.82487226,-117.95849949999999,Anaheim,South Brookhurst Street,92804
+way,439541395,McDonald's,McDonald's,California,33.844470131818184,-118.3873920886364,Redondo Beach,North Pacific Coast Highway,90277
+way,440315302,McDonald's,McDonald's,California,34.03304380000001,-118.18382250285714,East Los Angeles,East 3rd Street,90063
+way,440810496,McDonald's,McDonald's,California,34.024732346666674,-118.45897566000001,Santa Monica,Pico Boulevard,90405-2002
+way,440822904,McDonald's,McDonald's,California,34.059728584615385,-118.1734752846154,Los Angeles,North Eastern Avenue,90063
+way,441031912,In-N-Out Burger,In-N-Out,California,33.812029423076915,-118.1833570846154,Signal Hill,East Spring Street,90755
+way,441073086,McDonald's,McDonald's,California,33.79009217692308,-118.18894018846154,Long Beach,Long Beach Boulevard,90806
+way,441260317,McDonald's,McDonald's,California,33.771486858333326,-118.17968997499997,Long Beach,East 4th Street,90815
+way,441307467,McDonald's,McDonald's,California,33.829051652,-118.26336513200002,Carson,South Avalon Boulevard,90745
+way,441322306,McDonald's,McDonald's,California,33.8471103137931,-118.19318537241381,Long Beach,Long Beach Boulevard,90805
+way,441358724,McDonald's,McDonald's,California,40.405272016666665,-120.63309223333333,Susanville,Main Street,96130
+way,441416838,McDonald's,McDonald's,California,40.60933851111111,-122.37902981111112,Redding,Lake Boulevard,96003-2536
+way,441490457,McDonald's,McDonald's,California,33.77501722727273,-118.1890530272727,Long Beach,Long Beach Boulevard,90802
+way,441562466,McDonald's,McDonald's,California,40.68021345714285,-122.35000181428572,Shasta Lake,Cascade Boulevard,96019
+way,442224101,McDonald's,McDonald's,California,33.86595683333333,-118.32678719259259,Torrance,Crenshaw Boulevard,90504
+way,442253666,McDonald's,McDonald's,California,33.8871389,-118.32622885555556,Gardena,Crenshaw Boulevard,90249-4831
+way,442269378,McDonald's,McDonald's,California,33.857899543478254,-118.35442680434784,Torrance,Hawthorne Boulevard,90503-1502
+way,442607721,McDonald's,McDonald's,California,33.89163846923076,-118.30111028461539,Gardena,West Redondo Beach Boulevard,90247
+way,442634074,In-N-Out Burger,In-N-Out,California,33.84884832962963,-118.35315992222223,Torrance,Hawthorne Boulevard,90504
+way,443479627,McDonald's,McDonald's,California,33.90227901428572,-118.3350096,Hawthorne,Rosecrans Avenue,90250
+way,444359029,In-N-Out Burger,In-N-Out,California,36.60571459523809,-121.85817566666665,Seaside,Del Monte Boulevard,93955
+way,444490338,McDonald's,McDonald's,California,33.93904062222222,-117.27952145555554,Riverside,Canyon Springs Parkway,92507
+way,449500681,McDonald's,McDonald's,California,34.087839439999996,-117.68923542,Montclair,Central Avenue,91763-1624
+way,449902716,McDonald's,McDonald's,California,33.944906323999994,-118.1426516,Downey,Firestone Boulevard,90241
+way,449930690,McDonald's,McDonald's,California,33.88735295714286,-118.14235792857143,Bellflower,Lakewood Boulevard,90706-5150
+way,449955070,McDonald's,McDonald's,California,33.91755910434783,-118.07228504782609,Norwalk,Norwalk Boulevard,90650-2041
+way,450137351,McDonald's,McDonald's,California,33.18218516,-117.34024488,Oceanside,Vista Way,92054
+way,450365086,McDonald's,McDonald's,California,33.986881313333335,-118.1859428,Maywood,Atlantic Avenue,90270-3116
+way,450373197,In-N-Out Burger,In-N-Out,California,33.90123406000001,-118.08232474666666,Norwalk,Pioneer Boulevard,90650
+way,450435037,McDonald's,McDonald's,California,33.88838098181819,-118.20749865454545,Compton,South Long Beach Boulevard,90221
+way,450446693,McDonald's,McDonald's,California,33.99585395199999,-118.141249996,Commerce,East Washington Boulevard,90040
+way,450459567,McDonald's,McDonald's,California,33.88745046842105,-118.06363876842106,Norwalk,Alondra Boulevard,90650
+way,450786612,McDonald's,McDonald's,California,33.904167811111115,-118.14363432222223,Downey,Rosecrans Avenue,90242
+way,450821285,McDonald's,McDonald's,California,33.96808522307692,-118.1638203769231,Bell Gardens,Florence Avenue,90201
+way,450840589,McDonald's,McDonald's,California,33.22521154,-117.39229017999999,Camp Pendleton,Vandegrift Boulevard,92055
+way,450883453,McDonald's,McDonald's,California,33.945128999999994,-118.21157255714284,South Gate,Tweedy Boulevard,90280
+way,451148903,McDonald's,McDonald's,California,33.9840247882353,-118.09800097058823,Pico Rivera,Washington Boulevard,90660-3720
+way,451218105,In-N-Out Burger,In-N-Out,California,34.00052693846155,-118.08308083076925,Pico Rivera,Whittier Boulevard,90660
+way,451382978,In-N-Out Burger,In-N-Out,California,33.95275441538462,-118.18834835384615,South Gate,Firestone Boulevard,90280
+way,451383442,McDonald's,McDonald's,California,33.95355345,-118.19722524000001,South Gate,East Firestone Boulevard,90280
+way,451389917,In-N-Out Burger,In-N-Out,California,33.98703218666667,-118.224833,Huntington Park,Pacific Boulevard,90255
+way,451389996,McDonald's,McDonald's,California,33.98902318571429,-118.22564251428571,Huntington Park,Slauson Avenue,90255-2837
+way,451402691,McDonald's,McDonald's,California,33.96125227777778,-118.18630434074073,Cudahy,Atlantic Avenue,90201
+way,451425616,McDonald's,McDonald's,California,33.917373446153846,-118.10221700000001,Norwalk,Imperial Highway,90650-2264
+way,451436113,McDonald's,McDonald's,California,34.0028363,-118.0866723888889,Pico Rivera,East Whittier Avenue,90660
+way,451442065,McDonald's,McDonald's,California,33.93109085882353,-118.11392705882352,Downey,Firestone Boulevard,90241
+way,452922770,McDonald's,McDonald's,California,33.865371284615385,-117.54420938461539,Corona,Magnolia Avenue,92879
+way,453443185,McDonald's,McDonald's,California,38.452921939999996,-122.77054277333332,Santa Rosa,Guerneville Road,95401-4018
+way,455740429,In-N-Out Burger,In-N-Out,California,33.977271974999994,-118.18745452499999,Bell,Atlantic Avenue,90201
+way,455745994,McDonald's,McDonald's,California,33.97366004666667,-118.21666808888882,Huntington Park,East Florence Avenue,90255
+way,455750214,McDonald's,McDonald's,California,33.97929099090909,-118.20240422727278,City Of Bell,East Gage Avenue,90201
+way,455756358,McDonald's,McDonald's,California,33.948815229411764,-118.16578594705884,South Gate,Firestone Boulevard,90280-3704
+way,455814542,McDonald's,McDonald's,California,33.93012385882353,-118.21091100588237,Lynwood,Long Beach Boulevard,90262
+way,455831224,In-N-Out Burger,In-N-Out,California,33.93963363571429,-118.04682715,Santa Fe Springs,Carmenita,90670
+way,455831422,McDonald's,McDonald's,California,33.94132881111111,-118.04874348518521,Santa Fe Springs,Telegraph Road,90670
+way,456597517,McDonald's,McDonald's,California,33.93254314736843,-118.18317888421052,Lynwood,Atlantic Avenue,90262
+way,456599147,In-N-Out Burger,In-N-Out,California,33.936073451515156,-118.12426524545454,Downey,Firestone Boulevard,90241
+way,456626284,McDonald's,McDonald's,California,34.036399511111114,-118.04027053333334,South El Monte,Durfee Avenue,91733-4411
+way,456656007,In-N-Out Burger,In-N-Out,California,33.9214001875,-116.80363604583334,Cabazon,Seminole Drive,92230
+way,456772724,McDonald's,McDonald's,California,33.90170126875,-118.02958262499999,Santa Fe Springs,Valley View Avenue,90670-5217
+way,457364110,McDonald's,McDonald's,California,38.55639785555556,-121.33683998888887,Sacramento,Bradshaw Road,95827
+way,458124274,McDonald's,McDonald's,California,38.659933360000004,-121.34738413999999,Sacramento,Auburn Boulevard,95841-2621
+way,458812368,McDonald's,McDonald's,California,37.381845659999996,-121.97888400000002,Santa Clara,Augustine Drive,95054
+way,458923855,McDonald's,McDonald's,California,38.48082226,-121.50707222000001,Sacramento,Pocket Road,95831
+way,460848370,McDonald's,McDonald's,California,34.5264253,-117.22175736,Apple Valley,Highway 18,92307
+way,460850831,McDonald's,McDonald's,California,34.471591369230765,-117.24408519999999,Apple Valley,Bear Valley Road,92307
+way,461501761,In-N-Out Burger,In-N-Out,California,34.47050254666667,-117.29095562666667,Hesperia,Bear Valley Road,92392
+way,461502757,In-N-Out Burger,In-N-Out,California,33.84729889230769,-118.02813730769233,Buena Park,Valley View Street,90620
+way,461503624,In-N-Out Burger,In-N-Out,California,36.79614044210527,-119.78991445789475,Fresno,North Blackstone Avenue,93726
+way,461577733,In-N-Out Burger,In-N-Out,California,38.36125524,-122.71425816666667,Rohnert Park,Redwood Drive,94928
+way,461578895,In-N-Out Burger,In-N-Out,California,33.047282849999995,-117.28501421428572,Encinitas,Calle Magdalena,92024
+way,461586687,In-N-Out Burger,In-N-Out,California,38.61461766315789,-121.26897652105264,Rancho Cordova,Sunrise Boulevard,95670
+way,461831475,McDonald's,McDonald's,California,34.144263,-118.69862916923077,Calabasas,Las Virgenes Road,91302-1910
+way,461966334,In-N-Out Burger,In-N-Out,California,34.113135161538466,-117.76563183846154,La Verne,Foothill Boulevard,91750
+way,462163094,In-N-Out Burger,In-N-Out,California,34.134456907692304,-117.37000247692308,Rialto,East Easton Street,92376
+way,462242944,McDonald's,McDonald's,California,39.152037275,-123.19871741874998,Ukiah,North Orchard Avenue,95482
+way,462244172,In-N-Out Burger,In-N-Out,California,33.88166137500001,-117.61356763124999,Corona,Auto Center Drive,92882
+way,462245406,In-N-Out Burger,In-N-Out,California,33.573260696153845,-117.17898757307692,Murrieta,Avenida Acacias,92563
+way,463986221,McDonald's,McDonald's,California,37.38729964444444,-121.86058746666666,San Jose,North Capitol Avenue,95132-2522
+way,465649834,McDonald's,McDonald's,California,37.771764688888894,-122.27613154444445,Alameda,Central Avenue,94501-3818
+way,465842430,In-N-Out Burger,In-N-Out,California,40.58530870714286,-122.3477808,Redding,Dana Drive,96003
+way,465846619,McDonald's,McDonald's,California,40.57071521428571,-122.35691807142857,Redding,East Cypress Avenue,96002
+way,466311902,McDonald's,McDonald's,California,38.3199425,-122.29847265999999,Napa,Jefferson Street,94558-3436
+way,466410642,McDonald's,McDonald's,California,33.939201866666664,-117.55475336666667,Norco,6th Street,92860
+way,467629115,In-N-Out Burger,In-N-Out,California,34.107224646153846,-117.68626270000001,Upland,West Foothill Boulevard,91786
+way,467839964,McDonald's,McDonald's,California,33.50071142727273,-117.65956322727271,San Juan Capistrano,Del Obispo Street;Del Obispo Avenue,92675;92675-3204
+way,468218146,McDonald's,McDonald's,California,34.18231446470589,-117.43897541176473,Fontana,Sierra,92336
+way,470311304,McDonald's,McDonald's,California,34.08817526,-117.74981018,Pomona,North Garey Avenue,91767-2331
+way,470325049,McDonald's,McDonald's,California,34.112837482857145,-117.76202716000002,La Verne,Foothill Boulevard,91750
+way,470330746,In-N-Out Burger,In-N-Out,California,34.025806784615376,-117.74943570769227,Pomona,South Garey Avenue,91766
+way,470335596,McDonald's,McDonald's,California,34.062945931034484,-117.74315494137929,Pomona,East Holt Avenue,91767
+way,470336050,In-N-Out Burger,In-N-Out,California,34.0779084,-117.7195845,Pomona,Indian Hill Boulevard,91767
+way,470380539,McDonald's,McDonald's,California,37.74592544,-122.19557741999999,Oakland,Hegenberger Road,94621-1914
+way,470539486,McDonald's,McDonald's,California,34.132692642857144,-117.93325112142858,Irwindale,Irwindale Avenue,91702
+way,470571777,McDonald's,McDonald's,California,34.06701647931034,-117.92767672413792,West Covina,South Vincent Avenue,91790
+way,470626603,McDonald's,McDonald's,California,34.09647116086956,-117.90734993043478,Covina,North Azusa Avenue,91722
+way,470628829,In-N-Out Burger,In-N-Out,California,34.06767737777778,-117.97350566296298,Baldwin Park,Francisquito Avenue,91706
+way,470744705,McDonald's,McDonald's,California,34.12916261333333,-117.83019910666665,Glendora,Alosta Avenue,91741
+way,470766981,McDonald's,McDonald's,California,34.05109247333334,-117.94273926666669,La Puente,North Hacienda Boulevard,91744
+way,470767510,McDonald's,McDonald's,California,34.01148729333333,-117.96596556666667,Hacienda Heights,Gale Avenue,91745-1516
+way,470811969,In-N-Out Burger,In-N-Out,California,34.01941716666666,-117.98727146666667,Hacienda Heights,East Gale,91745
+way,470953739,In-N-Out Burger,In-N-Out,California,34.09243932307692,-118.03843965384615,Temple City,Lower Azusa Road,91780
+way,470966235,In-N-Out Burger,In-N-Out,California,34.07143464166666,-117.88189406250001,West Covina,East Garvey Avenue South,91791
+way,470968758,McDonald's,McDonald's,California,34.04392038571429,-117.98860490000001,Avocado Heights,Valley Boulevard,91746-2514
+way,470970263,McDonald's,McDonald's,California,34.0036164,-117.88893761428571,West Covina,Valley Boulevard,91792-3027
+way,470992927,McDonald's,McDonald's,California,34.038795917647064,-118.0794850235294,Montebello,San Gabriel Boulevard,90640
+way,471002264,McDonald's,McDonald's,California,33.95710463333333,-118.03850385999999,Whittier,North Painter Avenue,90602-3342
+way,471011152,In-N-Out Burger,In-N-Out,California,34.03764421428571,-117.95164878571428,La Puente,Amar Road,91744
+way,471056818,McDonald's,McDonald's,California,34.11912438,-117.90818168000001,Azusa,South Azusa,91702
+way,471063841,McDonald's,McDonald's,California,33.99978620500001,-117.84537361,Diamond Bar,Golden Springs Road,91789
+way,471072562,In-N-Out Burger,In-N-Out,California,34.11764239333334,-117.90734181333332,Azusa,South Azusa Avenue,91702
+way,471092546,McDonald's,McDonald's,California,33.98681964615384,-117.87042719230769,Rowland Heights,Colima Road,91748
+way,471139077,In-N-Out Burger,In-N-Out,California,34.08970627272728,-117.94086323636363,West Covina,West San Bernardino Road,91722
+way,471230285,In-N-Out Burger,In-N-Out,California,34.00049463076923,-117.84346211538461,Diamond Bar,Golden Springs Drive,91765
+way,471268224,McDonald's,McDonald's,California,34.02850831612904,-117.83591121290326,Walnut,Grand Avenue,91789
+way,471408324,In-N-Out Burger,In-N-Out,California,34.08393750769231,-118.07303434615385,Rosemead,North Rosemead Boulevard,91770
+way,471602495,McDonald's,McDonald's,California,33.981205828571426,-118.05069000952383,Whittier,Whittier Boulevard,90601
+way,471865969,McDonald's,McDonald's,California,34.16739205555555,-118.32346876666669,Burbank,West Verdugo Avenue,91506-2433
+way,471883328,McDonald's,McDonald's,California,34.14246005714286,-118.23652172285716,Glendale,East Colorado Street,91205-1473
+way,471938077,McDonald's,McDonald's,California,34.17046190000001,-118.28948767272728,Glendale,West Glenoaks Boulevard,91201
+way,472507955,McDonald's,McDonald's,California,34.42236834444444,-118.54172306666666,Valencia,Valencia Boulevard,91355-1716
+way,472521383,McDonald's,McDonald's,California,34.49697986842104,-118.62357959999999,Castaic,West Lake Hughes Road,91384
+way,472529483,McDonald's,McDonald's,California,34.41531463333333,-118.46453980666666,Santa Clarita,Soledad Canyon Road,91351-3772
+way,472547450,McDonald's,McDonald's,California,34.42312360588236,-118.56298205882354,Santa Clarita,McBean Parkway,91355
+way,472559855,McDonald's,McDonald's,California,34.39198486666666,-118.47080898974353,Santa Clarita,Golden Valley Road,91321
+way,472566646,McDonald's,McDonald's,California,34.37796661428571,-118.5670004,Stevenson Ranch,Chiquella Lane,91381
+way,472566670,In-N-Out Burger,In-N-Out,California,34.37714392222223,-118.56535745555556,Newhall,The Old Road,91381
+way,472568988,McDonald's,McDonald's,California,34.40510701200001,-118.464716224,Santa Clarita,Sierra Highway,91351
+way,472584013,In-N-Out Burger,In-N-Out,California,34.42369495199999,-118.4231605,Santa Clarita,Sand Canyon Road,91351
+way,472702503,McDonald's,McDonald's,California,34.67629504736842,-118.11274700526316,Lancaster,Challenger Way,93535
+way,472716973,McDonald's,McDonald's,California,34.6892957590909,-118.09522393181818,Lancaster,Avenue J,93535
+way,472739459,McDonald's,McDonald's,California,34.63124971851852,-118.22088468518517,Quartz Hill,West Avenue North,93551
+way,472740978,McDonald's,McDonald's,California,34.66059725666666,-118.18417053666664,Lancaster,W Avenue L,93534
+way,472805938,McDonald's,McDonald's,California,34.558345307692306,-118.08538848461538,Palmdale,E Avenue South,93550-6202
+way,472931070,McDonald's,McDonald's,California,34.492840225806454,-118.1972628096774,Acton,Sierra Highway,93510-1253
+way,472956613,McDonald's,McDonald's,California,34.58023955,-118.12805758571429,Palmdale,East Palmdale Boulevard,93550
+way,472961345,In-N-Out Burger,In-N-Out,California,34.70447983333334,-118.16699837777777,Lancaster,West Avenue I,93536
+way,472962593,In-N-Out Burger,In-N-Out,California,34.57934403809525,-118.12805586190478,Palmdale,East Palmdale Boulevard,93550
+way,472965922,McDonald's,McDonald's,California,34.52147462258064,-117.97901514516128,Littlerock,Pearblossom Highway,93543
+way,474456103,McDonald's,McDonald's,California,39.49762998888889,-121.57141055555556,Oroville,,95965
+way,477136050,In-N-Out Burger,In-N-Out,California,37.89661455,-122.51548479999998,Mill Valley,Redwood Highway,94941
+way,477627855,McDonald's,McDonald's,California,33.80140285555555,-117.99366790000002,Stanton,Beach Boulevard,90680
+way,478823773,In-N-Out Burger,In-N-Out,California,37.686945010344836,-122.13113337931037,San Leandro,Hesperian Boulevard,94579
+way,484805397,McDonald's,McDonald's,California,33.18280946363637,-117.29362108181819,Oceanside,Plaza Drive,92054
+way,485761852,McDonald's,McDonald's,California,33.75922213636363,-117.95727328181819,Garden Grove,Westminster Avenue,92844-2907
+way,486885553,McDonald's,McDonald's,California,37.82677091428572,-121.23452622857144,Manteca,West Lathrop Road,95336
+way,487079580,In-N-Out Burger,In-N-Out,California,34.2172638,-119.05303615714286,Camarillo,Ventura Boulevard,93010
+way,490207108,McDonald's,McDonald's,California,34.074256347058814,-117.55685462941176,Ontario,Mills Circle,91764
+way,491249144,In-N-Out Burger,In-N-Out,California,37.97605929583333,-122.06554517500003,Pleasant Hill,Contra Costa Boulevard,94523
+way,491652200,McDonald's,McDonald's,California,36.735599344444445,-119.7322024111111,Fresno,East Kings Canyon Road,93727
+way,501048763,McDonald's,McDonald's,California,34.176418979999994,-119.20892572,Port Hueneme,West Channel Islands Boulevard,93041
+way,503120233,McDonald's,McDonald's,California,33.8184242,-117.90916134615385,Anaheim,West Ball Road,92805-6045
+way,504041619,McDonald's,McDonald's,California,37.29989255882353,-121.82252195294119,San Jose,East Capitol Expressway,95121
+way,504299656,McDonald's,McDonald's,California,33.693280055555554,-117.82673177777777,Irvine,Corporate Park,92606
+way,504348288,McDonald's,McDonald's,California,33.596718749999994,-117.6762095277778,Laguna Hills,Cabot Road,92653
+way,505705136,McDonald's,McDonald's,California,37.994210963636355,-122.1009736909091,Martinez,Arnold Drive,94553
+way,511108323,McDonald's,McDonald's,California,33.694956813333334,-117.79982319333332,Irvine,Culver Drive,92604
+way,513115914,In-N-Out Burger,In-N-Out,California,38.36644518695652,-121.96107063478263,Vacaville,Nut Tree Parkway,95687
+way,513328283,In-N-Out Burger,In-N-Out,California,32.839027654999995,-116.993898035,Santee,Mission Gorge Road,92071
+way,513548740,McDonald's,McDonald's,California,37.89061757777778,-122.51605514444444,Mill Valley,Redwood Highway Frontage Road,94941
+way,513671493,In-N-Out Burger,In-N-Out,California,37.59927233333333,-122.06558067619045,Union City,Union Landing Boulevard,94587
+way,513680065,In-N-Out Burger,In-N-Out,California,33.1250889590909,-117.32465732727273,Carlsbad,Avenida Encinas,92008
+way,513688229,In-N-Out Burger,In-N-Out,California,36.808502482608695,-119.88318868695652,Fresno,West Shaw Avenue,93722
+way,513693305,In-N-Out Burger,In-N-Out,California,34.107923730434784,-117.30060437391306,San Bernardino,West 5th Street,92410
+way,514882930,McDonald's,McDonald's,California,33.57113561111111,-117.18422328888886,Murrieta,Los Alamos Road,92562
+way,515906891,In-N-Out Burger,In-N-Out,California,34.066464035,-117.26187082000001,San Bernardino,E. Harriman Place,92408
+way,516917542,McDonald's,McDonald's,California,33.81093708235295,-117.91486922352941,Anaheim,South Harbor Boulevard,92802
+way,523509451,McDonald's,McDonald's,California,34.163571222222224,-118.82680479999999,Westlake Village,East Thousand Oaks Boulevard,91361
+way,534687228,In-N-Out Burger,In-N-Out,California,38.87265764500001,-121.30396512500002,Lincoln,Groveland Lane,95648
+way,538116773,McDonald's,McDonald's,California,39.16795285,-123.2118239,,,
+way,544300037,McDonald's,McDonald's,California,36.704701223076924,-121.65352310769231,Salinas,North Main Street,93901-2828
+way,544658130,McDonald's,McDonald's,California,32.95271371,-117.05972188000001,Poway,Poway Road,92064
+way,544660623,In-N-Out Burger,In-N-Out,California,32.93890926500001,-117.04651068000001,Poway,Gregg Court,92064
+way,545761458,McDonald's,McDonald's,California,38.61712207142857,-121.40080947142859,Sacramento,Fulton Avenue,95821
+way,549418978,McDonald's,McDonald's,California,32.58344821538462,-117.1097578923077,Imperial Beach,Palm Avenue,91932
+way,549486358,McDonald's,McDonald's,California,37.05758737142857,-120.87888474285714,Los Banos,West Pacheco Boulevard,93635
+way,549633543,McDonald's,McDonald's,California,33.52340911538462,-117.68616179230769,Laguna Niguel,Golden Lantern Street,92677
+way,549680639,McDonald's,McDonald's,California,38.612677266666665,-121.44708447777778,Sacramento,Del Paso Boulevard,95815-2510
+way,549965192,McDonald's,McDonald's,California,38.1066856,-122.56994419999997,Novato,Redwood Highway,94947-3212
+way,550287609,McDonald's,McDonald's,California,38.455881657142854,-121.3721434857143,Sacramento,Elk Grove-Florin Road,95829
+way,551244784,McDonald's,McDonald's,California,38.67939242,-121.31943204,Citrus Heights,Auburn Boulevard,95621
+way,554589723,In-N-Out Burger,In-N-Out,California,33.81900548999999,-117.888936905,Anaheim,South State College Boulevard,92806
+way,554603363,McDonald's,McDonald's,California,40.58739655384616,-122.35024794615381,Redding,Churn Creek Road,96003
+way,557824499,In-N-Out Burger,In-N-Out,California,38.80197168333333,-121.20452156111111,Rocklin,Crossings Drive,95677
+way,563534546,McDonald's,McDonald's,California,34.27807942,-118.70948736,Simi Valley,Tapo Street,93063
+way,563660676,McDonald's,McDonald's,California,37.608980419999995,-120.97392589,Modesto,East Hatch Road,95351-5011
+way,563747835,McDonald's,McDonald's,California,33.85836261428572,-118.04496485714286,La Palma,Orangethorpe Avenue,90623
+way,565177450,McDonald's,McDonald's,California,38.45828044374999,-122.67465723125001,Santa Rosa,Mission Circle,95405-5303
+way,568473835,McDonald's,McDonald's,California,38.73088198,-120.78804396000001,Placerville,Broadway,
+way,575179639,McDonald's,McDonald's,California,34.18807798571429,-118.94062032857143,Newbury Park,North Wendy Drive,91320-3056
+way,578905171,McDonald's,McDonald's,California,34.03354194,-117.31899082,Grand Terrace,Barton Road,92313
+way,583823271,McDonald's,McDonald's,California,37.97520719999999,-120.36118774000002,,,
+way,584460662,McDonald's,McDonald's,California,33.954390781818184,-118.11311377272726,Downey,Lakewood Boulevard,90240
+way,585783273,McDonald's,McDonald's,California,37.975949533333335,-122.54707658888891,San Rafael,4th Street,94901-2650
+way,587769417,McDonald's,McDonald's,California,36.202514006250006,-121.13613025000001,,,
+way,592354184,McDonald's,McDonald's,California,34.22062805714286,-118.51894898571427,Northridge,West Roscoe Boulevard,91325
+way,592947405,McDonald's,McDonald's,California,33.92808125,-116.97767649999999,Beaumont,Beaumont Avenue,92223
+way,594783428,In-N-Out Burger,In-N-Out,California,33.75280393333333,-117.8847644222222,Santa Ana,Bristol Street,92703
+way,597105276,McDonald's,McDonald's,California,37.892432279999994,-122.1139806,Lafayette,Mount Diablo Boulevard,94549
+way,598525318,In-N-Out Burger,In-N-Out,California,34.10618402,-117.60966867333333,Rancho Cucamonga,Foothill Boulevard,91730
+way,599078567,McDonald's,McDonald's,California,32.79576097142857,-115.56960091428573,El Centro,North Imperial Avenue,92243
+way,606817823,McDonald's,McDonald's,California,33.88879798,-117.52049458000002,Corona,McKinley Street,92879
+way,609035397,McDonald's,McDonald's,California,37.29186032222222,-121.99674836666668,Saratoga,Prospect Road,95070
+way,609655262,In-N-Out Burger,In-N-Out,California,33.7822031,-118.07255649230768,Seal Beach,Seal Beach Boulevard,90740
+way,613521209,McDonald's,McDonald's,California,38.687121399999995,-121.17856247,Folsom,Folsom-Auburn Road,95630-2103
+way,614255317,McDonald's,McDonald's,California,33.734075471428575,-117.85090564285714,Santa Ana,South Grand Avenue,92705
+way,614377044,In-N-Out Burger,In-N-Out,California,38.0052899,-121.83638036000002,Pittsburg,Delta Gateway Boulevard,94565
+way,621784567,McDonald's,McDonald's,California,37.34984120769231,-121.82769355384615,San Jose,Story Road,95122
+way,624314264,McDonald's,McDonald's,California,39.761735220000006,-121.82112604,Chico,East Avenue,95926
+way,625169578,McDonald's,McDonald's,California,33.97534611428571,-117.35926967142858,Riverside,University Avenue,92507-4275
+way,631372108,McDonald's,McDonald's,California,34.21072641111111,-118.84350843333333,Thousand Oaks,East Avenida de Los Arboles,91362
+way,635059741,In-N-Out Burger,In-N-Out,California,38.46065271818182,-122.72526096363636,Santa Rosa,County Center Drive,95403
+way,635431999,McDonald's,McDonald's,California,33.8744402,-117.9978789,Buena Park,Beach Boulevard,90621
+way,637278091,In-N-Out Burger,In-N-Out,California,34.283076190909085,-118.69091955454546,Simi Valley,Stearns,93063
+way,637318224,In-N-Out Burger,In-N-Out,California,33.74695322727273,-117.00172476363636,Hemet,West Florida Avenue,92545
+way,637363596,McDonald's,McDonald's,California,33.69090719411764,-117.34149297647062,Lake Elsinore,Collier Avenue,92530
+way,648339865,In-N-Out Burger,In-N-Out,California,33.96707743076924,-117.46593249230772,Riverside,Clay Street,92509
+way,651471682,McDonald's,McDonald's,California,33.12262958888889,-117.32415103333331,Carlsbad,Avenida Encinas,92008
+way,655180957,In-N-Out Burger,In-N-Out,California,37.100977962500004,-121.01460697499999,Santa Nella,West Henry Miller Avenue,95322
+way,655570838,In-N-Out Burger,In-N-Out,California,34.52113405384616,-117.32201736153846,Victorville,Civic Drive,92394
+way,656118836,McDonald's,McDonald's,California,33.55050619166666,-117.14047178333335,Murrieta,Winchester Road,92563
+way,658674778,McDonald's,McDonald's,California,36.3252308625,-119.27670035,Visalia,East Noble Avenue,93292-3042
+way,659182431,McDonald's,McDonald's,California,33.747086100000004,-116.99624861428572,Hemet,West Florida,92545
+way,663755400,In-N-Out Burger,In-N-Out,California,39.13595055652174,-121.63519007826088,Yuba City,Sunsweet Boulevard,95993
+way,664001144,McDonald's,McDonald's,California,37.73898146666667,-121.45056891333334,Tracy,West 11th Street,95376-3736
+way,664008783,McDonald's,McDonald's,California,34.106240105263154,-117.59479568421052,Rancho Cucamonga,Foothill Boulevard,91730-3507
+way,664274118,McDonald's,McDonald's,California,37.81147615555556,-121.29120496666665,Lathrop,East Louise Avenue,95330
+way,665702819,McDonald's,McDonald's,California,34.12118908666666,-117.61554928000002,Rancho Cucamonga,Baseline Road,91730
+way,666245955,In-N-Out Burger,In-N-Out,California,33.66357605454545,-117.29850473636363,Lake Elsinore,Railroad Canyon Road,92532
+way,666728785,McDonald's,McDonald's,California,33.684587755555555,-117.19066693333333,Menifee,Newport Road,92584
+way,669772178,In-N-Out Burger,In-N-Out,California,33.84402933333333,-117.53648929523813,Corona,Compton Avenue,92881
+way,669772208,McDonald's,McDonald's,California,33.84624466363637,-117.53961329999998,Corona,East Ontario Avenue,92879
+way,677097688,McDonald's,McDonald's,California,33.68451132,-117.1533954,Menifee,Newport Road,92584
+way,679418173,McDonald's,McDonald's,California,38.29349546,-122.03081638,Fairfield,Nelson Road,94533
+way,681281959,McDonald's,McDonald's,California,33.91398381538461,-117.89270661538461,Brea,East Imperial Highway,92821
+way,681719737,McDonald's,McDonald's,California,33.92370074,-116.95467926,Beaumont,East 2nd Marketplace,92223
+way,686378991,McDonald's,McDonald's,California,38.455430080000006,-121.40459310000001,Sacramento,Calvine Road,95828
+way,687268140,McDonald's,McDonald's,California,38.34221336666666,-121.99461604166667,Vacaville,Alamo Drive,95687
+way,687452052,McDonald's,McDonald's,California,38.711538733333335,-121.36454376666666,Antelope,Walerga Road,95843
+way,688279332,In-N-Out Burger,In-N-Out,California,32.67640898333334,-117.08550036666666,National City,East Plaza Boulevard,91950
+way,692359185,McDonald's,McDonald's,California,38.45291447142857,-122.71684325714286,Santa Rosa,Mendocino Avenue,95402-4313
+way,696230909,McDonald's,McDonald's,California,34.1386297,-117.43356567999999,Fontana,Sierra Lakes Parkway,92336
+way,699118277,In-N-Out Burger,In-N-Out,California,33.775412859999996,-117.99329276666668,Garden Grove,Beach Boulevard,92841
+way,699171973,McDonald's,McDonald's,California,37.666774014285714,-122.10617049999999,Hayward,West A Street,94541
+way,702326849,In-N-Out Burger,In-N-Out,California,33.99742184545455,-117.71854540000002,Chino,Grand Avenue,91710
+way,702569113,McDonald's,McDonald's,California,38.65796673333333,-120.97097585555555,Cameron Park,Coach Lane,95682-8453
+way,702854433,McDonald's,McDonald's,California,39.14133465384616,-121.62927654615383,Yuba City,Colusa Avenue,95991-3733
+way,704616381,McDonald's,McDonald's,California,38.54755479999999,-122.81154006129034,Windsor,Windsor River Road,95492
+way,704702016,McDonald's,McDonald's,California,33.788036600000005,-116.48258903333333,Cathedral City,East Palm Canyon,92234
+way,705358833,McDonald's,McDonald's,California,37.97317998,-122.0645561,Pleasant Hill,Contra Costa Boulevard,94523
+way,705828510,McDonald's,McDonald's,California,36.680155854545454,-121.60563143636362,Salinas,Williams Road,93905
+way,706543535,McDonald's,McDonald's,California,33.91580095714286,-117.32717387142857,Riverside,East Alessandro Boulevard,92508
+way,706844091,McDonald's,McDonald's,California,33.90481184,-117.47322684000001,Riverside,Magnolia Avenue,92505
+way,709826326,In-N-Out Burger,In-N-Out,California,39.16874055000001,-123.21044944062498,Ukiah,North State Street,95482
+way,712435022,In-N-Out Burger,In-N-Out,California,33.83165785999999,-118.143129344,Long Beach,Lakewood Boulevard,90808
+way,717292583,In-N-Out Burger,In-N-Out,California,32.79099191666666,-117.09986441666666,San Diego,Friars Road,92120
+way,719632298,McDonald's,McDonald's,California,33.37150496666666,-117.25207101111113,Fallbrook,Ammunition Road,92028
+way,724860361,McDonald's,McDonald's,California,36.31254372173913,-119.34866961739131,Visalia,West Walnut,93277
+way,726622110,In-N-Out Burger,In-N-Out,California,37.66586468750001,-122.46934988333332,Daly City,Gellert Boulevard,94015
+way,729115652,McDonald's,McDonald's,California,37.68904785555556,-121.01218786666666,Modesto,Tully Road,95350-0815
+way,729961679,McDonald's,McDonald's,California,36.95250322,-120.07565728,Madera,Howard Road,93637-5127
+way,730053088,Five Guys,Five Guys,California,33.938859408333336,-117.26188489166668,Moreno Valley,Frederick Street,92553
+way,736692109,McDonald's,McDonald's,California,34.0285757,-117.65014869999999,Ontario,South Euclid Avenue,91761
+way,736907916,McDonald's,McDonald's,California,38.59680779999999,-121.50183395555557,Sacramento,Richards Boulevard,95811
+way,736949435,Five Guys,Five Guys,California,38.36874733333334,-121.96130216666668,Vacaville,East Monte Vista Avenue,95688
+way,737155706,McDonald's,McDonald's,California,34.03348026,-117.62985619999999,Ontario,East Philadelphia Street,91761
+way,738664437,In-N-Out Burger,In-N-Out,California,33.20390283333333,-117.38388154444445,Oceanside,North Coast Highway,92054
+way,738714389,In-N-Out Burger,In-N-Out,California,38.46273268750001,-121.49186138749998,Sacramento,Delta Shores Circle South,95832
+way,742311373,McDonald's,McDonald's,California,36.680332199999995,-121.64103680000001,Salinas,Kern Street,93905
+way,742353595,McDonald's,McDonald's,California,34.02907981666667,-117.59271687500001,Ontario,South Archibald Avenue,91761
+way,743695039,Shake Shack,Shake Shack,California,33.902286825,-118.38625802499999,El Segundo,Rosecrans Avenue,90245
+way,744512919,McDonald's,McDonald's,California,33.94137028571429,-117.22676375714286,Moreno Valley,Perris Boulevard,92553
+way,746756504,In-N-Out Burger,In-N-Out,California,36.852230659259256,-119.79050180370369,Fresno,North Blackstone Avenue,93720
+way,748851905,In-N-Out Burger,In-N-Out,California,34.074996443749995,-117.4352442875,Fontana,Sierra Avenue,92335
+way,749592169,In-N-Out Burger,In-N-Out,California,34.069269118181815,-117.61146447272726,Ontario,G Street,91764
+way,749621742,In-N-Out Burger,In-N-Out,California,33.94210372857143,-117.26015218571429,Moreno Valley,Hemlock Avenue,92557
+way,749930500,In-N-Out Burger,In-N-Out,California,33.71425163636365,-116.23312500909091,Indio,Highway 111,92201
+way,749951599,In-N-Out Burger,In-N-Out,California,37.25189727692309,-121.80288034615387,San José,Cottle Road,95123
+way,753195445,In-N-Out Burger,In-N-Out,California,38.11591650588235,-121.30816955882355,Lodi,West Kettleman Lane,95242
+way,762083736,McDonald's,McDonald's,California,36.91673711176471,-121.7757393117647,Watsonville,Main Street,95076
+way,764504477,McDonald's,McDonald's,California,32.66035196,-117.03446770000001,Bonita,Bonita Road,91902
+way,764521914,McDonald's,McDonald's,California,33.74568268,-118.10538658,Seal Beach,Pacific Coast Highway,90740-5906
+way,768068159,McDonald's,McDonald's,California,33.74713786,-116.95260755999998,East Hemet,East Florida Avenue,92544
+way,770775332,McDonald's,McDonald's,California,36.21328784285714,-119.34858347142857,Tulare,East Cross Avenue,93274-2850
+way,771076212,In-N-Out Burger,In-N-Out,California,37.330064516000014,-121.811335412,San Jose,East Capitol Expressway,95148
+way,776071905,McDonald's,McDonald's,California,34.28246918888889,-118.67981441111111,Simi Valley,Yosemite Avenue,93063
+way,779722563,McDonald's,McDonald's,California,38.24417337777778,-122.01997074444444,,,
+way,779804855,McDonald's,McDonald's,California,38.24904399166667,-122.067005725,Fairfield,Beck Avenue,94533
+way,779951841,In-N-Out Burger,In-N-Out,California,38.257294200000004,-122.06473228,Fairfield,Holiday Lane,94534
+way,779974091,McDonald's,McDonald's,California,38.269239411111116,-122.03379228888889,Fairfield,No Texas Street,94533-2102
+way,784953005,McDonald's,McDonald's,California,34.121602286666665,-117.31419550000001,San Bernardino,North Mount Vernon Boulevard,92411
+way,786119411,McDonald's,McDonald's,California,35.624241529411776,-117.6692627117647,Ridgecrest,North China Lake Boulevard,93555
+way,805149946,McDonald's,McDonald's,California,34.34639358888889,-119.07062524444447,Santa Paula,East Harvard Boulevard,93060-3314
+way,825090520,McDonald's,McDonald's,California,37.79897505263158,-121.92298065789471,Danville,Camino Tassajara,94526
+way,830221450,McDonald's,McDonald's,California,39.13858091111111,-121.59087335555556,Marysville,E Street,95901
+way,830967312,McDonald's,McDonald's,California,33.91760642,-118.01416841999999,La Mirada,Imperial Highway,90638
+way,834036102,McDonald's,McDonald's,California,33.93063438181818,-117.99413581818182,Whittier,Leffingwell Road,90604-3325
+way,837519667,In-N-Out Burger,In-N-Out,California,37.811463205882355,-121.29806837058825,Lathrop,Golden Valley Parkway,95330
+way,841267041,McDonald's,McDonald's,California,39.75927914705883,-121.85658882941176,Chico,Connors Avenue,95926-1172
+way,846292771,McDonald's,McDonald's,California,40.9028002,-124.08391834,Arcata,Valley West Boulevard,95521-4638
+way,849978151,McDonald's,McDonald's,California,36.83586415714286,-119.9129318857143,Fresno,North Riverside Drive,93722
+way,872832929,McDonald's,McDonald's,California,37.556834933333334,-122.01413992424243,Fremont,Thornton Avenue,94536-4828
+way,877672094,In-N-Out Burger,In-N-Out,California,32.80822197857143,-116.96294357857143,El Cajon,Fletcher Parkway,92020
+way,877740306,In-N-Out Burger,In-N-Out,California,36.70482130869565,-119.77025581304346,Fresno,South 2nd Street,93706
+way,883003079,Steak 'n Shake,Steak 'n Shake,California,34.13452404,-116.38259984000001,Yucca Valley,29 Palms Highway,92284
+way,883882077,McDonald's,McDonald's,California,34.10653968888889,-117.64927587777778,Upland,East Foothill Boulevard,91786-3947
+way,887379994,In-N-Out Burger,In-N-Out,California,34.135744411111105,-117.63480054444446,Upland,East 20th Street,91784
+way,890829908,In-N-Out Burger,In-N-Out,California,33.88709824,-118.10160173333334,Norwalk,Alondra Boulevard,90703
+way,900986122,McDonald's,McDonald's,California,36.907769844444445,-121.75350157777777,Watsonville,Main Street,95076
+way,904638195,McDonald's,McDonald's,California,34.52042298181818,-117.3172764,Victorville,La Paz Place,92395
+way,907814713,In-N-Out Burger,In-N-Out,California,33.873152100000006,-118.30750734230766,Gardena,Artesia Boulevard,90248
+way,911348556,McDonald's,McDonald's,California,33.90844993846153,-117.43626665384615,Riverside,Van Buren Boulevard,92503-5650
+way,933090943,McDonald's,McDonald's,California,34.06965377272728,-117.43516646363638,Fontana,Sierra Avenue,92335-6724
+way,936617859,McDonald's,McDonald's,California,34.10611137142857,-117.45395405,Fontana,Foothill Boulevard,92335-8053
+way,939632796,Freddy's Frozen Custard & Steakburgers,Freddy's,California,32.66132614,-117.10505628000001,National City,Mile of Cars Way,91950
+way,940167261,In-N-Out Burger,In-N-Out,California,40.53852720416666,-122.34839604583333,Redding,Churn Creek Road,96002
+way,944043790,In-N-Out Burger,In-N-Out,California,33.52028699444445,-117.61915908888892,Rancho Mission Viejo,Gateway Place,92675
+way,948567617,McDonald's,McDonald's,California,33.879735499999995,-117.58325658750002,Corona,South Lincoln Street,92882
+way,949768896,McDonald's,McDonald's,California,33.66650466363637,-117.98800019090909,Huntington Beach,Beach Boulevard,92648
+way,952865321,McDonald's,McDonald's,California,37.739299085714286,-121.42177504285713,Tracy,East 11th Street,95376
+way,957931494,McDonald's,McDonald's,California,32.7973579,-116.93518767058826,El Cajon,North 2nd Street,92021
+way,961014830,McDonald's,McDonald's,California,36.60829425714285,-121.85600504285715,Seaside,Canyon Del Rey Boulevard,93955-3501
+way,961427377,McDonald's,McDonald's,California,32.81152003333334,-116.91845059999999,El Cajon,East Main Street,92021
+way,962080573,McDonald's,McDonald's,California,39.23739554,-121.0378689,,,
+way,964734110,McDonald's,McDonald's,California,33.87993909032259,-117.61448369032257,Corona,Serfas Club Drive,92882
+way,966871712,McDonald's,McDonald's,California,33.93090925454545,-116.81895183636362,Cabazon,Seminole Drive,92230
+way,968620149,In-N-Out Burger,In-N-Out,California,33.939999300000004,-117.96599796666665,La Habra,West Whittier Boulevard,90631
+way,970741992,McDonald's,McDonald's,California,34.063366439999996,-117.28358728,San Bernardino,East Redlands Boulevard,92408
+way,970750635,In-N-Out Burger,In-N-Out,California,34.02715052352941,-117.11825118235295,Yucaipa,Avenue East,92399
+way,972401126,McDonald's,McDonald's,California,34.01131958,-117.43572734,Rubidoux,Valley Way,92509-3423
+way,972409758,McDonald's,McDonald's,California,33.97592002857143,-117.47693451428572,Riverside,Limonite Avenue,92509-5020
+way,975386565,In-N-Out Burger,In-N-Out,California,37.66948135714286,-121.03570395714287,Modesto,Sisk Road,95350
+way,977031830,McDonald's,McDonald's,California,32.614740327272735,-117.02548418181817,Chula Vista,East Palomar Street,91911
+way,983581285,McDonald's,McDonald's,California,36.736413542857136,-119.69754092857143,Fresno,East Kings Canyon Road,93727-4641
+way,985022348,McDonald's,McDonald's,California,38.0056,-121.75213104615383,Oakley,Main Street,94509
+way,987004025,McDonald's,McDonald's,California,37.68262975000001,-121.77821972222222,Livermore,North P Street,94550-3013
+way,987057046,McDonald's,McDonald's,California,34.04101529285713,-117.48599162857143,Fontana,Cherry Avenue,92337
+way,993487491,McDonald's,McDonald's,California,34.228568761538455,-118.55453226153848,Northridge,Parthenia Street,91324-3514
+way,998922874,In-N-Out Burger,In-N-Out,California,33.99863662,-117.55775080000001,Eastvale,Hamner Avenue,91752
+way,999273898,McDonald's,McDonald's,California,34.20060194,-118.61059528000001,Canoga Park,Sherman Way,91303
+way,1000661042,Shake Shack,Shake Shack,California,34.18777025999999,-118.60623346,,Topanga Canyon Boulevard,91303
+way,1004514117,McDonald's,McDonald's,California,38.009589219999995,-121.86830442,,,
+way,1004528411,McDonald's,McDonald's,California,38.10563300666666,-122.20961248666667,Vallejo,Springs Road,94591
+way,1005982430,McDonald's,McDonald's,California,34.47111638,-117.34334032,Victorville,Mariposa Road,92395
+way,1005982431,Steak 'n Shake,Steak 'n Shake,California,34.47149451999999,-117.34334052666667,Victorville,Mariposa Road,92395
+way,1006014112,In-N-Out Burger,In-N-Out,California,34.42088746666666,-118.58279002222223,Valencia,The Old Road,91355
+way,1008288646,McDonald's,McDonald's,California,32.619422175000004,-116.968124675,Chula Vista,Millenia Avenue,91915
+way,1009396222,Freddy's,Freddy's,California,34.46818113333333,-117.34928531111109,Victorville,Amargosa Road,92392
+way,1012946520,McDonald's,McDonald's,California,36.357169283333334,-119.29662331666667,Visalia,Ndinuba,93291
+way,1013529277,In-N-Out Burger,In-N-Out,California,33.87519802272727,-118.12554394090907,Bellflower,Bellflower Boulevard,90706
+way,1019308538,McDonald's,McDonald's,California,38.34440231818182,-122.71170520909094,Rohnert Park,Commerce Boulevard,94931
+way,1020376665,McDonald's,McDonald's,California,38.00797807333333,-121.88732548,Pittsburg,Atlantic Avenue,94565
+way,1022118726,In-N-Out Burger,In-N-Out,California,34.2802023,-118.86545025,Moorpark,New Los Angeles Avenue,93021
+way,1023523149,McDonald's,McDonald's,California,32.672661163636356,-115.49827837272728,Calexico,Imperial Avenue,92231-3153
+way,1026856374,McDonald's,McDonald's,California,34.83938818,-114.6100909,Needles,,
+way,1044323193,McDonald's,McDonald's,California,38.22212442222222,-122.12618625555557,Fairfield,Central Place,94533
+way,1045351621,McDonald's,McDonald's,California,33.760325636842104,-117.85658481578947,Santa Ana,East 17th Street,92701
+way,1056133885,McDonald's,McDonald's,California,34.05546601428572,-117.70655327142856,Montclair,West Mission Boulevard,91763
+way,1062141659,McDonald's,McDonald's,California,34.41967904444444,-117.28627476666666,,Main Street,92345-6118
+way,1064469893,McDonald's,McDonald's,California,38.55596857142857,-121.40998942857142,Sacramento,College Town Drive,95826
+way,1066276425,In-N-Out Burger,In-N-Out,California,33.88855306666667,-117.27441169166667,Riverside,Van Buren Boulevard,92518
+way,1079194983,McDonald's,McDonald's,California,34.07218198,-117.36977746666666,Rialto,South Riverside,92376
+way,1081282722,McDonald's,McDonald's,California,33.68773808571428,-117.95356207142858,Fountain Valley,Brookhurst Street,92708-7306
+way,1082181198,McDonald's,McDonald's,California,34.4229308,-118.58442982000001,Valencia,The Old Road,91355
+way,1083283103,McDonald's,McDonald's,California,33.74573556666667,-117.86513994444444,Santa Ana,East 1st Street,92701-5314
+way,1083821696,McDonald's,McDonald's,California,38.63452042857143,-121.32872185714287,Carmichael,Fair Oaks Boulevard,95608
+way,1085755447,McDonald's,McDonald's,California,37.67421984,-120.99354864,,,
+way,1088614712,McDonald's,McDonald's,California,34.27225157272727,-118.77045149393939,Simi Valley,East Los Angeles Avenue,93065
+way,1094532148,McDonald's,McDonald's,California,35.49950568888889,-119.27886899999999,Shafter,West Lerdo Highway,93263
+way,1098149120,In-N-Out Burger,In-N-Out,California,33.91206862,-117.88948348,Brea,East Imperial Highway,92821
+way,1104720546,McDonald's,McDonald's,California,33.91610383846154,-118.34740798461539,Hawthorne,West El Segundo Boulevard,90250
+way,1108382279,McDonald's,McDonald's,California,36.29775222222223,-119.31306735555556,Visalia,South Mooney Boulevard,93277-8019
+way,1111592434,Shake Shack,Shake Shack,California,34.15885872,-118.81991195999998,,,
+way,1116544483,McDonald's,McDonald's,California,33.715656190909094,-117.86835859999998,Santa Ana,South Main Street,92707
+way,1120681580,In-N-Out Burger,In-N-Out,California,33.437061869230774,-117.6235044423077,San Clemente,Via Pico Plaza,92672
+way,1122237606,In-N-Out Burger,In-N-Out,California,33.89080066875,-117.81512571250002,Yorba Linda,Imperial Highway,92886
+way,1122740604,In-N-Out Burger,In-N-Out,California,33.92267405,-116.95181174230771,Beaumont,East 2nd Street,92223
+way,1132496355,McDonald's,McDonald's,California,33.670823152380954,-117.78932527619047,Irvine,Alton Parkway,92604
+way,1138440458,McDonald's,McDonald's,California,35.892277840000006,-119.2713909,Earlimart,Earlimart Avenue,93219
+way,1141390863,McDonald's,McDonald's,California,33.70987631666666,-116.28840080000002,La Quinta,Highway 111,92253
+way,1144801219,McDonald's,McDonald's,California,34.1355346375,-117.252756675,,East Highland Avenue,92404
+way,1148032660,McDonald's,McDonald's,California,36.297674320000006,-119.15624996,Exeter,West Visalia Road,93221-2204
+way,1152301514,In-N-Out Burger,In-N-Out,California,33.979885966666664,-118.05066220833332,Whittier,Whittier Boulevard,90601
+way,1152820790,McDonald's,McDonald's,California,33.9905616,-117.33929542000001,Riverside,Iowa Avenue,92507
+way,1160329908,In-N-Out Burger,In-N-Out,California,36.225514,-119.32327684500001,Tulare,East Prosperity Avenue,93274
+way,1168885348,McDonald's,McDonald's,California,37.733070969230766,-120.95935307692307,Riverbank,Oakdale Road,95367
+way,1169525908,In-N-Out Burger,In-N-Out,California,40.78431762857143,-124.18325636666664,Eureka,Broadway Street,95501
+way,1172329570,McDonald's,McDonald's,California,38.784142942857144,-123.01322594285715,,,
+way,1172329578,McDonald's,McDonald's,California,39.42395989230769,-123.8068924,,,
+way,1172329595,McDonald's,McDonald's,California,37.996439699999996,-122.5345352347826,San Rafael,Merrydale Road,94913-4013
+way,1173200925,McDonald's,McDonald's,California,39.032333052941176,-122.92435688235297,,,
+way,1173582165,McDonald's,McDonald's,California,32.888846328571425,-117.13157392857143,San Diego,,92145
+way,1178787968,McDonald's,McDonald's,California,36.079892111111114,-119.04727666666668,Porterville,West Henderson Avenue,93257
+way,1189882649,In-N-Out Burger,In-N-Out,California,33.729904008000005,-117.990668496,Huntington Beach,Edinger Avenue,92647
+way,1193013161,McDonald's,McDonald's,California,39.52457284,-122.21750994000001,,,
+way,1205673077,In-N-Out,In-N-Out,California,33.761400748,-117.83409175999999,Santa Ana,North Tustin Avenue,92705
+way,1206678890,McDonald's,McDonald's,California,39.74924048571428,-122.20351097142857,Orland,Frances Lane,95963
+way,1215481395,McDonald's,McDonald's,California,34.00108894444444,-117.72230204444443,,,
+way,1223691410,McDonald's,McDonald's,California,33.787402060000005,-118.02891328000001,Garden Grove,Valley View Street,92845
+way,1227072653,McDonald's,McDonald's,California,40.53922932,-122.35326508,Redding,South Bonnyview Road,96002
+way,1227224021,McDonald's,McDonald's,California,35.35492382,-119.18142085999997,,,
+way,1237085332,In-N-Out Burger,In-N-Out,California,36.356677136363636,-119.29745250454545,Visalia,West Riggin Avenue,93291
+way,1249302043,McDonald's,McDonald's,California,33.79107818181817,-118.26043113636365,Wilmington,East Pacific Coast Highway,90744-2615
+way,1249422514,McDonald's,McDonald's,California,37.98385484285715,-122.31868627142858,Richmond,Klose Way,94806
+way,1249423014,McDonald's,McDonald's,California,37.96688984,-122.34390753999999,San Pablo,San Pablo Avenue,94806-3334
+way,1253530703,McDonald's,McDonald's,California,36.83673104444444,-119.75370285555556,Fresno,North Cedar Avenue,93710
+way,1253965685,McDonald's,McDonald's,California,34.15253965714285,-118.36788387142856,North Hollywood,Riverside Drive,91602-2209
+way,1255812459,McDonald's,McDonald's,California,34.201448022222216,-118.54234000000002,Reseda,Sherman Way,91335-4018
+way,1263551326,McDonald's,McDonald's,California,36.78645396,-119.7554627,Fresno,East Dakota Avenue,93726
+way,1263551824,McDonald's,McDonald's,California,36.8089233,-119.78242863999999,Fresno,East Shaw Avenue,93710
+way,1263553166,McDonald's,McDonald's,California,36.83759611111111,-119.80236745555557,Fresno,North Ingram Avenue,93650
+way,1263918092,McDonald's,McDonald's,California,35.37557862857143,-119.00248292857142,Bakersfield,Union Avenue,93305-5651
+way,1263918708,McDonald's,McDonald's,California,35.41186516,-119.06087724000001,Bakersfield,Olive Drive,93308
+way,1263919580,McDonald's,McDonald's,California,35.74651568571428,-119.24700822857143,Delano,Woollomes Avenue,93215
+way,1263920089,McDonald's,McDonald's,California,35.776320371428575,-119.24665192857142,Delano,Cecil Avenue,93215-1420
+way,1265931392,McDonald's,McDonald's,California,34.07332683999999,-117.6696733,Ontario,North Mountain Avenue,91762-2546
+way,1266522238,McDonald's,McDonald's,California,36.57668343333333,-119.6261006111111,Selma,Floral Avenue,93662-2604
+way,1266939917,McDonald's,McDonald's,California,33.81936327999999,-116.45864329999999,Cathedral City,Date Palm Drive,92234-3138
+way,1266940148,McDonald's,McDonald's,California,33.82196918,-116.4065907,Cathedral City,Bob Hope Drive,92234
+way,1266940250,McDonald's,McDonald's,California,33.801472681818176,-116.38867692727273,Rancho Mirage,Monterey Avenue,92270
+way,1266940911,McDonald's,McDonald's,California,33.70840954444445,-116.24181019999999,Indio,Highway 111,92201-5411
+way,1271544499,McDonald's,McDonald's,California,32.67725274285714,-117.0829554142857,National City,Plaza Boulevard,91950
+way,1271545004,McDonald's,McDonald's,California,32.7018543,-117.19143344,San Diego,,92135-7045
+way,1271545120,McDonald's,McDonald's,California,33.20634492857143,-117.2868208857143,Oceanside,Oceanside Boulevard,92057
+way,1271553310,McDonald's,McDonald's,California,33.72972274,-116.97337585999999,Hemet,West Stetson Avenue,92543
+way,1271553387,McDonald's,McDonald's,California,33.795043299999996,-116.97125514,San Jacinto,State Street,92583
+way,1272461854,In-N-Out Burger,In-N-Out,California,33.87261604,-118.24814225333334,Compton,South Central Avenue,90220
+way,1275944033,McDonald's,McDonald's,California,36.79350007777778,-119.82600874444444,Fresno,North West Avenue,93705
+way,1278597377,McDonald's,McDonald's,California,32.83418002857143,-116.7501812142857,Alpine,Alpine Boulevard,91901
+way,1279935412,McDonald's,McDonald's,California,33.19041277777777,-117.36110524444445,Oceanside,Oceanside Boulevard,92054
+way,1280941675,McDonald's,McDonald's,California,36.820468681818184,-119.79001256363637,Fresno,North Blackstone Avenue,93710
+way,1283804885,McDonald's,McDonald's,California,36.808157566666665,-119.75659866666666,Fresno,East Shaw Avenue,93726
+way,1285955207,McDonald's,McDonald's,California,36.70651717272728,-119.77126876363637,,,
+way,1285958266,McDonald's,McDonald's,California,36.75790263333332,-119.83210319999999,,,
+way,1287527899,McDonald's,McDonald's,California,37.627218609999986,-121.01359559999999,Modesto,Paradise Road,95351
+way,1290763651,McDonald's,McDonald's,California,37.27500134,-120.43167102,Merced,Campus Parkway,95340
+way,1292336127,McDonald's,McDonald's,California,34.078365559999995,-117.63172232,Ontario,East 4th Street,91764-2523
+way,1293504475,McDonald's,McDonald's,California,37.67224762,-121.0308526,Modesto,Prescott Road,95350
+way,1295516212,McDonald's,McDonald's,California,36.97423078181818,-120.08395670909091,Madera,West Cleveland Avenue,93637
+way,1295994826,McDonald's,McDonald's,California,36.83828813636364,-119.8479769090909,Fresno,North Marks Avenue,93711
+way,1296116956,McDonald's,McDonald's,California,34.121041675,-117.37082935833331,Rialto,West Baseline Road,92376
+way,1296748196,In-N-Out Burger,In-N-Out,California,34.01466659333334,-117.46182151333332,Jurupa Valley,Pyrite Street,92509
+way,1304224540,McDonald's,McDonald's,California,32.83788765555556,-116.9841352888889,Santee,Cuyamaca Street,92071
+way,1306405396,McDonald's,McDonald's,California,36.750257780000005,-120.38754734,,Derrick Avenue,93640
+way,1309994839,Shake Shack,Shake Shack,California,33.8586428,-118.31098961000001,,West 190th Street,
+way,1321673220,McDonald's,McDonald's,California,37.594481223529414,-120.97561494705882,Ceres,East Whitmore Avenue,95307
+way,1324007027,McDonald's,McDonald's,California,38.70531192000001,-120.8278286,Placerville,Golden Center Drive,
+way,1336756242,McDonald's,McDonald's,California,33.211621539999996,-117.03400108000001,Valley Center,Valley Center Rd,92082
+way,1340607307,Shake Shack,Shake Shack,California,32.76660305714286,-117.1586048,San Diego,Camino de la Reina,92108
+way,1340666575,In-N-Out Burger,In-N-Out,California,33.80031937647059,-117.2315853470588,Perris,Old Nuevo Road,92570
+way,1341538239,McDonald's,McDonald's,California,34.47127035999999,-117.29972728,Victorville,Bear Valley Road,92395
+way,1343523260,McDonald's,McDonald's,California,32.613297599999996,-117.06951406,Chula Vista,3rd Avenue,91911
+way,1348302798,McDonald's,McDonald's,California,36.808627522222224,-119.88423983333334,Fresno,West Shaw Avenue,93722
+way,1349411644,In-N-Out Burger,In-N-Out,California,34.310860842857146,-118.43590492857142,Sylmar,Foothill Boulevard,91342
+way,1357161078,McDonald's,McDonald's,California,38.66410221666667,-121.2912822,Citrus Heights,Madison Avenue,95610
+way,1358873214,In-N-Out Burger,In-N-Out,California,33.50014985555556,-117.66023348333334,San Juan Capistrano,Del Obispo Street,92675
+way,1361291411,McDonald's,McDonald's,California,32.75374222857143,-117.21847737142858,,,
+way,1369173156,McDonald's,McDonald's,California,33.69647104,-117.08799769999999,,,
+way,1375594421,In-N-Out Burger,In-N-Out,California,35.74739224444445,-119.24762284444445,Delano,Woollomes Avenue,93215
+way,1375599294,In-N-Out Burger,In-N-Out,California,37.57988674999999,-120.93940548333332,Ceres,Service Road,95307
+way,1375602139,In-N-Out Burger,In-N-Out,California,34.22532390000001,-119.15530247272727,,,
+way,1408545306,Freddy's,Freddy's,California,34.06944547142857,-117.45338535714286,Fontana,Citrus Avenue,92335
+way,1420284032,McDonald's,McDonald's,California,34.18374274166666,-118.32186060833332,Burbank,West Burbank Boulevard,91506
+way,1421052952,McDonald's,McDonald's,California,37.61485356,-120.9941589,Modesto,Crows Landing Road,95351
+way,1427593936,In-N-Out Burger,In-N-Out,California,33.785384990909094,-117.8912417181818,Orange,The City Drive South,92868
+way,1429831480,In-N-Out Burger,In-N-Out,California,33.740774296,-116.23308426,Indio,Avenue 42,92203
+way,1436617867,McDonald's,McDonald's,California,34.09987882222222,-117.40925808888889,Fontana,Arrow Boulevard,92335
+way,1436744869,In-N-Out Burger,In-N-Out,California,32.594447207692305,-117.03446008461539,Chula Vista,Main Court,91911
+way,1443146462,In-N-Out Burger,In-N-Out,California,37.688631199999996,-120.95863782941178,,,
+way,1450309314,In-N-Out Burger,In-N-Out,California,36.742749941666666,-119.69959914166668,,,
+way,1492539105,In-N-Out Burger,In-N-Out,California,33.69242448,-117.33461795999999,,,
+way,1504768544,McDonald's,McDonald's,California,36.202915121052634,-119.10301796315791,Lindsay,CA-65,93247
+way,1561759525,McDonald's,McDonald's,California,36.064886853333334,-119.00863507333337,,,
+way,1569890052,In-N-Out Burger,In-N-Out,California,37.650434718181806,-122.06790585454546,Hayward,Harder Road,94544
+way,1570266835,In-N-Out Burger,In-N-Out,California,36.974282933333335,-120.07860263333333,Madera,West Cleveland Avenue,93637
+way,1570474609,In-N-Out Burger,In-N-Out,California,33.84568684,-118.26392924,Carson,Avalon Boulevard,90746
+way,1570498255,In-N-Out Burger,In-N-Out,California,38.05258168,-121.37578977999999,Stockton,Trinity Parkway,95219
+way,1576406260,McDonald's,McDonald's,California,37.98360574,-121.7159742,Oakley,Laurel Road,94561

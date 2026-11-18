@@ -1,0 +1,183 @@
+osm_type,osm_id,name,brand,state_query,latitude,longitude,city,street,postcode
+node,359286750,McDonald's,McDonald's,Utah,40.3270908,-111.709011,Orem,North State Street,84057
+node,433592261,McDonald's,McDonald's,Utah,40.3548874,-111.7361532,Pleasant Grove,East State Street,84062
+node,445494360,McDonald's,McDonald's,Utah,40.1206853,-111.6389757,Spanish Fork,East Expressway Lane,84660-1300
+node,472282408,Five Guys,Five Guys,Utah,40.277707,-111.6770651,Orem,South 750 East,84097
+node,513052480,McDonald's,McDonald's,Utah,41.2299313,-112.0068402,West Haven,South 1100 West,84401
+node,672569198,McDonald's,McDonald's,Utah,37.0873545,-113.5843957,Saint George,South Bluff,84770-5249
+node,691146108,McDonald's,McDonald's,Utah,41.0886806,-112.042706,Syracuse,West 1700 South,84075
+node,703484599,McDonald's,McDonald's,Utah,40.3025674,-109.982096,,,
+node,775904320,McDonald's,McDonald's,Utah,37.1769842,-113.31065,Hurricane,West State Street,84737
+node,1304346615,McDonald's,McDonald's,Utah,41.1892598,-112.0490318,Roy,South Midland Drive,84067
+node,1515558325,Five Guys,Five Guys,Utah,41.2243309,-111.970817,Ogden,Washington Boulevard,84401
+node,1738863673,Five Guys,Five Guys,Utah,40.700221,-111.8038772,Salt Lake City,East 3300 South,84109
+node,2055653492,Five Guys,Five Guys,Utah,40.7072442,-112.0252889,West Valley City,South Glen Eagle Drive,84128
+node,2313807280,Freddy's,Freddy's,Utah,37.1255072,-113.5225653,,,
+node,2326325730,Five Guys,Five Guys,Utah,40.6220573,-111.8613664,Midvale,East Fort Union Boulevard,84047
+node,2327662156,McDonald's,McDonald's,Utah,40.7686328,-111.8886403,Salt Lake City,South State Street,84111
+node,2327662162,Shake Shack,Shake Shack,Utah,40.7684871,-111.8890517,Salt Lake City,South State Street,84111
+node,2330937773,Five Guys,Five Guys,Utah,40.6209212,-111.9795911,West Jordan,South Plaza Center Drive,84084
+node,2332676885,Five Guys,Five Guys,Utah,40.5620425,-111.8902649,Sandy,State Street,84070
+node,2335597512,McDonald's,McDonald's,Utah,40.5800955,-111.8370929,Sandy,East 9400 South,84092
+node,2336726046,McDonald's,McDonald's,Utah,40.6874145,-111.8603029,Salt Lake City,South 1100 East,84115
+node,2387957892,McDonald's,McDonald's,Utah,40.4999004,-111.4139914,,,
+node,3101308907,McDonald's,McDonald's,Utah,40.5493628,-112.2977687,Tooele,North Main Street,84074
+node,3634596781,Five Guys,Five Guys,Utah,41.7518074,-111.8348219,Logan,North Main Street,84341
+node,3977374715,Freddy's,Freddy's,Utah,40.6199274,-111.910664,,,
+node,4110066676,Five Guys,Five Guys,Utah,40.6535546,-111.9393457,Taylorsville,West 5400 South,84118
+node,4296767301,Five Guys,Five Guys,Utah,40.7220957,-111.5420139,Park City,Uinta Way,84098
+node,4320463199,McDonald's,McDonald's,Utah,41.158834,-111.9401137,South Ogden,Harrison Boulevard,84403
+node,4839208885,Five Guys,Five Guys,Utah,40.8917885,-111.8925382,Bountiful,North 500 West,84010
+node,5278025116,Shake Shack,Shake Shack,Utah,40.7409929,-111.8274088,Salt Lake City,South Foothill Drive,84108
+node,5943292009,Culver's,Culver's,Utah,41.1177495,-112.0652204,West Point,North 2000 West,84015
+node,6463282887,Shake Shack,Shake Shack,Utah,37.8777203,-109.342722,,,
+node,7252253838,McDonald's,McDonald's,Utah,41.1759253,-111.9992453,Riverdale,Riverdale Road,84405
+node,7339376603,McDonald's,McDonald's,Utah,40.7408994,-111.901581,,,
+node,7630524012,Five Guys,Five Guys,Utah,40.1237836,-111.6451446,Spanish Fork,East 1000 North,84660
+node,8072353904,Shake Shack,Shake Shack,Utah,40.7849848,-111.9852224,,,
+node,8294706900,In-N-Out Burger,In-N-Out,Utah,40.1211208,-111.6417598,Spanish Fork,East 800 North,84660
+node,8570345316,McDonald's,McDonald's,Utah,40.162049,-111.6518953,Springville,South 2200 West,84663
+node,9254645527,McDonald's,McDonald's,Utah,41.0687599,-111.9788966,Layton,West Hill Field Road,84041
+node,9517412765,Culver's,Culver's,Utah,37.1456046,-113.487033,Washington,East Twin Rocks Cove,84780
+node,9666513782,Culver's,Culver's,Utah,41.757006,-111.82861,Logan,North 200 East,84341
+node,9726278259,McDonald's,McDonald's,Utah,41.7467943,-111.833823,Logan,North Main Street,84321
+node,9799165195,McDonald's,McDonald's,Utah,41.7132217,-111.8392967,Logan,South Highway 89,84321
+node,9815883282,McDonald's,McDonald's,Utah,41.8404259,-111.832042,Smithfield,North Main,84335
+node,9921634709,McDonald's,McDonald's,Utah,37.1436627,-113.4879884,Washington,North Commerce Boulevard,84780
+node,9962830049,Five Guys,Five Guys,Utah,40.5270008,-111.8776906,Draper,East 12300 South,84020
+node,11974193650,Five Guys,Five Guys,Utah,40.522553,-111.9822748,Riverton,South Rhetski Lane,84065
+node,11974193661,Five Guys,Five Guys,Utah,40.3817333,-111.8146843,American Fork,Northwest State Street,84003
+node,12195068044,McDonald's,McDonald's,Utah,37.0843083,-113.5541885,,,
+node,12288713269,McDonald's,McDonald's,Utah,40.0677643,-111.6652936,,,84653
+node,12288740173,McDonald's,McDonald's,Utah,40.6380087,-112.0007036,,,84118
+node,12696432525,Freddy's,Freddy's,Utah,40.7889537,-111.9849697,,,
+node,12781980829,Culver's,Culver's,Utah,37.1244653,-113.6285778,St. George,West Sunset Boulevard,84790
+node,12926602218,Shake Shack,Shake Shack,Utah,40.551189,-111.8914007,Sandy,S State Street,84070
+node,14243488701,Freddy's,Freddy's,Utah,40.3627737,-111.9753396,,,
+node,14296742215,McDonald's,McDonald's,Utah,40.5752781,-112.2952847,Tooele,North Main Street,84074
+way,27878197,McDonald's,McDonald's,Utah,41.14093835714285,-112.06372498571427,Clinton,North 2000 West,84015
+way,33622762,McDonald's,McDonald's,Utah,41.07676978,-111.97419614,Layton,North Hillfield Road,84041-4845
+way,35568092,McDonald's,McDonald's,Utah,40.862001057142855,-111.89750572857143,Woods Cross,West 2600 South,84010-8190
+way,40698256,McDonald's,McDonald's,Utah,41.3062729,-111.96937374444445,North Ogden,North Washington,84414
+way,41557323,McDonald's,McDonald's,Utah,41.177305622222214,-112.00135785555557,Riverdale,West Riverdale Road,84405
+way,41975795,McDonald's,McDonald's,Utah,40.70027705555556,-111.80031756666666,Salt Lake City,South Valley Street,84109
+way,42690967,McDonald's,McDonald's,Utah,41.16503332,-112.0265834,Roy,South 1900 West,84067-2908
+way,46906259,McDonald's,McDonald's,Utah,41.307177,-112.0232109,Farr West,West 2700 North,84404
+way,49606899,Five Guys,Five Guys,Utah,41.090109760000004,-111.98193150000002,Layton,North Harris Boulevard,84041
+way,51319469,McDonald's,McDonald's,Utah,41.192420485714294,-111.97171641428572,South Ogden,South Washington Boulevard,84403
+way,51807918,McDonald's,McDonald's,Utah,41.245622833333336,-111.97048016666666,Ogden,Washington Boulevard,84404-4950
+way,53143250,In-N-Out Burger,In-N-Out,Utah,37.12780996,-113.52312448,Washington,West Telegraph Street,84780
+way,54929303,McDonald's,McDonald's,Utah,41.123742529411764,-112.02681882941178,Clearfield,North Main Street,84015-3249
+way,61111510,McDonald's,McDonald's,Utah,40.78432438,-111.93842950000001,Salt Lake City,West 700 North,84116
+way,63514085,McDonald's,McDonald's,Utah,41.0617405,-111.94601700769233,Layton,East Gentile,84041
+way,89846202,McDonald's,McDonald's,Utah,41.03870612,-111.94464468000001,Kaysville,West 200 North,84037
+way,97655892,Five Guys,Five Guys,Utah,37.10666562,-113.55605743999999,Saint George,East 100 South,84790
+way,118386111,McDonald's,McDonald's,Utah,38.563312780000004,-109.54981006999999,Moab,South Main Street,84532-2926
+way,151562725,McDonald's,McDonald's,Utah,40.186247518181816,-111.60997797272726,Springville,North Main Street,84663
+way,155925678,McDonald's,McDonald's,Utah,40.77187711538462,-111.91855155384616,Salt Lake City,West North Temple,84116
+way,158080557,McDonald's,McDonald's,Utah,40.38798956,-111.9143527,Saratoga Springs,East Crossroads Boulevard,84043
+way,161134868,McDonald's,McDonald's,Utah,40.508304620000004,-112.01078290000001,Herriman,West 13400 South,84096
+way,161390027,McDonald's,McDonald's,Utah,40.25008948,-111.66250144,Provo,West 1230 North,84604-2546
+way,176553213,McDonald's,McDonald's,Utah,41.711321614285715,-112.20099332857144,Tremonton,West Main Street,84337
+way,194997915,In-N-Out Burger,In-N-Out,Utah,40.92237986999999,-111.88953540000003,Centerville,North Frontage Road,84014
+way,194998993,McDonald's,McDonald's,Utah,40.92349372,-111.89011201999999,Centerville,North 700 West,84014
+way,209699657,McDonald's,McDonald's,Utah,37.109472385714284,-113.56667805714287,Saint George,East Saint George Boulevard,84770
+way,217708097,McDonald's,McDonald's,Utah,37.12243267272727,-113.62420581818179,Saint George,West Sunset Boulevard,84770
+way,222412095,McDonald's,McDonald's,Utah,37.127587966666674,-113.52157276666667,Washington City,West Telegraph Street,84780
+way,224698912,In-N-Out Burger,In-N-Out,Utah,40.52885725999999,-111.8892699,Draper,South State Street,84020
+way,233652117,In-N-Out Burger,In-N-Out,Utah,40.37590211538462,-111.8147999923077,American Fork,West Main Street,84003
+way,241150947,McDonald's,McDonald's,Utah,40.37404005454545,-111.78755593636365,American Fork,East State,84003-2559
+way,241408278,McDonald's,McDonald's,Utah,40.544546714285715,-111.98222828571427,South Jordan,South River Heights Drive,84095
+way,241510309,In-N-Out Burger,In-N-Out,Utah,40.609857035714285,-111.98592062857144,West Jordan,South Jordan Landing Boulevard,84084
+way,241991797,McDonald's,McDonald's,Utah,40.622657675,-111.86654658750001,Midvale,East Fort Union Boulevard,84047-1711
+way,241991806,In-N-Out Burger,In-N-Out,Utah,40.620419834782616,-111.85653237391303,Midvale,South Union Park Avenue,84047
+way,247630264,McDonald's,McDonald's,Utah,41.492228211111104,-112.01648529999999,,,
+way,260868536,McDonald's,McDonald's,Utah,37.0432782,-112.52511926,Kanab City,East 300 South,84741
+way,265725082,McDonald's,McDonald's,Utah,40.27426831999999,-111.71280094000001,Orem,South Sandhill Road,84058
+way,281365798,McDonald's,McDonald's,Utah,40.58731823076923,-111.98567556153846,West Jordan,West 9000 South,84088
+way,299132651,McDonald's,McDonald's,Utah,40.72496846363636,-111.5453797909091,,,84098
+way,306461522,McDonald's,McDonald's,Utah,40.5626762,-111.93796285555555,South Jordan,South Redwood Road,84095
+way,309677678,McDonald's,McDonald's,Utah,40.733947092307695,-111.93828373076923,Salt Lake City,South Redwood Road,84104
+way,324443616,McDonald's,McDonald's,Utah,38.29280682,-112.64807714000001,Beaver,,84713
+way,342659330,McDonald's,McDonald's,Utah,40.696997228571426,-111.97409927142857,West Valley City,West 3500 South,84119
+way,347407666,McDonald's,McDonald's,Utah,40.21736155555556,-111.65846202222222,Provo,South University Avenue,84601-5944
+way,352654586,McDonald's,McDonald's,Utah,40.69550491666667,-112.09245711666665,Magna,South 8400 West,84044
+way,357488901,In-N-Out Burger,In-N-Out,Utah,40.6914378,-111.95763444000002,West Valley City,South Constitution Boulevard,84119
+way,365007634,McDonald's,McDonald's,Utah,40.41686539999999,-111.77310112,Cedar Hills,North 4800 West Street,84062
+way,375966660,Freddy's,Freddy's,Utah,40.712784122222224,-112.0225571111111,West Valley City,West High Market Drive,84120
+way,387222334,McDonald's,McDonald's,Utah,40.65415076666667,-112.02523674999998,West Valley City,South 5600 West,84118
+way,407986712,McDonald's,McDonald's,Utah,40.54777098333333,-111.89176685000001,Sandy,Auto Mall Drive,84070
+way,419522104,McDonald's,McDonald's,Utah,40.72579752,-111.86414081999999,Salt Lake City,East 2100 South,84105
+way,425404398,McDonald's,McDonald's,Utah,40.75912844285715,-111.8973627,Salt Lake City,West 500 South,84101
+way,427833540,Culver's,Culver's,Utah,40.621316414285715,-111.91178522857145,Midvale,South Bingham Junction Boulevard,84047
+way,431198968,McDonald's,McDonald's,Utah,40.88474448,-111.89272122,West Bountiful,South,84010
+way,458491943,McDonald's,McDonald's,Utah,39.350054560000004,-111.58767422000001,,,
+way,462959559,McDonald's,McDonald's,Utah,40.52280632,-111.94484961999999,Riverton,West 12600 South,84065
+way,463017635,In-N-Out Burger,In-N-Out,Utah,40.52258192352941,-111.98482384117648,Riverton,South Crossing Drive,84065
+way,463312969,In-N-Out Burger,In-N-Out,Utah,40.27309912916667,-111.68658620000001,orem,East University Parkway,84058
+way,464957416,McDonald's,McDonald's,Utah,40.31256347142857,-111.72264767142858,Orem,West Canyon Parkway,84057
+way,465041358,McDonald's,McDonald's,Utah,40.527257500000005,-111.88132588571429,Draper,East 12300 South,84020
+way,466225991,McDonald's,McDonald's,Utah,40.05257318695652,-111.73309176086958,Payson,Main Street,84651
+way,471894045,McDonald's,McDonald's,Utah,40.623500719999996,-111.83475460000002,Salt Lake City,South Highland Drive,84121
+way,483061229,McDonald's,McDonald's,Utah,41.091128728571434,-112.00260637142857,Layton,North Main Street,84041-4942
+way,483514659,In-N-Out Burger,In-N-Out,Utah,41.088714100000004,-111.98876299999999,Layton,North 1200 West,84041
+way,497276882,Culver's,Culver's,Utah,40.12197837142857,-111.64312145714287,Spanish Fork,North 700 East,84660
+way,498950322,Culver's,Culver's,Utah,40.388143071428566,-111.82845595714285,Lehi,East Main Street,84043
+way,509374066,In-N-Out Burger,In-N-Out,Utah,41.19118017058823,-111.97991262352943,Riverdale,Riverdale Road,84405
+way,540113901,Culver's,Culver's,Utah,37.08108751428572,-113.57850234285715,Saint George,South 270 East,84790
+way,545140089,McDonald's,McDonald's,Utah,40.6662195909091,-111.83751009090908,Holladay,East Murray Holladay Road,84117
+way,554454164,McDonald's,McDonald's,Utah,40.72557722307692,-111.8240623076923,Salt Lake City,East 2100 South,84109
+way,588296574,McDonald's,McDonald's,Utah,40.736458818181816,-111.8877261727273,Salt Lake City,South State Street,84115
+way,605051913,Freddy's,Freddy's,Utah,40.43781696363636,-109.56641142727271,Vernal,West Highway 40,84078
+way,613166927,McDonald's,McDonald's,Utah,40.453942940000005,-109.54647912,Vernal,,84079
+way,613169916,McDonald's,McDonald's,Utah,40.72591855454545,-111.90026756363636,Salt Lake City,South 300 West,84115
+way,619283580,McDonald's,McDonald's,Utah,40.70018918,-111.89071506,South Salt Lake,East 3300 South,84115
+way,629541689,Culver's,Culver's,Utah,40.31132168571428,-111.72401747142858,Orem,West Canyon Parkway,84057
+way,629541699,Culver's,Culver's,Utah,40.5624613,-111.97152547272727,South Jordan,South Jordan Parkway,84095
+way,629541736,Culver's,Culver's,Utah,40.69818807142858,-112.02427022857144,West Valley City,South 5600 West,84120
+way,703157591,McDonald's,McDonald's,Utah,40.643815385714284,-111.88838284285714,Murray,South State Street,84107
+way,705658414,McDonald's,McDonald's,Utah,40.650981099999996,-111.93829389473683,Taylorsville,South Redwood Road,84123
+way,712414548,McDonald's,McDonald's,Utah,40.537660457142856,-112.0207616,South Jordan,West Daybreak Parkway,84009
+way,723136870,McDonald's,McDonald's,Utah,40.60982353846154,-112.02669231538464,West Jordan,West 7800 South,84081
+way,744181247,Culver's,Culver's,Utah,40.8959749,-111.89176917142858,Bountiful,North 500 West,84010
+way,744181432,Culver's,Culver's,Utah,37.65855561111111,-113.07270164444445,Cedar City,Main Street,84720
+way,769659337,McDonald's,McDonald's,Utah,40.763836457142865,-111.87147115714286,Salt Lake City,South 700 East,84102
+way,848835285,McDonald's,McDonald's,Utah,40.688541018181816,-112.2667961818182,Lake Point,North SR 36,84074
+way,925448260,Shake Shack,Shake Shack,Utah,40.63759917142857,-111.88857852857143,Murray,South State Street,84107
+way,944730766,McDonald's,McDonald's,Utah,39.35207052222222,-112.56846726666667,,East Main Street,84624
+way,945870657,McDonald's,McDonald's,Utah,40.65340255882354,-111.98435584705881,Taylorsville,West 5400 South,84129
+way,952814586,McDonald's,McDonald's,Utah,41.633250385714284,-111.83218485714285,Hyrum,South 800 East,84319
+way,972951925,McDonald's,McDonald's,Utah,40.60995186666666,-111.94051767777778,West Jordan,West 7800 South,84084
+way,1000084879,In-N-Out Burger,In-N-Out,Utah,41.739400200000006,-111.83438768888887,Logan,North Main Street,84321
+way,1006929003,Five Guys,Five Guys,Utah,40.4323262,-111.8887432,Lehi,North Digital Drive,84043
+way,1006932709,McDonald's,McDonald's,Utah,40.297629057142856,-111.69592512857143,Orem,North State Street,84057
+way,1006934869,McDonald's,McDonald's,Utah,40.431990639999995,-111.88622444000002,Lehi,North Digital Drive,84043
+way,1026869111,McDonald's,McDonald's,Utah,40.67937921111111,-111.93842147777778,Taylorsville,South Redwood Road,84123
+way,1042423332,McDonald's,McDonald's,Utah,40.58726972857143,-111.92795537142857,West Jordan,West 9000 South,84088
+way,1050564770,McDonald's,McDonald's,Utah,40.6970057,-112.02423544285713,West Valley City,South 5600 West,84120
+way,1056883576,McDonald's,McDonald's,Utah,40.675229244444445,-111.9001700888889,Murray,South Commerce Drive,84107
+way,1087365162,Freddy's,Freddy's,Utah,40.52792384000001,-111.85817854,Draper,East Draper Parkway,84020
+way,1106483878,McDonald's,McDonald's,Utah,40.55974485238095,-111.85378077142857,Sandy,South 1300 East,84070
+way,1110123212,McDonald's,McDonald's,Utah,40.988529080000006,-111.91135374000001,Farmington,Grand Avenue,84025
+way,1110629078,McDonald's,McDonald's,Utah,40.581540857142855,-111.87277962857142,Sandy,South 700 East,84070
+way,1115294042,McDonald's,McDonald's,Utah,40.36261052857144,-111.96467559999999,Eagle Mountain,East Pony Express Parkway,84005
+way,1122813037,Culver's,Culver's,Utah,41.05957754000001,-111.95980758,Layton,East Gentile Street,84041
+way,1126585142,McDonald's,McDonald's,Utah,40.38779815555555,-111.83614878888889,Lehi,South 850 East,84043
+way,1133062178,McDonald's,McDonald's,Utah,40.620303581818185,-111.90215440909091,Midvale,West 7200 South,84047-1040
+way,1133080770,McDonald's,McDonald's,Utah,40.50377872857143,-111.89759707142856,Draper,South 200 West,84020
+way,1134459466,McDonald's,McDonald's,Utah,39.60002646,-110.80312914000001,,,
+way,1197827912,Culver's,Culver's,Utah,40.611151023076914,-112.02387954615385,West Jordan,South 5600 West,84081
+way,1231385198,McDonald's,McDonald's,Utah,37.681280900000004,-113.0764838,Cedar City,200 North,84720
+way,1236738611,McDonald's,McDonald's,Utah,40.28175566,-111.68013684,Orem,East 800 South,84604
+way,1333235492,McDonald's,McDonald's,Utah,40.413598171428575,-111.90749797142858,Lehi,West 2150 North,84043
+way,1384021839,McDonald's,McDonald's,Utah,38.753714133333325,-112.08663801111112,Richfield,UT 118,84701
+way,1417974366,Freddy's,Freddy's,Utah,40.509146345454546,-111.98719733636364,Riverton,South Old Liberty Way,84096
+way,1418597848,Freddy's,Freddy's,Utah,41.24391776,-111.97463808,Ogden,12th Street,84404
+way,1422589140,McDonald's,McDonald's,Utah,40.031871720000005,-111.74719984000001,Payson,West 800 South,84651
+way,1450325643,In-N-Out Burger,In-N-Out,Utah,40.72504943333333,-111.89079093749997,South Salt Lake,East 2100 South,84115
+way,1465519847,McDonald's,McDonald's,Utah,40.30852690000001,-112.01348790000002,Eagle Mountain,North Pony Express Parkway,84005
+way,1512723573,McDonald's,McDonald's,Utah,37.6604019,-113.07195088,,,
+way,1547017206,McDonald's,McDonald's,Utah,40.16074856666667,-111.6284469,Springville,West 400 South,84663
+way,1553991099,Freddy's,Freddy's,Utah,40.22003983636364,-111.65834891818182,,,
+way,1558546394,Shake Shack,Shake Shack,Utah,41.18751358,-111.98378502,Ogden,Riverdale Road,84405
+way,1570485309,In-N-Out Burger,In-N-Out,Utah,37.02897204,-113.60593449999999,St. George,South Pioneer Road,84790

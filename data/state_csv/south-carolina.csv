@@ -1,0 +1,297 @@
+osm_type,osm_id,name,brand,state_query,latitude,longitude,city,street,postcode
+node,313825456,McDonald's,McDonald's,South Carolina,33.0357332,-80.0637426,Goose Creek,Saint James Avenue,29445
+node,516324759,McDonald's,McDonald's,South Carolina,34.7779585,-82.3121366,Mauldin,West Butler Road,29662
+node,557391543,McDonald's,McDonald's,South Carolina,33.7270522,-78.8703973,Myrtle Beach,Oleander Drive,29577
+node,612494346,McDonald's,McDonald's,South Carolina,34.8598749,-82.4049442,Greenville,Rutherford Street,29609
+node,614969169,McDonald's,McDonald's,South Carolina,34.7945727,-82.4185993,Greenville,White Horse Road,29605
+node,626112459,Five Guys,Five Guys,South Carolina,34.8907983,-82.4032258,Greenville,North Pleasantburg Drive,29609
+node,642296658,McDonald's,McDonald's,South Carolina,34.5051832,-82.0083531,,,
+node,644112278,McDonald's,McDonald's,South Carolina,34.914659,-82.2377749,Greer,Hammett Bridge Road,29650
+node,740560395,McDonald's,McDonald's,South Carolina,33.9307908,-81.0763162,Cayce,Charleston Highway,29033
+node,895260874,McDonald's,McDonald's,South Carolina,34.5795479,-82.7139514,Anderson,Electric City Boulevard,29621
+node,1090097728,McDonald's,McDonald's,South Carolina,33.0122833,-80.2359407,Knightsville,Central Avenue,29483
+node,1114339885,McDonald's,McDonald's,South Carolina,34.8200563,-82.4160853,Greenville,Cannon Drive,29605
+node,1143856774,McDonald's,McDonald's,South Carolina,34.2820023,-79.8560435,Darlington,South Main Street,29532
+node,1243723738,McDonald's,McDonald's,South Carolina,32.8690691,-80.0129599,North Charleston,West Montague Avenue,29418
+node,1250449554,McDonald's,McDonald's,South Carolina,32.913828,-80.1083045,North Charleston,Dorchester Road,29420
+node,1256630209,McDonald's,McDonald's,South Carolina,33.0389286,-80.1421155,Summerville,North Main Street,29483
+node,1270455240,Five Guys,Five Guys,South Carolina,34.0067382,-81.1967646,Lexington,Sunset Boulevard,29072
+node,1272557505,McDonald's,McDonald's,South Carolina,32.31201,-81.0542368,,,
+node,1703198090,McDonald's,McDonald's,South Carolina,33.5236117,-81.7190744,Aiken,Whiskey Road,28903
+node,1827676875,Five Guys,Five Guys,South Carolina,32.7875826,-80.0160766,,,
+node,1840671660,McDonald's,McDonald's,South Carolina,34.1766777,-81.3248193,,,
+node,1875006382,Five Guys,Five Guys,South Carolina,33.5221412,-81.7191982,Aiken,Whiskey Road,29803
+node,1940039983,Five Guys,Five Guys,South Carolina,34.8268617,-82.5471922,Easley,Rolling Hills Circle,29640
+node,1987846308,Five Guys,Five Guys,South Carolina,32.8283123,-79.8348271,Mount Pleasant,Highway 17 North,29464
+node,2125895479,Five Guys,Five Guys,South Carolina,34.8601134,-82.263183,Greenville,Pelham Road,29615
+node,2346536373,McDonald's,McDonald's,South Carolina,32.6331052,-80.8768596,Yemassee,Frampton Drive,29945
+node,2705035672,McDonald's,McDonald's,South Carolina,33.9095592,-81.5317092,Batesburg-Leesville,West Columbia Avenue,29006
+node,2709626927,McDonald's,McDonald's,South Carolina,33.7780116,-79.0207676,Conway,Highway 544,29526
+node,2711064498,McDonald's,McDonald's,South Carolina,33.8474772,-79.0654914,Conway,US Highway 501,29526
+node,2755497792,McDonald's,McDonald's,South Carolina,34.6936005,-79.910248,,,
+node,2757327276,McDonald's,McDonald's,South Carolina,34.6078176,-79.6795537,,,29512
+node,2879123009,McDonald's,McDonald's,South Carolina,34.183609,-79.3668271,,,
+node,2942588470,McDonald's,McDonald's,South Carolina,33.6635821,-79.8331221,,,
+node,2942760475,McDonald's,McDonald's,South Carolina,33.6978144,-80.2260957,,,
+node,2943508108,McDonald's,McDonald's,South Carolina,33.5668735,-81.9368129,North Augusta,Edgefield Road,29860
+node,2958556733,Five Guys,Five Guys,South Carolina,34.1898161,-79.8061988,Florence,Hoffmeyer Road,29501
+node,2975243999,McDonald's,McDonald's,South Carolina,33.243656,-81.3747115,,,
+node,3051146660,McDonald's,McDonald's,South Carolina,32.7593495,-79.974673,Charleston,Folly Road,29412
+node,3052695509,McDonald's,McDonald's,South Carolina,32.9393988,-80.0363414,,,
+node,3054622093,Five Guys,Five Guys,South Carolina,32.8717617,-80.0203813,North Charleston,Centre Pointe Drive,29418
+node,3066135623,McDonald's,McDonald's,South Carolina,32.7870451,-79.9546896,Charleston,Spring Street,29403
+node,3137582775,Five Guys,Five Guys,South Carolina,33.7834893,-78.7745669,Myrtle Beach,Kings Road,29572
+node,3189029679,McDonald's,McDonald's,South Carolina,33.8689484,-80.3559877,Sumter,Highway 15 South,29154
+node,3189051635,McDonald's,McDonald's,South Carolina,33.5216433,-80.8825254,,,
+node,3361022331,McDonald's,McDonald's,South Carolina,34.5370692,-82.6666824,Anderson,North Main Street,29625
+node,3371164203,McDonald's,McDonald's,South Carolina,34.4810438,-82.6632305,Anderson,Sc Highway 28 Bypass,29624
+node,3522151093,McDonald's,McDonald's,South Carolina,33.6644708,-81.6748207,Aiken,West Frontage Road,29803
+node,3836601290,McDonald's,McDonald's,South Carolina,35.142803,-81.5077015,Blacksburg,North Mountain Street,29702
+node,3967384481,Five Guys,Five Guys,South Carolina,34.8473271,-82.3390813,Greenville,Haywood Road,29607
+node,3977120602,Five Guys,Five Guys,South Carolina,34.9378344,-82.2721397,Greer,West Wade Hampton Boulevard,29650
+node,4075802641,McDonald's,McDonald's,South Carolina,32.2413614,-80.823719,Bluffton,Ford Island Road,29910
+node,4253402113,Five Guys,Five Guys,South Carolina,32.1571746,-80.7649049,Hilton Head Island,Palmetto Bay Road,29928
+node,4468143322,McDonald's,McDonald's,South Carolina,33.7028607,-78.870706,Myrtle Beach,North Kings Highway,29577
+node,4898075890,McDonald's,McDonald's,South Carolina,34.2658117,-79.7029853,Florence,North Williston Road,29506
+node,4971025628,Five Guys,Five Guys,South Carolina,34.1304815,-80.8797808,Columbia,Town Center Place,29229
+node,5076518856,McDonald's,McDonald's,South Carolina,33.4170525,-80.666559,,,
+node,5266308263,McDonald's,McDonald's,South Carolina,32.2724866,-80.9156362,,,
+node,5275018054,McDonald's,McDonald's,South Carolina,34.0351816,-81.0899233,Columbia,Broad River Road,29210
+node,5339083973,McDonald's,McDonald's,South Carolina,34.0059365,-81.7703872,,,
+node,5354464868,McDonald's,McDonald's,South Carolina,33.9648781,-80.9438893,Columbia,Garners Ferry Road,29209
+node,5413568199,McDonald's,McDonald's,South Carolina,34.9350268,-82.0010602,Spartanburg,Warren H Abernathy Highway,29301
+node,5567888222,McDonald's,McDonald's,South Carolina,32.8802078,-80.7132411,,Sniders Highway,
+node,5941408472,Five Guys,Five Guys,South Carolina,34.6915141,-82.85865,Seneca,Clemson Boulevard,29678
+node,5980376197,McDonald's,McDonald's,South Carolina,33.5541695,-80.8270119,,Saint Matthews Road,29118
+node,6073914762,Freddy's,Freddy's,South Carolina,34.9974111,-80.8545268,Indian Land,Red Stone Drive,29707
+node,6318157664,Five Guys,Five Guys,South Carolina,34.9227162,-81.9801585,Spartanburg,John B White Boulevard,29301
+node,6327010359,McDonald's,McDonald's,South Carolina,35.0472997,-81.9829863,Boiling Springs,Boiling Springs Road,29316
+node,6343889585,McDonald's,McDonald's,South Carolina,32.911076,-80.6685282,Walterboro,North Jefferies Boulevard,29488
+node,7015994301,McDonald's,McDonald's,South Carolina,33.9993715,-79.20582,,Highway 501,29511
+node,7432024092,Five Guys,Five Guys,South Carolina,33.9570835,-80.3865687,Sumter,Broad Street,29150
+node,7790513616,McDonald's,McDonald's,South Carolina,33.9802205,-81.3042951,Lexington,Augusta Highway,29072
+node,7865804576,McDonald's,McDonald's,South Carolina,34.2837729,-81.5976555,Newberry,Wilson Road,29108
+node,7883068913,McDonald's,McDonald's,South Carolina,34.1970547,-80.2769799,,,
+node,8196434780,McDonald's,McDonald's,South Carolina,33.9240244,-81.2908147,Lexington,Longs Pond Road,29072
+node,8220254562,McDonald's,McDonald's,South Carolina,34.0144354,-81.1535411,Lexington,Sunset Boulevard,29072
+node,8988156270,Freddy's,Freddy's,South Carolina,34.0050964,-81.1188638,West Columbia,Sunset Boulevard,29169
+node,9208870630,McDonald's,McDonald's,South Carolina,32.1557409,-80.7597848,Hilton Head Island,New Orleans Road,29928
+node,9281355637,McDonald's,McDonald's,South Carolina,32.4402382,-80.7055738,,,
+node,9385112315,McDonald's,McDonald's,South Carolina,34.2196639,-80.5933462,Camden,Wall Street,29020
+node,9421026609,Five Guys,Five Guys,South Carolina,32.9364836,-80.1412237,North Charleston,Dorchester Road,29485
+node,9686000121,McDonald's,McDonald's,South Carolina,34.5311324,-82.6961323,Anderson,Pearman Dairy Road,29625
+node,10057431747,McDonald's,McDonald's,South Carolina,33.1945878,-80.601258,,,
+node,10067595980,McDonald's,McDonald's,South Carolina,32.8214833,-80.0812945,Charleston,West Ashley Circle,29414-9156
+node,10290547236,McDonald's,McDonald's,South Carolina,33.4485944,-79.5528913,,,
+node,10642200737,McDonald's,McDonald's,South Carolina,32.378838,-80.7262967,,,
+node,10956645252,Freddy's,Freddy's,South Carolina,33.9751504,-81.2238559,,,
+node,11270613351,McDonald's,McDonald's,South Carolina,33.0350004,-80.1541662,Summerville,North Main Street,29483
+node,11270634899,Five Guys,Five Guys,South Carolina,33.0347136,-80.158459,Summerville,North Main Street,29483
+node,11270634942,McDonald's,McDonald's,South Carolina,33.025273,-80.1705854,Summerville,North Main Street,29483
+node,11356377265,McDonald's,McDonald's,South Carolina,34.3705586,-81.1001553,,,
+node,11435730229,McDonald's,McDonald's,South Carolina,33.5919449,-80.3555161,,,
+node,11599346236,McDonald's,McDonald's,South Carolina,34.1656909,-79.8279939,Florence County,Celebration Boulevard,29501
+node,11599365940,McDonald's,McDonald's,South Carolina,34.1967494,-79.6558316,Florence County,East Palmetto Street,29506
+node,11599373855,McDonald's,McDonald's,South Carolina,34.1647577,-79.7643806,Florence County,South Irby Street,29505
+node,11599395130,McDonald's,McDonald's,South Carolina,33.9535872,-80.993299,Richland County,Bluff Road,29201
+node,11599445735,McDonald's,McDonald's,South Carolina,34.5323182,-82.6335369,Anderson County,East Greenville Street,29621
+node,11658306702,Five Guys,Five Guys,South Carolina,33.8391055,-78.6657807,North Myrtle Beach,US Highway 17 North,29582
+node,11670175027,McDonald's,McDonald's,South Carolina,35.1570459,-81.4785459,Blacksburg,Priester Road,29702
+node,11980138710,Five Guys,Five Guys,South Carolina,32.9337519,-80.0370168,North Charleston,Rivers Avenue,29406
+node,12004811002,Five Guys,Five Guys,South Carolina,33.7036657,-78.9158493,Myrtle Beach,Pine Island Road,29577
+node,12137698963,Whataburger,Whataburger,South Carolina,34.5328111,-82.6638418,Anderson,North Main Street,29621
+node,12179614252,McDonald's,McDonald's,South Carolina,33.5198419,-81.9555469,North Augusta,Georgia Avenue,29841
+node,12290427717,McDonald's,McDonald's,South Carolina,34.7108431,-82.497867,,Frontage Road,29673
+node,12290475492,McDonald's,McDonald's,South Carolina,34.2964025,-81.5437899,,Dusty Road,29108
+node,12290482216,McDonald's,McDonald's,South Carolina,33.4278659,-81.888241,,Sand Bar Ferry Road,29842
+node,12290484420,McDonald's,McDonald's,South Carolina,33.5033414,-81.9005626,,Jefferson Davis Highway,29841
+node,12292166306,McDonald's,McDonald's,South Carolina,34.418747,-79.3689401,,,29536
+node,12292169997,McDonald's,McDonald's,South Carolina,34.3408492,-79.5295811,,,29565
+node,12292594345,McDonald's,McDonald's,South Carolina,32.2143501,-80.700966,,Plaza Drive,29926
+node,12292619452,McDonald's,McDonald's,South Carolina,33.0559502,-80.2393568,,West 5th North Street,29483
+node,12292637320,McDonald's,McDonald's,South Carolina,32.4762272,-80.9687972,,Grahamville Road,29936
+node,12292642112,McDonald's,McDonald's,South Carolina,33.1039205,-80.1274893,,State Road,29486
+node,12474989026,McDonald's,McDonald's,South Carolina,34.0122619,-81.0407705,Columbia,Elmwood Avenue,29201
+node,12762024757,Whataburger,Whataburger,South Carolina,34.8260923,-82.5700913,Easley,Calhoun Memorial Highway,29640
+node,12781980865,Culver's,Culver's,South Carolina,34.5503704,-82.6311513,Anderson,Highway 81 North,29621
+node,12781980910,Culver's,Culver's,South Carolina,32.9756714,-80.13656,Ladson,Ladson Road,29456
+node,13143715454,Whataburger,Whataburger,South Carolina,34.9615429,-80.8531173,Indian Land,Charlotte Highway,
+node,13362305991,Freddy's,Freddy's,South Carolina,34.1564101,-79.7511162,,,
+node,13371044417,Five Guys,Five Guys,South Carolina,35.0612267,-81.9969033,,,
+node,13694255861,McDonald's,McDonald's,South Carolina,32.998832,-80.0389802,Goose Creek,Goose Creek Boulevard North,29445
+node,13998405707,McDonald's,McDonald's,South Carolina,33.4862431,-80.4741628,,,
+node,14059811919,Five Guys,Five Guys,South Carolina,32.4400025,-80.704841,,,
+node,14115257332,Whataburger,Whataburger,South Carolina,34.6299482,-82.7823606,Pendleton,Westinghouse Road,29670
+node,14135175239,Five Guys,Five Guys,South Carolina,34.9425905,-80.9597301,Rock Hill,Meeting Boulevard,29730
+node,14166518945,Shake Shack,Shake Shack,South Carolina,34.8228794,-82.2898652,Greenville,Woodruff Road,29607
+node,14300448701,Whataburger,Whataburger,South Carolina,34.939923,-80.9656183,,Cross Pointe Drive,29730
+node,14311360019,McDonald's,McDonald's,South Carolina,33.0927201,-80.0320332,Moncks Corner,Highway 52,29461
+node,14316439401,Whataburger,Whataburger,South Carolina,34.9399007,-80.9656005,,Cross Pointe Drive,29730
+way,27271524,McDonald's,McDonald's,South Carolina,34.69175841428571,-82.8370809142857,Clemson,Tiger Boulevard,29631
+way,37591303,McDonald's,McDonald's,South Carolina,32.999354266666664,-80.09157006666666,,,
+way,41817427,Whataburger,Whataburger,South Carolina,34.77621015999999,-82.31712174,Mauldin,West Butler Road,29662
+way,41958370,Whataburger,Whataburger,South Carolina,34.83063152380952,-82.30647446666666,Greenville,Woodruff Road,29607
+way,53013925,Steak 'n Shake,Steak 'n Shake,South Carolina,34.84923156,-82.32784806,Greenville,Congaree Road,29607
+way,53275777,Whataburger,Whataburger,South Carolina,34.859171644444444,-82.26454191111111,Greenville,Pelham Road,29615
+way,107436319,McDonald's,McDonald's,South Carolina,32.903891533333336,-80.01930080833334,North Charleston,Rivers Avenue,29406
+way,111842202,McDonald's,McDonald's,South Carolina,34.123164020000004,-81.21438552000001,Irmo,Dutch Fork Road,29063
+way,115792117,McDonald's,McDonald's,South Carolina,34.733173640000004,-80.76960950000002,,Lancaster By-Pass East,29720
+way,120905507,McDonald's,McDonald's,South Carolina,34.97225555714285,-80.98787555714286,Rock Hill,North Cherry Road,29730
+way,123597219,McDonald's,McDonald's,South Carolina,33.43860304285714,-79.12865775714285,,,
+way,131511065,McDonald's,McDonald's,South Carolina,32.934725074999996,-80.05034149999999,Charleston,Ashley Phosphate Road,29418
+way,163890494,McDonald's,McDonald's,South Carolina,34.18695143809524,-79.8086044904762,Florence,West Palmetto Street,29501
+way,182879829,McDonald's,McDonald's,South Carolina,34.22763602,-79.79846494,Florence,West Lucas Street,29501
+way,184500031,McDonald's,McDonald's,South Carolina,34.94043800000001,-80.97739778,Rock Hill,Dave Lyle Boulevard,29730
+way,196897809,McDonald's,McDonald's,South Carolina,34.00246255555556,-81.10716984444446,West Columbia,Sunset Boulevard,29169
+way,216523194,Steak 'n Shake,Steak 'n Shake,South Carolina,34.976027599999995,-80.98422294000002,Rock Hill,Cherry Road,29730
+way,247352061,McDonald's,McDonald's,South Carolina,33.87799996,-79.75923080000001,,,
+way,250056423,McDonald's,McDonald's,South Carolina,34.83200250769231,-82.30653726923077,Greenville,Woodruff Road,29607
+way,255472441,McDonald's,McDonald's,South Carolina,34.06700292000001,-80.95805762,Columbia,Parklane Road,29223
+way,257846013,Culver's,Culver's,South Carolina,35.09342972857143,-80.93612072857142,Fort Mill,Foothills Way,29708
+way,260555410,McDonald's,McDonald's,South Carolina,34.02271028,-80.9501222,Columbia,Forest Drive,29206
+way,260565208,McDonald's,McDonald's,South Carolina,33.98908659999999,-80.97258093999999,Columbia,Garners Ferry Road,29209
+way,282181448,McDonald's,McDonald's,South Carolina,33.956580207142856,-81.23163257142856,Lexington,South Lake Drive,29072
+way,288732117,McDonald's,McDonald's,South Carolina,34.140335224999994,-80.91439939166666,,,
+way,292247749,McDonald's,McDonald's,South Carolina,33.997313424999994,-81.045121525,Columbia,Gervais Street,29201
+way,301400759,Culver's,Culver's,South Carolina,32.875856060000004,-80.01689891999999,North Charleston,Tanger Outlet Boulevard,29418
+way,301418680,McDonald's,McDonald's,South Carolina,34.75475434285714,-82.26673984285715,Simpsonville,Northeast Main Street,29681
+way,304023147,McDonald's,McDonald's,South Carolina,33.49140341428572,-80.8557143,,,
+way,305213260,McDonald's,McDonald's,South Carolina,34.859871180000006,-82.26929604,Greenville,Pelham Road,29615
+way,307645755,McDonald's,McDonald's,South Carolina,34.826385771428576,-82.56926161428571,Easley,Calhoun Memorial Highway,29640
+way,309670063,McDonald's,McDonald's,South Carolina,34.828313660000006,-82.34639630000001,Greenville,Laurens Road,29607
+way,309673475,Culver's,Culver's,South Carolina,34.83134572666667,-82.34795227333332,Greenville,Laurens Road,29607
+way,310906420,Five Guys,Five Guys,South Carolina,34.71639329999999,-82.25393535999999,Simpsonville,Grandview Drive,29680
+way,315389130,McDonald's,McDonald's,South Carolina,34.0355978,-81.0044116,Richland County,Two Notch Road,29204
+way,316162212,McDonald's,McDonald's,South Carolina,34.911956784615384,-82.42885693846155,Greenville,Old Buncombe Road,29617
+way,327109270,Culver's,Culver's,South Carolina,34.82047695714286,-82.26043275714287,Greenville,Woodruff Road,29607
+way,327109274,McDonald's,McDonald's,South Carolina,34.820354223076926,-82.25686972307692,Greenville,Woodruff Road,29607
+way,332273522,McDonald's,McDonald's,South Carolina,34.88555924,-82.35424684,Greenville,Wade Hampton Boulevard,29615
+way,332441247,McDonald's,McDonald's,South Carolina,34.07399346,-81.15543976000001,Columbia,Harbison Boulevard,29212
+way,334446602,McDonald's,McDonald's,South Carolina,34.70619184615385,-82.2584829,Simpsonville,Fairview Road,29680
+way,334596860,McDonald's,McDonald's,South Carolina,33.32624068,-81.13270032,,,
+way,359997739,McDonald's,McDonald's,South Carolina,34.884964271428565,-82.70463088571428,Pickens,East Main Street,29671
+way,360764407,McDonald's,McDonald's,South Carolina,34.96066064,-82.43588744,Travelers Rest,Roe Road,29690
+way,369222916,McDonald's,McDonald's,South Carolina,34.21453656,-80.9810965,,,
+way,408882662,McDonald's,McDonald's,South Carolina,34.0751883,-80.99830896,Columbia,Wilson Boulevard,29203
+way,416548099,McDonald's,McDonald's,South Carolina,34.823700153846154,-82.39367453076923,Greenville,Augusta Street,29605
+way,419009692,McDonald's,McDonald's,South Carolina,34.92111501428571,-81.88624524285716,Spartanburg,Cedar Springs Road,29302
+way,427076671,McDonald's,McDonald's,South Carolina,34.09807130909091,-80.85545542727273,,,
+way,449011218,McDonald's,McDonald's,South Carolina,34.72021567272728,-82.38700386363637,Piedmont,Augusta Road,29673
+way,456980308,McDonald's,McDonald's,South Carolina,34.96683002857143,-81.92961632857144,Spartanburg,Garner Road,29303
+way,459852005,McDonald's,McDonald's,South Carolina,33.20114744,-79.99140788000001,,,
+way,468614435,McDonald's,McDonald's,South Carolina,34.61908738571429,-82.47786374285715,Williamston,West Main Street,29697
+way,473361061,McDonald's,McDonald's,South Carolina,32.72072962,-80.08065778,Johns Island,Maybank Highway,29455
+way,496704155,McDonald's,McDonald's,South Carolina,34.98488366842104,-81.97350223157896,Spartanburg,Hearon Circle,29303
+way,503082616,McDonald's,McDonald's,South Carolina,34.97479506,-81.87902658,Spartanburg,East Main Street,29307
+way,510308407,McDonald's,McDonald's,South Carolina,34.63072957777778,-82.59954077777779,Anderson,Highway 81 North,29621
+way,514020233,Freddy's,Freddy's,South Carolina,34.13988353999999,-80.95272166,,,
+way,514020258,McDonald's,McDonald's,South Carolina,34.13720266,-80.95992754,,,
+way,515683875,McDonald's,McDonald's,South Carolina,34.685246359999994,-82.19779948,Fountain Inn,McCarter Road,29644
+way,515935521,McDonald's,McDonald's,South Carolina,34.88773185454545,-82.06842228181819,Duncan,East Main Street,29334
+way,517039389,Whataburger,Whataburger,South Carolina,34.90941221538461,-82.1019604,Duncan,East Main Street,29334
+way,517042651,McDonald's,McDonald's,South Carolina,34.91605322,-82.11065732,Duncan,East Main Street,29334
+way,521063715,McDonald's,McDonald's,South Carolina,34.93719092222222,-82.27454197777777,Taylors,Wade Hampton Boulevard,29687
+way,521072523,Culver's,Culver's,South Carolina,34.944539514285715,-82.25358401428572,Greer,West Wade Hampton Boulevard,29651
+way,528156883,Five Guys,Five Guys,South Carolina,34.0191007076923,-80.96684323076923,Columbia,Forest Drive,29206
+way,529473343,Whataburger,Whataburger,South Carolina,33.99160618,-80.97785827999999,,,
+way,529784281,McDonald's,McDonald's,South Carolina,34.9238859,-81.97693721666667,Spartanburg,John B White Sr Boulevard,29301
+way,530335613,McDonald's,McDonald's,South Carolina,34.05365988888889,-80.94616725555555,Columbia,Decker Boulevard,29206
+way,536742845,Freddy's,Freddy's,South Carolina,34.825373019999994,-82.54484201999999,Easley,Calhoun Memorial Highway,29640
+way,543154693,McDonald's,McDonald's,South Carolina,34.04470106923077,-81.12575676923076,Columbia,Saint Andrews Road,29210
+way,543832919,McDonald's,McDonald's,South Carolina,35.0887806,-80.9314753,,,
+way,544006527,McDonald's,McDonald's,South Carolina,33.987105328571424,-81.24382657142857,Lexington,Columbia Avenue,29072
+way,544204456,McDonald's,McDonald's,South Carolina,35.060334239999996,-80.99215116,Fort Mill,South Carolina,29708
+way,544836477,McDonald's,McDonald's,South Carolina,33.93879237142857,-81.14921964285713,West Columbia,Emanuel Church Road,29169
+way,545101365,McDonald's,McDonald's,South Carolina,33.974065830769234,-81.15520496923077,Lexington,Augusta Road,29073
+way,546085302,McDonald's,McDonald's,South Carolina,34.08508126363636,-81.18365775454545,Irmo,Saint Andrews Road,29063
+way,546852815,McDonald's,McDonald's,South Carolina,33.91335495714286,-81.22708972857143,Lexington,South Lake Drive,29073
+way,546854754,McDonald's,McDonald's,South Carolina,35.01270292857142,-80.85134749999999,,,
+way,548657957,McDonald's,McDonald's,South Carolina,35.119923820000004,-81.08586242,,,
+way,550529041,McDonald's,McDonald's,South Carolina,35.107633140000004,-81.21153254,,,
+way,551180152,McDonald's,McDonald's,South Carolina,34.98585298,-81.21197262000001,,,
+way,552495008,McDonald's,McDonald's,South Carolina,35.13447118,-81.86327130000001,Chesnee,South Alabama Avenue,29323
+way,556841428,McDonald's,McDonald's,South Carolina,33.97629775882353,-81.07499890000003,West Columbia,Charleston Highway,29169
+way,558559668,McDonald's,McDonald's,South Carolina,34.47240414444444,-81.88047130000001,Clinton,South Broad Street,29325
+way,559883321,McDonald's,McDonald's,South Carolina,34.50826958,-81.85852419333334,Clinton,Highway 56 North,29325
+way,561311267,McDonald's,McDonald's,South Carolina,34.949425293333334,-82.23484045333333,Greer,West Wade Hampton Boulevard,29650
+way,568402227,McDonald's,McDonald's,South Carolina,34.746120885714284,-81.03894928571428,,,
+way,581387823,McDonald's,McDonald's,South Carolina,34.97594332,-81.00469530000001,Rock Hill,Mount Gallant Road,29732
+way,583468770,McDonald's,McDonald's,South Carolina,34.157559899999995,-79.86842421111112,Florence,West Palmetto Street,29501
+way,601367894,McDonald's,McDonald's,South Carolina,34.75159944285714,-82.04624508571429,Woodruff,North Main Street,29388
+way,608457869,McDonald's,McDonald's,South Carolina,33.760382500000006,-78.8584018,Myrtle Beach,Towne Centre Parkway,29579
+way,622167153,McDonald's,McDonald's,South Carolina,34.516413539999995,-82.48562981999999,Belton,South Main Street,29627
+way,639445542,McDonald's,McDonald's,South Carolina,34.22643382222222,-80.67901423333332,,,
+way,641723865,McDonald's,McDonald's,South Carolina,33.65212511428572,-78.98596307142857,Myrtle Beach,Strand Market Drive,29588
+way,644529862,McDonald's,McDonald's,South Carolina,34.24647994,-80.60028682000001,,,
+way,653165479,McDonald's,McDonald's,South Carolina,32.8200184,-79.991930575,Charleston,Sam Rittenberg Boulevard,29407
+way,653824387,McDonald's,McDonald's,South Carolina,32.79033034444444,-80.03075812222222,Charleston,Savannah Highway,29407
+way,669570615,McDonald's,McDonald's,South Carolina,34.852381122222226,-82.45286322222222,Greenville,White Horse Road,29611
+way,675316084,McDonald's,McDonald's,South Carolina,35.016742199999996,-81.961648,Boiling Springs,Boiling Springs Road,29316
+way,679335310,McDonald's,McDonald's,South Carolina,35.02258820000001,-81.89496940000001,Spartanburg,Chesnee Highway,29303
+way,680117822,McDonald's,McDonald's,South Carolina,35.0413826,-82.0895878,Inman,Asheville Highway,29349
+way,682310399,McDonald's,McDonald's,South Carolina,34.991795679999996,-82.0223117,Spartanburg,New Cut Road,29303
+way,685072659,Five Guys,Five Guys,South Carolina,33.63949516,-78.98885264,Myrtle Beach,Highway 17 Bypass South,29575
+way,687661427,McDonald's,McDonald's,South Carolina,33.63056908,-79.0338638,Myrtle Beach,SC 707,29588
+way,700654127,McDonald's,McDonald's,South Carolina,33.7514138,-78.81429712857144,Myrtle Beach,North Kings Highway,29572
+way,720697198,Whataburger,Whataburger,South Carolina,34.708846990909095,-82.25636659999999,Simpsonville,Fairview Road,29680
+way,735452142,McDonald's,McDonald's,South Carolina,35.092176585714284,-81.66319314285715,,,
+way,744183202,Culver's,Culver's,South Carolina,33.04397312857143,-80.12268451428574,Summerville,North Main Street,29486
+way,779939273,McDonald's,McDonald's,South Carolina,33.94889142857143,-80.37575975714284,Sumter,Broad Street,29150
+way,793660740,McDonald's,McDonald's,South Carolina,33.921947259999996,-80.33560794,Sumter,North Lafayette Boulevard,29150
+way,796653894,McDonald's,McDonald's,South Carolina,33.904818122222224,-80.37982600000001,Sumter,Pine Wood Road,29150
+way,797149464,McDonald's,McDonald's,South Carolina,33.950711033333334,-80.49762685,Sumter,Broad Street,29150
+way,812891241,McDonald's,McDonald's,South Carolina,34.722213128571426,-82.25559637142858,Simpsonville,South Street,29681
+way,817311104,McDonald's,McDonald's,South Carolina,33.81083786000001,-79.44275972,,,
+way,853552013,McDonald's,McDonald's,South Carolina,34.72967106,-81.6398882,Union County,North Duncan Bypass,29379
+way,862903437,McDonald's,McDonald's,South Carolina,32.96343760833333,-80.043320575,Berkeley County,Rivers Avenue,29406
+way,878924625,McDonald's,McDonald's,South Carolina,32.8590189,-79.9823198105263,North Charleston,Rivers Avenue,29405-7039
+way,884409023,McDonald's,McDonald's,South Carolina,34.78730001818181,-82.48087780909091,Piedmont,Highway 153,29673
+way,892514001,McDonald's,McDonald's,South Carolina,34.21356452857143,-82.15093172857142,Greenwood,By Pass 72 Northeast,29649
+way,903603104,McDonald's,McDonald's,South Carolina,33.7592845,-78.96753860000001,Myrtle Beach,Renee Drive,29579
+way,906399495,McDonald's,McDonald's,South Carolina,34.20735896666667,-82.1886988,Greenwood,72nd Bypass Northwest,29649
+way,913428245,McDonald's,McDonald's,South Carolina,34.17877425555555,-82.15423305555555,,,
+way,927160563,McDonald's,McDonald's,South Carolina,32.8738752,-81.11676064,Hampton,Hoover Street South,29924
+way,927684839,McDonald's,McDonald's,South Carolina,33.56410652857143,-81.76807957142857,Aiken County,Richland Avenue West,29801
+way,927700107,McDonald's,McDonald's,South Carolina,33.5783316,-81.70307025555556,Aiken County,York Street,29801
+way,928493393,McDonald's,McDonald's,South Carolina,34.6953968,-81.1929112,,,
+way,928841723,McDonald's,McDonald's,South Carolina,34.9421246,-81.0355008,Rock Hill,South Cherry Road,29732
+way,941153932,McDonald's,McDonald's,South Carolina,32.95224134285714,-80.16571571428572,,,
+way,979565381,McDonald's,McDonald's,South Carolina,34.772513700000005,-80.3814111,,,
+way,1017377054,Freddy's,Freddy's,South Carolina,33.49351272727273,-81.95551345454545,,,
+way,1022434525,McDonald's,McDonald's,South Carolina,32.81262406666667,-80.04292751111112,Charleston,Magwood Road,29414
+way,1026729870,McDonald's,McDonald's,South Carolina,34.35964847142857,-80.06184178571428,,,
+way,1060401920,McDonald's,McDonald's,South Carolina,35.057543515384616,-81.64111106153845,,,
+way,1060422045,McDonald's,McDonald's,South Carolina,33.79733422,-78.74224964,,,
+way,1062555271,McDonald's,McDonald's,South Carolina,33.37457646,-79.28841958000001,,,
+way,1078914740,McDonald's,McDonald's,South Carolina,33.866723300000004,-78.63694782,,,
+way,1080153642,McDonald's,McDonald's,South Carolina,33.63123736,-78.96166754000001,Myrtle Beach,South Kings Highway,29575
+way,1083069726,McDonald's,McDonald's,South Carolina,33.58475566,-79.01310794000001,,,
+way,1086501258,Culver's,Culver's,South Carolina,34.90218448,-82.09689404,Duncan,East Main Street,29334
+way,1086977005,McDonald's,McDonald's,South Carolina,34.06861911818182,-78.8792335,,,
+way,1089732636,McDonald's,McDonald's,South Carolina,33.6831878,-78.96293012000001,Myrtle Beach,US Highway 17 Bypass South,29588
+way,1104771470,McDonald's,McDonald's,South Carolina,33.60370334,-81.84310578,Graniteville,Bettis Academy Road,29829
+way,1105811254,McDonald's,McDonald's,South Carolina,32.41312267777778,-80.6476597111111,,Sea Island Parkway,
+way,1117164154,McDonald's,McDonald's,South Carolina,33.666354899999995,-78.91602844444445,Myrtle Beach,South Kings Highway,29577
+way,1118448296,McDonald's,McDonald's,South Carolina,34.752328659999996,-83.04509218000001,,,
+way,1143088652,McDonald's,McDonald's,South Carolina,34.914874080000004,-81.00373751999999,Rock Hill,East Main Street,29731
+way,1149975357,McDonald's,McDonald's,South Carolina,34.9499956,-80.84637165714285,,Charlotte Highway,29707
+way,1160790561,McDonald's,McDonald's,South Carolina,34.873523660000004,-82.32995108,Greenville,Howell Road,29615
+way,1184908413,Culver's,Culver's,South Carolina,34.70583535555556,-82.24698665555555,Simpsonville,Harrison Bridge Road,29680
+way,1221581240,McDonald's,McDonald's,South Carolina,34.69246539090909,-82.98433890909091,Seneca,Sandifer Boulevard,29678
+way,1255389714,McDonald's,McDonald's,South Carolina,34.95070134000001,-81.06202624,Rock Hill,South Herlong Avenue,29732
+way,1297175006,Whataburger,Whataburger,South Carolina,35.04505092,-81.98164228,Boiling Springs,Boiling Springs Road,29316
+way,1304935804,McDonald's,McDonald's,South Carolina,32.96888892962963,-80.00269817407408,,,
+way,1307053756,McDonald's,McDonald's,South Carolina,33.770608472727275,-81.91239767272727,Edgefield City,Augusta Road,29824
+way,1332501567,Whataburger,Whataburger,South Carolina,34.93729904,-81.99004846,Spartanburg,W O Ezell Boulevard,29301
+way,1332502749,Whataburger,Whataburger,South Carolina,34.969392,-81.88881520000001,Spartanburg,East Main Street,29307
+way,1356280405,Whataburger,Whataburger,South Carolina,33.9620404,-81.23239702000001,,,
+way,1362433889,McDonald's,McDonald's,South Carolina,32.864530880000004,-79.78599966,Mount Pleasant,Ironclad Alley,29466
+way,1392671450,McDonald's,McDonald's,South Carolina,33.82823757,-78.67921412000001,North Myrtle Beach,Main Street,29582
+way,1424887937,Whataburger,Whataburger,South Carolina,33.90879728,-81.22102308,,,
+way,1429869079,Whataburger,Whataburger,South Carolina,34.961952000000004,-80.8531737,,,
+way,1466292562,McDonald's,McDonald's,South Carolina,32.81261968,-79.85490718000001,Mount Pleasant,Johnnie Dodds Boulevard,29464
+way,1498609300,Culver's,Culver's,South Carolina,34.886421811111106,-82.39416506666666,Greenville,North Pleasantburg Drive,29609
+way,1510174029,Culver's,Culver's,South Carolina,35.0240877,-81.96449605714285,,,
+way,1566594460,Whataburger,Whataburger,South Carolina,34.136045159999995,-80.95944240000001,,,
+way,1573183595,McDonald's,McDonald's,South Carolina,34.9821377,-81.09179788,Rock Hill,Old York Road,29732
+way,1577472579,Culver's,Culver's,South Carolina,34.14150704,-80.93755952,Columbia,Clemson Road,29229

@@ -1,0 +1,580 @@
+osm_type,osm_id,name,brand,state_query,latitude,longitude,city,street,postcode
+node,585191486,McDonald's,McDonald's,North Carolina,35.4407667,-77.6629897,Snow Hill,Kingold Boulevard,28580
+node,687710233,McDonald's,McDonald's,North Carolina,35.6098774,-82.3200654,Black Mountain,NC-9,28711
+node,778783211,Five Guys,Five Guys,North Carolina,35.3380201,-80.7573357,Charlotte,East Arbors Drive,28262
+node,821995260,McDonald's,McDonald's,North Carolina,35.8440312,-78.5806226,Raleigh,Capital Boulevard,27604
+node,904273094,McDonald's,McDonald's,North Carolina,35.9421283,-78.5596008,Raleigh,Wakefield Pines Drive,27587
+node,1041162933,McDonald's,McDonald's,North Carolina,35.911406,-78.9364934,Durham,West Nc Highway 54,27713
+node,1162035357,McDonald's,McDonald's,North Carolina,35.7445119,-79.167127,Pittsboro,Lowes Drive,27312
+node,1216186462,McDonald's,McDonald's,North Carolina,35.7883236,-78.6491036,Raleigh,West Peace Street,27605
+node,1224432580,McDonald's,McDonald's,North Carolina,35.3856307,-81.3685267,,,
+node,1244314606,McDonald's,McDonald's,North Carolina,35.836052,-78.6756684,Raleigh,Blue Ridge Road,27612
+node,1278829230,McDonald's,McDonald's,North Carolina,36.1316,-79.7989884,Greensboro,Pisgah Church Road,27405
+node,1632924377,McDonald's,McDonald's,North Carolina,35.5547309,-80.8550252,Mooresville,Gateway Boulevard,28117
+node,1668943898,Five Guys,Five Guys,North Carolina,35.9520516,-78.9930804,Durham,McFarland Drive,27707
+node,1668971723,Five Guys,Five Guys,North Carolina,35.8977859,-78.6812146,Raleigh,Creedmoor Road,27613
+node,1668982675,Five Guys,Five Guys,North Carolina,35.836592,-78.6423393,Raleigh,Main at North Hills Street,27609
+node,1668988270,Five Guys,Five Guys,North Carolina,35.7982002,-78.505645,Knightdale,Shoppes at Midway Drive,27545
+node,1710470370,McDonald's,McDonald's,North Carolina,36.3821687,-81.4876896,,,
+node,1744525733,McDonald's,McDonald's,North Carolina,34.9292866,-78.8553257,Fayetteville,Nc Highway 87 South,28306
+node,1744530615,McDonald's,McDonald's,North Carolina,34.985312,-78.9652909,Hope Mills,North Main Street,28348-1722
+node,1806309464,McDonald's,McDonald's,North Carolina,35.027892,-78.9271802,Fayetteville,Owen Drive,28309
+node,1810261356,McDonald's,McDonald's,North Carolina,35.0431766,-78.9478114,Fayetteville,Raeford Road,28304
+node,1832042264,McDonald's,McDonald's,North Carolina,35.0038154,-78.9155039,Fayetteville,Legion Road,28306
+node,2006628152,McDonald's,McDonald's,North Carolina,34.2340809,-77.9965528,Leland,Village Road,28451
+node,2078628515,McDonald's,McDonald's,North Carolina,36.4923732,-79.7391244,,,
+node,2088952848,McDonald's,McDonald's,North Carolina,35.8192212,-78.901956,Cary,Cary Glen Boulevard,27519
+node,2362142912,McDonald's,McDonald's,North Carolina,35.6083784,-78.5551644,,,
+node,2507246159,Five Guys,Five Guys,North Carolina,36.2023132,-81.6630317,Boone,Blowing Rock Road,28607
+node,2588352039,Five Guys,Five Guys,North Carolina,35.1352193,-80.7363706,,,
+node,2619235394,Shake Shack,Shake Shack,North Carolina,35.8069881,-78.8154823,Morrisville,Village Market Place,
+node,2620535192,Five Guys,Five Guys,North Carolina,35.1044454,-80.9885554,Charlotte,South Tryon,28273
+node,2776674567,McDonald's,McDonald's,North Carolina,35.8500096,-77.0475559,,East Boulevard,27892
+node,2778491386,McDonald's,McDonald's,North Carolina,34.8967896,-76.9069753,Cherry Point,Woodside Drive,28532
+node,2782240644,McDonald's,McDonald's,North Carolina,34.5504173,-77.4368654,,,
+node,2791813849,Five Guys,Five Guys,North Carolina,36.0040669,-75.6546339,Kill Devil Hills,South Croatan Highway,27948
+node,2818133614,McDonald's,McDonald's,North Carolina,34.1399485,-78.8682124,Tabor City,,28463
+node,2840094604,McDonald's,McDonald's,North Carolina,35.9092471,-78.7275637,Raleigh,Leesville Road,27613
+node,2841106292,McDonald's,McDonald's,North Carolina,36.0917829,-80.2820094,Winston Salem,South Stratford Road,27103
+node,2869418715,Freddy's,Freddy's,North Carolina,36.1023195,-79.8230219,Greensboro,Battleground Avenue,
+node,2973560081,McDonald's,McDonald's,North Carolina,35.3778395,-78.5429578,Benson,East Main Street,27504
+node,3023503361,McDonald's,McDonald's,North Carolina,36.1507492,-81.1963047,Wilkesboro,US-421,28697
+node,3023960271,McDonald's,McDonald's,North Carolina,34.8091405,-78.9844429,,,
+node,3124404417,McDonald's,McDonald's,North Carolina,34.8610445,-76.8968789,Havelock,East Main Street,28532
+node,3127842798,McDonald's,McDonald's,North Carolina,34.991101,-78.3514098,,,
+node,3144956229,McDonald's,McDonald's,North Carolina,34.2191019,-77.8854706,Wilmington,South College Road,28403
+node,3160178394,McDonald's,McDonald's,North Carolina,34.6245262,-78.6081023,Elizabethtown,South Poplar Street,28337
+node,3190280071,McDonald's,McDonald's,North Carolina,35.6619596,-80.4630651,Salisbury,East Innes Street,28144
+node,3196563678,McDonald's,McDonald's,North Carolina,36.4710752,-77.6501919,,,
+node,3297335796,McDonald's,McDonald's,North Carolina,36.0787171,-79.9572649,Greensboro,Albert Pick Road,27409
+node,3302844767,Five Guys,Five Guys,North Carolina,35.1529253,-80.8331098,Charlotte,Sharon Road,28211
+node,3303306709,McDonald's,McDonald's,North Carolina,35.3164771,-81.1903406,Dallas,Dallas Hi-Shoals Highway,28034
+node,3358446199,McDonald's,McDonald's,North Carolina,35.7185373,-81.4663387,Icard,Old N.C. Highway 10,28666
+node,3416855500,McDonald's,McDonald's,North Carolina,35.9039689,-79.9558592,Archdale,North Main Street,27263
+node,3416901436,McDonald's,McDonald's,North Carolina,35.9247572,-79.9837862,High Point,South Main Street,27263
+node,3475019729,Five Guys,Five Guys,North Carolina,35.707979,-81.3108394,Hickory,Highway 70 Southeast,28602
+node,3729898725,Five Guys,Five Guys,North Carolina,35.596373,-80.876325,Mooresville,River Highway,28117
+node,3864271158,McDonald's,McDonald's,North Carolina,36.055715,-79.1048338,Hillsborough,South Churton Street,27278
+node,3873494101,McDonald's,McDonald's,North Carolina,35.2948524,-80.758082,,,
+node,3946697903,McDonald's,McDonald's,North Carolina,35.0999653,-77.0920776,New Bern,Red Robin Lane,28562
+node,3950554962,McDonald's,McDonald's,North Carolina,35.1243854,-77.0862988,New Bern,Neuse Boulevard,28562
+node,4011669068,McDonald's,McDonald's,North Carolina,35.2774546,-81.5394359,Shelby,East Dixon Boulevard,28152
+node,4059096957,McDonald's,McDonald's,North Carolina,35.791489,-80.8557567,Statesville,Signal Hill Drive,28625
+node,4068142767,McDonald's,McDonald's,North Carolina,35.5953858,-82.533313,Asheville,Tunnel Road,28805
+node,4082843919,McDonald's,McDonald's,North Carolina,35.4353563,-80.6533563,Concord,Davidson Highway,28027
+node,4096175205,McDonald's,McDonald's,North Carolina,35.9379363,-80.0351765,High Point,Westchester Drive,27262
+node,4103267754,McDonald's,McDonald's,North Carolina,34.6977212,-77.1407155,,,
+node,4134133696,McDonald's,McDonald's,North Carolina,36.0695459,-79.8679861,Greensboro,West Market Street,27407
+node,4136482520,McDonald's,McDonald's,North Carolina,36.0891083,-79.7746132,Greensboro,Summit Avenue,27405
+node,4156046319,Five Guys,Five Guys,North Carolina,36.1154126,-80.3108248,Winston Salem,Robinhood Road,27106
+node,4309332589,McDonald's,McDonald's,North Carolina,35.744544,-78.8216442,Apex,U. S. 64,27502
+node,4361617649,McDonald's,McDonald's,North Carolina,35.4826435,-82.5536602,Arden,Long Shoals Road,28704
+node,4410390814,McDonald's,McDonald's,North Carolina,34.9090261,-76.9369771,Havelock,Highway 70 West,28532
+node,4541941138,Five Guys,Five Guys,North Carolina,35.348085,-80.8584637,Charlotte,Northlake Centre Parkway,28216
+node,4573038674,McDonald's,McDonald's,North Carolina,35.1610716,-78.9707913,Spring Lake,Murchison Road,28390
+node,4724152283,Five Guys,Five Guys,North Carolina,35.034681,-80.8057555,Charlotte,Rea Road,28277
+node,4782097584,McDonald's,McDonald's,North Carolina,35.6627444,-80.500649,Salisbury,Jake Alexander Boulevard,28144
+node,4782122759,McDonald's,McDonald's,North Carolina,34.623068,-79.0484989,Lumberton,West 5th Street,28358
+node,4799637294,Freddy's,Freddy's,North Carolina,35.1274357,-78.8797731,,,
+node,4799661938,McDonald's,McDonald's,North Carolina,35.11276,-78.8800935,Fayetteville,Ramsey Street,28311-7640
+node,4806742096,McDonald's,McDonald's,North Carolina,36.1665064,-80.1349734,Walkertown,Reidsville Road,27051
+node,4833651911,Five Guys,Five Guys,North Carolina,35.7466386,-78.8296318,Apex,Pine Plaza Drive,27523
+node,4834800520,McDonald's,McDonald's,North Carolina,35.8297787,-78.76924,Cary,North Harrison Avenue,27513
+node,5027451927,McDonald's,McDonald's,North Carolina,35.4722505,-80.2669278,Richfield,NC-49,28137
+node,5057348857,McDonald's,McDonald's,North Carolina,33.9457365,-78.5028045,,,
+node,5077686323,McDonald's,McDonald's,North Carolina,36.0660266,-79.3097299,Mebane,Trollingwood Hawfields Road,27302
+node,5203220837,Five Guys,Five Guys,North Carolina,35.2205587,-80.8156699,Charlotte,Central Avenue,28205
+node,5267347578,McDonald's,McDonald's,North Carolina,36.0675185,-79.5196281,Burlington,University Drive,27215
+node,5267347590,McDonald's,McDonald's,North Carolina,36.0723096,-79.4931833,Burlington,Huffman Mill Road,27215
+node,5276678732,McDonald's,McDonald's,North Carolina,35.3705446,-80.8311181,Huntersville,Cane Creek Drive,28078
+node,5346236691,Five Guys,Five Guys,North Carolina,35.0726217,-78.9600125,,,
+node,5364185678,Five Guys,Five Guys,North Carolina,35.0983062,-80.7809221,Charlotte,Providence Road,28277
+node,5395972821,McDonald's,McDonald's,North Carolina,35.1634243,-80.8875954,Charlotte,Tyvola Road,28217
+node,5531689847,McDonald's,McDonald's,North Carolina,36.318944,-78.3817639,,,
+node,5573898879,McDonald's,McDonald's,North Carolina,35.4802259,-81.2096338,,,
+node,5581356497,McDonald's,McDonald's,North Carolina,35.91707,-78.4669358,Rolesville,South Main Street,27571
+node,5646461372,McDonald's,McDonald's,North Carolina,35.2332544,-81.1703198,Gastonia,Union Road,28052
+node,5731523903,McDonald's,McDonald's,North Carolina,35.9108049,-79.0611625,Chapel Hill,West Franklin Street,27516
+node,5785406749,McDonald's,McDonald's,North Carolina,35.8472596,-79.089993,Chapel Hill,US 15-501 North,27517
+node,5813898641,Five Guys,Five Guys,North Carolina,35.0571251,-78.9706367,Fayetteville,Freedom Parkway,28314
+node,5840204097,McDonald's,McDonald's,North Carolina,35.99313,-78.8690817,Durham,North Miami Boulevard,27703
+node,5851899557,McDonald's,McDonald's,North Carolina,35.6763241,-82.0136956,Marion,West Henderson Street,28752
+node,5883136858,McDonald's,McDonald's,North Carolina,35.2627189,-81.1534912,Gastonia,East Franklin Boulevard,28052
+node,6037880287,McDonald's,McDonald's,North Carolina,36.1179522,-81.8377683,,,
+node,6315375767,McDonald's,McDonald's,North Carolina,35.9796641,-80.0217002,High Point,North Main Street,27262
+node,6348632118,McDonald's,McDonald's,North Carolina,36.0416359,-79.7723594,Greensboro,Martin Luther King Drive,27406
+node,6474254960,Five Guys,Five Guys,North Carolina,35.3665991,-80.7093445,Concord,Gateway Lane,28027
+node,6522360270,McDonald's,McDonald's,North Carolina,36.027462,-80.1636104,Winston-Salem,Wallburg Landing Drive,27107
+node,6532594750,Five Guys,Five Guys,North Carolina,35.3101498,-80.746702,Charlotte,J. M. Keynes Drive,28262
+node,6532760009,McDonald's,McDonald's,North Carolina,35.4399197,-80.607549,Concord,Highway 29 North,28025
+node,6548008133,McDonald's,McDonald's,North Carolina,36.0009684,-78.9407836,Durham,Bryan Center,27708
+node,6549617063,McDonald's,McDonald's,North Carolina,35.3865641,-80.1931506,,,
+node,6561785555,Five Guys,Five Guys,North Carolina,35.8606479,-78.5827441,Raleigh,Capital Boulevard,27616
+node,6568292147,Freddy's,Freddy's,North Carolina,35.9660307,-78.5436812,Wake Forest,Retail Drive,27587
+node,6609871060,McDonald's,McDonald's,North Carolina,35.5195343,-78.314042,Smithfield,North Brightleaf Boulevard,27577
+node,6611419526,McDonald's,McDonald's,North Carolina,36.0738393,-79.2727635,Mebane,Mebane Oaks Road,27302
+node,6624449382,McDonald's,McDonald's,North Carolina,35.4457641,-78.4238355,Four Oaks,US 301 Highway South,27524
+node,6694826430,McDonald's,McDonald's,North Carolina,35.7039874,-82.0377709,Marion,US 70 West,28752
+node,6833661164,McDonald's,McDonald's,North Carolina,35.2022973,-83.8372808,Andrews,Main Street,28901
+node,6935621105,McDonald's,McDonald's,North Carolina,34.9993057,-78.3105264,Clinton,Southeast Boulevard,28328
+node,6948675070,McDonald's,McDonald's,North Carolina,35.3073957,-82.45584,Hendersonville,Spartanburg Highway,28792
+node,6983793988,McDonald's,McDonald's,North Carolina,34.2270919,-77.830457,Wilmington,Commonwealth Avenue,28403
+node,6983959472,McDonald's,McDonald's,North Carolina,34.2959152,-77.7956584,Wilmington,Hays Lane,28411
+node,7015972678,McDonald's,McDonald's,North Carolina,35.6172615,-77.604855,Farmville,Cooperative Waty,27828
+node,7015975786,McDonald's,McDonald's,North Carolina,34.8869859,-77.5488746,Beulaville,West Main Street,28518
+node,7015977889,McDonald's,McDonald's,North Carolina,34.7999365,-77.4400681,Jacksonville,Gum Branch Road,28540
+node,7015986300,McDonald's,McDonald's,North Carolina,35.2561559,-78.9669827,Spring Lake,Overhills Road,28390
+node,7015992999,McDonald's,McDonald's,North Carolina,35.4751455,-77.4359322,,,
+node,7115540041,McDonald's,McDonald's,North Carolina,36.394843,-80.7162529,Dobson,East Atkins Street,27017
+node,7122795129,McDonald's,McDonald's,North Carolina,35.3727989,-77.9484588,Goldsboro,North Berkeley Boulevard,27534
+node,7122841770,McDonald's,McDonald's,North Carolina,35.3412103,-77.9186848,Goldsboro,Mollie Drive,27534
+node,7157918340,McDonald's,McDonald's,North Carolina,35.5935563,-78.1291897,Kenly,South Church Street,27542
+node,7189236537,McDonald's,McDonald's,North Carolina,35.2684423,-81.4852712,Shelby,East Dixon Boulevard,28152
+node,7208521509,McDonald's,McDonald's,North Carolina,35.5529963,-82.8502126,Canton,Champion Drive,28716
+node,7212117338,McDonald's,McDonald's,North Carolina,34.3084373,-78.7124523,Whiteville,South Madison Street,28472
+node,7212117364,Whataburger,Whataburger,North Carolina,34.3194902,-78.704375,Whiteville,South Madison Street,28472
+node,7213753184,McDonald's,McDonald's,North Carolina,34.5038468,-79.1117128,Fairmont,North Walnut Street,28340
+node,7302395834,McDonald's,McDonald's,North Carolina,35.8333177,-77.2531919,Robersonville,North Main Street,27871
+node,7389727689,McDonald's,McDonald's,North Carolina,35.7922524,-78.3794545,Wendell,Wendell Boulevard,27591
+node,7406553339,McDonald's,McDonald's,North Carolina,35.8191359,-78.6247888,Raleigh,Wake Forest Road,27609
+node,7605065522,McDonald's,McDonald's,North Carolina,36.2729959,-76.9727383,,,
+node,7653204797,McDonald's,McDonald's,North Carolina,35.9788774,-78.5377503,Wake Forest,Durham Road,27587
+node,7683386838,McDonald's,McDonald's,North Carolina,35.6856822,-78.6044291,Garner,Timber Drive,27529
+node,7734574780,McDonald's,McDonald's,North Carolina,35.6362321,-78.8311591,Holly Springs,GB Alford Highway,27540
+node,7763841962,Five Guys,Five Guys,North Carolina,35.406218,-80.8640344,Huntersville,Gilead Road,28078
+node,7788523293,McDonald's,McDonald's,North Carolina,35.8701837,-78.5801401,Raleigh,Old Wake Forest Road,27616
+node,7820859478,McDonald's,McDonald's,North Carolina,35.1486882,-80.8330185,Charlotte,Fairview Road,28210
+node,7833647524,McDonald's,McDonald's,North Carolina,35.0872405,-80.8495849,Charlotte,Pineville Matthews Road,28226
+node,7900949522,McDonald's,McDonald's,North Carolina,35.2609693,-77.6479664,Kinston,West Vernon Avenue,28504
+node,7943499680,Five Guys,Five Guys,North Carolina,35.4372236,-80.6055822,Concord,Concord Parkway North,28025
+node,8223173377,McDonald's,McDonald's,North Carolina,35.8554948,-78.5569064,Raleigh,Spring Forest Road,27616
+node,8272678317,Five Guys,Five Guys,North Carolina,35.6978882,-78.5834198,Garner,Cabela Drive,27529
+node,8274981108,McDonald's,McDonald's,North Carolina,36.113402,-79.7532036,Greensboro,East Cone Boulevard,27405
+node,8283372001,McDonald's,McDonald's,North Carolina,36.4502638,-76.0188468,Currituck,Caratoke Highway,27929
+node,8343166701,McDonald's,McDonald's,North Carolina,34.2429953,-77.891668,Wilmington,Market Street,28405
+node,8547138475,McDonald's,McDonald's,North Carolina,35.8204824,-78.5911303,Raleigh,Capital Boulevard,27604
+node,8612788057,McDonald's,McDonald's,North Carolina,36.1098238,-79.8832447,Greensboro,New Garden Road,27410
+node,9048908596,McDonald's,McDonald's,North Carolina,36.2423934,-75.8774033,,,
+node,9325375968,McDonald's,McDonald's,North Carolina,35.5065021,-78.741482,Angier,South Raleigh Street,27501
+node,9371419742,McDonald's,McDonald's,North Carolina,34.4400906,-77.8781667,,,
+node,9376216690,McDonald's,McDonald's,North Carolina,34.7396437,-77.9760917,,,
+node,9379454957,McDonald's,McDonald's,North Carolina,36.4420831,-77.091712,Murfreesboro,East Main Street,27855
+node,9382835225,McDonald's,McDonald's,North Carolina,35.5671863,-77.3513782,Greenville,South Charles Boulevard,27858
+node,9388897429,McDonald's,McDonald's,North Carolina,35.3291083,-78.0359544,Goldsboro,South US 117,27530
+node,9389245566,McDonald's,McDonald's,North Carolina,35.4045616,-78.0233306,Goldsboro,US Highway 70 West,27530
+node,9391077359,McDonald's,McDonald's,North Carolina,35.9442463,-77.7753101,Rocky Mount,North Raleigh Street,27801
+node,9406492285,McDonald's,McDonald's,North Carolina,34.7605828,-79.4692954,,,
+node,9408881691,McDonald's,McDonald's,North Carolina,34.9645393,-80.0603879,,,
+node,9409057659,McDonald's,McDonald's,North Carolina,35.2593262,-81.2168913,Gastonia,West Franklin Boulevard,28052
+node,9414238667,McDonald's,McDonald's,North Carolina,36.2396254,-80.8208638,Jonesville,,28642
+node,9416922654,McDonald's,McDonald's,North Carolina,36.0051932,-80.4401726,Advance,NC-801,27006
+node,9469915645,McDonald's,McDonald's,North Carolina,36.1516515,-80.2829108,Winston Salem,North Point Boulevard,27106
+node,9772436365,McDonald's,McDonald's,North Carolina,35.2267691,-81.1336677,Gastonia,Hoffman Road,28056
+node,9795783412,Five Guys,Five Guys,North Carolina,35.1628989,-79.4218593,Southern Pines,US 15-501 Highway,28387
+node,9808614192,McDonald's,McDonald's,North Carolina,35.1870045,-83.3721236,Franklin,East Main Street,28734
+node,9822886781,McDonald's,McDonald's,North Carolina,35.7437961,-81.5675699,Valdese,Main Street West,28690
+node,9855820869,McDonald's,McDonald's,North Carolina,35.3403348,-79.4042236,Carthage,Monroe Street,28327
+node,9923194349,McDonald's,McDonald's,North Carolina,35.5578325,-82.6403662,Asheville,Smokey Park Highway,28806
+node,9975617210,Five Guys,Five Guys,North Carolina,34.7688783,-77.384657,Jacksonville,Western Boulevard,28546
+node,9977131327,McDonald's,McDonald's,North Carolina,35.2931474,-78.5957896,Dunn,East Cumberland Street,28344
+node,9996149395,McDonald's,McDonald's,North Carolina,34.3709997,-77.7077516,,,
+node,10000202106,Culver's,Culver's,North Carolina,35.736909,-78.8953157,Apex,,27502
+node,10078789899,McDonald's,McDonald's,North Carolina,34.7254028,-76.6446244,,,
+node,10126705387,McDonald's,McDonald's,North Carolina,34.7992035,-77.4371024,,,
+node,10138327617,Freddy's,Freddy's,North Carolina,35.6645608,-78.8452157,,,
+node,10278438468,McDonald's,McDonald's,North Carolina,36.0635056,-79.6083398,Whitsett,Burlington Road,27377
+node,10285437425,McDonald's,McDonald's,North Carolina,34.7436217,-77.3798127,Jacksonville,Lejeune Boulevard,28540
+node,10589140889,McDonald's,McDonald's,North Carolina,35.8117621,-81.433975,Granite Falls,Pinewood Road,28630
+node,10723640178,McDonald's,McDonald's,North Carolina,35.5324735,-82.8627336,Canton,New Clyde Highway,28716
+node,10779780984,McDonald's,McDonald's,North Carolina,34.9598411,-77.9675183,Kenansville,South Main Street,28349
+node,10840500099,Freddy's,Freddy's,North Carolina,35.1652477,-79.4214648,Southern Pines,US 15-501 Highway,28387
+node,10853533394,Shake Shack,Shake Shack,North Carolina,35.2107159,-80.8606625,,,
+node,10918298100,McDonald's,McDonald's,North Carolina,36.326895,-79.6406706,,,
+node,10921731094,McDonald's,McDonald's,North Carolina,35.3585682,-79.7977444,Biscoe,NC-24,27209
+node,10951086593,McDonald's,McDonald's,North Carolina,35.3956796,-82.5062988,,,
+node,11066151349,McDonald's,McDonald's,North Carolina,35.8005125,-78.5595889,Raleigh,New Bern Avenue,27610
+node,11158426319,Five Guys,Five Guys,North Carolina,35.1997335,-80.8674571,Charlotte,South Boulevard,28209
+node,11308525575,McDonald's,McDonald's,North Carolina,34.6843147,-79.2028202,,,
+node,11483590865,McDonald's,McDonald's,North Carolina,35.7219535,-77.8926041,Wilson,Ward Boulevard,27893
+node,11483632557,McDonald's,McDonald's,North Carolina,35.7377961,-77.9526872,Wilson,Raleigh Road Northwest,27893
+node,11669329010,Five Guys,Five Guys,North Carolina,35.1846713,-80.7609968,Charlotte,Connection Point Boulevard,28212
+node,11670154789,McDonald's,McDonald's,North Carolina,35.0855762,-80.6960683,Stallings,Potter Road,28104
+node,11670164698,McDonald's,McDonald's,North Carolina,35.6087825,-80.5175368,Salisbury,Peeler Road,28144
+node,11670210670,McDonald's,McDonald's,North Carolina,35.812692,-80.8329592,Statesville,Mocksville Highway,28625
+node,11746904569,McDonald's,McDonald's,North Carolina,36.0166563,-78.8896385,Durham,North Roxboro Road,27704-4339
+node,11828706863,Shake Shack,Shake Shack,North Carolina,35.7895622,-78.6596812,,,
+node,11933181885,McDonald's,McDonald's,North Carolina,35.4618188,-83.3152796,Whittier,Casino Trail ᏗᏂᏆᏂᏲᎯ ᎤᏂᏅᏅ,28789
+node,12051048604,McDonald's,McDonald's,North Carolina,34.1920581,-77.9340813,,Carolina Beach Road,28401
+node,12070731216,Shake Shack,Shake Shack,North Carolina,35.2208918,-80.9411674,,,
+node,12103775082,McDonald's,McDonald's,North Carolina,35.7219584,-77.9377727,,Tarboro Street West,27893
+node,12106806547,Five Guys,Five Guys,North Carolina,35.262023,-81.1403335,,,
+node,12111494862,Five Guys,Five Guys,North Carolina,35.5034119,-82.5236962,Asheville,Hendersonville Road,28803
+node,12111494865,McDonald's,McDonald's,North Carolina,35.508699,-82.526593,Asheville,Hendersonville Road,28803
+node,12111494875,Five Guys,Five Guys,North Carolina,35.6053615,-82.5533679,Asheville,Merrimon Avenue,28801
+node,12111494877,McDonald's,McDonald's,North Carolina,35.5866073,-82.5881665,Asheville,Patton Avenue,28806
+node,12290470220,McDonald's,McDonald's,North Carolina,35.2966342,-82.409535,,Commercial Boulevard,28731
+node,12290470278,McDonald's,McDonald's,North Carolina,36.5054004,-80.6246668,,North Andy Griffith Parkway,27030
+node,12290486196,McDonald's,McDonald's,North Carolina,36.0871935,-80.0627591,,Heartland Drive,27284
+node,12290500850,McDonald's,McDonald's,North Carolina,36.5040998,-80.6067457,,,27030
+node,12290507447,McDonald's,McDonald's,North Carolina,35.9951236,-80.2669728,,,27127
+node,12290507633,McDonald's,McDonald's,North Carolina,36.0791232,-80.1065057,,Jag Branch Boulevard,27284
+node,12290508444,McDonald's,McDonald's,North Carolina,36.0947507,-79.4067649,,North Church Street,27215
+node,12290508449,McDonald's,McDonald's,North Carolina,36.4052416,-78.9786834,,North Madison Boulevard,27573
+node,12290508908,McDonald's,McDonald's,North Carolina,36.080004,-79.5126563,,South Church Street,27215
+node,12290527258,McDonald's,McDonald's,North Carolina,36.0862038,-79.8282798,,Green Valley Road,27408
+node,12292121992,McDonald's,McDonald's,North Carolina,33.9768167,-78.3809009,,Main Street,28459
+node,12292129748,McDonald's,McDonald's,North Carolina,35.2042997,-79.4847554,,Ivey Lane,28374
+node,12292132608,McDonald's,McDonald's,North Carolina,34.2616818,-77.828975,,Market Street,28411
+node,12292133573,McDonald's,McDonald's,North Carolina,35.0528053,-78.8654015,,Grove Street,28301
+node,12292141900,McDonald's,McDonald's,North Carolina,34.0353499,-77.8933625,,,28428
+node,12292163910,McDonald's,McDonald's,North Carolina,34.01683,-78.275949,,Ocean Highway West,28462
+node,12292619453,McDonald's,McDonald's,North Carolina,35.2682371,-77.582167,Kinston,West Vernon Avenue,28501
+node,12292631337,McDonald's,McDonald's,North Carolina,35.9365785,-77.8291156,,South Wesleyan Boulevard,27803
+node,12292642113,McDonald's,McDonald's,North Carolina,35.212088,-78.0617887,,,28365
+node,12292649854,McDonald's,McDonald's,North Carolina,35.9028553,-77.5623699,,Western Boulevard,27886
+node,12292655371,McDonald's,McDonald's,North Carolina,34.7380193,-76.8084335,,,28557
+node,12328729396,McDonald's,McDonald's,North Carolina,36.312187,-80.1399508,,,
+node,12442294840,Culver's,Culver's,North Carolina,35.6449927,-80.4851157,Salisbury,,28147
+node,12781980815,Culver's,Culver's,North Carolina,35.5833078,-80.8524721,Mooresville,Talbert Road,28117
+node,12781980816,Culver's,Culver's,North Carolina,35.2550362,-81.0289453,Belmont,Hawley Avenue,28012
+node,12781980853,Culver's,Culver's,North Carolina,36.0710178,-79.521694,Burlington,University Drive,27215
+node,12781980873,Culver's,Culver's,North Carolina,35.7772408,-78.4332733,Wendell,Taylor Road,27591
+node,12781980887,Culver's,Culver's,North Carolina,36.0782923,-80.1090468,Kernersville,Pecan Lane,27284
+node,12781980894,Culver's,Culver's,North Carolina,35.7459536,-77.967279,Wilson,Raleigh Road Parkway West,27896
+node,12781980904,Culver's,Culver's,North Carolina,35.4691001,-80.5901125,Kannapolis,Dale Earnhardt Boulevard,28083
+node,12995095962,Five Guys,Five Guys,North Carolina,35.3757533,-77.9415641,,,
+node,13227827795,McDonald's,McDonald's,North Carolina,35.8445456,-78.5171488,,,
+node,13343643807,Whataburger,Whataburger,North Carolina,35.9940804,-80.0317233,,North Main Street,
+node,13411717717,Culver's,Culver's,North Carolina,36.060045,-79.9624441,,Sedgebrook Street,
+node,13629841833,McDonald's,McDonald's,North Carolina,35.2254226,-79.4013662,Carthage,Capital Drive,28327
+node,13651079596,McDonald's,McDonald's,North Carolina,36.4330032,-77.6364675,Roanoke Rapids,Julian R Allsbrook Highway,27870
+node,13703529509,Five Guys,Five Guys,North Carolina,34.2355342,-77.8312379,,,
+node,13782251158,Whataburger,Whataburger,North Carolina,35.8199859,-78.6233409,Raleigh,East Six Forks Road,27609
+node,13903066430,Freddy's,Freddy's,North Carolina,35.9980954,-79.7918578,,South Elm Eugene Street,
+node,14015542524,Five Guys,Five Guys,North Carolina,33.9805534,-78.376551,,,
+node,14079266298,Whataburger,Whataburger,North Carolina,36.08384,-80.295194,,,
+node,14082203286,Shake Shack,Shake Shack,North Carolina,35.16817,-80.9709096,Charlotte,New Fashion Way,28278
+node,14206279335,Shake Shack,Shake Shack,North Carolina,35.3703706,-80.7178992,,,
+node,14222426501,Whataburger,Whataburger,North Carolina,35.5961193,-80.8725647,,River Highway,28117
+way,44318881,McDonald's,McDonald's,North Carolina,35.940651826315786,-79.01911474210526,Chapel Hill,Fordham Boulevard,27517
+way,44324762,Shake Shack,Shake Shack,North Carolina,35.93572846,-79.0241575,Chapel Hill,East Franklin Street,27514
+way,47699461,McDonald's,McDonald's,North Carolina,35.86337238888889,-78.71189172222222,Raleigh,Millbrook Road,27613
+way,47714052,McDonald's,McDonald's,North Carolina,35.86745353809524,-78.62131554761905,Raleigh,Falls of Neuse Road,27609
+way,47838034,McDonald's,McDonald's,North Carolina,35.91051345,-78.78211825999999,Raleigh,Brier Creek Parkway,27617
+way,47917784,McDonald's,McDonald's,North Carolina,35.7852383076923,-78.68794527692307,Raleigh,Western Boulevard,27606
+way,47932436,McDonald's,McDonald's,North Carolina,35.79912926,-78.57721346000001,Raleigh,Trawick Road,27604
+way,47933422,McDonald's,McDonald's,North Carolina,35.815998625000006,-78.69426793749999,Raleigh,Lake Boone Trail,27607
+way,47968536,McDonald's,McDonald's,North Carolina,35.87988916,-78.64643988999998,Raleigh,Six Forks Road,27615
+way,106182937,McDonald's,McDonald's,North Carolina,35.87755268888888,-78.85034015555556,Durham,South Miami Boulevard,27703
+way,106615682,McDonald's,McDonald's,North Carolina,35.9702234,-78.95847549999999,Durham,Tower Boulevard,27707
+way,124130367,McDonald's,McDonald's,North Carolina,35.7237626,-78.54696450000002,Raleigh,Battle Bridge Road,27610
+way,146577842,McDonald's,McDonald's,North Carolina,36.02151476,-78.95239464,Durham,Hillsborough Road,27705
+way,162722103,McDonald's,McDonald's,North Carolina,35.900257357142856,-78.68147084285715,Raleigh,Creedmoor Road,27613
+way,168313733,McDonald's,McDonald's,North Carolina,35.07071635555556,-78.9662039222222,Fayetteville,Skibo Road,28314-1540
+way,171281630,McDonald's,McDonald's,North Carolina,36.33297794,-78.43632954,,,
+way,183385490,McDonald's,McDonald's,North Carolina,35.10353254444445,-80.98549973333334,,,
+way,189083588,McDonald's,McDonald's,North Carolina,35.1417896,-80.62362546,Matthews,West Lawyers Road,28104
+way,200858526,McDonald's,McDonald's,North Carolina,35.14394254,-80.92992154,Charlotte,South Tryon Street,28273
+way,205007166,McDonald's,McDonald's,North Carolina,35.81889375555556,-78.84485054444445,Morrisville,Morrisville Carpenter Road,28616
+way,205140972,McDonald's,McDonald's,North Carolina,35.606496299999996,-78.5661972857143,Garner,Glen Road,27529
+way,212914063,McDonald's,McDonald's,North Carolina,35.5936418,-78.77175431999999,Fuquay-Varina,North Main Street,27526
+way,214357763,McDonald's,McDonald's,North Carolina,35.7891617,-78.82978974117647,Cary,Southwest Cary Parkway,27511
+way,218799892,McDonald's,McDonald's,North Carolina,35.69257338888888,-78.5828097888889,Garner,Carillon Drive,27529
+way,219614876,McDonald's,McDonald's,North Carolina,35.97027724444444,-77.811585,Rocky Mount,North Wesleyan Boulevard,27804
+way,222837461,McDonald's,McDonald's,North Carolina,35.962701971428565,-77.83064364285714,Rocky Mount,Sunset Avenue,27801
+way,229357482,McDonald's,McDonald's,North Carolina,36.023536179999994,-77.76952314,Rocky Mount,North Wesleyan Boulevard,27809
+way,234024648,McDonald's,McDonald's,North Carolina,35.704199438461536,-78.7956650846154,Cary,Kildaire Farm Road,27518
+way,234053195,McDonald's,McDonald's,North Carolina,35.776500110000015,-78.76476841,Cary,Southeast Maynard Road,27511
+way,253127323,McDonald's,McDonald's,North Carolina,35.606052857142856,-77.37182908571428,Greenville,East 10th Street,27658
+way,255078185,McDonald's,McDonald's,North Carolina,35.418705216666666,-78.8037668,Lillington,West Cornelius Harnett Boulevard,27546
+way,255566335,McDonald's,McDonald's,North Carolina,35.20152637142857,-80.86553697142858,Charlotte,South Boulevard,28209
+way,256931106,McDonald's,McDonald's,North Carolina,36.10334332857143,-80.23002942857144,Winston-Salem,North Martin Luther King Jr Drive,27101
+way,258687503,McDonald's,McDonald's,North Carolina,35.13862616,-80.73810977999999,Charlotte,Sardis Road North,28270
+way,267464005,McDonald's,McDonald's,North Carolina,35.599503414285714,-77.33522068571429,Greenville,Southeast Greenville Boulevard,27858
+way,268629446,McDonald's,McDonald's,North Carolina,35.58703506666667,-82.48879457777778,Asheville,Tunnel Road,28805
+way,268715981,McDonald's,McDonald's,North Carolina,35.569531899999994,-82.50618851818182,Asheville,Fairview Road,28803
+way,272517597,McDonald's,McDonald's,North Carolina,35.521800459999994,-78.3585,Smithfield,West Market Street,27577
+way,274328600,McDonald's,McDonald's,North Carolina,35.24819466666666,-78.37996552222222,Newton Grove,Harnett-Dunn Highway,28366
+way,279661269,McDonald's,McDonald's,North Carolina,35.8673394375,-80.0721504,Thomasville,Randolph Street,27360
+way,286612490,McDonald's,McDonald's,North Carolina,36.07048830000001,-80.29759762,Winston Salem,Hanes Mall Boulevard,27103
+way,286669574,McDonald's,McDonald's,North Carolina,36.07377614285714,-80.33816821428572,Winston Salem,Jonestown Road,27104
+way,287713967,McDonald's,McDonald's,North Carolina,35.5299754,-82.60529422857144,Asheville,Brevard Road,28806
+way,288817196,McDonald's,McDonald's,North Carolina,35.70361067692308,-82.57032856153845,Weaverville,Weaver Boulevard,28787
+way,290467090,McDonald's,McDonald's,North Carolina,35.16343152857143,-83.39253655714285,,,
+way,299349425,McDonald's,McDonald's,North Carolina,36.29383765714285,-76.2968212,,,
+way,307245679,McDonald's,McDonald's,North Carolina,35.035375925,-83.8195996625,,,28904
+way,310107504,McDonald's,McDonald's,North Carolina,35.68654866,-79.82636784,Asheboro,West Dixie Drive,27205-6739
+way,311859474,McDonald's,McDonald's,North Carolina,35.3172633,-78.62696535555557,Dunn,West Cumberland Street,28334
+way,313035348,McDonald's,McDonald's,North Carolina,35.91916785714285,-80.58431037142857,Mocksville,Yadkinville Road,27028
+way,314485611,McDonald's,McDonald's,North Carolina,36.02973016,-78.92602558000002,Durham,Guess Road,27705
+way,321077910,Five Guys,Five Guys,North Carolina,35.58358148,-77.37138869,Greenville,Greenville Boulevard Southeast,27858
+way,322411468,McDonald's,McDonald's,North Carolina,35.08945613125,-80.86870954374999,Charlotte,Pineville-Matthews Road,28226
+way,322413479,McDonald's,McDonald's,North Carolina,35.11570985714285,-80.85701082857143,Charlotte,Park Road,28210
+way,323166915,McDonald's,McDonald's,North Carolina,36.12565592,-79.90603454000001,Greensboro,Inman Road,27410
+way,323167734,McDonald's,McDonald's,North Carolina,36.172224345454545,-79.98896017272727,Oak Ridge,Marketplace Drive,27310
+way,323174851,McDonald's,McDonald's,North Carolina,36.12053540000001,-79.84346206000001,Greensboro,Battleground Avenue,27410
+way,323179929,Steak 'n Shake,Steak 'n Shake,North Carolina,35.140909580000006,-80.73301162,Charlotte,Sardis Road North,28270
+way,323193100,McDonald's,McDonald's,North Carolina,35.220084645454556,-80.80258536363637,Charlotte,Central Avenue,28205
+way,323380697,McDonald's,McDonald's,North Carolina,35.2132798125,-80.78169738749999,Charlotte,Eastway Drive,28205
+way,323731320,McDonald's,McDonald's,North Carolina,36.00310638,-79.79128567999999,Greensboro,Fernhurst Way,27406
+way,324238875,McDonald's,McDonald's,North Carolina,36.108600442857146,-79.82785047142859,Greensboro,Battleground Avenue,27410
+way,324344870,Five Guys,Five Guys,North Carolina,36.08567118571429,-79.83231688571428,Greensboro,Kathleen Avenue,27408
+way,324412094,McDonald's,McDonald's,North Carolina,35.269186160000004,-80.85350382,Charlotte,Beatties Ford Road,28216
+way,324519233,McDonald's,McDonald's,North Carolina,35.10729495384616,-80.88040201538462,Charlotte,South Boulevard,28273
+way,324525483,Shake Shack,Shake Shack,North Carolina,35.0867167,-80.8810712,Pineville,Leitner Drive,28134
+way,324526290,Steak 'n Shake,Steak 'n Shake,North Carolina,35.10591,-80.88153063333333,Charlotte,South Boulevard,28273
+way,324774822,McDonald's,McDonald's,North Carolina,35.136272582352944,-80.71379371764706,Matthews,East Independence Boulevard,28105
+way,328010833,McDonald's,McDonald's,North Carolina,35.898987772727274,-75.66864723636364,Manteo,US Highway 64,27954
+way,330690467,McDonald's,McDonald's,North Carolina,34.64350032857143,-79.00989517142857,Lumberton,Roberts Avenue,28358
+way,334207295,McDonald's,McDonald's,North Carolina,36.055203757142856,-79.90167001428571,Greensboro,West Wendover Avenue,27405
+way,334409625,McDonald's,McDonald's,North Carolina,35.4837963,-80.87653112857143,Cornelius,Torrence Chapel Road,28031
+way,334526972,Whataburger,Whataburger,North Carolina,36.05517096,-79.8960837,Greensboro,West Wendover Avenue,
+way,334679412,McDonald's,McDonald's,North Carolina,35.98935355555555,-80.00274872222222,High Point,Mall Loop Road,27262
+way,334684291,McDonald's,McDonald's,North Carolina,36.036223459999995,-79.9623728,High Point,John Gordon Lane,27265
+way,334702414,McDonald's,McDonald's,North Carolina,36.03963084,-79.84907164,Greensboro,West Gate City Boulevard,27407
+way,334718177,McDonald's,McDonald's,North Carolina,35.8364897,-80.25419182,Lexington,Winston Road,
+way,335276225,McDonald's,McDonald's,North Carolina,35.42032093333333,-80.67563684444445,Concord,Bayfield Parkway,28027
+way,335280022,McDonald's,McDonald's,North Carolina,35.91281298,-80.25321144,Lexington,Old US Highway 52,27295
+way,340171432,McDonald's,McDonald's,North Carolina,35.24611686000001,-81.66576734,Boiling Springs,South Main Street,28152
+way,340171780,McDonald's,McDonald's,North Carolina,35.00618932857143,-78.81763368571428,Fayetteville,Cedar Creek Road,28312
+way,342378649,McDonald's,McDonald's,North Carolina,36.0143843,-79.8964759,Greensboro,West Gate City Boulevard,27407
+way,342389796,McDonald's,McDonald's,North Carolina,35.203393350000006,-80.73812911,Charlotte,Albemarle Road,28212
+way,342833126,Whataburger,Whataburger,North Carolina,35.868700861538464,-78.62134935384617,Raleigh,Falls of Neuse Road,27615
+way,348061519,McDonald's,McDonald's,North Carolina,35.7350026,-81.70996025999999,Morganton,West Union Street,28655
+way,365936721,McDonald's,McDonald's,North Carolina,35.57479308,-77.387861,Greenville,Landmark Street,27834
+way,374559626,Whataburger,Whataburger,North Carolina,35.410345819999996,-80.57936758,Concord,Church Street Southeast,28025
+way,378490018,McDonald's,McDonald's,North Carolina,35.594234820000004,-80.8655434,Mooresville,River Highway,28117
+way,378490051,Steak 'n Shake,Steak 'n Shake,North Carolina,35.595279780000006,-80.87507744,Mooresville,River Highway,28117
+way,385196904,McDonald's,McDonald's,North Carolina,35.32290353333334,-80.6459134888889,Harrisburg,Kee Lane,28075
+way,385628808,McDonald's,McDonald's,North Carolina,35.89074435384615,-82.06670801538462,Spruce Pine,S NC HWY 226,28777
+way,388806653,McDonald's,McDonald's,North Carolina,36.2951999,-76.24059452000002,,West Ehringhaus Street,27909
+way,394887344,McDonald's,McDonald's,North Carolina,36.0891532,-78.30089395714286,Louisburg,South Bickett Boulevard,27549
+way,397360235,Steak 'n Shake,Steak 'n Shake,North Carolina,35.372185820000006,-80.72263044000002,Concord,Concord Mills Boulevard,28027
+way,399081698,McDonald's,McDonald's,North Carolina,33.951489933333335,-78.04781693333332,Southport,Long Beach Rd SE,28461
+way,401121912,McDonald's,McDonald's,North Carolina,35.90116784,-78.89532124,Durham,NC Highway 55,27713
+way,403537915,McDonald's,McDonald's,North Carolina,35.91409616,-81.52823992,Lenoir,Morganton Boulevard Southwest,28645
+way,414293437,McDonald's,McDonald's,North Carolina,36.11732534000001,-80.31460153333335,Winston Salem,Robinhood Road,27106
+way,422420640,Shake Shack,Shake Shack,North Carolina,35.17272492222222,-80.84937108888889,Charlotte,East Woodlawn Road,28209
+way,424621130,Freddy's,Freddy's,North Carolina,36.03294050000001,-79.95717032,High Point,Brian Jordan Place,
+way,424681642,McDonald's,McDonald's,North Carolina,35.75902704615385,-78.74340013076923,Cary,Walnut Street,27518
+way,428732891,McDonald's,McDonald's,North Carolina,34.81123998181818,-79.17369004545456,Red Springs,East 4th Avenue,28377
+way,430674826,McDonald's,McDonald's,North Carolina,35.79884984,-78.48862052000001,Knightdale,Knightdale Boulevard,27545
+way,432821693,McDonald's,McDonald's,North Carolina,35.18451392,-80.88679896,Charlotte,South Tryon Street,28210
+way,432828179,McDonald's,McDonald's,North Carolina,35.51667047272727,-78.55507826363636,Benson,Crape Myrtle Drive,27504
+way,435570464,McDonald's,McDonald's,North Carolina,35.07858682857143,-78.94081444285713,Fayetteville,Bragg Boulevard,28301
+way,436981735,McDonald's,McDonald's,North Carolina,35.569084700000005,-80.90133515714287,Mooresville,Brawley School Road,28117
+way,439634926,McDonald's,McDonald's,North Carolina,34.99296695555555,-80.53933525555556,Monroe,Roosevelt Boulevard,28110-2817
+way,441500385,McDonald's,McDonald's,North Carolina,35.47712092857143,-81.23790822857143,Lincolnton,East Main Street,28092
+way,447659734,McDonald's,McDonald's,North Carolina,35.5596903,-77.06134732000001,Washington,Carolina Avenue,27889
+way,449617475,McDonald's,McDonald's,North Carolina,35.777147444444445,-80.25914033333333,,,
+way,454528521,McDonald's,McDonald's,North Carolina,35.838831479999996,-78.61159226000001,Raleigh,Wake Forest Road,27609
+way,482837007,McDonald's,McDonald's,North Carolina,36.48385950000001,-80.6139434,Mount Airy,Rockford Street,27030
+way,484631004,McDonald's,McDonald's,North Carolina,34.68871578,-77.06831588,Cape Carteret,Manatee Street,28584
+way,485395175,McDonald's,McDonald's,North Carolina,35.03722257142858,-80.80583282857143,Charlotte,Rea Road,28277
+way,487214636,McDonald's,McDonald's,North Carolina,36.111355780000004,-80.08984760000001,Kernersville,South Main Street,27284
+way,487214639,Five Guys,Five Guys,North Carolina,36.111185299999995,-80.08803417777777,Kernersville,South Main Street,27284
+way,494303673,McDonald's,McDonald's,North Carolina,35.443796899999995,-82.53368529999999,Arden,Airport Road,28704
+way,498624781,Steak 'n Shake,Steak 'n Shake,North Carolina,35.46534976,-80.58976478000001,Kannapolis,Spider Drive Northeast,28083
+way,498624782,McDonald's,McDonald's,North Carolina,35.46576564,-80.58898088,Kannapolis,Wonder Drive,28083
+way,512707440,McDonald's,McDonald's,North Carolina,36.073319260000005,-76.61120887999999,,Virginia Road,27932
+way,514042887,McDonald's,McDonald's,North Carolina,36.08421008999999,-81.92814608,Newland,Pineola Street,28657
+way,515543000,McDonald's,McDonald's,North Carolina,35.998144310526314,-75.65084790526313,Kill Devil Hills,South Croatan Highway,27948
+way,544021278,McDonald's,McDonald's,North Carolina,35.06127156,-79.01615192,Fayetteville,South Reilly Road,28314
+way,544061066,McDonald's,McDonald's,North Carolina,35.0290249,-79.05649874,Fayetteville,Good Middling Drive,28304
+way,544439887,McDonald's,McDonald's,North Carolina,36.038807680000005,-78.49845574,Youngsville,US Highway 1,27596
+way,544852279,McDonald's,McDonald's,North Carolina,35.7532712,-81.28566482857141,Hickory,Springs Road Northeast,28601
+way,545118905,McDonald's,McDonald's,North Carolina,35.699595759999994,-79.7875714,Asheboro,East Dixie Drive,27203
+way,545163954,McDonald's,McDonald's,North Carolina,35.16314908,-80.97008034000001,Charlotte,Steele Creek Road,28273
+way,545166668,McDonald's,McDonald's,North Carolina,36.108560866666664,-79.46389116666667,Burlington,West Webb Avenue,27217
+way,545369608,McDonald's,McDonald's,North Carolina,35.0371255,-79.00684872000001,Fayetteville,Raeford Road,28303
+way,545609355,McDonald's,McDonald's,North Carolina,36.07638338571429,-78.9102951,Durham,North Roxboro Street,27712
+way,546854754,McDonald's,McDonald's,North Carolina,35.01270292857142,-80.85134749999999,,,
+way,548254345,McDonald's,McDonald's,North Carolina,34.981440080000006,-79.01293928,Fayetteville,Traemoor Village Drive,28306
+way,548269379,McDonald's,McDonald's,North Carolina,35.08906518,-78.98329658,Fayetteville,Santa Fe Drive,28303
+way,548543818,McDonald's,McDonald's,North Carolina,35.32724802,-80.94448692,Charlotte,Callabridge Court,28216
+way,548799040,McDonald's,McDonald's,North Carolina,35.095796840000006,-78.91625173999998,Fayetteville,Pamalee Drive,28301
+way,549984297,McDonald's,McDonald's,North Carolina,35.157928240000004,-78.86978538,Fayetteville,Ramsey Street,28311
+way,551322498,McDonald's,McDonald's,North Carolina,35.13814496,-80.8760302,Charlotte,South Boulevard,28210
+way,552415046,McDonald's,McDonald's,North Carolina,35.81029324,-80.8741584,Statesville,Glenway Drive,28625
+way,553158469,McDonald's,McDonald's,North Carolina,35.238318220000004,-80.88453718000001,Charlotte,Freedom Drive,28208
+way,553175934,McDonald's,McDonald's,North Carolina,35.22888819999999,-80.92373476,Charlotte,Boyer Street,28208
+way,555238859,McDonald's,McDonald's,North Carolina,34.70098057692308,-76.74255611538462,,,
+way,556035208,McDonald's,McDonald's,North Carolina,35.09793008,-80.78339444,Charlotte,Pineville-Matthews Road,28226
+way,556893597,McDonald's,McDonald's,North Carolina,35.183285479999995,-80.75937392,Charlotte,Meridian Center Drive,28212
+way,556914788,McDonald's,McDonald's,North Carolina,35.076866828571426,-80.65184698571429,Indian Trail,Unionville Indian Trail Road,28079
+way,557053822,McDonald's,McDonald's,North Carolina,36.12143632857143,-80.36852069999999,Winston Salem,Village Link Road,27106
+way,557090329,McDonald's,McDonald's,North Carolina,36.18893824,-80.27753326,Winston Salem,University Parkway,27105
+way,557519405,Culver's,Culver's,North Carolina,35.29051496666667,-80.76475093333335,Charlotte,University City Boulevard,28262
+way,561148278,McDonald's,McDonald's,North Carolina,35.71602571428571,-78.8405638,,,
+way,561644020,McDonald's,McDonald's,North Carolina,36.06250576153847,-79.40012117692307,Graham,S Main Street,27253
+way,562778290,McDonald's,McDonald's,North Carolina,36.29918404,-78.58357154000001,Oxford,Granville Corners,27565
+way,568744185,McDonald's,McDonald's,North Carolina,35.246106733333335,-82.72382973333333,,,
+way,571035559,McDonald's,McDonald's,North Carolina,35.67070487777778,-80.85329407777778,Troutman,Charlotte Highway,28166
+way,573040017,McDonald's,McDonald's,North Carolina,34.55978298,-77.91821404,Burgaw,NC 53 East,28425
+way,577875668,McDonald's,McDonald's,North Carolina,35.25175432857143,-81.04319935714285,Belmont,North Main Street,28012-3130
+way,579981033,McDonald's,McDonald's,North Carolina,36.088675771428576,-79.88791235714287,Greensboro,College Road,27410
+way,581406863,McDonald's,McDonald's,North Carolina,36.39637666,-79.96919,Madison,Highway Street,27025
+way,582391916,McDonald's,McDonald's,North Carolina,35.790028944444444,-78.74076012222221,Raleigh,Corporate Center Drive,27607
+way,584045894,McDonald's,McDonald's,North Carolina,35.94801303333333,-78.8369417,Durham,US Highway 70,27703
+way,586982819,McDonald's,McDonald's,North Carolina,36.146607059999994,-78.72310708,,,
+way,591645202,Freddy's,Freddy's,North Carolina,35.3743858,-80.72509272,Concord,Pit Stop Court,28027
+way,595944585,McDonald's,McDonald's,North Carolina,34.98299671428572,-80.44842191428572,Wingate,East Highway 74,28174
+way,596149081,McDonald's,McDonald's,North Carolina,36.21307815555556,-80.30224195555556,Rural Hall,Bethania Drive,27045
+way,596639226,Culver's,Culver's,North Carolina,35.44644798571428,-82.53192758571429,Arden,Airport Road,28704
+way,596885517,McDonald's,McDonald's,North Carolina,34.92366548,-77.77516872,Beulaville,West Main Street,28518
+way,596978796,McDonald's,McDonald's,North Carolina,35.56755729090909,-82.54448051818181,Asheville,Hendersonville Road,28803
+way,598422406,Freddy's,Freddy's,North Carolina,35.95364388,-78.99105012,Durham,Watkins Road,27707
+way,601166448,McDonald's,McDonald's,North Carolina,36.03104127777778,-80.38321991111113,Clemmons,Lewisville Clemmons Road,27012
+way,601447939,McDonald's,McDonald's,North Carolina,35.377995899999995,-83.21303431999999,,,
+way,602291803,McDonald's,McDonald's,North Carolina,35.33377564285714,-80.79748501428571,Charlotte,Old Sugar Creek Road,28269
+way,602747600,McDonald's,McDonald's,North Carolina,35.82296598571428,-79.82304882857143,Randleman,High Point Street,27317
+way,602749341,McDonald's,McDonald's,North Carolina,35.73795378,-79.6531397,Ramseur,Jordan Road,27316
+way,603936203,McDonald's,McDonald's,North Carolina,36.41732852,-79.35003882,Yanceyville,NC-86,27379
+way,606482744,McDonald's,McDonald's,North Carolina,35.326223908333326,-83.80305811666668,Robbinsville,Rodney Orr Bypass,28771
+way,606559913,McDonald's,McDonald's,North Carolina,35.487114142857145,-79.19891047142859,Sanford,Spring Lane,27330
+way,606833169,McDonald's,McDonald's,North Carolina,35.62440446666667,-82.55397938333333,Asheville,Merrimon Avenue,28804
+way,607059303,McDonald's,McDonald's,North Carolina,36.27508702,-80.84347346,Elkin,CC Camp Road,28621
+way,609371847,McDonald's,McDonald's,North Carolina,36.0571195,-79.65987898,McLeansville,Mount Hope Church Road,27406
+way,609376128,McDonald's,McDonald's,North Carolina,35.94867015999999,-78.92389222,Durham,South Roxboro Street,27713
+way,610057813,McDonald's,McDonald's,North Carolina,35.08062586666666,-84.0357665,Murphy,Hiwassee Street,28906
+way,612079417,McDonald's,McDonald's,North Carolina,35.052490840000004,-80.76897472,Charlotte,Waverly Center Drive,28277
+way,614618483,McDonald's,McDonald's,North Carolina,35.91592948461538,-82.30202174615384,Burnsville,US Highway 19E,28714
+way,625470656,McDonald's,McDonald's,North Carolina,35.767518280000004,-78.57818835999998,Raleigh,Poole Road,27610
+way,625575893,McDonald's,McDonald's,North Carolina,34.75144122857143,-77.44586561428571,Jacksonville,South Marine Boulevard,28540
+way,627448407,McDonald's,McDonald's,North Carolina,36.00533696,-80.03734752,High Point,Old Plank Road,27265-1919
+way,628457769,McDonald's,McDonald's,North Carolina,36.17779328,-81.1448958,North Wilkesboro,2nd Street,28659
+way,628666679,McDonald's,McDonald's,North Carolina,35.45908489999999,-79.14585357777779,Sanford,South Horner Boulevard,27332
+way,634044586,McDonald's,McDonald's,North Carolina,35.76227347692308,-78.78302189230769,Cary,Kildare Farm Road,27511
+way,636037661,McDonald's,McDonald's,North Carolina,35.90638612,-78.60136902,Raleigh,Falls Of Neuse Road,27615
+way,637031496,McDonald's,McDonald's,North Carolina,35.581802180000004,-77.30817806,Greenville,East 10th Street,27858
+way,644471361,McDonald's,McDonald's,North Carolina,36.41767032,-79.93415878,,,
+way,647531874,McDonald's,McDonald's,North Carolina,35.442121885714286,-79.21652034285715,Sanford,Pendergrass Road,27330
+way,652109993,McDonald's,McDonald's,North Carolina,35.73399529333333,-79.43844246,Siler City,East Eleventh Street,27344
+way,654272522,McDonald's,McDonald's,North Carolina,35.362705219999995,-81.94024490000001,Rutherfordton,West Main Street,28139
+way,667274899,McDonald's,McDonald's,North Carolina,35.97893804,-77.974478,Nashville,West Washington Street,27856
+way,671169174,McDonald's,McDonald's,North Carolina,35.261714257142856,-79.04636439999999,Cameron,Nc Highway 24-87,28326
+way,673251189,McDonald's,McDonald's,North Carolina,36.060321980000005,-80.25938314,Winston-Salem,Trade Mart Boulevard,27107
+way,675579138,McDonald's,McDonald's,North Carolina,36.120694799999995,-80.66160404,,,
+way,678306678,McDonald's,McDonald's,North Carolina,35.11132068,-77.06607832,New Bern,Neuse Boulevard,28560
+way,680389563,McDonald's,McDonald's,North Carolina,34.14527857777777,-77.89317596666667,Wilmington,South College Road,28412
+way,683698991,McDonald's,McDonald's,North Carolina,35.44447076,-80.9976427,Denver,Nc Highway 16,28037
+way,685021830,McDonald's,McDonald's,North Carolina,36.039833179999995,-79.92024613999999,Jamestown,Guilford College Road,27282
+way,685118074,McDonald's,McDonald's,North Carolina,36.37704968333333,-80.48536317499999,Pilot Mountain,South Key Street,27041
+way,685130771,McDonald's,McDonald's,North Carolina,36.26206272857143,-80.3630584,,,
+way,686751495,McDonald's,McDonald's,North Carolina,35.665217733333336,-78.69879390000001,Raleigh,Fayetteville Road,27603
+way,697338283,McDonald's,McDonald's,North Carolina,35.550920714285716,-77.40486757142857,Winterville,South Memorial Drive,28590
+way,698050582,McDonald's,McDonald's,North Carolina,35.28885158,-81.02042474,Mount Holly,South Main Street,28120
+way,705745599,McDonald's,McDonald's,North Carolina,35.65034913333333,-78.47054411111111,Clayton,US 70 Highway Business East,27520
+way,713947023,McDonald's,McDonald's,North Carolina,35.72476504375,-78.64950842500001,Garner,US 70 Highway,27529
+way,721458260,McDonald's,McDonald's,North Carolina,35.860115959999995,-76.73797924,Plymouth,U.S. Highway 64 East,27962
+way,727875328,McDonald's,McDonald's,North Carolina,35.15440552,-79.41617108,,,
+way,742035814,McDonald's,McDonald's,North Carolina,36.206257345454546,-81.67121792727272,Boone,Blowing Rock Road,28607
+way,743311862,Freddy's,Freddy's,North Carolina,36.04120376,-78.89921949999999,,,
+way,744139200,Culver's,Culver's,North Carolina,35.95307231428572,-78.52443561428571,Wake Forest,Rogers Road,27587
+way,758226199,McDonald's,McDonald's,North Carolina,34.781787914285715,-77.39783002857142,Jacksonville,Western Boulevard,28546
+way,760570873,McDonald's,McDonald's,North Carolina,35.33423886,-81.89205820000001,Forest City,,28043
+way,761508392,McDonald's,McDonald's,North Carolina,35.248458066666664,-82.20422552222223,Columbus,West Mills Street,28722
+way,761859050,McDonald's,McDonald's,North Carolina,35.31699662222221,-81.85811862222222,Forest City,Frontage Road,28043
+way,765520023,McDonald's,McDonald's,North Carolina,35.59543162,-80.81745868,Mooresville,Limerick Road,28115
+way,767989660,Freddy's,Freddy's,North Carolina,35.32647288,-80.94390414,Charlotte,Corning Place,28216
+way,767990900,McDonald's,McDonald's,North Carolina,35.34697456,-80.86127121999999,Charlotte,Northlake West Drive,28216
+way,780491142,McDonald's,McDonald's,North Carolina,35.3565838,-79.899954,Troy,Albemarle Road,27371
+way,783526652,McDonald's,McDonald's,North Carolina,34.99396195714286,-78.13619507142857,Warsaw,NC-24,28398
+way,793520846,McDonald's,McDonald's,North Carolina,35.36681801818182,-80.71237295454546,Concord,Lyles Lane Northwest,28027
+way,793699899,McDonald's,McDonald's,North Carolina,34.19764383333333,-77.8893984,Wilmington,College Road,28403
+way,796331176,McDonald's,McDonald's,North Carolina,35.255593,-80.98069647999999,Charlotte,Sam Wilson Road,28214
+way,797094671,McDonald's,McDonald's,North Carolina,35.94493344285714,-78.50610898571429,Wake Forest,Forestville Road,27587
+way,808935851,Shake Shack,Shake Shack,North Carolina,35.73865592,-78.77775098,Cary,Colonades Way,27518
+way,810282934,McDonald's,McDonald's,North Carolina,36.3530231,-79.6641226,,,
+way,812817689,McDonald's,McDonald's,North Carolina,35.192934400000006,-80.79569500000001,Charlotte,North Wendover,28211
+way,814165806,McDonald's,McDonald's,North Carolina,34.10640674,-77.90037726,Wilmington,Carolina Beach Road,28409
+way,815103655,McDonald's,McDonald's,North Carolina,35.83342471428571,-78.31732171428571,,,
+way,821900722,McDonald's,McDonald's,North Carolina,36.05149074285715,-78.90405862857142,Durham,North Roxboro Road,27704
+way,825076635,McDonald's,McDonald's,North Carolina,35.0015483,-80.7005617,Wesley Chapel,Weddington Road,28104
+way,827886160,McDonald's,McDonald's,North Carolina,35.521884,-78.29373460000001,Selma,US 70 East,27576
+way,833697142,McDonald's,McDonald's,North Carolina,35.27696818888889,-80.79400231111111,Charlotte,West Sugar Creek Road,28213
+way,835571078,McDonald's,McDonald's,North Carolina,35.236209200000005,-80.73580999999999,Charlotte,East W T Harris Boulevard,28215
+way,843209911,McDonald's,McDonald's,North Carolina,34.7685026,-77.3843798,Jacksonville,Western Boulevard,28546-6816
+way,857943534,McDonald's,McDonald's,North Carolina,35.3085428,-80.8440832,Charlotte,Sunset Lane,28269
+way,859820847,McDonald's,McDonald's,North Carolina,34.95683278,-80.75695464,Waxhaw,Cuthbertson Road,28173
+way,863436258,McDonald's,McDonald's,North Carolina,35.337731559999995,-82.44526139999999,,,
+way,865478878,McDonald's,McDonald's,North Carolina,36.040455480000006,-79.80024908,Greensboro,Randleman Road,27406
+way,866312878,McDonald's,McDonald's,North Carolina,35.40645244285714,-80.86553635714287,Huntersville,Boren Street,28078
+way,867114357,McDonald's,McDonald's,North Carolina,35.3736874,-80.73226678,Concord,Derita Road,28027
+way,881477811,McDonald's,McDonald's,North Carolina,35.186898819999996,-80.68975404,Mint Hill,Lawyers Road,28227
+way,882941058,McDonald's,McDonald's,North Carolina,35.04929637777778,-80.64755612222221,Indian Trail,Monroe Road,28079
+way,886556850,McDonald's,McDonald's,North Carolina,35.73375516,-79.80762048,,North Fayetteville Street,27203
+way,893764734,McDonald's,McDonald's,North Carolina,35.39672576666666,-80.60777876666667,Concord,Cabarrus Avenue West,28027
+way,897547908,Culver's,Culver's,North Carolina,35.0468931,-80.64368142857143,Indian Trail,Old Charlotte Highway,28110
+way,897721570,Freddy's,Freddy's,North Carolina,34.797733220000005,-77.413867,Jacksonville,Western Boulevard,28546
+way,901293642,McDonald's,McDonald's,North Carolina,34.292412479999996,-77.87344712000001,Wilmington,North College Road,28405
+way,903920490,McDonald's,McDonald's,North Carolina,35.98069829545455,-79.97807966363638,High Point,Greensboro Road,27260
+way,905886678,Five Guys,Five Guys,North Carolina,36.02742097777778,-80.38271136666667,Clemmons,Lewisville Clemmons Road,27012
+way,915675170,Freddy's,Freddy's,North Carolina,36.06857428888889,-79.513848,Burlington,Boone Station Drive,27215
+way,924802601,Whataburger,Whataburger,North Carolina,35.3994736,-80.43678366,Mt. Pleasant,West Franklin Street,28124
+way,954751255,McDonald's,McDonald's,North Carolina,35.25958489,-81.12515325000001,Gastonia,East Franklin Boulevard,28054
+way,981075950,McDonald's,McDonald's,North Carolina,34.21200401428571,-78.02463148571428,Leland,New Pointe Boulevard,28451
+way,988354252,McDonald's,McDonald's,North Carolina,34.9208309,-79.74924497999999,,,
+way,989795417,Whataburger,Whataburger,North Carolina,35.37101513333334,-80.59819586666666,Concord,Old Charlotte Road,28027
+way,989867606,Whataburger,Whataburger,North Carolina,35.48206961333333,-80.62740933333333,Kannapolis,South Main Street,28081
+way,991892788,McDonald's,McDonald's,North Carolina,35.238117779999996,-77.57388676,Kinston,East New Bern Road,28501
+way,993029595,Whataburger,Whataburger,North Carolina,35.26061444285715,-80.42564897142857,Locust,North Central Avenue,28097
+way,997195311,McDonald's,McDonald's,North Carolina,35.490646000000005,-80.6115958,Kannapolis,South Cannon Boulevard,28081
+way,997521469,McDonald's,McDonald's,North Carolina,35.37139972,-80.54942100000001,Concord,US Highway 601 South,28025-0490
+way,1012027240,McDonald's,McDonald's,North Carolina,34.3433513,-78.70838475454545,Whiteville,Powell Boulevard,28472
+way,1013962305,McDonald's,McDonald's,North Carolina,35.39710015,-77.96457571666666,Goldsboro,Wayne Memorial Drive,27530
+way,1014958003,Culver's,Culver's,North Carolina,35.60143018,-78.75374558000001,Fuquay-Varina,Cinema Drive,27526
+way,1017266990,McDonald's,McDonald's,North Carolina,35.772319599999996,-78.63826673999999,Raleigh,East South Street,27602
+way,1019444847,McDonald's,McDonald's,North Carolina,34.97776365714286,-79.23610800000002,,,
+way,1020160605,McDonald's,McDonald's,North Carolina,35.348880922222214,-80.16682613333333,,,
+way,1024235989,McDonald's,McDonald's,North Carolina,35.60849547777778,-77.39531556666667,Greenville,North Memorial Drive,27834
+way,1025860770,McDonald's,McDonald's,North Carolina,35.65389198,-78.34804904,Clayton,Flowers Commerce Drive,27527
+way,1027065202,McDonald's,McDonald's,North Carolina,36.14447325384616,-80.30134112307692,Winston Salem,Reynolda Road,27106
+way,1033706065,McDonald's,McDonald's,North Carolina,35.423566933333326,-83.44644703333334,Bryson City,Veterans Boulevard,28713
+way,1035168116,McDonald's,McDonald's,North Carolina,35.59215461428572,-77.39616524285714,Greenville,West Arlington Drive,27834
+way,1037179950,McDonald's,McDonald's,North Carolina,35.651675,-77.366934,Greenville,North Memorial Drive,27834
+way,1042462875,McDonald's,McDonald's,North Carolina,35.76429488,-78.00780788,Wilson,Raleigh Road Parkway;US 264 Alternate West,27896
+way,1069451389,McDonald's,McDonald's,North Carolina,35.5616911,-80.41512164444443,Rockwell,US Highway 52,28138
+way,1089778625,McDonald's,McDonald's,North Carolina,35.44437121428572,-80.86658793571429,Huntersville,Statesville Road,28078
+way,1089960640,McDonald's,McDonald's,North Carolina,35.294564433333335,-80.74800847333333,Charlotte,University City Boulevard,28213
+way,1090352745,McDonald's,McDonald's,North Carolina,34.448820379999994,-77.5630654,Surf City,NC-50,
+way,1094655704,McDonald's,McDonald's,North Carolina,35.44157331428572,-80.76506967142858,Davidson,Davidson Highway,28036
+way,1105070899,McDonald's,McDonald's,North Carolina,35.308568627777774,-80.74831240000002,Charlotte,J M Keynes Drive,28262
+way,1118941284,McDonald's,McDonald's,North Carolina,35.62131982857143,-82.18088685714285,Old Fort,Bat Cave Road,28762
+way,1123360659,McDonald's,McDonald's,North Carolina,36.137101799999996,-80.24350908,,Akron Drive,27105
+way,1143746690,McDonald's,McDonald's,North Carolina,35.2240383,-80.63423270000001,Charlotte,Woodland Beaver Road,28215
+way,1145190765,McDonald's,McDonald's,North Carolina,35.722003414285716,-78.84506825714286,Apex,East Williams Street,27502
+way,1159531478,McDonald's,McDonald's,North Carolina,35.765390483333334,-81.33321999166665,Hickory,North Center Street,28601
+way,1164867359,McDonald's,McDonald's,North Carolina,35.75327094000001,-77.93045108,,,
+way,1185583818,McDonald's,McDonald's,North Carolina,35.26330324285714,-80.77212994285715,Charlotte,North Tryon Street,28213
+way,1205576783,McDonald's,McDonald's,North Carolina,34.76075758,-77.41455263999998,Jacksonville,North Marine Boulevard,28540
+way,1213157813,McDonald's,McDonald's,North Carolina,35.22803102857143,-81.33264271428571,Kings Mountain,York Road,28086
+way,1218031771,McDonald's,McDonald's,North Carolina,35.77673096,-78.434355,,,
+way,1219116627,McDonald's,McDonald's,North Carolina,34.28811574,-77.92147786,Wilmington,Castle Hayne Road,28401
+way,1235568669,McDonald's,McDonald's,North Carolina,35.26642084,-79.5882445,,,
+way,1249294724,McDonald's,McDonald's,North Carolina,36.17439329999999,-76.4625831,,,27944
+way,1249294871,McDonald's,McDonald's,North Carolina,36.329457579999996,-76.22627152000001,,North Road Street,27909-3389
+way,1255388081,McDonald's,McDonald's,North Carolina,35.25483604,-80.45849996,,West Main Street,28097
+way,1255389998,McDonald's,McDonald's,North Carolina,35.23893528,-81.36359397999999,,Shelby Road,28086
+way,1255390862,McDonald's,McDonald's,North Carolina,35.7053109,-81.30034845714286,Hickory,US 70 Southeast,28602
+way,1255391111,McDonald's,McDonald's,North Carolina,35.70522888888888,-81.26344917777777,Conover,Fairgrove Church Road,28613
+way,1255391186,McDonald's,McDonald's,North Carolina,35.695534499999994,-81.23080277142857,Conover,Conover Boulevard West,28613
+way,1255391368,McDonald's,McDonald's,North Carolina,35.715970385714286,-81.33686208571429,Hickory,US 70 Southeast,28601
+way,1255391651,McDonald's,McDonald's,North Carolina,35.92156874285714,-81.18527145714286,,West Main Avenue,28681
+way,1255392022,McDonald's,McDonald's,North Carolina,35.796178780000005,-80.93893044000001,Statesville,Taylorsville Road,28625
+way,1259523640,McDonald's,McDonald's,North Carolina,35.69354824444445,-80.51350534444445,Salisbury,Jake Alexander Boulevard West,28147
+way,1287258430,McDonald's,McDonald's,North Carolina,35.734642300000004,-81.3647363,Hickory,Highway 321 Northwest,28601
+way,1327356279,McDonald's,McDonald's,North Carolina,35.60153554285714,-82.62281997142858,Asheville,New Leicester Highway,28806
+way,1328603322,McDonald's,McDonald's,North Carolina,34.66397026,-79.00095202,,Fayetteville Road,28358
+way,1339947847,Culver's,Culver's,North Carolina,36.142196614285716,-80.29306227142857,Winston-Salem,,27106
+way,1340132589,McDonald's,McDonald's,North Carolina,35.1429179,-76.83079616,Grantsboro,NC Highway 55 East,28529
+way,1348101162,Culver's,Culver's,North Carolina,35.705308,-81.29454363333332,Hickory,13th Avenue Drive Southeast,28602
+way,1393190517,Culver's,Culver's,North Carolina,35.657104842857144,-78.48058730000001,Clayton,Clayton Boulevard,27520
+way,1431397554,McDonald's,McDonald's,North Carolina,35.29141754,-80.96852908,,,
+way,1431533544,McDonald's Family Restaurant,McDonald's,North Carolina,35.2849312,-81.27039502307692,Bessemer City,Gastonia Highway,
+way,1432075625,Whataburger,Whataburger,North Carolina,35.2242772,-80.63523611428572,Charlotte,Albemarle Road,28227
+way,1470174338,Culver's,Culver's,North Carolina,35.156252328571426,-80.94252407142858,,,
+way,1507114497,Culver's,Culver's,North Carolina,34.97983898,-78.9768484,Hope Mills,South Peak Drive,28348
+way,1545478844,Five Guys,Five Guys,North Carolina,35.96638467142857,-78.5312342,Wake Forest,Dr. Calvin Jones Highway,27587
+way,1554321884,Whataburger,Whataburger,North Carolina,36.0411294,-79.84383618000001,,Four Seasons Station Drive,
+way,1558306805,McDonald's,McDonald's,North Carolina,35.50378490000001,-82.99119898,,,

@@ -1,0 +1,463 @@
+osm_type,osm_id,name,brand,state_query,latitude,longitude,city,street,postcode
+node,387466617,McDonald's,McDonald's,Missouri,37.2041302,-93.2614426,Springfield,South Glenstone,65802
+node,894199687,Steak 'n Shake,Steak 'n Shake,Missouri,38.750184,-90.5885061,Saint Peters,Jungermann Road,63376
+node,1072119260,Five Guys,Five Guys,Missouri,39.2460141,-94.4514156,Liberty,North Conistor Road,64068
+node,1188497772,Culver's,Culver's,Missouri,38.9473555,-92.3005343,Columbia,Broadway Bluffs Drive,65201
+node,1241925804,Steak 'n Shake,Steak 'n Shake,Missouri,38.5318811,-90.288135,Saint Louis,Lemay Ferry Road,63125
+node,1294136106,Steak 'n Shake,Steak 'n Shake,Missouri,37.2093053,-93.2764415,,,65806
+node,1343844294,McDonald's,McDonald's,Missouri,40.2646774,-94.0112746,,,
+node,1568626796,McDonald's,McDonald's,Missouri,39.0724923,-94.3800367,Independence,East Gudgell Road,64055-2018
+node,1586563293,McDonald's,McDonald's,Missouri,37.2083733,-93.2755807,Springfield,South National Avenue,65802
+node,1781815253,McDonald's,McDonald's,Missouri,39.0264936,-94.4424817,Raytown,Blue Ridge Boulevard,64133-3061
+node,1926504899,McDonald's,McDonald's,Missouri,38.80518,-90.7697582,O'Fallon,West Terra Lane,63366
+node,2012648479,Shake Shack,Shake Shack,Missouri,39.0420793,-94.5904122,,Wyandotte Street,64112
+node,2182581603,Five Guys,Five Guys,Missouri,38.7959499,-90.3391921,Florissant,North Highway 67,63031
+node,2561318432,McDonald's,McDonald's,Missouri,38.7837144,-90.3788148,Hazelwood,Howdershell Road,63042
+node,2564516200,McDonald's,McDonald's,Missouri,38.5570577,-90.3938192,Crestwood,Watson Road,63126
+node,2578591958,McDonald's,McDonald's,Missouri,38.8193581,-90.5139575,Saint Charles,Elm Street,63301
+node,2578603388,McDonald's,McDonald's,Missouri,38.7790917,-90.5300694,Saint Charles,Zumbehl Road,63303
+node,2621726237,Freddy's,Freddy's,Missouri,36.6720977,-93.2275129,,Branson Hills Parkway,65616
+node,2621726248,McDonald's,McDonald's,Missouri,36.6728461,-93.2277812,,Branson Hills Parkway,65616
+node,2629436541,McDonald's,McDonald's,Missouri,36.6964681,-93.36585,,,65737
+node,2670074336,Five Guys,Five Guys,Missouri,38.9703671,-94.6072492,Kansas City,Ward Parkway,64114
+node,2670074399,McDonald's,McDonald's,Missouri,38.9859747,-94.6077279,Kansas City,State Line Road,64114-1636
+node,2678431881,McDonald's,McDonald's,Missouri,37.8368776,-94.3584926,,,
+node,2703675125,McDonald's,McDonald's,Missouri,37.1426558,-93.2561001,Springfield,East Independence Street,65804
+node,2703734876,McDonald's,McDonald's,Missouri,37.159987,-93.2667647,Springfield,East Battlefield Road,65804-3705
+node,2726501826,McDonald's,McDonald's,Missouri,37.1382622,-93.3624657,Springfield,West Republic Road,65619
+node,2730663675,McDonald's,McDonald's,Missouri,37.1605814,-93.3155519,Springfield,West Battlefield,65807
+node,2735655759,Five Guys,Five Guys,Missouri,37.1633348,-93.2642432,Springfield,Battlefield Mall,65804
+node,2738959401,McDonald's,McDonald's,Missouri,37.2366684,-93.26055,Springfield,North Glenstone Road,65803-4648
+node,2765918078,McDonald's,McDonald's,Missouri,38.7713317,-93.7342028,,,
+node,2780705846,McDonald's,McDonald's,Missouri,39.1296816,-94.5035606,Kansas City,Front Street,64120-1322
+node,2934990995,McDonald's,McDonald's,Missouri,38.7833647,-90.3549263,Hazelwood,North Lindbergh,63042-2033
+node,2954451320,McDonald's,McDonald's,Missouri,36.7875582,-90.4317561,,,
+node,3010555080,McDonald's,McDonald's,Missouri,38.7464942,-90.5785368,Saint Peters,Harvester Square,63303
+node,3232589964,Five Guys,Five Guys,Missouri,39.0253959,-94.2465134,Blue Springs,Northeast Coronado Drive,64014
+node,3654848924,McDonald's,McDonald's,Missouri,38.9150952,-94.3614998,,,
+node,3893441576,Steak 'n Shake,Steak 'n Shake,Missouri,38.7153381,-93.2824034,,,65310
+node,3893441621,McDonald's,McDonald's,Missouri,38.7081749,-93.2654657,Sedalia,West Broadway,65301-2116
+node,3893666169,Freddy's,Freddy's,Missouri,38.7090657,-93.2678338,,,
+node,3928068561,McDonald's,McDonald's,Missouri,39.1474378,-91.8897415,,,
+node,3955347388,McDonald's,McDonald's,Missouri,38.4312717,-92.858308,,,
+node,3986738160,McDonald's,McDonald's,Missouri,38.0060275,-91.6204254,Saint James,North Outer Road,65559
+node,4017341589,McDonald's,McDonald's,Missouri,37.1049245,-89.9039299,,,
+node,4018521460,McDonald's,McDonald's,Missouri,36.8033754,-89.9716458,,,63841
+node,4060520361,McDonald's,McDonald's,Missouri,38.812431,-94.4740667,Raymore,West Foxwood Drive,64083
+node,4166061897,Steak 'n Shake,Steak 'n Shake,Missouri,37.1585195,-93.2295391,Springfield,East Battlefield Road,65804
+node,4376758409,McDonald's,McDonald's,Missouri,38.2566606,-94.351502,,,
+node,4710346063,Five Guys,Five Guys,Missouri,38.6701856,-90.4427354,Creve Coeur,North New Ballas Road,63141
+node,4898169947,Shake Shack,Shake Shack,Missouri,38.7373571,-90.3555453,,,
+node,4914989577,Five Guys,Five Guys,Missouri,37.2463197,-93.3121685,Springfield,North Kansas Expressway,65803
+node,5002332658,Five Guys,Five Guys,Missouri,39.1888921,-94.5482856,Kansas City,North Antioch Road,64119
+node,5633199848,McDonald's,McDonald's,Missouri,38.7687265,-90.7825438,Lake Saint Louis,Robert Raymond Drive,63367
+node,5633601663,McDonald's,McDonald's,Missouri,38.7725904,-90.4913885,Saint Charles,South Fifth Street,63301
+node,5637791655,McDonald's,McDonald's,Missouri,38.7211545,-90.6995612,O'Fallon,Crusher Drive,63368
+node,5637892308,McDonald's,McDonald's,Missouri,38.8220148,-90.7002749,O'Fallon,North Main Street,63366
+node,5657623850,McDonald's,McDonald's,Missouri,37.1095319,-93.0575765,Rogersville,South Mill Street,65742
+node,5732509523,McDonald's,McDonald's,Missouri,38.8149956,-90.9525389,Foristell,South Service Road E,63348
+node,5743649167,McDonald's,McDonald's,Missouri,39.33357,-91.1819039,,,
+node,5793269392,Shake Shack,Shake Shack,Missouri,38.6416053,-90.2618429,Saint Louis,North Euclid Avenue,63108
+node,5882814836,McDonald's,McDonald's,Missouri,39.7205207,-91.3925287,,,
+node,5943291995,Culver's,Culver's,Missouri,37.1813499,-93.2711356,Springfield,East Sunshine Street,65804
+node,6117347625,Five Guys,Five Guys,Missouri,39.2577233,-94.6521452,Kansas City,Northwest Skyview Avenue,64154
+node,6357338979,McDonald's,McDonald's,Missouri,37.3136807,-91.9595347,,,
+node,6359515838,McDonald's,McDonald's,Missouri,37.6400262,-93.1035782,,,
+node,6360701661,McDonald's,McDonald's,Missouri,38.761871,-90.454911,Earth City,Rider Trail South,63045
+node,6363952159,McDonald's,McDonald's,Missouri,38.6801246,-90.5010071,Chesterfield,Olive Street Road,63017-3112
+node,6954928108,McDonald's,McDonald's,Missouri,38.6020496,-90.4385575,Des Peres,Manchester Road,63131-4309
+node,7023112750,McDonald's,McDonald's,Missouri,38.9875315,-90.971429,,,
+node,7097235681,McDonald's,McDonald's,Missouri,36.4238235,-89.6896888,,,
+node,8710963427,McDonald's,McDonald's,Missouri,37.1560274,-92.7854762,,West Steel Street,65746
+node,9768325643,Freddy's,Freddy's,Missouri,38.5254087,-90.3600669,,,
+node,9794046666,McDonald's,McDonald's,Missouri,38.4126893,-90.5832478,,,
+node,9951344394,McDonald's,McDonald's,Missouri,38.9412834,-91.9435446,,,
+node,10035430254,Five Guys,Five Guys,Missouri,38.9473864,-92.2964155,Columbia,East Broadway Bluffs Drive,65201
+node,10035430261,Freddy's,Freddy's,Missouri,38.9478979,-92.2954303,,,
+node,10172692353,Five Guys,Five Guys,Missouri,38.8151087,-94.5073957,Belton,Cunningham Industrial Parkway,64012
+node,10985529470,Shake Shack,Shake Shack,Missouri,38.6539453,-90.3534264,,,
+node,11043108110,Steak 'n Shake,Steak 'n Shake,Missouri,38.5815903,-92.2178666,Jefferson City,Missouri Boulevard,65109
+node,11043108129,McDonald's,McDonald's,Missouri,38.5806411,-92.2351758,Jefferson City,10 Mile Road,65109-1728
+node,11043366131,Freddy's,Freddy's,Missouri,38.5807481,-92.2054881,,,
+node,11050090220,McDonald's,McDonald's,Missouri,38.5831494,-90.3190505,Shrewsbury,Watson Road,63119
+node,11280469754,Five Guys,Five Guys,Missouri,38.5103806,-90.334968,Saint Louis,South Lindbergh Boulevard,63125
+node,11466471547,McDonald's,McDonald's,Missouri,37.0108713,-90.9958409,,,
+node,11466483764,McDonald's,McDonald's,Missouri,37.1451132,-90.70008,,,
+node,11538248426,McDonald's,McDonald's,Missouri,37.2728789,-93.1100965,,East Evergreen Street,65757
+node,11599290948,McDonald's,McDonald's,Missouri,38.8294594,-91.0422528,Warren County,West North Service Road,63390
+node,11769504266,McDonald's,McDonald's,Missouri,38.925216,-94.399098,Lee'S Summit,Chipman Road,64063-2317
+node,11986017620,McDonald's,McDonald's,Missouri,38.6364108,-94.3559252,,Brookhart Drive,64701
+node,12005952247,McDonald's,McDonald's,Missouri,37.3316949,-89.5727654,Cape Girardeau,N Kings Highway,63701
+node,12091051833,Five Guys,Five Guys,Missouri,38.6231611,-90.3337173,Saint Louis,South Hanley Road,63144
+node,12160487305,McDonald's,McDonald's,Missouri,37.0555232,-94.5334404,,McClelland Boulevard,64804
+node,12163053866,Five Guys,Five Guys,Missouri,37.159293,-93.2819636,,,
+node,12175963121,Whataburger,Whataburger,Missouri,38.8122212,-94.4916534,Raymore,West Foxwood Drive,
+node,12271069683,McDonald's,McDonald's,Missouri,39.7540132,-94.769151,,South Riverside Road,64507
+node,12271186055,McDonald's,McDonald's,Missouri,39.713137,-94.8728622,,Lake Avenue,64506
+node,12271245597,McDonald's,McDonald's,Missouri,39.0778604,-94.4134595,,South Noland Road,64055
+node,12271251209,McDonald's,McDonald's,Missouri,39.1537584,-94.4757389,,,64161
+node,12271251242,McDonald's,McDonald's,Missouri,39.1024938,-94.436522,,,64054-1576
+node,12288167015,McDonald's,McDonald's,Missouri,36.8795522,-94.4288493,,,64850
+node,12288179098,McDonald's,McDonald's,Missouri,36.8605099,-94.3832101,,South Neosho Boulevard,64850-2050
+node,12288670480,McDonald's,McDonald's,Missouri,36.9568214,-93.7189985,,South Elliott Avenue,65605
+node,12292178398,McDonald's,McDonald's,Missouri,38.8992803,-94.5323018,,Harry Truman Drive,64030
+node,12292183858,McDonald's,McDonald's,Missouri,39.0312729,-94.5035834,,Eastwood Trafficway,64129
+node,12292218599,McDonald's,McDonald's,Missouri,39.2185206,-92.133102,,,65240
+node,12292229692,McDonald's,McDonald's,Missouri,38.9036381,-94.3389072,,Southeast Blue Parkway,64063
+node,12292237713,McDonald's,McDonald's,Missouri,38.8410283,-91.9506821,,,65251
+node,12292239919,McDonald's,McDonald's,Missouri,38.6553211,-92.1138166,,Northstar Drive,65043
+node,12292242929,McDonald's,McDonald's,Missouri,39.4360185,-92.4333187,,North Morley Street,65270-3634
+node,12292245315,McDonald's,McDonald's,Missouri,37.7882159,-90.4224832,,West Karsch Boulevard,63640-2104
+node,12292250623,McDonald's,McDonald's,Missouri,37.3691597,-89.642803,,,63755-2909
+node,12292255395,McDonald's,McDonald's,Missouri,38.5056763,-90.6262292,,East 4th Street,63025
+node,12292259113,McDonald's,McDonald's,Missouri,38.1444666,-90.5805679,,,63020
+node,12292262085,McDonald's,McDonald's,Missouri,38.0054627,-90.2257437,,Enterprise Road,63627
+node,12292265802,McDonald's,McDonald's,Missouri,38.6852381,-90.2178505,Saint Louis,North Broadway,63147
+node,12292268571,McDonald's,McDonald's,Missouri,37.3056284,-89.9765198,,Presnell,63764
+node,12292637340,McDonald's,McDonald's,Missouri,36.9751597,-91.9404127,,,65793
+node,12292662994,McDonald's,McDonald's,Missouri,36.5725732,-89.970302,,,63863
+node,12301632658,McDonald's,McDonald's,Missouri,37.1822433,-93.3555455,Springfield,West Sunshine Street,65807
+node,12643785101,Freddy's Frozen Custard & Steakburgers,Freddy's,Missouri,38.7702072,-90.7005093,,State Hwy K,63368
+node,12781980838,Culver's,Culver's,Missouri,37.0716907,-93.2309626,Ozark,North 21st Street,65721
+node,12781980849,Culver's,Culver's,Missouri,38.0161293,-92.7344114,Camdenton,US 54,65020
+node,12781980897,Culver's,Culver's,Missouri,38.2176025,-90.3850878,Crystal City,South Truman Boulevard,63019
+node,12781980901,Culver's,Culver's,Missouri,37.1337013,-93.4571991,Republic,US 60,65738
+node,12814604151,Five Guys,Five Guys,Missouri,38.9611165,-92.3738032,Columbia,North Stadium Boulevard,65203
+node,12866094646,McDonald's,McDonald's,Missouri,37.6363953,-91.5347576,,,
+node,12882603518,Shake Shack,Shake Shack,Missouri,38.9274976,-94.4132416,Lees Summit,Northwest Lowenstein Drive,64081
+node,12950011633,McDonald's,McDonald's,Missouri,38.822014,-90.8538372,Wentzville,Neela Road,63385
+node,12980804203,Shake Shack,Shake Shack,Missouri,38.5547544,-90.4080213,,,
+node,13315634239,McDonald's,McDonald's,Missouri,37.1356266,-93.2776647,,,
+node,13672154810,McDonald's,McDonald's,Missouri,39.2512013,-94.5395,,,
+node,13720923822,McDonald's,McDonald's,Missouri,37.1443644,-94.5221471,,,
+node,13827532501,Steak 'n Shake,Steak 'n Shake,Missouri,38.5568983,-90.4076308,,South Kirkwood Road,
+node,14240487277,Culver's,Culver's,Missouri,38.9096014,-92.325024,,,
+way,39416335,Freddy's,Freddy's,Missouri,38.50825081111111,-90.44170089999999,Fenton,Gravois Bluffs Boulevard,63026
+way,39416916,McDonald's,McDonald's,Missouri,38.51569144,-90.45007609999999,Fenton,Old Smizer Mill Road,63026
+way,39421435,Culver's,Culver's,Missouri,38.52453586,-90.47186262,Fenton,Bowles Avenue,63026
+way,42235697,McDonald's,McDonald's,Missouri,38.54056976,-90.47070985999999,Fenton,Bowles Avenue,63026
+way,102923683,Culver's,Culver's,Missouri,36.66323578,-93.2382489,Branson,Shepherd of the Hills Expressway,65616
+way,102923695,Culver's,Culver's,Missouri,39.804810859999996,-94.81599966000002,Saint Joseph,North Belt Highway,64506
+way,102923736,Culver's,Culver's,Missouri,38.78922638461539,-90.56526483846154,Saint Charles,Muegge Road,63303
+way,102923844,Culver's,Culver's,Missouri,37.14994258,-93.26319428,Springfield,East Primrose Street,65804
+way,102923867,Culver's,Culver's,Missouri,38.98359975714286,-94.6078833857143,Kansas City,State Line Road,64114
+way,102923872,Culver's,Culver's,Missouri,38.72310994,-90.69998182,O'Fallon,Highway K,63368
+way,102923920,Culver's,Culver's,Missouri,38.51046374615385,-90.33962656923077,Saint Louis,Rusty Road,63128
+way,102924029,Culver's,Culver's,Missouri,38.94226174999999,-94.3775203357143,Lee's Summit,Northeast Douglas Street,64086
+way,102924204,Culver's,Culver's,Missouri,38.4130271,-90.38386894,Arnold,Richardson Crossing,63010
+way,103451637,McDonald's,McDonald's,Missouri,39.04583687142857,-94.44118010000001,Independence,East 40 Highway,64055
+way,158085404,Steak 'n Shake,Steak 'n Shake,Missouri,37.24727471999999,-93.25997444,Springfield,North Glenstone Avenue,65803
+way,160365908,McDonald's,McDonald's,Missouri,38.79444081333334,-90.62326998666667,Saint Peters,Mid Rivers Mall Drive,63376
+way,161787350,McDonald's,McDonald's,Missouri,37.2477577,-93.31142698571429,Springfield,North Kansas Expressway,65803
+way,165629276,McDonald's,McDonald's,Missouri,36.63120098,-90.825568,Doniphan,Leroux Street,63935
+way,168769823,McDonald's,McDonald's,Missouri,39.06698903333333,-94.5850057,Kansas City,Main Street,64111
+way,169771007,McDonald's,McDonald's,Missouri,38.96675514,-94.49887330000001,Kansas City,East 87th,64138
+way,171845930,McDonald's,McDonald's,Missouri,39.07984658,-94.4465777,Independence,East 23rd Street,64052
+way,172236846,McDonald's,McDonald's,Missouri,39.09545343999999,-94.55108036,Kansas City,Prospect Avenue,64127
+way,176259223,McDonald's,McDonald's,Missouri,39.1462542,-94.55690982000002,North Kansas City,Vernon Street,64116
+way,176364159,Five Guys,Five Guys,Missouri,39.04508992857143,-94.41588232857143,Independence,South Noland Road,64055
+way,176364643,McDonald's,McDonald's,Missouri,39.04314944,-94.41577056000001,Independence,South Noland,64055-4792
+way,179067004,Steak 'n Shake,Steak 'n Shake,Missouri,39.24547614,-94.46226535999999,Kansas City,Northeast Barry Road,64157
+way,179067015,Freddy's,Freddy's,Missouri,39.245328300000004,-94.45869895999999,Kansas City,Northeast Barry Road,64157
+way,179200623,McDonald's,McDonald's,Missouri,38.8129739125,-94.50687101250001,Belton,East North Avenue,64012-2128
+way,183630512,McDonald's,McDonald's,Missouri,39.01099302,-94.57530278,Kansas City,Troost Avenue,64110
+way,189159753,McDonald's,McDonald's,Missouri,38.643557400000006,-90.56705724,Chesterfield,Clarkson Road,63017
+way,195048907,McDonald's,McDonald's,Missouri,39.265500287500004,-94.57648593750001,Kansas City,North McGee Street,64155
+way,195123320,McDonald's,McDonald's,Missouri,39.24555755,-94.65972161666667,Kansas City,Northwest 83rd Terrace,64152
+way,195211912,Culver's,Culver's,Missouri,39.243972157142856,-94.45023738571429,Liberty,West Kansas Street,64068
+way,195492918,McDonald's,McDonald's,Missouri,39.209960079999995,-94.64227955999999,Kansas City,Northwest 64th Street,64151
+way,195688004,McDonald's,McDonald's,Missouri,39.20853468,-94.57683383999999,Gladstone,North Oak Trafficway,64118
+way,206897183,Steak 'n Shake,Steak 'n Shake,Missouri,37.04940594,-94.47661588000001,Joplin,East Hammons,64804
+way,206898305,McDonald's,McDonald's,Missouri,37.051972722222224,-94.47903597777778,Joplin,South Range Line,64804
+way,215962254,McDonald's,McDonald's,Missouri,38.937392247058824,-92.74441952941179,Boonville,Americana,65233
+way,217437178,McDonald's,McDonald's,Missouri,39.05893281764707,-94.59026725294117,Kansas City,Broadway Boulevard,64111
+way,238017629,McDonald's,McDonald's,Missouri,38.36668354,-93.74994284,,,
+way,238588253,McDonald's,McDonald's,Missouri,38.73956338000001,-90.63446676,Saint Peters,Mid Rivers Mall Drive,63304
+way,239254210,McDonald's,McDonald's,Missouri,38.63687832,-90.19547512,Saint Louis,North Tucker Boulevard,63101
+way,249707975,McDonald's,McDonald's,Missouri,38.59238674761905,-90.55378552857144,Ballwin,Manchester Road,63011
+way,256062496,McDonald's,McDonald's,Missouri,38.727720100000006,-90.24408431666666,Jennings,Jennings Station Road,63136
+way,258781629,McDonald's,McDonald's,Missouri,39.26788356,-94.45105812,Kansas City,North Ash Avenue,64157
+way,260650283,McDonald's,McDonald's,Missouri,38.909585015384614,-92.33270288461537,Columbia,East Nifong Boulevard,65201
+way,260651152,McDonald's,McDonald's,Missouri,37.944827114285715,-91.78544965714286,Rolla,Kingshighway,65401-2923
+way,268218660,McDonald's,McDonald's,Missouri,37.15984151538461,-93.26678961538462,,,
+way,277031292,McDonald's,McDonald's,Missouri,38.963301811111116,-92.28993115555554,Columbia,Clark Lane,65202-2414
+way,277949581,Steak 'n Shake,Steak 'n Shake,Missouri,38.963117239999995,-92.29292541999999,,Clark Lane,65202
+way,278040483,Steak 'n Shake,Steak 'n Shake,Missouri,36.64453734000001,-93.22214978000001,Branson,West Main Street,65616
+way,278040489,McDonald's,McDonald's,Missouri,36.644619920000004,-93.2228974,Branson,West Main Street,65616
+way,287429273,McDonald's,McDonald's,Missouri,39.35398677333333,-94.76531159333332,Platte City,Prairie View Road,64079
+way,290475671,McDonald's,McDonald's,Missouri,39.16744936,-94.57721794,Kansas City,North Oak Trafficway,64116
+way,290525467,McDonald's,McDonald's,Missouri,39.17284692,-94.53585208000001,Kansas City,Northeast Chouteau Trafficway,64117
+way,292071169,McDonald's,McDonald's,Missouri,36.90425946,-89.35434285999999,Charleston,,
+way,293140722,McDonald's,McDonald's,Missouri,39.36849808,-94.37068060000001,Kearney,West 92 Highway,64060
+way,295598580,McDonald's,McDonald's,Missouri,38.56685778,-90.47688452000001,Valley Park,Big Bend Road,63088
+way,298497337,McDonald's,McDonald's,Missouri,38.76780968,-90.28086527999999,Ferguson,West Florissant Avenue,63136
+way,298497350,McDonald's,McDonald's,Missouri,38.73549181999999,-90.27847613999998,,,
+way,308159556,Steak 'n Shake,Steak 'n Shake,Missouri,36.77046378,-90.41781748,Poplar Bluff,North Westwood Boulevard,63901
+way,309650761,McDonald's,McDonald's,Missouri,38.26476778,-93.37024177999999,,,
+way,317243409,McDonald's,McDonald's,Missouri,37.09366699090909,-93.80660337272728,,,
+way,319011636,McDonald's,McDonald's,Missouri,38.88613702857143,-94.60741185714286,Kansas City,State Line Road,64145
+way,325347441,McDonald's,McDonald's,Missouri,38.852158054545455,-94.37786854545453,Lee'S Summit,Southwest M150 Highway,64081
+way,326910084,McDonald's,McDonald's,Missouri,37.02357744,-93.23269972000001,Ozark,North 21st Street,65721
+way,331135349,Freddy's,Freddy's,Missouri,37.96326666,-91.76527925999999,Rolla,North Bishop Avenue,65401
+way,331280368,McDonald's,McDonald's,Missouri,39.20748384444445,-94.54812022222224,Gladstone,North Antioch Road,64119
+way,331548414,McDonald's,McDonald's,Missouri,36.89103442,-89.53611018000001,,,
+way,332332367,McDonald's,McDonald's,Missouri,38.78760861111112,-90.66171843333332,Saint Peters,Mexico Road,63376
+way,337493338,McDonald's,McDonald's,Missouri,38.99716068,-94.47895144,Raytown,East 350 Highway,64133
+way,341075038,McDonald's,McDonald's,Missouri,38.4897074125,-90.48656791249999,Fenton,Old Sugar Creek Road,63026
+way,345614723,McDonald's,McDonald's,Missouri,38.772798480000006,-90.22077928000002,Spanish Lake,Bellefontaine Road,63138
+way,345630503,Steak 'n Shake,Steak 'n Shake,Missouri,38.76865292,-90.2646471,Ferguson,New Halls Ferry Road,63136
+way,352888931,McDonald's,McDonald's,Missouri,38.673928159999996,-90.34702808,University City,Olive Boulevard,63130
+way,360945560,McDonald's,McDonald's,Missouri,38.917956157142854,-94.3608720142857,,,
+way,361355820,Culver's,Culver's,Missouri,39.21007554285715,-94.64889372857142,Kansas City,Northwest 64th Street,64151
+way,363247975,Freddy's,Freddy's,Missouri,38.8008856,-90.31556504,,,
+way,363248001,McDonald's,McDonald's,Missouri,38.8108186095238,-90.29693512380952,Florissant,North Highway 67,63033
+way,366127334,McDonald's,McDonald's,Missouri,38.62611972,-90.51648951999998,Town and Country,Lamp & Lantern Village,63017
+way,366172615,McDonald's,McDonald's,Missouri,38.594689861538455,-90.49230026923077,Manchester,Manchester Road,63011
+way,368485855,Steak 'n Shake,Steak 'n Shake,Missouri,40.12388388,-91.53917176,Canton,Oak Street,63435
+way,368955872,McDonald's,McDonald's,Missouri,38.445351720000005,-90.99704908,Union,East Main Street,63084
+way,374828087,McDonald's,McDonald's,Missouri,38.59302446,-90.29381987999999,Saint Louis,Hampton Avenue,63139
+way,374964804,McDonald's,McDonald's,Missouri,38.59119454444445,-90.3383713,Webster Groves,South Old Orchard Road,63119-3203
+way,383317086,McDonald's,McDonald's,Missouri,38.9882106375,-94.27288623125,Blue Springs,South 7 Highway,64014
+way,383374613,Culver's,Culver's,Missouri,39.00414577142857,-94.2734836857143,Blue Springs,Highway 7,64014
+way,383374614,McDonald's,McDonald's,Missouri,39.0087494,-94.27660826000002,Blue Springs,West US 40 HWY,64015
+way,383386018,McDonald's,McDonald's,Missouri,39.02804744545454,-94.27127289999999,Blue Springs,MO Northwest Highway 7,64014
+way,384538730,McDonald's,McDonald's,Missouri,39.04753706,-94.36563454,Independence,South Bolger Road,64055
+way,385798310,McDonald's,McDonald's,Missouri,40.184557659999996,-92.57140960000001,Kirksville,South Baltimore Street,63501
+way,385896421,McDonald's,McDonald's,Missouri,38.77153308,-93.56634814,,,
+way,388763383,McDonald's,McDonald's,Missouri,38.577112220000004,-90.40610138,Kirkwood,South Kirkwood Road,63122-6143
+way,398890332,McDonald's,McDonald's,Missouri,39.1049779,-94.51962950000002,Kansas City,Independence Avenue,64124-3007
+way,410592822,Steak 'n Shake,Steak 'n Shake,Missouri,38.49126538571428,-90.48674905714287,Fenton,Gravois Road,63026
+way,412173090,McDonald's,McDonald's,Missouri,39.752681499999994,-94.21599432000001,,,
+way,427242261,McDonald's,McDonald's,Missouri,39.774300881818185,-93.55349642727273,,,
+way,427244620,McDonald's,McDonald's,Missouri,39.33186307142857,-94.26798732857142,,,
+way,439936154,McDonald's,McDonald's,Missouri,38.50640789999999,-90.6786917090909,Pacific,Fox Creek Road,63069
+way,450284732,McDonald's,McDonald's,Missouri,37.34052432,-92.9265932,,,
+way,450676512,McDonald's,McDonald's,Missouri,37.00547942,-94.55231389999999,Joplin,Highway 43,64804
+way,468839585,McDonald's,McDonald's,Missouri,36.71462002,-91.87487612,,,
+way,468859935,McDonald's,McDonald's,Missouri,36.74223335714286,-91.87142222857142,,,
+way,468956364,McDonald's,McDonald's,Missouri,36.50925092000001,-94.28044222,Pineville,College Road,64856
+way,477183200,Steak 'n Shake,Steak 'n Shake,Missouri,38.536476699999994,-90.98072454000001,Washington,Phoenix Center Drive,63090
+way,477212859,McDonald's,McDonald's,Missouri,38.53801114,-91.00185902000001,Washington,Washington Square Center,63090
+way,477222749,McDonald's,McDonald's,Missouri,38.67174372,-90.43710708,Creve Coeur,Olive Boulevard,63141
+way,477985193,Five Guys,Five Guys,Missouri,38.640757179999994,-90.2474627,Saint Louis,Lindell Boulevard,63108
+way,479588471,McDonald's,McDonald's,Missouri,38.700342066666664,-90.44384701999999,Maryland Heights,West Port Plaza Drive,63146
+way,483964224,McDonald's,McDonald's,Missouri,38.484151180000005,-90.75991542,Pacific,West Union Street,63069
+way,484845049,McDonald's,McDonald's,Missouri,38.77382598888889,-90.33579067777777,Hazelwood,Pershall Road,63042
+way,485194266,McDonald's,McDonald's,Missouri,38.67363924285714,-90.37648421428571,Olivette,Olive Boulevard,63132
+way,488038837,McDonald's,McDonald's,Missouri,38.5060426,-90.63639064,Eureka,Hilltop Village Center Drive,63025
+way,488038839,Culver's,Culver's,Missouri,38.50672378571429,-90.6338263142857,Eureka,Meramec Boulevard,63025
+way,488161555,McDonald's,McDonald's,Missouri,38.91271016,-94.44794490000001,Lee'S Summit,Southwest 3rd Street,64081
+way,488447271,McDonald's,McDonald's,Missouri,38.96520206,-92.33496052000001,Columbia,Business Loop,65201
+way,492565239,McDonald's,McDonald's,Missouri,39.24388525333333,-94.46247526666667,Kansas City,Northeast Barry Road,64157
+way,493602283,McDonald's,McDonald's,Missouri,39.23693222222222,-94.43340425555556,Liberty,MO 291,64068
+way,495251245,Freddy's,Freddy's,Missouri,39.18650584,-94.57716346000001,Kansas City,North Oak Trafficway,64118
+way,495971714,McDonald's,McDonald's,Missouri,38.790056778947374,-94.26168443684209,,MO 7,64080
+way,496850143,McDonald's,McDonald's,Missouri,39.24687794166666,-94.58285817500001,Kansas City,Northwest Barry Road,64155
+way,498695511,Culver's,Culver's,Missouri,39.036082712500004,-94.34365305,Independence,South Little Blue Parkway,64057
+way,498940262,McDonald's,McDonald's,Missouri,39.03314068,-94.30596306000001,Blue Springs,North Woods Chapel Road,64015-2783
+way,500480424,McDonald's,McDonald's,Missouri,39.03213106,-94.35655984,Independence,East US Highway 40,64055-5464
+way,500480436,Whataburger,Whataburger,Missouri,39.0322666,-94.35748675999999,Independence,East US Highway 40,64055
+way,504907825,McDonald's,McDonald's,Missouri,38.942353887500005,-94.60731386249999,Kansas City,West 103rd Street,64114
+way,509028750,Culver's,Culver's,Missouri,37.24216657142858,-93.26055077142857,Springfield,North Glenstone Avenue,65803
+way,510027913,McDonald's,McDonald's,Missouri,37.67432186999999,-92.65493912,Lebanon,South Jefferson Avenue,65536
+way,510029159,McDonald's,McDonald's,Missouri,37.64462748571429,-92.66844872857143,Lebanon,Morgan Road,65536
+way,510635932,McDonald's,McDonald's,Missouri,39.200541740000006,-94.49902764000001,Claycomo,US 69,64119
+way,511622865,Freddy's,Freddy's,Missouri,39.24237364166667,-94.65682066666665,Kansas City,Northwest Roanridge Road,64151
+way,513458347,McDonald's,McDonald's,Missouri,37.17917738,-94.32483348,Carthage,West Central Avenue,64836
+way,513458728,McDonald's,McDonald's,Missouri,37.13977261428572,-94.31901337142857,Carthage,The Loop,64836
+way,515354754,McDonald's,McDonald's,Missouri,38.99279166,-92.32435434,Columbia,Smiley Lane,65202
+way,517135555,McDonald's,McDonald's,Missouri,39.0692043,-94.52009156666668,Kansas City,Van Brunt Boulevard,64128-1877
+way,517825570,Steak 'n Shake,Steak 'n Shake,Missouri,38.771445039999996,-90.22112,Saint Louis,Bellefontaine Road,63138
+way,518033739,McDonald's,McDonald's,Missouri,38.73352576,-90.39095368,St. Ann,Saint Charles Rock Road,63074
+way,518931634,McDonald's,McDonald's,Missouri,38.96090896,-92.37209725999999,Columbia,North Stadium Boulevard,65203
+way,522324356,Steak 'n Shake,Steak 'n Shake,Missouri,38.960630244444445,-92.36842905555555,Columbia,West Worley Street,65203
+way,543906879,McDonald's,McDonald's,Missouri,38.82308382000001,-91.1389058,,,
+way,546700833,McDonald's,McDonald's,Missouri,37.9287934,-90.7763026111111,,,
+way,546912125,Freddy's,Freddy's,Missouri,38.907012419047625,-92.33395084285715,,Buttonwood Drive,65201
+way,547802138,McDonald's,McDonald's,Missouri,38.66759552,-90.61696864,Chesterfield,Long Road,63005
+way,547988373,McDonald's,McDonald's,Missouri,38.79101366,-90.60589966,Saint Peters,Spencer Road,63376
+way,550154784,McDonald's,McDonald's,Missouri,40.217300300000005,-92.58216131111112,Kirksville,North Baltimore Street,63501
+way,552433438,McDonald's,McDonald's,Missouri,38.0720724,-91.40445408571429,Cuba,Aaron Drive,65453
+way,554515530,McDonald's,McDonald's,Missouri,38.21859816,-91.16252950000002,Sullivan,South Service Road East,63080
+way,554765342,McDonald's,McDonald's,Missouri,38.992904371428565,-93.56870985714286,Concordia,Northwest 4th Street,64020
+way,554989534,McDonald's,McDonald's,Missouri,39.00672522222222,-93.95323541111111,Odessa,West Old U.S. 40,64076
+way,555000318,McDonald's,McDonald's,Missouri,39.0033447,-93.73417158000001,Higginsville,Missouri Route 13,64037
+way,555008896,McDonald's,McDonald's,Missouri,39.077670239999996,-93.73804673999999,Higginsville,Missouri Route 13,64037
+way,555816145,McDonald's,McDonald's,Missouri,38.97636598571428,-94.59538761428573,Kansas City,Wornall Road,64114
+way,556182733,McDonald's,McDonald's,Missouri,39.10806178,-93.20905503999998,Marshall,West College Street,65340
+way,556856502,McDonald's,McDonald's,Missouri,38.549512899999996,-92.1495655,Jefferson City,Eastland Drive,65101
+way,556888409,McDonald's,McDonald's,Missouri,38.63908942,-90.24366991999999,Saint Louis,Lindell Boulevard,63108
+way,561046358,McDonald's,McDonald's,Missouri,38.612520509090906,-90.22196073181819,Saint Louis,South Jefferson,63104
+way,561313320,McDonald's,McDonald's,Missouri,38.62670488,-90.33552742,Brentwood,South Hanley,63144
+way,564435497,Steak 'n Shake,Steak 'n Shake,Missouri,38.627244360000006,-90.28783247999999,Saint Louis,Hampton Avenue,63139
+way,564435528,McDonald's,McDonald's,Missouri,38.62450569000001,-90.28748593000002,Saint Louis,Hampton Avenue,63139
+way,566845755,Freddy's,Freddy's,Missouri,38.81381438,-94.50583337999998,,,
+way,570570411,Culver's,Culver's,Missouri,38.12074233333333,-92.67948410833333,Osage Beach,Osage Beach Parkway,65065
+way,570571997,McDonald's,McDonald's,Missouri,38.15399298,-92.60900172000001,Osage Beach,Osage Beach Parkway,65065
+way,570841195,McDonald's,McDonald's,Missouri,37.80843917142857,-92.22461031428573,Waynesville,Ichord Avenue,65583
+way,574189357,McDonald's,McDonald's,Missouri,40.074789759999994,-93.59643793999999,,,
+way,574835546,McDonald's,McDonald's,Missouri,38.6973113,-93.25014469999999,Sedalia,South Limit Avenue,65301-6943
+way,578584967,McDonald's,McDonald's,Missouri,36.52330469230769,-91.53445806923077,,,
+way,578817337,Culver's,Culver's,Missouri,38.56732549090909,-90.39519338181819,Saint Louis,Big Bend Boulevard,63122
+way,579393867,Culver's,Culver's,Missouri,38.55261515714285,-92.20012139999999,Jefferson City,Jefferson Street,65109
+way,579393868,Culver's,Culver's,Missouri,37.8142552,-92.14355157142857,,Town Center Boulevard,
+way,582255116,McDonald's,McDonald's,Missouri,37.88321828,-90.51140527999999,,,
+way,585538424,Steak 'n Shake,Steak 'n Shake,Missouri,38.56515793999999,-90.35971846,St. Louis,Watson Road,63119
+way,588468199,McDonald's,McDonald's,Missouri,38.79182131818182,-90.56348809090909,Saint Peters,Veterans Memorial Parkway,63376
+way,590994548,McDonald's,McDonald's,Missouri,39.75030138181818,-92.46743165454546,Macon,North Missouri Street,63552
+way,591214323,McDonald's,McDonald's,Missouri,37.96771473333334,-90.04933123333333,,,
+way,591242535,McDonald's,McDonald's,Missouri,37.6247588,-90.64722452857141,,,
+way,591451504,McDonald's,McDonald's,Missouri,37.82249517272727,-92.13941841818182,Saint Robert,Highway Z,65584
+way,591451522,Freddy's,Freddy's,Missouri,37.822118700000004,-92.14639199999999,,,
+way,591912871,McDonald's,McDonald's,Missouri,38.80179527692308,-90.69916392307692,O'Fallon,McDonald Lane,63366
+way,594369882,McDonald's,McDonald's,Missouri,39.37020759999999,-93.4853909888889,Carrollton,North US Highway 65,64633
+way,599495733,Culver's,Culver's,Missouri,37.78913766,-90.42811003999999,Farmington,West Karsch Boulevard,63640
+way,601161483,McDonald's,McDonald's,Missouri,37.0015415,-91.70619018,Mountain View,,65548
+way,603927337,McDonald's,McDonald's,Missouri,39.271031754545454,-93.96785530000001,Richmond,East South Street,64085
+way,604054630,Five Guys,Five Guys,Missouri,39.77630033846154,-94.80269288461538,Saint Joseph,Frederick Boulevard,64506
+way,604054631,McDonald's,McDonald's,Missouri,39.77132412857143,-94.80301347142857,Saint Joseph,North Belt Highway,64506
+way,610920726,McDonald's,McDonald's,Missouri,39.73418208888889,-94.80053448888889,Saint Joseph,South Belt Highway,64503
+way,615665530,McDonald's,McDonald's,Missouri,38.812546453846146,-90.34894972307694,Florissant,Shackelford Road,63031
+way,617885499,McDonald's,McDonald's,Missouri,38.800588899999994,-90.33452353999999,Florissant,Florissant Oaks Shopping Center,63031
+way,617911551,Culver's,Culver's,Missouri,38.79976362857143,-90.32851017142856,Florissant,North Highway 67,63031
+way,619362333,McDonald's,McDonald's,Missouri,38.67624532142857,-90.25069141428573,Saint Louis,Natural Bridge Road,63115
+way,623248809,Steak 'n Shake,Steak 'n Shake,Missouri,38.591038219999994,-90.27157186,Saint Louis,Chippewa Street,63116
+way,624361049,McDonald's,McDonald's,Missouri,38.58627362222223,-90.2759907111111,Saint Louis,South Kingshighway,63109
+way,627398264,McDonald's,McDonald's,Missouri,38.759066187500004,-90.70089882500001,O'Fallon,Highway K,63368
+way,629541695,Culver's,Culver's,Missouri,37.31040837142857,-89.55274011428573,Cape Girardeau,North Kingshighway Street,63701
+way,629541698,Culver's,Culver's,Missouri,38.811857457142864,-94.48424657142857,Raymore,West Foxwood Drive,64083
+way,629541708,Culver's,Culver's,Missouri,37.14070512,-94.47408487999999,Webb City,South Madison Street,64870
+way,629541710,Culver's,Culver's,Missouri,38.668841471428564,-90.60399288571429,Chesterfield,Chesterfield Airport Road,63005
+way,629541718,Culver's,Culver's,Missouri,39.357333271428566,-94.76715390000001,Platte City,Prairie View Road,64079
+way,629541737,Culver's,Culver's,Missouri,38.79265971428572,-90.69467094285714,O'Fallon,Mexico Road,63366
+way,629541738,Culver's,Culver's,Missouri,38.592956185714286,-90.51930858571428,Manchester,Manchester Road,63011
+way,632659468,McDonald's,McDonald's,Missouri,38.545981909090905,-90.28768561818181,Saint Louis,Bayless Avenue,63125
+way,634074718,McDonald's,McDonald's,Missouri,38.7022283,-90.29129988461538,Saint Louis,Natural Bridge Road,63121
+way,641390401,McDonald's,McDonald's,Missouri,38.52198210833333,-90.34643874166669,Saint Louis,South Lindbergh Boulevard,63123
+way,647945020,McDonald's,McDonald's,Missouri,36.96076151538461,-92.6722350846154,,,
+way,652550651,McDonald's,McDonald's,Missouri,37.49324920526316,-94.29769873684211,Lamar,East Highway 160,64759
+way,654104295,McDonald's,McDonald's,Missouri,38.47160937272727,-90.30538885454546,Saint Louis,Telegraph Road,63129
+way,657652853,McDonald's,McDonald's,Missouri,36.858463453333336,-89.58382070666667,,,
+way,659480071,McDonald's,McDonald's,Missouri,38.59308693999999,-90.5864114,Ellisville,Manchester Road,63011
+way,659487933,Freddy's,Freddy's,Missouri,38.592271777777775,-90.57662624444444,Ellisville,Manchester Road,63011
+way,659999002,McDonald's,McDonald's,Missouri,37.14071986,-94.47561402,Webb City,South Madison,64870-2018
+way,660872600,McDonald's,McDonald's,Missouri,37.08499032,-94.53066812,,West 7th Street,64801-3023
+way,663073807,McDonald's,McDonald's,Missouri,37.07846402,-94.47699292,Joplin,Range Line Road,64801
+way,666220786,McDonald's,McDonald's,Missouri,38.79641569090909,-90.23196001818181,Florissant,Parker Road,63033-5312
+way,667060358,McDonald's,McDonald's,Missouri,37.77049724,-90.44669408,Farmington,West Columbia Street,63640
+way,672574764,Freddy's,Freddy's,Missouri,38.747348492307694,-90.6357508923077,Cottleville,Mid Rivers Mall Drive,63304
+way,673027091,McDonald's,McDonald's,Missouri,37.55968933333333,-90.31589534444443,Fredericktown,West Main Street,63645
+way,674555657,Culver's,Culver's,Missouri,38.817510533333326,-90.87659675333333,Wentzville,Wentzville Parkway,63385
+way,674580824,McDonald's,McDonald's,Missouri,38.809994853846156,-90.86504076923077,Wentzville,West Pearce Boulevard,63385
+way,674860045,Steak 'n Shake,Steak 'n Shake,Missouri,38.81193316,-90.87347334,Wentzville,West Pearce Boulevard,63385
+way,677185869,McDonald's,McDonald's,Missouri,38.21522111111111,-90.38809064444445,,,
+way,677336593,McDonald's,McDonald's,Missouri,37.98157927142857,-91.7193203,Rolla,Hy Point Industrial Park Drive,65401
+way,678663922,McDonald's,McDonald's,Missouri,39.117445257142855,-94.38269941428572,Independence,East Highway 24,64056-1520
+way,682011880,McDonald's,McDonald's,Missouri,38.49349848,-91.85845997999999,,,
+way,692351511,McDonald's,McDonald's,Missouri,36.69483197142858,-93.12282062857143,,,
+way,700874160,McDonald's,McDonald's,Missouri,37.60551034,-93.40727276,,,
+way,705834240,Steak 'n Shake,Steak 'n Shake,Missouri,38.15863566,-92.60454882,,,65065
+way,730779990,McDonald's,McDonald's,Missouri,40.334498257142855,-94.87432995714285,,S Main,
+way,741805093,McDonald's,McDonald's,Missouri,39.3619893,-94.58330466,,,
+way,762106440,Steak 'n Shake,Steak 'n Shake,Missouri,38.77310521111111,-90.78307804444444,Lake Saint Louis,Robert Raymond Drive,63367
+way,777198787,McDonald's,McDonald's,Missouri,36.64079796666667,-93.26188446666667,Branson,West 76 Country Boulevard,65616
+way,777209189,Steak 'n Shake,Steak 'n Shake,Missouri,36.6517749,-93.29752704444445,Branson,Highway 376,65616
+way,800836451,McDonald's,McDonald's,Missouri,37.71164025454546,-89.89172431818182,,,
+way,808206815,McDonald's,McDonald's,Missouri,40.13348701428572,-95.23415332857144,Mound City,State Street,64470
+way,844398017,McDonald's,McDonald's,Missouri,37.31256598,-89.54579593999999,,,
+way,846790114,McDonald's,McDonald's,Missouri,39.01410486,-94.12821860666665,Oak Grove,South Broadway Street,64075
+way,849951903,Freddy's,Freddy's,Missouri,37.056244140000004,-94.47895114000002,,,
+way,868041365,McDonald's,McDonald's,Missouri,38.194995399999996,-92.64329714,Lake Ozark,Bagnell Dam Boulevard,65049
+way,914877547,McDonald's,McDonald's,Missouri,38.5009503,-90.33344854545454,Saint Louis,Lemay Ferry Road,63129
+way,919963542,McDonald's,McDonald's,Missouri,38.773716619999995,-92.25356236,,,
+way,923976836,Steak 'n Shake,Steak 'n Shake,Missouri,38.4963218,-90.29858814,Saint Louis,Telegraph Road,63125
+way,927605461,Steak 'n Shake,Steak 'n Shake,Missouri,36.71659892,-91.87546064,West Plains,Worley Drive,65775
+way,959630545,McDonald's,McDonald's,Missouri,38.34644246,-92.58196569999998,,,
+way,980768818,McDonald's,McDonald's,Missouri,38.71422347777778,-90.45675207777776,Maryland Heights,Dorsett Road,63043-2130
+way,986800256,Freddy's,Freddy's,Missouri,38.67368672,-90.41095804,Creve Coeur,Olive Boulevard,63141
+way,999922058,Freddy's,Freddy's,Missouri,38.916811888888894,-94.40116155555557,,,
+way,999951809,McDonald's,McDonald's,Missouri,38.924772,-94.52361479999999,Kansas City,Hickman Mills Drive,64134
+way,1001176341,McDonald's,McDonald's,Missouri,37.13984104615384,-93.29701076153847,Springfield,South Campbell Avenue,65807
+way,1001176345,Steak 'n Shake,Steak 'n Shake,Missouri,37.145675909090905,-93.29657405000002,Springfield,South Campbell Avenue,65807
+way,1001176351,Freddy's,Freddy's,Missouri,37.13283326799999,-93.29933346000001,Springfield,West El Camino Alto Drive,65810
+way,1009668900,McDonald's,McDonald's,Missouri,37.12422674666666,-93.4662416,,US Hwy 60 East,65738
+way,1014270165,McDonald's,McDonald's,Missouri,37.060161237500004,-94.51420162500001,Joplin,South Main Street,64804
+way,1019091204,McDonald's,McDonald's,Missouri,37.089581555555554,-89.54171518888889,Benton,State Highway 77,63736
+way,1026029595,Steak 'n Shake,Steak 'n Shake,Missouri,38.72748128888889,-90.34262598888887,Saint Louis,Natural Bridge Road,63134
+way,1031054893,McDonald's,McDonald's,Missouri,38.24809767333333,-90.55805581333334,,,
+way,1058240653,Whataburger,Whataburger,Missouri,39.02820136363636,-94.27247899090911,Blue Springs,MO Northwest Highway 7,64014
+way,1061546757,McDonald's,McDonald's,Missouri,38.11661005,-92.69106623333333,Osage Beach,MO KK,
+way,1066286792,McDonald's,McDonald's,Missouri,37.145778818181824,-92.26211684545454,,,
+way,1083338204,McDonald's,McDonald's,Missouri,38.21144825454546,-90.4038653909091,,,
+way,1083338205,Steak 'n Shake,Steak 'n Shake,Missouri,38.2140425,-90.40300371111111,Festus,Veterans Memorial Boulevard,63028
+way,1083850394,McDonald's,McDonald's,Missouri,37.30255380833333,-89.58345778333334,Cape Girardeau,William Street,63701
+way,1083851338,McDonald's,McDonald's,Missouri,38.55317925714286,-92.19966960000001,Jefferson City,Jefferson Street,65109-2062
+way,1085839298,McDonald's,McDonald's,Missouri,38.41840241818181,-90.39082870909091,Arnold,Richardson Road,63010
+way,1086480236,McDonald's,McDonald's,Missouri,38.985980892307694,-94.60770253076923,,,
+way,1097755694,McDonald's,McDonald's,Missouri,37.15763001999999,-93.22757936666666,Springfield,East Battlefield Road,65804-4049
+way,1102429039,McDonald's,McDonald's,Missouri,38.44500432727273,-90.37589948181818,Arnold,Arnold Cross Roads,63010
+way,1107834322,McDonald's,McDonald's,Missouri,38.4939926,-90.38095935999999,Saint Louis,Tesson Ferry Road,63128
+way,1110400634,McDonald's,McDonald's,Missouri,38.011215908333334,-92.74104568333333,Camdenton,US 54,65020
+way,1117517478,Culver's,Culver's,Missouri,38.59141512857143,-90.59065888571429,Ellisville,Manchester Road,63011
+way,1125221887,Whataburger,Whataburger,Missouri,39.24700223333334,-94.58785877777778,Kansas City,Northwest Barry Road,64155
+way,1125986339,McDonald's,McDonald's,Missouri,36.736120799999995,-90.39809192857142,,,
+way,1132296295,McDonald's,McDonald's,Missouri,39.041934285714284,-94.57135989999999,Kcmo,Emanuel Cleaver Ii Boulevard,64110
+way,1138230111,Steak 'n Shake,Steak 'n Shake,Missouri,38.4455050736842,-90.37435392105264,Arnold,Arnold Crossroads Center,63010
+way,1148112121,Whataburger,Whataburger,Missouri,38.93903342,-94.37915668000001,Lee's Summit,Northeast Douglas Street,64086
+way,1150884702,McDonald's,McDonald's,Missouri,38.28763224000001,-90.40446534,,,
+way,1160766645,McDonald's,McDonald's,Missouri,39.01917406,-94.19862968,Grain Valley,North Main Street,64029
+way,1182353322,McDonald's,McDonald's,Missouri,38.68628126666667,-90.35783968888889,Overland,Page Avenue,63114-6108
+way,1182958730,Whataburger,Whataburger,Missouri,37.1814404,-93.35842793999998,Springfield,West Sunshine Street,65807
+way,1189529720,Whataburger,Whataburger,Missouri,39.24560824,-94.47513690000001,Kansas City,Northeast 85th Street,64157
+way,1189749462,McDonald's,McDonald's,Missouri,38.57910468,-92.19518310000001,Jefferson City,Missouri Boulevard,65109
+way,1200893637,McDonald's,McDonald's,Missouri,38.69192322,-90.38990174,Saint Louis,Page Avenue,63132
+way,1201413109,McDonald's,McDonald's,Missouri,38.360874881818184,-90.97717661818182,,,
+way,1214954032,McDonald's,McDonald's,Missouri,39.77517258,-93.07045268,Brookfield,South Main Street,64628
+way,1224792761,McDonald's,McDonald's,Missouri,37.0707467,-93.23091846,,North 21st Street,65721
+way,1225100341,McDonald's,McDonald's,Missouri,38.46330504545455,-90.52420615454544,High Ridge,Ridge Point Drive,63049
+way,1229459879,McDonald's,McDonald's,Missouri,37.292041514285714,-93.4095818,Willard,South Hunt Road / Farm Road 103,65803
+way,1229471855,McDonald's,McDonald's,Missouri,37.04419312222222,-93.30092897777776,Nixa,West Mount Vernon Street,65714-0812
+way,1229501973,McDonald's,McDonald's,Missouri,39.18581174,-93.88023758,Lexington,Main Street,64067
+way,1229506178,McDonald's,McDonald's,Missouri,36.60914984,-93.23400866,Hollister,Gage Drive,65672
+way,1230546883,McDonald's,McDonald's,Missouri,36.67409938,-93.87094058,Cassville,Main Street,65625
+way,1245434656,McDonald's,McDonald's,Missouri,36.66334658461539,-93.23995267692308,Branson,Shepherd of the Hills Expressway,65616
+way,1268836291,McDonald's,McDonald's,Missouri,39.24608932,-94.6305089,Kansas City,Northwest Barry Road,64151
+way,1268838621,Whataburger,Whataburger,Missouri,39.25828938947368,-94.64883256842106,Kansas City,North Ambassador Drive,64154
+way,1281822864,Culver's,Culver's,Missouri,38.90080448,-94.34250802,Lee's Summit,Southeast Oldham Parkway,64081
+way,1292927173,McDonald's,McDonald's,Missouri,38.344756173333344,-91.49399139333333,,,65066
+way,1293517591,McDonald's,McDonald's,Missouri,38.71019732,-90.35015462,Saint Louis,Saint Charles Rock Road,63114-4565
+way,1296107442,McDonald's,McDonald's,Missouri,36.2293943,-89.72626158,Hayti,Highway 84,63851-9700
+way,1296111676,McDonald's,McDonald's,Missouri,36.91360341111111,-93.91267454444444,Monett,Highway 60,65708
+way,1315643825,McDonald's,McDonald's,Missouri,37.18270204285715,-93.29683094285714,Springfield,West Sunshine Street,65807-2435
+way,1317050354,Freddy's Frozen Custard & Steakburgers,Freddy's,Missouri,37.14470838,-93.25635270000001,Springfield,South Glenstone Avenue,65804
+way,1326277771,McDonald's,McDonald's,Missouri,39.72508655714286,-94.78986350000001,,,
+way,1328225581,McDonald's,McDonald's,Missouri,37.862535179999995,-94.0172504,Blue Springs,East Highway 54,64744
+way,1328611685,McDonald's,McDonald's,Missouri,38.63032836,-92.57906126,California,West Buchanan Street,
+way,1328666090,McDonald's,McDonald's,Missouri,36.2361689,-90.03345406000001,,1st Street,63857-2517
+way,1362412528,McDonald's,McDonald's,Missouri,38.90180615714286,-91.45880168571429,,,
+way,1366522645,Steak 'n Shake,Steak 'n Shake,Missouri,37.18546411999999,-93.26198368,,,65804
+way,1366522683,McDonald's,McDonald's,Missouri,37.180617726666675,-93.24632193333333,Springfield,East Sunshine,65804-1825
+way,1366676350,McDonald's,McDonald's,Missouri,37.240526976923086,-93.30398455384615,Springfield,West Kearney,65803-1238
+way,1367980477,Freddy's,Freddy's,Missouri,38.765186979999996,-90.78278458,Lake Saint Louis,Southern Ridge Lane,63367
+way,1370086808,McDonald's,McDonald's,Missouri,39.80187957142857,-94.81596300000001,,,
+way,1374198908,Culver's,Culver's,Missouri,38.66406612857143,-94.36653121428571,Harrisonville,North Route 291,64701
+way,1374198942,McDonald's,McDonald's,Missouri,38.66260694444444,-94.36647896666666,,,
+way,1382603993,McDonald's,McDonald's,Missouri,38.70064642,-90.29067124000001,,,
+way,1383007915,Culver's,Culver's,Missouri,38.96479352222222,-92.37078772222223,Columbia,Bernadette Drive,65203
+way,1391302490,McDonald's,McDonald's,Missouri,37.21162154583333,-93.34951382083334,Springfield,West Chestnut Expressway,65802
+way,1391747311,Freddy's,Freddy's,Missouri,38.98659962,-94.46284026000001,,,
+way,1391934673,Culver's,Culver's,Missouri,39.02512973636364,-94.19818041818183,Grain Valley,Northwest Buckner Tarsney Road,64029
+way,1393638775,Whataburger,Whataburger,Missouri,37.2390238,-93.26154444,,,
+way,1413915846,Freddy's,Freddy's,Missouri,38.824411042105275,-90.87458868947368,Wentzville,Wentzville Parkway,63385
+way,1427478112,McDonald's,McDonald's,Missouri,40.404849285714285,-95.55646555714286,,,
+way,1451227047,Culver's,Culver's,Missouri,39.270217020000004,-94.57643154,,,
+way,1462690565,Freddy's,Freddy's,Missouri,39.768259542857145,-94.8042331857143,,,
+way,1479445282,Whataburger,Whataburger,Missouri,37.0041005,-93.22718377777777,,,
+way,1488873517,Culver's,Culver's,Missouri,38.776044185714284,-93.73479361428569,Warrensburg,North Simpson Drive,64093
+way,1498923089,McDonald's,McDonald's,Missouri,38.75739295333334,-90.43006732000002,Bridgeton,Natural Bridge Road,63044
+way,1529901317,Whataburger,Whataburger,Missouri,37.21009746,-93.22367765999999,Springfield,North Eastgate Avenue,65802
+way,1533057376,Five Guys,Five Guys,Missouri,38.75205822,-90.42813018,Bridgeton,Saint Charles Rock Road,63044
+way,1559227160,Whataburger,Whataburger,Missouri,36.643863679999995,-93.22379544,,,
+way,1560227144,McDonald's,McDonald's,Missouri,37.2092572,-93.22880534000001,Springfield,East Chestnut Expressway,65804
+way,1568647799,Freddy's,Freddy's,Missouri,37.59450748,-93.42877202,,,
+way,1579438022,Whataburger,Whataburger,Missouri,39.04572063846154,-94.44826513076922,,,

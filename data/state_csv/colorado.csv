@@ -1,0 +1,332 @@
+osm_type,osm_id,name,brand,state_query,latitude,longitude,city,street,postcode
+node,467810986,McDonald's,McDonald's,Colorado,39.3800264,-104.866356,Castle Rock,Park Street,80104-1527
+node,598408181,McDonald's,McDonald's,Colorado,39.6235567,-105.021264,Littleton,West Belleview,80120
+node,598415399,McDonald's,McDonald's,Colorado,39.6237204,-104.9873507,,,
+node,621550178,McDonald's,McDonald's,Colorado,39.8023753,-105.1074445,Arvada,West 58th Avenue,80002-2011
+node,636219081,McDonald's,McDonald's,Colorado,39.6228869,-105.1113995,Lakewood,West Progress Avenue,80127
+node,655815584,McDonald's,McDonald's,Colorado,39.6512508,-105.0261056,Sheridan,South Federal Boulevard,80110
+node,684335469,McDonald's,McDonald's,Colorado,39.7062115,-104.9203245,Denver,Leetsdale Drive,80246
+node,1272751952,McDonald's,McDonald's,Colorado,39.6535935,-104.776695,Aurora,East Hampden Avenue,80013
+node,1431493230,McDonald's,McDonald's,Colorado,39.71072,-105.0234979,Denver,West Alameda Avenue,80219
+node,1618341291,McDonald's,McDonald's,Colorado,39.7661158,-104.9940543,Denver,Park Avenue West,80216
+node,1754511297,Five Guys,Five Guys,Colorado,39.5944112,-104.8062824,Aurora,South Cornerstar Way,80016
+node,2025706508,Five Guys,Five Guys,Colorado,39.6744231,-104.869236,Denver,South Parker Road,80231
+node,2039411028,McDonald's,McDonald's,Colorado,39.6820924,-105.0253456,Denver,South Federal Boulevard,80219-5509
+node,2190658653,McDonald's,McDonald's,Colorado,39.7691888,-105.0306656,Denver,West 38th Avenue,80211
+node,2291919085,Five Guys,Five Guys,Colorado,40.5238201,-105.025009,Fort Collins,East Harmony Road,80525
+node,2296554701,McDonald's,McDonald's,Colorado,40.5240791,-104.7107046,Eaton,South Oak,80615
+node,2384928236,McDonald's,McDonald's,Colorado,38.7419768,-104.7363105,Fountain,Plaza,80911
+node,2424114769,McDonald's,McDonald's,Colorado,39.8677191,-105.0563268,,,
+node,2424886748,McDonald's,McDonald's,Colorado,39.6534726,-104.906807,Denver,East Hampden Avenue,80224
+node,2525982703,McDonald's,McDonald's,Colorado,39.7407316,-104.821943,Aurora,East Colfax Avenue,80011
+node,2526046840,McDonald's,McDonald's,Colorado,39.6961243,-104.838254,Aurora,East Mississippi Avenue,80012
+node,2526211881,McDonald's,McDonald's,Colorado,39.7405573,-104.859772,Aurora,East Colfax Avenue,80010
+node,2623006726,Freddy's,Freddy's,Colorado,38.9103919,-104.718175,Colorado Springs,Stetson Hills Boulevard,80923
+node,2643049327,Five Guys,Five Guys,Colorado,39.5356068,-104.88072,Lone tree,Commons Street,80124
+node,2729063133,McDonald's,McDonald's,Colorado,39.566613,-105.081839,Littleton,South Wadsworth Boulevard,80123
+node,2794063575,McDonald's,McDonald's,Colorado,39.7404028,-104.915676,Denver,East Colfax Avenue,80220
+node,2828296786,McDonald's,McDonald's,Colorado,39.7636966,-104.940124,Denver,Colorado Boulevard,80207
+node,2955378160,Five Guys,Five Guys,Colorado,40.0190332,-105.2566448,Boulder,29th Street,80301
+node,2967793232,Five Guys,Five Guys,Colorado,39.732111,-105.1638068,Lakewood,West Colfax Avenue,80401
+node,3499422810,McDonald's,McDonald's,Colorado,40.0624053,-105.927267,Granby,Thompson Road,80446
+node,3540616465,McDonald's,McDonald's,Colorado,39.6977986,-104.8094014,Aurora,South Chambers Road,80017
+node,3657832216,Five Guys,Five Guys,Colorado,39.6001528,-104.7090278,Aurora,East Prospect Avenue,80016
+node,3700541338,McDonald's,McDonald's,Colorado,39.5506344,-104.7740123,Parker,Crown Crest Boulevard,80138
+node,3780511320,McDonald's,McDonald's,Colorado,40.6258222,-103.2141679,,,
+node,3782881649,McDonald's,McDonald's,Colorado,40.2657374,-103.6211404,,,
+node,4041246841,McDonald's,McDonald's,Colorado,38.2719938,-104.6181601,Pueblo,West 6th Street,81002
+node,4166740675,McDonald's,McDonald's,Colorado,39.5704749,-104.9890597,Littleton,South Broadway,80122
+node,4286358207,McDonald's,McDonald's,Colorado,39.8539743,-104.673337,,,
+node,4286618569,McDonald's,McDonald's,Colorado,39.8589957,-104.6734927,,,
+node,4354912579,Freddy's,Freddy's,Colorado,39.4122514,-104.874521,Castle Rock,New Beale Street,80108
+node,4393226923,McDonald's,McDonald's,Colorado,40.0803825,-104.817964,Fort Lupton,1st Street,80621
+node,4461125330,McDonald's,McDonald's,Colorado,40.0870071,-104.9849378,Erie,State Highway 52,80516
+node,4522538243,McDonald's,McDonald's,Colorado,39.7890066,-105.025658,Denver,Federal Boulevard,80221
+node,4742377470,Five Guys,Five Guys,Colorado,39.5452338,-104.9435761,Highlands Ranch,South Colorado Boulevard,80126
+node,4812773112,McDonald's,McDonald's,Colorado,39.8627739,-104.6739525,,,
+node,4831206496,Freddy's,Freddy's,Colorado,39.6228718,-105.020237,,,
+node,5045668321,McDonald's,McDonald's,Colorado,40.1593027,-104.9803201,Longmont,East I-25 Frontage Road,80504
+node,5057442319,Five Guys,Five Guys,Colorado,38.938087,-104.7991714,Colorado Springs,North Academy Boulevard,80920
+node,5233896921,Freddy's,Freddy's,Colorado,39.7361454,-105.155442,,West Colfax Drive,80401
+node,5235976223,McDonald's,McDonald's,Colorado,39.7777709,-104.9787453,Denver,Washington Street,80216
+node,5262425381,Five Guys,Five Guys,Colorado,40.5743692,-105.0997073,Fort Collins,West Elizabeth,80521
+node,5475850287,Shake Shack,Shake Shack,Colorado,39.7622647,-104.9808365,Denver,Larimer Street,80205
+node,5841275874,McDonald's,McDonald's,Colorado,39.7414727,-105.4969085,,,
+node,5941188775,McDonald's,McDonald's,Colorado,39.7401479,-105.039664,Denver,West Colfax Avenue,80204
+node,6134281127,Shake Shack,Shake Shack,Colorado,39.5546043,-105.0076353,Highlands Ranch,Park Central Drive,80129
+node,6388000069,Five Guys,Five Guys,Colorado,39.5962902,-104.891742,Greenwood Village,East Arapahoe Road,80112
+node,6522437951,McDonald's,McDonald's,Colorado,40.6101581,-105.0773454,Fort Collins,North College Avenue,80524
+node,7159786494,McDonald's,McDonald's,Colorado,37.2566775,-107.0742356,Pagosa Springs,Talisman Drive,81147
+node,7176347796,Freddy's,Freddy's,Colorado,38.9915919,-104.805755,Colorado Springs,Interquest Parkway,80921
+node,7508705157,Freddy's,Freddy's,Colorado,38.4644782,-107.8667356,Montrose,South Townsend Avenue,81401
+node,7761502682,Five Guys,Five Guys,Colorado,38.8813482,-104.7173127,Colorado Springs,Cinema Point,80922
+node,8046170166,Freddy's,Freddy's,Colorado,39.7040642,-104.915992,Denver,Leetsdale Drive,80224
+node,8195312288,Five Guys,Five Guys,Colorado,39.4127405,-104.8634279,Castle Rock,East Allen Street,80108
+node,8421813553,Shake Shack,Shake Shack,Colorado,40.016691,-105.255978,Boulder,29th Street,80301-1233
+node,8722289977,Five Guys,Five Guys,Colorado,38.8107066,-104.8230963,Colorado Springs,South Nevada Avenue,80906
+node,9041996988,Five Guys,Five Guys,Colorado,39.7686404,-104.7728938,Aurora,North Tower Road,80011
+node,9163573532,Culver's,Culver's,Colorado,40.4069105,-105.1004697,Loveland,West Eisenhower Boulevard,80537
+node,9203031879,McDonald's,McDonald's,Colorado,39.6389962,-104.7371833,Aurora,East Quincy Avenue,80015
+node,9813088169,Culver's,Culver's,Colorado,39.5231385,-107.7717553,Rifle,,81650
+node,10049862417,Shake Shack,Shake Shack,Colorado,39.8588672,-104.6740745,,Peña Boulevard,80249
+node,10138086214,Five Guys,Five Guys,Colorado,39.7860336,-104.892904,Denver,East Northfield Boulevard,80238
+node,10164807622,Five Guys,Five Guys,Colorado,39.9149223,-105.0440126,Broomfield,West 121st Avenue,80020
+node,10647830240,McDonald's,McDonald's,Colorado,39.831249,-105.0243332,Westminster,Federal Boulevard,80030
+node,10960598416,Freddy's,Freddy's,Colorado,40.3977346,-104.7567951,,,
+node,11108623699,Whataburger,Whataburger,Colorado,38.8961701,-104.8477477,Colorado Springs,Buckingham Drive,80907
+node,11125192002,Five Guys,Five Guys,Colorado,39.7114368,-104.8186744,Aurora,East Alameda Avenue,80012
+node,11449949081,McDonald's,McDonald's,Colorado,39.9426273,-104.9841584,Thornton,East 136th Avenue,80241
+node,11587798313,Five Guys,Five Guys,Colorado,40.0146849,-105.102308,Erie,Arapahoe Road,80026
+node,11851747234,Whataburger,Whataburger,Colorado,39.0915441,-104.8557232,Monument,Fat Tire Drive,80132
+node,11914775892,McDonald's,McDonald's,Colorado,39.3773456,-104.8282472,Castle Rock,Aloha Street,80104
+node,11954111982,Five Guys,Five Guys,Colorado,38.9930485,-104.8041026,,,
+node,12059097646,Culver's,Culver's,Colorado,39.6846081,-104.7904406,Aurora,,80017
+node,12097683250,Five Guys,Five Guys,Colorado,40.3953823,-104.7467439,Greeley,Centerplace Drive,80634
+node,12178302550,McDonald's,McDonald's,Colorado,39.9873527,-104.7547663,,East Bridge Street,80601
+node,12271069671,McDonald's,McDonald's,Colorado,38.2450761,-104.5800524,,,81006
+node,12271170062,McDonald's,McDonald's,Colorado,39.885707,-104.9946881,Northglenn,West 104th Avenue,80234
+node,12271208917,McDonald's,McDonald's,Colorado,38.2438916,-104.6181428,,West Northern Avenue,81008
+node,12271218102,McDonald's,McDonald's,Colorado,39.6911625,-104.9927944,,South Santa Fe Drive,80223-3233
+node,12271223662,McDonald's,McDonald's,Colorado,39.8162022,-105.0807703,,Wadsworth Boulevard,80003
+node,12271223663,McDonald's,McDonald's,Colorado,39.8130236,-105.1667437,,West 64th Avenue,80007
+node,12416687704,McDonald's,McDonald's,Colorado,39.3611338,-104.6279919,Elizabeth,Legacy Circle,80107
+node,12566369392,Five Guys,Five Guys,Colorado,39.7159571,-105.0805852,Lakewood,Wadsworth Boulevard,80226
+node,12644028358,Freddy's,Freddy's,Colorado,38.8687577,-104.6820138,Colorado Springs,Silicon Heights,80922
+node,12650209555,McDonald's,McDonald's,Colorado,39.5342905,-104.7944431,Parker,Jordan Road,80134
+node,12781980850,Culver's,Culver's,Colorado,38.2190076,-104.6373081,Pueblo,West Pueblo Boulevard,81004
+node,12781980921,Culver's,Culver's,Colorado,39.7883472,-104.7725661,Denver,North Tower Road,80249
+node,12781980922,Culver's,Culver's,Colorado,39.6801572,-105.0808029,Lakewood,South Webster Street,80227
+node,13058867939,Shake Shack,Shake Shack,Colorado,39.5630571,-104.8755425,,,
+node,13121551144,McDonald's,McDonald's,Colorado,40.4064599,-105.0159386,,Opalite Drive,
+node,13136986817,McDonald's,McDonald's,Colorado,39.5567478,-104.8076291,Parker,South Chambers Road,80134
+node,13646615111,McDonald's,McDonald's,Colorado,39.7832448,-104.7739133,Denver,Yampa Street,80249-6839
+node,13653672459,McDonald's,McDonald's,Colorado,39.77711,-104.8475909,Denver,Peoria Street,80239
+node,13653672469,McDonald's,McDonald's,Colorado,39.8142222,-104.77272,Denver,North Tower Road,80249
+node,13673306384,McDonald's,McDonald's,Colorado,39.7109117,-104.9870646,Denver,South Broadway,80209
+node,13673320221,In-N-Out Burger,In-N-Out,Colorado,39.7798692,-104.8836561,Denver,North Central Park Boulevard,80238
+node,13673320222,McDonald's,McDonald's,Colorado,39.6788021,-104.9151201,Denver,East Evans Avenue,80222
+node,13673320227,McDonald's,McDonald's,Colorado,39.6777616,-104.9412618,Denver,East Evans Avenue,80210
+node,13673320258,McDonald's,McDonald's,Colorado,39.6553219,-105.055414,Denver,West Dartmouth Avenue,80227
+node,13673320291,McDonald's,McDonald's,Colorado,39.6951327,-104.9411562,Denver,South Colorado Boulevard,80246
+node,13673320321,Freddy's,Freddy's,Colorado,39.786951,-104.8821823,Denver,Central Park Boulevard,80238
+node,13673320340,McDonald's,McDonald's,Colorado,39.6159844,-105.0920011,Littleton,West Crestline Avenue,80123
+node,13673320341,McDonald's,McDonald's,Colorado,39.7690699,-104.902024,Denver,North Quebec Street,80207
+node,13741334260,Shake Shack,Shake Shack,Colorado,40.5409311,-105.0765558,,South College Avenue,
+node,13918308475,Whataburger,Whataburger,Colorado,38.2199666,-104.6450541,,,
+node,13988912220,In-N-Out Burger,In-N-Out,Colorado,40.5185656,-104.9913269,Timnath,Cima Vista Drive,80547
+node,14268563708,Shake Shack,Shake Shack,Colorado,39.5571366,-104.8223331,Englewood,E-470,80112
+node,14313538223,Five Guys,Five Guys,Colorado,39.9555119,-104.9844837,Thornton,Lincoln Street,80023
+way,37535929,Freddy's,Freddy's,Colorado,39.56698528,-104.90386020000001,Centennial,South Quebec Street,80112
+way,37562875,McDonald's,McDonald's,Colorado,39.56703838235294,-104.92365210588235,Littleton,South Holly Street,80122-4003
+way,44035470,In-N-Out Burger,In-N-Out,Colorado,39.56555682307692,-104.88189502307695,Lone Tree,East Westview Road,80124
+way,45183458,Freddy's,Freddy's,Colorado,39.56678084,-105.10943533999998,,,
+way,45568970,McDonald's,McDonald's,Colorado,39.91343607142857,-104.94106664285714,Thornton,East 120th,80233
+way,49939257,McDonald's,McDonald's,Colorado,39.65287816,-104.9954512,Englewood,West Hampden Avenue,80110-2114
+way,51433313,McDonald's,McDonald's,Colorado,39.68321314285715,-105.08082397142857,Lakewood,South Wadsworth Boulevard,80226
+way,53144162,McDonald's,McDonald's,Colorado,39.91454794,-104.97963282,Thornton,East 120th Avenue,80241
+way,59339789,McDonald's,McDonald's,Colorado,39.538571184615385,-104.88496227692309,Lone Tree,South Yosemite Street,80124
+way,61951740,McDonald's,McDonald's,Colorado,39.961227192307696,-105.1627646,Louisville,Dillon Road,80027
+way,87289907,McDonald's,McDonald's,Colorado,38.98994656,-105.04739478000002,Woodland Park,US 24,80863
+way,88824751,McDonald's,McDonald's,Colorado,39.99959466,-105.25507254000001,Boulder,Baseline Road,80303-2314
+way,90838801,McDonald's,McDonald's,Colorado,39.73944903684211,-105.19738909999998,Golden,South Golden Road,80401-2694
+way,95427128,McDonald's,McDonald's,Colorado,39.73965632,-105.00467398,Denver,West Colfax Avenue,80204
+way,98384469,McDonald's,McDonald's,Colorado,40.0013772625,-105.10369301250002,Lafayette,North Highway 287,80026
+way,102923689,Culver's,Culver's,Colorado,38.87305049230769,-104.71577875384614,Colorado Springs,New Center Point,80922
+way,102923747,Culver's,Culver's,Colorado,39.874923259999996,-104.97717198000001,Thornton,Washington Street,80229
+way,102923961,Culver's,Culver's,Colorado,38.79510168,-104.80833619999999,Colorado Springs,Lake Plaza Drive,80906
+way,102924249,Culver's,Culver's,Colorado,40.38738404,-104.73571411999998,Greeley,29th Street,80634
+way,102924279,Culver's,Culver's,Colorado,40.575366887499996,-105.05732395,Fort Collins,South Lemay Avenue,80524
+way,111413412,McDonald's,McDonald's,Colorado,39.5175,-104.76424379473687,Parker,South Parker Road,80134
+way,119784923,McDonald's,McDonald's,Colorado,39.27067686,-103.70885389999998,Limon,US 24,80828
+way,119808900,McDonald's,McDonald's,Colorado,39.29672812,-102.27837692,Burlington,South Lincoln Street,80807
+way,122090564,McDonald's,McDonald's,Colorado,39.58016485384615,-105.13419518461538,Littleton,South Alkire Street,80127
+way,124658379,McDonald's,McDonald's,Colorado,37.3491795,-108.56806001428572,,East Main Street,
+way,131015076,McDonald's,McDonald's,Colorado,39.9189474,-105.78513773636364,Winter Park,US 40,80482
+way,131380006,McDonald's,McDonald's,Colorado,39.56861627777778,-107.51731461111112,,Castle Valley Boulevard,
+way,131555419,McDonald's,McDonald's,Colorado,39.627258045454546,-106.06463009999999,Silverthorne,Summit Place,80498
+way,138638572,McDonald's,McDonald's,Colorado,39.87723974,-105.0964353,Westminster,Wadsworth,80020
+way,143804519,McDonald's,McDonald's,Colorado,39.9235752076923,-105.09130705384615,Broomfield,US Highway 287,80020
+way,145006218,McDonald's,McDonald's,Colorado,40.53847002857143,-105.03848737142857,Fort Collins,South Timberline Road,80525
+way,163887433,McDonald's,McDonald's,Colorado,39.59919026153845,-104.80393586153846,Aurora,South Parker Road,80016
+way,174716674,McDonald's,McDonald's,Colorado,40.55604188,-105.07754823999998,Fort Collins,South College Avenue,80525
+way,183687156,Culver's,Culver's,Colorado,38.94282664285714,-104.80061681428572,Colorado Springs,North Academy Boulevard,80920
+way,192036518,McDonald's,McDonald's,Colorado,39.690662399999994,-104.86534756,Aurora,South Havana Street,80012
+way,192038702,Freddy's,Freddy's,Colorado,39.695835,-104.86465791999998,Aurora,South Iola Street,80012
+way,192564044,McDonald's,McDonald's,Colorado,39.667918171428575,-104.86324795714286,Aurora,South Parker Road,80014
+way,192838764,Whataburger,Whataburger,Colorado,38.90779983333333,-104.78198156666667,Colorado Springs,,
+way,192890104,Whataburger,Whataburger,Colorado,38.87454823684212,-104.81246445789475,Colorado Springs,East Fillmore Street,80907
+way,192890268,McDonald's,McDonald's,Colorado,38.87466384,-104.81581550000001,Colorado Springs,East Fillmore Street,80907
+way,193155250,McDonald's,McDonald's,Colorado,38.901840811111114,-104.76818906666666,Colorado Springs,North Academy Boulevard,80918
+way,193425778,McDonald's,McDonald's,Colorado,38.79535334,-104.75694573999999,Colorado Springs,South Academy Boulevard,80910
+way,193622776,McDonald's,McDonald's,Colorado,38.8284585923077,-104.8413070153846,Colorado Springs,South 8th Street,80906
+way,194227480,McDonald's,McDonald's,Colorado,38.87077562,-104.72083955999999,Colorado Springs,Constitution Avenue,80915
+way,194585497,Freddy's,Freddy's,Colorado,38.895602460000006,-104.83224206,,,
+way,197476178,McDonald's,McDonald's,Colorado,38.93783511111111,-104.76128047777779,Colorado Springs,Hartsel Drive,80920
+way,198238258,McDonald's,McDonald's,Colorado,39.71152424,-105.07265980000003,Lakewood,West Alameda Avenue,80226
+way,198876237,McDonald's,McDonald's,Colorado,38.836869285714286,-104.81730965714284,Colorado Springs,North Wahsatch,80903-3408
+way,199290430,McDonald's,McDonald's,Colorado,39.8863076,-104.88246675714285,Henderson,Belle Creek Boulevard,80640
+way,199298833,McDonald's,McDonald's,Colorado,38.89732322857144,-104.74642365714286,Colorado Springs,Barnes Road,80917
+way,200690131,McDonald's,McDonald's,Colorado,38.897483933333326,-104.82871656666666,Colorado Springs,Garden Of The Gods Road,80903
+way,200995273,McDonald's,McDonald's,Colorado,39.74023128571428,-104.98081351428571,Denver,East Colfax Avenue,80203
+way,201070894,McDonald's,McDonald's,Colorado,39.92967844,-104.90408226,Thornton,Quebec Street,80602
+way,202062227,McDonald's,McDonald's,Colorado,38.823906428571426,-104.72756922857141,Colorado Springs,Airport Creek Point,80916
+way,202318447,McDonald's,McDonald's,Colorado,39.548930033333335,-104.99546744444446,Highlands Ranch,South Broadway,80126
+way,202369395,McDonald's,McDonald's,Colorado,38.91012326,-104.71668812,Colorado Springs,Tutt Boulevard,80922
+way,202771456,McDonald's,McDonald's,Colorado,38.84041293333333,-104.74843361111112,Colorado Springs,North Murray Boulevard,80915
+way,203436980,McDonald's,McDonald's,Colorado,38.80703212222223,-104.82306291111114,Colorado Springs,South Nevada Avenue,80906-2517
+way,203440696,McDonald's,McDonald's,Colorado,38.795186617647055,-104.7892964647059,Colorado Springs,Janitell Road,80906
+way,203936462,McDonald's,McDonald's,Colorado,39.69985488,-105.32963809999998,Evergreen,Swede Gulch Road,80401
+way,204503021,In-N-Out Burger,In-N-Out,Colorado,38.87194686666667,-104.71660091666666,Colorado Springs,New Center Point,80922
+way,205260267,McDonald's,McDonald's,Colorado,38.85072821111111,-104.75786088888887,Colorado Springs,North Academy Boulevard,80909
+way,206350718,McDonald's,McDonald's,Colorado,40.33415294,-104.90671152,Johnstown,South Parish Avenue,80534
+way,208494051,Whataburger,Whataburger,Colorado,38.87103038,-104.71714693999999,,,
+way,208620525,McDonald's,McDonald's,Colorado,38.94967171333333,-104.80300854000002,Colorado Springs,Voyager Parkway,80920
+way,210073937,McDonald's,McDonald's,Colorado,39.79321110000001,-105.08087244000001,Arvada,North Wadsworth,80002
+way,219063401,McDonald's,McDonald's,Colorado,39.7444123,-105.0537306142857,Edgewater,Sheridan Boulevard,80214
+way,220905527,McDonald's,McDonald's,Colorado,39.958115728571435,-104.77746728571428,Brighton,Prairie Center Parkway,80601
+way,220907768,McDonald's,McDonald's,Colorado,40.40766258571428,-105.10218302857142,Loveland,West Eisenhower Road,80537-3132
+way,222607180,McDonald's,McDonald's,Colorado,39.41228148571429,-104.87299807142858,Castle Rock,Factory Shops Boulevard,80108
+way,224299475,McDonald's,McDonald's,Colorado,39.62979675555555,-106.4192488,,North Frontage Road West,81657
+way,224931043,McDonald's,McDonald's,Colorado,39.595436660000004,-104.88680954000002,Greenwood Village,South Yosemite Court,80111
+way,230389597,McDonald's,McDonald's,Colorado,39.08900052222222,-108.60105782222223,Grand Junction,US 6 and 50,81505
+way,230404842,Freddy's,Freddy's,Colorado,39.08343162,-108.59224997999999,Grand Junction,Highway 6 & 50,81505
+way,230411480,Culver's,Culver's,Colorado,39.08891324,-108.59834432,Grand Junction,24 1/2 Road,81505
+way,236427660,McDonald's,McDonald's,Colorado,40.468362171428566,-106.82567683333335,,,
+way,239080133,Freddy's,Freddy's,Colorado,39.54965804,-104.99984008000001,,SGT Jon Stiles Drive,80129
+way,242851835,McDonald's,McDonald's,Colorado,39.59460326,-104.86618345,Centennial,East Briarwood Circle,80112
+way,259381654,McDonald's,McDonald's,Colorado,39.8065227,-104.92972342,Commerce City,Parkway Drive,80022
+way,259557626,Freddy's,Freddy's,Colorado,40.19930323846154,-105.10190736153848,Longmont,Main Street,80501
+way,265533759,McDonald's,McDonald's,Colorado,39.97273652857143,-104.8280135857143,Brighton,South Kuner Road,80601
+way,273899845,In-N-Out Burger,In-N-Out,Colorado,40.40784275,-105.00809956428573,Loveland,Fall River Drive,80538-7091
+way,281708885,McDonald's,McDonald's,Colorado,40.378626411111114,-105.51656264444446,Estes Park,Big Thompson Avenue,80517
+way,284769645,Steak 'n Shake,Steak 'n Shake,Colorado,39.6529299,-105.0128048,Sheridan,River Point Parkway,80110
+way,292024409,Freddy's,Freddy's,Colorado,39.92837508,-105.14090361999999,Louisville,Coalton Road,80027
+way,292809759,Five Guys,Five Guys,Colorado,39.91494212,-105.04402218,Broomfield,West 121st Avenue,80020
+way,295264420,McDonald's,McDonald's,Colorado,39.8847276,-105.02151211999998,Federal Heights,West 104th Avenue,80234
+way,296229002,McDonald's,McDonald's,Colorado,39.07791609411765,-108.55155010588236,Grand Junction,North Avenue,81501
+way,297944036,McDonald's,McDonald's,Colorado,39.92905245714286,-105.01291981428572,Westminster,West 128th Avenue,80234
+way,298973428,McDonald's,McDonald's,Colorado,40.019315999999996,-105.25800095999998,Boulder,28th Street,80301
+way,300158822,McDonald's,McDonald's,Colorado,37.27005847777778,-107.88305705555555,Durango,West College Drive,81301
+way,314934007,McDonald's,McDonald's,Colorado,40.47943923636364,-104.915868,Windsor,Main Street,80550
+way,324628875,McDonald's,McDonald's,Colorado,40.26172006,-103.80200305999999,,,
+way,326910373,McDonald's,McDonald's,Colorado,38.544839440000004,-106.91736986000001,,,
+way,351769908,McDonald's,McDonald's,Colorado,40.42204302307693,-105.07524429230767,Loveland,East 29th Street,80538-2721
+way,352693607,McDonald's,McDonald's,Colorado,39.61310407142857,-104.75632913571428,Centennial,East Smoky Hill Road,80015
+way,353983768,McDonald's,McDonald's,Colorado,39.61097937999999,-105.02066452,Littleton,South Santa Fe Drive,80120
+way,359053855,McDonald's,McDonald's,Colorado,39.75776282222222,-105.14292937777779,Golden,Youngfield Street,80401-2267
+way,365235299,McDonald's,McDonald's,Colorado,40.57497484545454,-105.09998959090909,Fort Collins,West Elizabeth Street,80521
+way,365403065,Freddy's,Freddy's,Colorado,39.59366371111111,-104.80498431111113,Aurora,East Briarwood Circle,80016
+way,368901584,McDonald's,McDonald's,Colorado,39.70919390000001,-105.13473111428571,Lakewood,West Alameda Parkway,80228
+way,369323771,McDonald's,McDonald's,Colorado,39.91481892857143,-105.05724862380954,Broomfield,East 1st Avenue,80020
+way,377628139,Freddy's,Freddy's,Colorado,39.06332483999999,-104.84906098666666,,,
+way,379461873,McDonald's,McDonald's,Colorado,40.38432382,-104.71636105999998,Evans,23rd Avenue,80620
+way,383900243,McDonald's,McDonald's,Colorado,40.58027511428572,-104.99640902857142,Fort Collins,Denrose Court,80524
+way,389135538,McDonald's,McDonald's,Colorado,38.44844531428572,-105.21367871428572,,,
+way,393920892,McDonald's,McDonald's,Colorado,39.84223536,-105.08256314,Arvada,Wadsworth Boulevard,80005
+way,420040281,McDonald's,McDonald's,Colorado,38.52451762666667,-105.99283246666666,,,
+way,437226081,McDonald's,McDonald's,Colorado,39.152331499999995,-108.73880346000001,Fruita,Jurassic Court,81521
+way,447934973,McDonald's,McDonald's,Colorado,40.15352063157895,-105.10321294210526,Longmont,South Main Street,80501
+way,448754303,McDonald's,McDonald's,Colorado,39.85460718,-104.97730119999999,Thornton,Washington Street,80229
+way,448901288,McDonald's,McDonald's,Colorado,40.52392451111111,-105.07815497777777,Fort Collins,South College Avenue,80525
+way,449127818,McDonald's,McDonald's,Colorado,39.88109125714285,-104.97852527142858,Thornton,North Washington,80229-2001
+way,455633409,McDonald's,McDonald's,Colorado,37.991386180000006,-103.57090392,La Junta,Highway 50,81050
+way,466543380,Freddy's,Freddy's,Colorado,40.406828059999995,-105.02781058000001,Loveland,Mountain Lion Drive,80537-8817
+way,472433848,McDonald's,McDonald's,Colorado,39.624486999999995,-104.90335302857144,Denver,South Quebec Street,80237
+way,477020114,Culver's,Culver's,Colorado,38.93795071428571,-104.61152998571428,Falcon,Meridian Road,80831
+way,477020133,McDonald's,McDonald's,Colorado,38.93751028571428,-104.61016065714286,Peyton,Meridian Road,80831
+way,480949971,McDonald's,McDonald's,Colorado,39.08928575882353,-108.45568631764706,Clifton,I 70 Business Loop,81520
+way,484456288,McDonald's,McDonald's,Colorado,39.5600739,-104.90545938888889,Highlands Ranch,South Quebec Street,80126
+way,496972531,Freddy's,Freddy's,Colorado,39.110870971428575,-108.54181911428573,Grand Junction,Horizon Drive,81506
+way,514863943,McDonald's,McDonald's,Colorado,40.1925649,-105.10180935999999,Longmont,Main Street,80501
+way,514867647,Culver's,Culver's,Colorado,40.14858455,-105.130007725,Longmont,South Hover Street,80501
+way,522653936,McDonald's,McDonald's,Colorado,39.05622677142857,-104.84349691428572,,,
+way,535379549,McDonald's,McDonald's,Colorado,38.30847585714286,-104.6174283857143,Pueblo,West US Highway 50,81008
+way,535847589,McDonald's,McDonald's,Colorado,39.771790318181814,-105.08100996363638,Wheat Ridge,Wadsworth Boulevard,80033
+way,539320900,McDonald's,McDonald's,Colorado,40.39643024285715,-104.75557347142856,Greeley,47th Avenue,80631
+way,544363807,McDonald's,McDonald's,Colorado,40.70237928,-105.00005304000001,Wellington,6th Street,80549
+way,548799546,Freddy's,Freddy's,Colorado,40.45545491428572,-105.07810697142858,Loveland,West 64th Street,80538
+way,550486551,McDonald's,McDonald's,Colorado,38.484519728571435,-107.87000031428572,Montrose,East Main Street,
+way,550694893,McDonald's,McDonald's,Colorado,39.82770008,-105.05273548,Westminster,West 72nd,80030-5137
+way,551379236,Freddy's,Freddy's,Colorado,40.51996997692308,-104.99110206923076,Timnath,Weitzel Street,80547
+way,556339139,McDonald's,McDonald's,Colorado,39.638083924,-104.791863032,Aurora,East Quincy Avenue,80015
+way,576499115,McDonald's,McDonald's,Colorado,40.149672285,-105.131463385,Longmont,South Hover Street,80503
+way,589329837,Freddy's,Freddy's,Colorado,39.5133691368421,-104.77376415789473,Parker,Twenty Mile Road,80134
+way,609500614,Culver's,Culver's,Colorado,39.518678405555555,-104.77427246666667,Parker,East Mainstreet,80134
+way,610902776,McDonald's,McDonald's,Colorado,38.71887427777777,-104.6981824888889,Fountain,Mesa Ridge Parkway,80817
+way,612058110,Culver's,Culver's,Colorado,38.715401785714285,-104.70096035714288,Fountain,Fountain Mesa Road,80817
+way,619686589,Building 1365 - McDonald's,McDonald's,Colorado,38.83103687777778,-104.70408978888888,Colorado Springs,Thule Street,80914
+way,629541720,Culver's,Culver's,Colorado,40.40654332857143,-104.98078955714287,Johnstown,Thompson Parkway,80534
+way,629541741,Culver's,Culver's,Colorado,39.82685948571429,-105.05499009999998,Westminster,West 72nd Avenue,80003
+way,629541743,Culver's,Culver's,Colorado,39.56190252727273,-107.3583352,Glenwood Springs,Highway 6,81601
+way,629595166,Shake Shack,Shake Shack,Colorado,39.54937517619047,-104.77371790952381,Parker,Crown Crest Boulevard,80138
+way,630760266,McDonald's,McDonald's,Colorado,39.58816312916667,-104.68854688750001,Aurora,East Arapahoe Road,80016
+way,669798563,In-N-Out Burger,In-N-Out,Colorado,39.71078771,-104.823550225,Aurora,East Alameda Avenue,80012
+way,672717309,McDonald's,McDonald's,Colorado,39.67414305999999,-104.79175717333334,Aurora,East Iliff Avenue,80013
+way,675044816,McDonald's,McDonald's,Colorado,39.7610916625,-104.79196515416668,Aurora,Airport Boulevard,80011
+way,675740602,Freddy's,Freddy's,Colorado,39.954809166666664,-104.9864514111111,,,
+way,677532050,Culver's,Culver's,Colorado,39.41026615714286,-104.86923597142855,Castle Rock,Genoa Way,80109
+way,678893369,McDonald's,McDonald's,Colorado,38.74846985384615,-108.07138426153847,,,
+way,680818430,McDonald's,McDonald's,Colorado,40.513761360000004,-107.56061284,,,
+way,685945407,McDonald's,McDonald's,Colorado,39.72627787857142,-104.82251550000001,Aurora,East 6th Avenue,80011
+way,686975292,McDonald's,McDonald's,Colorado,40.39864811111111,-104.69061713333333,Greeley,8th Avenue,80631-7035
+way,688970934,Freddy's,Freddy's,Colorado,39.557341791666666,-104.776248125,Parker,Cottonwood Drive,80138
+way,710718811,McDonald's,McDonald's,Colorado,40.42259008,-104.72764357999999,Greeley,West 10th Street,80634-5427
+way,728808889,McDonald's,McDonald's,Colorado,39.09485313076923,-104.86435027692308,Monument,Highway 105,80132
+way,730801326,McDonald's,McDonald's,Colorado,37.47545494444445,-105.8940796888889,,,
+way,764641758,McDonald's,McDonald's,Colorado,39.64183514,-104.82840769999999,Aurora,South Parker Road,80014
+way,780097813,McDonald's,McDonald's,Colorado,39.801571575,-104.9774631375,Denver,North Washington Street,80216
+way,782864104,McDonald's,McDonald's,Colorado,37.17053612222222,-104.50976715555556,Trinidad,Nevada Avenue,81082
+way,788572301,McDonald's,McDonald's,Colorado,39.521316999999996,-107.77724740000001,,Taughenbaugh Boulevard,
+way,789086848,McDonald's,McDonald's,Colorado,39.5195154,-107.32006220000001,,Glen Avenue,81601-4443
+way,799275455,McDonald's,McDonald's,Colorado,38.852003268000004,-104.871321524,Colorado Springs,West Colorado Avenue,80904
+way,801791807,McDonald's,McDonald's,Colorado,38.09954110588235,-102.61946200588234,Lamar,Main Street,81052
+way,814042684,McDonald's,McDonald's,Colorado,40.16015411428572,-104.94464779999998,Firestone,Firestone Boulevard,80504
+way,821714130,McDonald's,McDonald's,Colorado,39.8859362,-104.81004867619049,Commerce City,East 104th Avenue,80022
+way,850752446,Freddy's,Freddy's,Colorado,38.76835087272727,-104.78424262727272,,,
+way,886836116,McDonald's,McDonald's,Colorado,39.73976857142857,-105.10992902857143,Lakewood,West Colfax Avenue,80215
+way,914584045,In-N-Out Burger,In-N-Out,Colorado,38.99014198,-104.7973484175,Colorado Springs,Democracy Point,80908
+way,917643120,Culver's,Culver's,Colorado,39.58221325714286,-104.98799221428571,Littleton,South Broadway,80122
+way,946614790,McDonald's,McDonald's,Colorado,38.28807784615385,-104.59722953076923,Pueblo,Bonforte Boulevard,81001
+way,946620899,McDonald's,McDonald's,Colorado,38.324915825,-104.69948025000001,Pueblo,North Market Plaza,81007
+way,947245257,McDonald's,McDonald's,Colorado,38.233431142857135,-104.66302462857142,Pueblo,South Pueblo Boulevard,81004
+way,950226566,Culver's,Culver's,Colorado,39.59444694,-104.86748272,Centennial,East Arapahoe Road,80112
+way,963837147,In-N-Out Burger,In-N-Out,Colorado,39.71301485555555,-105.08113092222223,Lakewood,South Wadsworth Boulevard,80226
+way,979738198,Shake Shack,Shake Shack,Colorado,39.747904319999996,-105.05769095999999,Edgewater,West 20th Avenue,80214
+way,1009240944,McDonald's,McDonald's,Colorado,39.60204097333334,-104.98748212000001,Littleton,South Broadway,80120
+way,1028537773,McDonald's,McDonald's,Colorado,39.741335,-104.43469334285713,Bennett,South 1st Street,80102
+way,1032762187,McDonald's,McDonald's,Colorado,39.88414875333333,-104.94410304666667,Thornton,East 104th Avenue,80229
+way,1033926078,In-N-Out Burger,In-N-Out,Colorado,39.94353092857143,-104.98420692857144,Thornton,East 136th Avenue,80023
+way,1061352576,Whataburger,Whataburger,Colorado,38.99205921666667,-104.80313023333333,Colorado Springs,Interquest Parkway,80921
+way,1104841717,Freddy's,Freddy's,Colorado,39.092603159999996,-108.45413269999999,Clifton,I 70 Business Loop,81520
+way,1109022584,McDonald's,McDonald's,Colorado,38.99035566,-104.8059462,Colorado Springs,Interquest Parkway,80921
+way,1127663610,Freddy's,Freddy's,Colorado,40.47927416,-104.88657526,,,
+way,1173224644,McDonald's,McDonald's,Colorado,39.8560483736842,-105.0600252105263,Westminster,West 88th Avenue,80030-3030
+way,1180562003,Five Guys,Five Guys,Colorado,39.08498795454545,-108.59229958181818,Grand Junction,Highway 6 and 50,81505
+way,1185618914,McDonald's,McDonald's,Colorado,39.67460015555555,-104.8235595,Aurora,East Iliff Avenue,80014
+way,1188234764,Five Guys,Five Guys,Colorado,39.76855135714286,-105.08192917142856,Wheat Ridge,Wadsworth Boulevard,80033
+way,1188796074,McDonald's,McDonald's,Colorado,40.42204628,-104.79061148000001,,West 10th Street,80634
+way,1232046981,Culver's,Culver's,Colorado,38.44554802142857,-107.86731277857143,Montrose,Wolverine Drive,81401
+way,1232046983,McDonald's,McDonald's,Colorado,38.4547884,-107.86682962857144,,Commercial Way,
+way,1233703392,McDonald's,McDonald's,Colorado,39.494594441935476,-104.80104086129032,Parker,Sliceroo Drive,80134
+way,1237908700,McDonald's,McDonald's,Colorado,39.707786069230764,-104.79040874615383,Aurora,South Airport Boulevard,80017
+way,1250864283,McDonald's,McDonald's,Colorado,40.00071936,-105.00945076000001,Erie,Highway 7,80516
+way,1262381862,In-N-Out Burger,In-N-Out,Colorado,39.41581012307692,-104.87633443846153,Castle Rock,Factory Shops Boulevard,80108
+way,1270471249,McDonald's,McDonald's,Colorado,40.3368943,-105.09482002,Berthoud,Grand Market Avenue,80513
+way,1283184430,McDonald's,McDonald's,Colorado,38.94138373333333,-104.6789181,Colorado Springs,Woodmen Center Heights,80908
+way,1284299800,Freddy's,Freddy's,Colorado,38.94247044000001,-104.608382,,,
+way,1303025614,McDonald's,McDonald's,Colorado,39.863173562499995,-105.02464514375002,,Federal Boulevard,80221-5835
+way,1312652540,Five Guys,Five Guys,Colorado,39.80227581999999,-105.10430572,Arvada,Ralston Road,80002
+way,1318569671,Whataburger,Whataburger,Colorado,38.92633862,-104.71376439999999,,,
+way,1323140206,Shake Shack,Shake Shack,Colorado,39.423899600000006,-104.87872461818182,Castle Rock,Promenade Parkway,80108
+way,1326273921,McDonald's,McDonald's,Colorado,39.84859636,-104.99564876,Thornton,West 84th Avenue,80260
+way,1393310992,McDonald's,McDonald's,Colorado,37.230085100000004,-107.84042510000002,Durango,Zyme Rock Road,81301
+way,1410221364,Shake Shack,Shake Shack,Colorado,38.990347099999994,-104.80440094000001,Colorado Springs,Federal Drive,80921
+way,1425338242,In-N-Out Burger,In-N-Out,Colorado,38.896405511764705,-104.83174839411765,Colorado Springs,West Garden of the Gods Road,80906
+way,1441714679,Five Guys,Five Guys,Colorado,39.92837705833333,-105.13291560833329,Broomfield,Zang Street,80021
+way,1444457012,In-N-Out Burger,In-N-Out,Colorado,39.790602125,-105.08088811666666,Arvada,West 52nd Avenue,80002
+way,1454067564,In-N-Out Burger,In-N-Out,Colorado,40.15184165714286,-105.08561107142857,,Harvest Moon Drive,
+way,1473872178,In-N-Out Burger,In-N-Out,Colorado,39.543577190476185,-104.77228121904761,Parker,Twenty Mile Road,80134
+way,1488456596,McDonald's,McDonald's,Colorado,40.15970566,-105.05180021999999,,,
+way,1499177744,McDonald's,McDonald's,Colorado,39.10569685714285,-108.547419,,,
+way,1570477591,In-N-Out Burger,In-N-Out,Colorado,39.95668952222223,-104.77343119999999,Brighton,Eagle Boulevard,80601
+way,1573718368,Freddy's,Freddy's,Colorado,40.3351163,-104.97310992,,,

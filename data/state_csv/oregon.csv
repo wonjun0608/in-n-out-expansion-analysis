@@ -1,0 +1,189 @@
+osm_type,osm_id,name,brand,state_query,latitude,longitude,city,street,postcode
+node,357824044,McDonald's,McDonald's,Oregon,44.9655716,-122.9840206,Salem,Devonshire Avenue Northeast,97305
+node,631428751,McDonald's,McDonald's,Oregon,45.7659102,-119.205721,,,
+node,1161728632,McDonald's,McDonald's,Oregon,44.2977979,-121.5619336,,,
+node,1573773056,McDonald's,McDonald's,Oregon,42.3777895,-122.9096543,Central Point,South 9th Street,97502
+node,1722506862,McDonald's,McDonald's,Oregon,45.6436508,-118.6829906,,,
+node,1802083950,McDonald's,McDonald's,Oregon,45.9312879,-118.3873627,Milton Freewater,South Main Street,97862-1058
+node,2390205285,McDonald's,McDonald's,Oregon,42.4365545,-123.3081329,Grants Pass,Northeast Beacon Drive,97526-3842
+node,2951606233,Five Guys,Five Guys,Oregon,45.495289,-122.405503,Gresham,Southeast Burnside Road,97080
+node,2972090999,McDonald's,McDonald's,Oregon,44.8094616,-122.8140588,,,
+node,3219621461,Five Guys,Five Guys,Oregon,45.4579482,-122.5803662,Happy Valley,Southeast 82nd Avenue,97086
+node,3623845914,Fat Freddy's Diner,Freddy's,Oregon,45.2021731,-123.9630764,,,
+node,3660478287,McDonald's,McDonald's,Oregon,45.1514937,-122.6055393,,,
+node,3905855643,McDonald's,McDonald's,Oregon,45.6693673,-120.8347758,,,
+node,3982005049,McDonald's,McDonald's,Oregon,45.5895748,-122.598518,Portland,,97218
+node,4047804023,McDonald's,McDonald's,Oregon,43.386703,-123.3351728,,,
+node,4194795329,McDonald's,McDonald's,Oregon,44.0796722,-123.069359,Eugene,Coburg Road,97401
+node,4376621190,McDonald's,McDonald's,Oregon,44.2689648,-121.1937693,Redmond,Southwest Rimrock Way,97756
+node,4854462620,Five Guys,Five Guys,Oregon,45.3243717,-122.5801458,Oregon City,Molalla Avenue,97045
+node,4960341636,McDonald's,McDonald's,Oregon,44.0234533,-121.3171399,Bend,Pinebrook Boulevard,97702
+node,5065842911,McDonald's,McDonald's,Oregon,44.8984199,-123.0379387,Salem,Commercial Street Southeast,97302
+node,5089417398,Five Guys,Five Guys,Oregon,44.0524171,-123.100054,Eugene,West 7th Avenue,97401
+node,5255326838,McDonald's,McDonald's,Oregon,43.2264328,-123.3500355,Roseburg,Northeast Garden Valley Road,97470-2081
+node,5284355691,Five Guys,Five Guys,Oregon,44.911952,-123.044796,Salem,Commercial Street Southeast,97302
+node,6091544721,Five Guys,Five Guys,Oregon,45.5347472,-122.6531569,Portland,Northeast Broadway,97232
+node,6237320674,McDonald's,McDonald's,Oregon,43.3922494,-124.238782,North Bend,Broadway Avenue,97459
+node,6469354623,Five Guys,Five Guys,Oregon,45.4131087,-122.6302764,Oak Grove,Southeast McLoughlin Boulevard,97267
+node,6943299885,McDonald's,McDonald's,Oregon,44.2924265,-121.1711459,,,
+node,7357854145,McDonald's,McDonald's,Oregon,43.3899705,-124.252293,,,
+node,7819302538,McDonald's,McDonald's,Oregon,45.1477399,-122.880575,,,
+node,8379896194,McDonald's,McDonald's,Oregon,44.9943904,-123.0261048,Keizer,River Road North,97303
+node,10879611367,McDonald's,McDonald's,Oregon,44.1366258,-123.0561484,Coburg,Coburg Industrial Way,97408
+node,11096750231,McDonald's,McDonald's,Oregon,42.4206251,-123.353349,Grants Pass,Allen Creek Road,97527
+node,12288548904,McDonald's,McDonald's,Oregon,44.3995933,-122.7203932,,Main Street,97386
+node,12288560415,McDonald's,McDonald's,Oregon,44.5238613,-122.9076455,,South Santiam Highway,97355-2481
+node,12941719354,Five Guys,Five Guys,Oregon,44.573035,-123.263279,Corvallis,Northwest 9th Street,97330
+node,13539920110,McDonald's,McDonald's,Oregon,45.5773786,-122.6976839,Portland,North Lombard Street,97217
+way,32332581,McDonald's,McDonald's,Oregon,44.99005074,-122.9869101,Salem,Portland Road Northeast,97305
+way,36805554,McDonald's,McDonald's,Oregon,45.534091919999995,-122.66045702000001,Portland,Northeast Grand Avenue,97232
+way,39379212,McDonald's,McDonald's,Oregon,45.537277599999996,-122.62252667999999,Portland,Northeast César E. Chávez Boulevard,97212
+way,39872923,McDonald's,McDonald's,Oregon,44.850976519999996,-123.20568078000001,,,
+way,43926133,McDonald's,McDonald's,Oregon,45.52857516,-122.41255770000001,Troutdale,Southwest Cherry Park Road,97060
+way,53871664,McDonald's,McDonald's,Oregon,45.40925572,-122.72067098,Lake Oswego,Boones Ferry Road,97035
+way,59662572,McDonald's,McDonald's,Oregon,45.543947714285714,-122.39760027142856,Troutdale,Northwest Frontage Road,97060
+way,97291282,McDonald's,McDonald's,Oregon,45.49392705454546,-122.81061536363636,Beaverton,Southwest Cedar Hills Boulevard,97005
+way,97654903,McDonald's,McDonald's,Oregon,45.479719249999995,-122.85835986250001,Beaverton,Southwest Farmington Road,97007
+way,97797821,Five Guys,Five Guys,Oregon,45.53720321666666,-122.86794641666665,Hillsboro,Northwest 185th Avenue,97124
+way,98586071,McDonald's,McDonald's,Oregon,45.517049942857135,-122.84143364285715,Beaverton,Southwest Regatta Lane,97006
+way,107656569,McDonald's,McDonald's,Oregon,45.53388002,-122.93451774,Hillsboro,Northeast 48th Avenue,97124
+way,108326972,McDonald's,McDonald's,Oregon,45.53712863333334,-122.8670825333333,Hillsboro,Northeast Town Center Drive,97006
+way,111707475,McDonald's,McDonald's,Oregon,45.30547801428572,-122.76659084285714,Wilsonville,Southwest Town Center Loop West,97070
+way,113700393,McDonald's,McDonald's,Oregon,45.43924512222222,-122.75172791111112,Tigard,Southwest 72nd Avenue,97223
+way,115842677,McDonald's,McDonald's,Oregon,45.48197786923077,-122.57965973076922,Portland,Southeast 82nd Avenue,97266
+way,117449341,McDonald's,McDonald's,Oregon,45.45262510909092,-122.72248709545455,Portland,Southwest Barbur Boulevard,97219
+way,119407752,McDonald's,McDonald's,Oregon,45.99225582222223,-123.92046302222222,Seaside,South Roosevelt Drive,97138
+way,119417342,McDonald's,McDonald's,Oregon,45.71123632857143,-121.50019722857142,Hood River,East Marina Way,97031
+way,124676704,McDonald's,McDonald's,Oregon,44.566678531250005,-123.26011314999998,Corvallis,Northwest 3rd Street,97330
+way,141022837,McDonald's,McDonald's,Oregon,45.52773198947368,-122.81384702105261,Portland,Northwest Cornell Road,97229
+way,150535623,McDonald's,McDonald's,Oregon,45.61021446666667,-122.68056481111113,Portland,North Center Avenue,97217
+way,150570453,McDonald's,McDonald's,Oregon,45.5231886,-122.69000256666668,Portland,West Burnside Street,97209
+way,171729113,McDonald's,McDonald's,Oregon,44.64679506666666,-124.05265864444443,Newport,North Coast Highway,97365
+way,183385858,McDonald's,McDonald's,Oregon,45.52050157777777,-123.08906625555557,Forest Grove,Pacific Avenue,97116
+way,195390027,McDonald's,McDonald's,Oregon,42.21171819999999,-121.75448157999999,Klamath Falls,Avalon Boulevard,97601
+way,199241650,McDonald's,McDonald's,Oregon,43.91754796,-123.01421497999999,Creswell,East Oregon Avenue,97426
+way,199295197,McDonald's,McDonald's,Oregon,44.99508120624999,-124.00481903125001,Lincoln City,Northeast Highway 101,97367
+way,200676592,McDonald's,McDonald's,Oregon,44.05935404,-122.99929635999999,Springfield,Mohawk Boulevard,97477
+way,202035429,McDonald's,McDonald's,Oregon,43.8034772,-123.04500066,Cottage Grove,Gateway Boulevard,97424
+way,215226566,McDonald's,McDonald's,Oregon,43.5736456,-119.07404884285712,,,
+way,217203310,McDonald's,McDonald's,Oregon,44.08298859473685,-123.04101465263159,Springfield,Gateway Street,97477
+way,234587596,McDonald's,McDonald's,Oregon,45.49777491428572,-122.63602170000001,Portland,Southeast Powell Boulevard,97202
+way,262580825,McDonald's,McDonald's,Oregon,45.592021914285716,-122.99678821428573,North Plains,Northwest Glencoe Road,97133
+way,286811686,McDonald's,McDonald's,Oregon,44.64258970833333,-123.064342975,Albany,Pacific Boulevard Southeast,97321
+way,299135499,McDonald's,McDonald's,Oregon,45.48683625294118,-122.77422254705883,Beaverton,Southwest Beaverton Hillsdale Highway,97005
+way,306560071,McDonald's,McDonald's,Oregon,44.78199464285715,-117.8152652142857,,,
+way,311044555,McDonald's,McDonald's,Oregon,44.0959689,-123.12647714615383,Eugene,River Avenue,97404
+way,311084640,McDonald's,McDonald's,Oregon,45.51995614285715,-122.98938182857144,Hillsboro,Southeast Baseline Street,97123
+way,312298580,Five Guys,Five Guys,Oregon,45.50086485,-122.80559568333332,Beaverton,Southwest Cedar Hills Boulevard,97005
+way,318885804,McDonald's,McDonald's,Oregon,45.4172912,-122.45780148000001,Damascus,Southeast Highway 212,97089
+way,319800945,McDonald's,McDonald's,Oregon,45.4432618,-122.62851813333334,Milwaukie,Southeast Oak Street,97222
+way,321768746,Shake Shack,Shake Shack,Oregon,45.5226702,-122.68151324285714,Portland,West Burnside Street,97209
+way,324301299,McDonald's,McDonald's,Oregon,45.25888527272727,-122.6991884090909,Canby,Southwest 1st Avenue,97013
+way,325447260,McDonald's,McDonald's,Oregon,45.519403315384615,-122.57935211538462,Portland,Southeast Stark Street,97215
+way,331558946,McDonald's,McDonald's,Oregon,44.590860199999995,-123.25436023636365,Corvallis,Northwest 9th Street,97330-1555
+way,332360718,McDonald's,McDonald's,Oregon,45.44328494285715,-122.80383367142858,Tigard,Southwest Scholls Ferry Road,97223
+way,336054417,McDonald's,McDonald's,Oregon,45.432266999999996,-122.76788107777777,Tigard,Southwest Main Street,97223
+way,344376777,McDonald's,McDonald's,Oregon,44.05025762727273,-123.08309736363638,Eugene,East Broadway,97401
+way,345134115,McDonald's,McDonald's,Oregon,44.05301878,-123.12169716000001,Eugene,West 6th Avenue,97402
+way,348160261,McDonald's,McDonald's,Oregon,45.3689474375,-122.60179245625,Oregon City,Clackamette Drive,97045
+way,348352019,McDonald's,McDonald's,Oregon,45.38307551999999,-122.58197106,Gladstone,East Berkeley Street,97027
+way,351108383,McDonald's,McDonald's,Oregon,45.45336401052632,-122.57945967368418,Milwaukie,Southeast Lamphier Street,97222
+way,352628229,McDonald's,McDonald's,Oregon,45.346243122222226,-122.65097155555554,West Linn,8th Court,97068
+way,353015646,McDonald's,McDonald's,Oregon,45.380989976923075,-122.76369800769231,Tualatin,Southwest Boones Ferry Road,97062
+way,353365391,McDonald's,McDonald's,Oregon,45.495401988000005,-122.87847977199999,Beaverton,Southwest Tualatin Valley Highway,97003
+way,355240506,Shake Shack,Shake Shack,Oregon,45.39549976666667,-122.75241823333333,Tigard,Southwest Bridgeport Road,97224
+way,355866248,McDonald's,McDonald's,Oregon,45.36558987058823,-122.84766158235297,Sherwood,Southwest Sherwood Boulevard,97140
+way,360757298,McDonald's,McDonald's,Oregon,45.586843522222225,-122.73892645555556,Portland,North Ida Avenue,97203
+way,365939699,McDonald's,McDonald's,Oregon,45.545731154545464,-122.70609869090909,Portland,Northwest Yeon Avenue,97210
+way,366388837,McDonald's,McDonald's,Oregon,45.40098888000001,-122.278661912,Sandy,Southeast Highway 26,97055
+way,368094600,McDonald's,McDonald's,Oregon,45.3348789,-122.58968462727272,Oregon City,Molalla Avenue,97045
+way,368231207,McDonald's,McDonald's,Oregon,45.566877415789484,-122.5372006894737,Portland,Northeast Airport Way,97230
+way,368247171,McDonald's,McDonald's,Oregon,45.51865948235294,-122.47471538823527,Portland,Southeast Stark Street,97233
+way,368265895,McDonald's,McDonald's,Oregon,45.53385403529412,-122.55701815294118,Portland,Northeast Halsey Street,97220
+way,368270574,McDonald's,McDonald's,Oregon,45.54697731428571,-122.57832555714285,Portland,Northeast 82nd Avenue,97220
+way,368547935,McDonald's,McDonald's,Oregon,45.52675134545455,-122.53823381818182,Portland,Northeast Glisan Street,97220
+way,368705457,McDonald's,McDonald's,Oregon,45.538461,-122.47770182,Portland,Northeast 181st Avenue,97230
+way,369158770,McDonald's,McDonald's,Oregon,45.4971576,-122.56984116923078,Portland,Southeast Powell Boulevard,97266
+way,371066439,McDonald's,McDonald's,Oregon,45.504019944444444,-122.41589696666665,Gresham,Northeast Burnside Road,97030
+way,371286580,McDonald's,McDonald's,Oregon,45.48976613846155,-122.47500867692308,Gresham,Southwest Highland Drive,97080
+way,371677682,McDonald's,McDonald's,Oregon,45.43380088888888,-122.57847298888889,Happy Valley,Southeast 82nd Avenue,97086
+way,371823919,McDonald's,McDonald's,Oregon,45.40802542857143,-122.56833331428572,Clackamas,Southeast 82nd Drive,97015
+way,371944176,McDonald's,McDonald's,Oregon,45.709542760000005,-121.53396295333336,,Cascade Avenue,97031
+way,377866943,McDonald's,McDonald's,Oregon,44.037922638461545,-121.30493925384613,Bend,Southeast 3rd Street,97702
+way,379042398,McDonald's,McDonald's,Oregon,45.74068326363636,-122.87722972727273,Scappoose,Havlik Drive,97056
+way,382802975,McDonald's,McDonald's,Oregon,45.8483893882353,-122.83269028235294,Saint Helens,Columbia River Highway,97051
+way,407304879,McDonald's,McDonald's,Oregon,45.00822351428571,-122.99842314285715,Keizer,Keizer Station Boulevard Northeast,97303
+way,409611934,McDonald's,McDonald's,Oregon,45.33008826,-118.07547764,La Grande,Island Avenue,97850
+way,414891844,McDonald's,McDonald's,Oregon,45.6566856,-118.80975736666666,,,
+way,414901067,McDonald's,McDonald's,Oregon,46.19004130769231,-123.83591675384618,Astoria,Marine Drive,97103
+way,418198693,McDonald's,McDonald's,Oregon,45.38243106,-122.74650376,Tualatin,Southwest Nyberg Street,97062
+way,418238370,Five Guys,Five Guys,Oregon,45.3830349111111,-122.74813135555554,Tualatin,Southwest Nyberg Street,97062
+way,419793160,McDonald's,McDonald's,Oregon,44.880967855555554,-123.02927586666667,Salem,Commercial Street Southeast,97306
+way,425665799,Five Guys,Five Guys,Oregon,45.43768703333333,-122.82788266666665,Beaverton,Southwest Murray Scholls Drive,97007
+way,436266312,McDonald's,McDonald's,Oregon,45.403664326315784,-122.79656491052631,Tigard,Southwest Pacific Highway,97224
+way,437879135,McDonald's,McDonald's,Oregon,45.22702018571429,-123.18186262857144,McMinnville,North Highway 99 West,97128-2728
+way,437949436,McDonald's,McDonald's,Oregon,45.40978406470589,-122.52582536470591,Happy Valley,Southeast Highway 212,97015
+way,438300816,McDonald's,McDonald's,Oregon,44.63988889230769,-121.12910963846154,Madras,Northeast Oak Street,97741
+way,455887740,McDonald's,McDonald's,Oregon,42.31598579999999,-122.8604880111111,Medford,East Barnett,97501
+way,461786840,McDonald's,McDonald's,Oregon,45.5816744,-122.66208017777778,Portland,Northeast Martin Luther King Junior Boulevard,97211
+way,463368808,McDonald's,McDonald's,Oregon,45.407865769999994,-122.62502935999998,Oak Grove,Southeast McLoughlin Boulevard,97267
+way,463559856,McDonald's,McDonald's,Oregon,43.984525177777776,-124.100964,,,
+way,471865209,McDonald's,McDonald's,Oregon,45.56621766666667,-122.89462350000001,Hillsboro,Northeast Cornelius Pass Road,97124
+way,474539217,McDonald's,McDonald's,Oregon,44.94029288421054,-123.02698424736843,Salem,Center Street Northeast,97301-2523
+way,479662623,Five Guys,Five Guys,Oregon,45.426855880000005,-122.48735933999998,Happy Valley,Southeast Sunnyside Road,97015
+way,484380306,McDonald's,McDonald's,Oregon,45.30629962,-122.94882264,Newberg,Portland Road,97132-2074
+way,488940119,McDonald's,McDonald's,Oregon,45.84980568888889,-119.28962176666667,,,
+way,496715884,McDonald's,McDonald's,Oregon,45.46912651428571,-123.84375297142857,,,
+way,502967604,McDonald's,McDonald's,Oregon,44.070272214285716,-121.30208008571428,Bend,Northeast 3rd Street,97701
+way,504051039,McDonald's,McDonald's,Oregon,44.04836011428571,-121.33140722857142,Bend,Southwest Century Drive,97702
+way,504318372,McDonald's,McDonald's,Oregon,44.05521564,-121.26593054,Bend,Northeast Highway 20,97701
+way,507095444,In-N-Out Burger,In-N-Out,Oregon,42.34651310000001,-122.87985822608698,Medford,Crater Lake Highway,97504
+way,510436060,McDonald's,McDonald's,Oregon,44.02456633636364,-116.98646975454541,,,97914
+way,511889340,McDonald's,McDonald's,Oregon,44.02404868,-116.94077748,Ontario,East Idaho Avenue,97914
+way,513674464,Five Guys,Five Guys,Oregon,44.05518021666666,-121.30289729999998,Bend,Northeast Emerson Avenue,97701
+way,521926559,McDonald's,McDonald's,Oregon,44.04537888181817,-122.92915195454547,Springfield,Main Street,97478
+way,546132524,McDonald's,McDonald's,Oregon,44.947282613333336,-123.04985227333331,Salem,Wallace Road Northwest,97304
+way,551148117,McDonald's,McDonald's,Oregon,42.053337479999996,-124.28722327999999,,,
+way,574651467,McDonald's,McDonald's,Oregon,43.237911184615385,-123.36959395384616,Roseburg,Northwest Stewart Parkway,97470
+way,589335225,McDonald's,McDonald's,Oregon,45.15055340000001,-122.87684344545454,Woodburn,Newberg Highway,97071-2819
+way,591448145,McDonald's,McDonald's,Oregon,45.01416986,-122.78631567999999,Silverton,North 1st Street,97381
+way,592802635,McDonald's,McDonald's,Oregon,45.607354879999995,-121.20121085999999,The Dalles,West 6th Street,97058
+way,600580361,McDonald's,McDonald's,Oregon,42.42451024615385,-122.85172993846153,White City,Crater Lake Highway,97503
+way,601579546,McDonald's,McDonald's,Oregon,42.36629154,-122.85668417999999,Medford,Crater Lake Highway,97504
+way,602833971,McDonald's,McDonald's,Oregon,44.302581493333335,-120.85165115333334,,,
+way,603722777,McDonald's,McDonald's,Oregon,42.340835642857144,-122.87134425714285,Medford,Biddle Road,97504
+way,607605315,McDonald's,McDonald's,Oregon,45.430522659999994,-122.54055962,Clackamas,Southeast Sunnyside Road,97015
+way,619840113,McDonald's,McDonald's,Oregon,45.60431036,-121.13869912,,,
+way,640207474,Five Guys,Five Guys,Oregon,45.34593553157896,-122.65259161578945,West Linn,8th Avenue,97068
+way,648838617,McDonald's,McDonald's,Oregon,44.25324754,-121.18280702,Redmond,The Dalles-California Highway,97756
+way,668211397,McDonald's,McDonald's,Oregon,44.048375400000005,-123.14462476428571,Eugene,West 11th Avenue,97402
+way,679566887,McDonald's,McDonald's,Oregon,44.22230432222222,-123.20400952222222,Junction City,West 10th Avenue,97448
+way,736642947,McDonald's,McDonald's,Oregon,44.943729942857146,-122.9839999,Salem,Lancaster Drive Northeast,97301-2934
+way,738640892,McDonald's,McDonald's,Oregon,44.94927116666666,-122.9921697111111,Salem,Hawthorne Avenue Northeast,97302
+way,743453586,McDonald's,McDonald's,Oregon,44.915387236363635,-122.98080845454547,Salem,Rickey Street Southeast,97301
+way,746288274,McDonald's,McDonald's,Oregon,43.145533255555556,-123.38003553333331,Roseburg,Roberts Creek Road,97471
+way,749026464,McDonald's,McDonald's,Oregon,44.96906042272728,-123.02813550454547,Salem,Broadway Street Northeast,97309
+way,765536468,In-N-Out Burger,In-N-Out,Oregon,45.010940104000014,-122.99464538400001,Keizer,Keizer Station Boulevard Northeast,97303
+way,780579419,McDonald's,McDonald's,Oregon,42.28130934444445,-122.81749002222222,Medford,Fern Valley Road,97501
+way,794483771,McDonald's,McDonald's,Oregon,44.08508036923077,-123.16739383076923,Eugene,Cubit Street,97402
+way,797249862,McDonald's,McDonald's,Oregon,45.507057550000006,-122.96043155,Hillsboro,Southeast Cypress Street,97123
+way,824327681,McDonald's,McDonald's,Oregon,45.201851714285716,-123.16719342857142,McMinnville,Northeast Norton Lane,97128
+way,868891438,McDonald's,McDonald's,Oregon,44.02684219230769,-123.09034651538461,Eugene,Willamette Street,97405
+way,938553238,In-N-Out Burger,In-N-Out,Oregon,42.46267341724138,-123.32152981034487,Grants Pass,Northeast Morgan Lane,97526
+way,1047342357,McDonald's,McDonald's,Oregon,44.92932228571429,-123.30962671428571,Dallas,East Ellendale Avenue,97338
+way,1051965946,Shake Shack,Shake Shack,Oregon,45.49355883333333,-122.90051966666664,Hillsboro,Southeast Cornelius Pass Road,97123
+way,1056539682,Shake Shack,Shake Shack,Oregon,45.501240555555555,-122.80642428888889,Beaverton,Southwest Cedar Hills Boulevard,97005
+way,1064548314,McDonald's,McDonald's,Oregon,44.62295332222222,-123.1105605888889,Albany,Pacific Boulevard Southwest,97321-3532
+way,1069049274,In-N-Out Burger,In-N-Out,Oregon,45.53775449047619,-122.86602170952379,Hillsboro,Northeast Town Center Drive,97006
+way,1071444853,McDonald's,McDonald's,Oregon,42.97294144,-123.34061184,,,
+way,1071754874,McDonald's,McDonald's,Oregon,43.69984577727272,-124.11057567727272,Reedsport,North 14th Street,97467
+way,1080122108,McDonald's,McDonald's,Oregon,42.46132726,-123.32213769999998,Grants Pass,Northeast 6th Street,97526
+way,1105658440,McDonald's,McDonald's,Oregon,44.539334783333324,-123.36582968333335,Philomath,South 14th Street,97370
+way,1106234928,McDonald's,McDonald's,Oregon,42.24956306363637,-121.789923,Klamath Falls,Campus Drive,97601
+way,1160304917,Five Guys,Five Guys,Oregon,44.08110135,-123.0424057,Springfield,Gateway Street,97477
+way,1165002665,McDonald's,McDonald's,Oregon,43.67405581666667,-121.49985475,La Pine,Reed Road,97739-9704
+way,1234222419,McDonald's,McDonald's,Oregon,45.15098262,-122.83636294,Woodburn,Mount Hood Avenue,97071
+way,1368910228,In-N-Out Burger,In-N-Out,Oregon,43.244115782352935,-123.35960091764706,Roseburg,Northwest Aviation Drive,97470
+way,1544985544,McDonald's,McDonald's,Oregon,43.36135839090909,-124.21275977272725,Coos Bay,South Broadway,97420
+way,1548975784,Five Guys,Five Guys,Oregon,42.344442642857146,-122.88297816428572,Medford,Rossanley Drive,97501
+way,1557880754,Five Guys,Five Guys,Oregon,42.30897088,-122.85170740000001,Medford,Center Drive,97501

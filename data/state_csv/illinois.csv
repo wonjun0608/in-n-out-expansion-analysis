@@ -1,0 +1,904 @@
+osm_type,osm_id,name,brand,state_query,latitude,longitude,city,street,postcode
+node,272580667,McDonald's,McDonald's,Illinois,41.3965637,-89.4676505,Princeton,North Main Street,61356
+node,461515697,McDonald's,McDonald's,Illinois,41.9008566,-88.7389579,DeKalb,Crego Road,60115
+node,761868507,McDonald's,McDonald's,Illinois,39.0475593,-88.7485861,,,
+node,1324507583,McDonald's,McDonald's,Illinois,42.0196599,-88.2690243,Elgin,Saint Charles Road,60120
+node,1329109565,McDonald's,McDonald's,Illinois,42.4241069,-90.4431179,,,
+node,1349879205,Five Guys,Five Guys,Illinois,41.9254356,-87.6405478,Chicago,North Clark Street,60614
+node,1481424399,McDonald's,McDonald's,Illinois,40.6764394,-89.5350833,East Peoria,East Washington,61611
+node,1593745874,McDonald's,McDonald's,Illinois,41.9373307,-88.3992983,Campton Hills,IL Route 64,60175
+node,1630387514,McDonald's,McDonald's,Illinois,41.8795079,-87.6336,Chicago,West Adams Street,60603
+node,1648217470,McDonald's,McDonald's,Illinois,41.8915774,-87.6087562,Chicago,East Grand Avenue,60611
+node,1708722329,McDonald's,McDonald's,Illinois,42.4151573,-88.0715261,,Grand Avenue,60046
+node,1888626511,Five Guys,Five Guys,Illinois,41.7996698,-87.5894527,Chicago,East 53rd Street,60615
+node,1935650201,McDonald's,McDonald's,Illinois,41.8480391,-89.4849794,,,
+node,2032855152,McDonald's,McDonald's,Illinois,39.6075262,-90.8135327,,,
+node,2080745966,McDonald's,McDonald's,Illinois,38.5697913,-89.9297312,O'Fallon,North Greenmount Road,62269
+node,2091337786,McDonald's,McDonald's,Illinois,41.3703226,-89.0091054,Utica,East 8th Road,61373
+node,2095710492,Five Guys,Five Guys,Illinois,40.739726,-89.634273,Peoria,West Lake Avenue,61615
+node,2265491360,McDonald's,McDonald's,Illinois,42.4899004,-88.988987,South Beloit,Manchester Road,61080
+node,2322347685,McDonald's,McDonald's,Illinois,41.9771432,-87.8984834,Chicago,CONC,60666
+node,2322673339,McDonald's,McDonald's,Illinois,41.9740141,-87.9005386,Chicago,CONC,60666
+node,2322673340,McDonald's,McDonald's,Illinois,41.974859,-87.8985677,Chicago,CONC,60666
+node,2322673341,McDonald's,McDonald's,Illinois,41.9749999,-87.9001275,Chicago,CONC H/K Food Court,60666
+node,2348756411,McDonald's,McDonald's,Illinois,39.149087,-88.531029,Effingham,North 3rd Street,62401
+node,2353664999,Five Guys,Five Guys,Illinois,41.867837,-87.626052,Chicago,South Wabash Avenue,60605
+node,2360490443,McDonald's,McDonald's,Illinois,41.877995,-87.6316719,Chicago,West Jackson Boulevard,60604
+node,2360490446,McDonald's,McDonald's,Illinois,41.8389807,-87.6467948,Chicago,South Halsted Street,60608
+node,2361032004,Steak 'n Shake,Steak 'n Shake,Illinois,40.9602783,-90.3836621,,,61401
+node,2366191731,McDonald's,McDonald's,Illinois,40.9605799,-90.3837524,Galesburg,North Henderson Street,61401-2553
+node,2374500677,McDonald's,McDonald's,Illinois,40.947087,-90.352341,Galesburg,East Main Street,61401-3962
+node,2382882164,McDonald's,McDonald's,Illinois,38.155477,-88.911065,Ina,North Avenue,62846
+node,2393465773,McDonald's,McDonald's,Illinois,41.9110184,-87.6345458,Chicago,North Wells Street,60610
+node,2394591150,McDonald's,McDonald's,Illinois,42.4297542,-87.9374438,Wadsworth,US Highway 41,60083
+node,2401083388,McDonald's,McDonald's,Illinois,42.0900627,-90.1334082,,,
+node,2463442656,McDonald's,McDonald's,Illinois,39.907616,-88.8956097,Decatur,East Boyd Road,62521
+node,2524526028,Five Guys,Five Guys,Illinois,40.1376802,-88.2585046,Champaign,West Anthony Drive,61821
+node,2702237027,McDonald's,McDonald's,Illinois,41.5790393,-87.5993105,South Holland,Lincoln Oasis,60473
+node,2777251627,McDonald's,McDonald's,Illinois,41.2961031,-89.0785106,,,
+node,2800203993,McDonald's,McDonald's,Illinois,40.1747424,-87.6296422,Danville,North Vermilion Street,61832
+node,2869352247,McDonald's,McDonald's,Illinois,37.4149252,-88.8740044,,,
+node,3014815404,McDonald's,McDonald's,Illinois,41.6356749,-88.2232577,Plainfield,State Route 30,60544
+node,3070989695,Five Guys,Five Guys,Illinois,41.7227331,-88.037468,Bolingbrook,Boughton Road,60440
+node,3272450201,McDonald's,McDonald's,Illinois,42.1148047,-87.7417568,Winnetka,Green Bay Road,60093
+node,3307125663,McDonald's,McDonald's,Illinois,42.012176,-89.3323465,,,
+node,3575167248,Shake Shack,Shake Shack,Illinois,41.8926777,-87.6256661,Chicago,East Ohio Street,60611
+node,3579375583,McDonald's,McDonald's,Illinois,41.3690041,-89.1270304,Peru,Trompeter Road,61354
+node,3766589041,McDonald's,McDonald's,Illinois,38.7309721,-88.0793587,Olney,East Main Street,62450
+node,3889639803,Shake Shack,Shake Shack,Illinois,41.8815882,-87.6246673,Chicago,South Michigan Avenue,60603
+node,4047209065,McDonald's,McDonald's,Illinois,38.5911282,-89.9843421,Fairview Heights,North Illinois Street,62208-2719
+node,4049484309,McDonald's,McDonald's,Illinois,38.5421161,-89.9843408,Swansea,North Illinois Street,62226
+node,4054850312,McDonald's,McDonald's,Illinois,39.7144501,-89.6403345,Springfield,Toronto Road,62703
+node,4060471871,McDonald's,McDonald's,Illinois,39.7612149,-89.6078486,Springfield,South Dirksen Parkway,62703
+node,4072166505,McDonald's,McDonald's,Illinois,39.7961958,-89.69418,Springfield,West Monroe Street,62704
+node,4084141020,McDonald's,McDonald's,Illinois,40.1272223,-87.6112608,Danville,North Bowman Avenue,61832
+node,4084166350,McDonald's,McDonald's,Illinois,40.1193802,-87.6366971,,,
+node,4301553699,McDonald's,McDonald's,Illinois,40.1104563,-88.229815,Champaign,East Green Street,61820
+node,4313080925,McDonald's,McDonald's,Illinois,40.5302343,-88.9965555,Normal,North Main Street,61761
+node,4374789492,McDonald's,McDonald's,Illinois,39.9611307,-89.5622746,Williamsville,Ann Rutledge Drive,62693
+node,4381316276,Five Guys,Five Guys,Illinois,41.8099872,-87.9947722,Downers Grove,Ogden Avenue,60515
+node,4440096910,McDonald's,McDonald's,Illinois,38.7877385,-89.9803505,Edwardsville,Center Grove Road,62025
+node,4583089235,McDonald's,McDonald's,Illinois,41.977595,-87.9106354,Chicago,CONC,60666
+node,4752123983,McDonald's,McDonald's,Illinois,41.8940272,-87.6176392,Chicago,North McClurg Court,60611
+node,4826326221,McDonald's,McDonald's,Illinois,41.9023826,-88.0813346,Glendale Heights,East North Avenue,60139
+node,4833586759,Five Guys,Five Guys,Illinois,41.8295677,-88.1030982,Wheaton,Danada Square East,60189
+node,4844969371,McDonald's,McDonald's,Illinois,42.1258646,-89.2555557,,East Blackhawk Drive,
+node,4854757357,Five Guys,Five Guys,Illinois,42.0552776,-88.0458651,Schaumburg,North Meacham Road,60173
+node,4937237607,McDonald's,McDonald's,Illinois,39.5529653,-89.2987825,Taylorville,West Spresser Street,62568
+node,4954188656,McDonald's,McDonald's,Illinois,40.6264233,-89.6184289,North Pekin,Wesley Road,61554
+node,4995555980,McDonald's,McDonald's,Illinois,42.2482842,-88.3472034,Crystal Lake,Route 14,60012
+node,5360072618,McDonald's,McDonald's,Illinois,37.8184507,-88.9330384,,,
+node,5452994605,Shake Shack,Shake Shack,Illinois,41.8854415,-87.6519936,Chicago,North Morgan Street,60607
+node,5457402330,McDonald's,McDonald's,Illinois,41.2874351,-88.2858589,Coal City,South Broadway Street,60416
+node,5553300675,Five Guys,Five Guys,Illinois,42.0823358,-87.756513,Wilmette,Lake Avenue,60091
+node,5553341979,Shake Shack,Shake Shack,Illinois,42.0599815,-87.7497637,Skokie,Old Orchard Center,60077
+node,5703491258,Culver's,Culver's,Illinois,42.3899066,-88.181054,Fox Lake,US Highway 12,60020
+node,5703553733,Culver's,Culver's,Illinois,37.7438371,-89.1606463,Carbondale,Reed Station Parkway,62901
+node,5834769443,McDonald's,McDonald's,Illinois,41.9474912,-87.6569791,Chicago,North Clark Street,60613
+node,5943291987,Culver's,Culver's,Illinois,42.2294663,-88.2968602,Crystal Lake,Pingree Road,60014
+node,5943291988,Culver's,Culver's,Illinois,42.0690446,-88.1938789,Hoffman Estates,Hoffman Boulevard,60192
+node,6071648415,McDonald's,McDonald's,Illinois,41.9801018,-87.90667,Chicago,CONC,60666
+node,6167678358,McDonald's,McDonald's,Illinois,42.1132325,-88.2583677,Carpentersville,South Kennedy Drive,60110
+node,6219040408,McDonald's,McDonald's,Illinois,39.6784187,-89.7040303,Chatham,North Main Street,62629
+node,6316714296,McDonald's,McDonald's,Illinois,39.7570663,-89.7330373,Springfield,Wabash Avenue,62711
+node,6415441103,Freddy's,Freddy's,Illinois,39.8023887,-89.6055144,Springfield,Clear Lake Avenue,62702
+node,6419715452,McDonald's,McDonald's,Illinois,41.975241,-87.9062381,Chicago,,60666
+node,6430927534,Freddy's,Freddy's,Illinois,39.7559814,-89.7241701,Springfield,Wabash Avenue,62711
+node,6491739790,Steak 'n Shake,Steak 'n Shake,Illinois,39.8358295,-89.6052114,Springfield,North Dirksen Parkway,62702
+node,6496502062,Five Guys,Five Guys,Illinois,42.2370718,-87.9434864,Vernon Hills,North Milwaukee Avenue,60061
+node,6504681514,Culver's,Culver's,Illinois,39.8381092,-89.6037203,Springfield,North Dirksen Parkway,62702
+node,6504837887,McDonald's,McDonald's,Illinois,39.8300496,-89.6042717,Springfield,North Dirksen Parkway,62702
+node,6511749084,Culver's,Culver's,Illinois,39.7557989,-89.7325795,Springfield,Wabash Avenue,62711
+node,6597900128,Steak 'n Shake,Steak 'n Shake,Illinois,39.759306,-89.6081423,Springfield,South Dirksen Parkway,62703
+node,6680456681,McDonald's,McDonald's,Illinois,41.7715189,-88.0422686,Woodridge,63rd Street,60517
+node,6722184575,McDonald's,McDonald's,Illinois,39.7650804,-89.6874995,Springfield,Chatham Road,62704
+node,6722184579,Steak 'n Shake,Steak 'n Shake,Illinois,39.7637731,-89.680074,Springfield,Wabash Avenue,62704
+node,6747178902,Five Guys,Five Guys,Illinois,41.8932846,-88.3410871,Geneva,Commons Drive,60134
+node,6781788114,McDonald's,McDonald's,Illinois,38.5401897,-90.023373,Belleville,West Main Street,62226
+node,7022199334,McDonald's,McDonald's,Illinois,39.8026459,-89.6610367,Springfield,West Jefferson Street,62702
+node,7023126646,McDonald's,McDonald's,Illinois,40.9249587,-90.6491965,Monmouth,North Main Street,61462
+node,7023138480,McDonald's,McDonald's,Illinois,41.3558462,-88.8400599,,,
+node,7023141431,McDonald's,McDonald's,Illinois,39.9359395,-91.3947219,Quincy,Broadway Street,62301-2813
+node,7023145675,McDonald's,McDonald's,Illinois,39.9832294,-90.7572922,Mount Sterling,East Main Street,62353
+node,7023148328,McDonald's,McDonald's,Illinois,38.7318775,-89.9060798,Troy,McDonald South Lane,62294-1375
+node,7023152420,McDonald's,McDonald's,Illinois,38.3856874,-89.3717703,,,
+node,7023153777,McDonald's,McDonald's,Illinois,41.5478002,-89.129878,,,
+node,7023168971,McDonald's,McDonald's,Illinois,39.2794644,-89.8909333,,,
+node,7023172535,McDonald's,McDonald's,Illinois,38.4157125,-87.7635232,,,
+node,7023176596,McDonald's,McDonald's,Illinois,38.5348489,-89.7209108,,,
+node,7023182854,McDonald's,McDonald's,Illinois,39.8749665,-88.926132,,,
+node,7065422019,McDonald's,McDonald's,Illinois,39.7513677,-89.707431,Springfield,Freedom Drive,62704
+node,7141649054,McDonald's,McDonald's,Illinois,39.8458868,-88.9699446,Decatur,West Eldorado Street,62522-2162
+node,7161491669,Five Guys,Five Guys,Illinois,41.7212095,-87.6831234,Evergreen Park,West 95th Street,60805
+node,7173833488,McDonald's,McDonald's,Illinois,39.756185,-89.6457702,Springfield,South 6th Street,62703
+node,7262648968,McDonald's,McDonald's,Illinois,42.1041534,-87.8472368,Glenview,Pfingsten Road,60026
+node,7456841281,McDonald's,McDonald's,Illinois,41.9543587,-87.8094136,Norridge,North Harlem Avenue,60706-1244
+node,7551089453,Five Guys,Five Guys,Illinois,41.8507194,-87.8030308,Berwyn,West Cermak Road,60402
+node,7845239190,Five Guys,Five Guys,Illinois,41.5056792,-87.7330388,Matteson,211th Street,60443
+node,7874385734,McDonald's,McDonald's,Illinois,41.8858707,-87.6318911,Chicago,North LaSalle Street,60601
+node,8048743746,McDonald's,McDonald's,Illinois,39.6005206,-88.6080266,,,
+node,8244336720,McDonald's,McDonald's,Illinois,41.469413,-87.5793444,Crete,East Steger Road,60417
+node,8329153009,McDonald's,McDonald's,Illinois,41.7374931,-88.2517861,Aurora,West Ogden Avenue,60504
+node,8379930804,McDonald's,McDonald's,Illinois,41.8839957,-87.6536578,Chicago,West Randolph Street,60607
+node,8396542109,McDonald's,McDonald's,Illinois,40.9192626,-90.2966439,Knoxville,Knox Highway 10,61448
+node,8712685507,Culver's,Culver's,Illinois,40.9638965,-90.3837727,Galesburg,North Henderson Street,61401
+node,8747693516,McDonald's,McDonald's,Illinois,41.8126313,-88.2786193,Aurora,Butterfield Road,60504
+node,8863371294,Shake Shack,Shake Shack,Illinois,41.9464066,-87.6556426,Chicago,North Clark Street,60657
+node,8893282896,Culver's,Culver's,Illinois,41.9613345,-87.6753828,Chicago,West Montrose Avenue,60613
+node,8981007622,Five Guys,Five Guys,Illinois,41.873081,-87.6774186,Chicago,South Seeley Avenue,60612
+node,9127686148,McDonald's,McDonald's,Illinois,41.6861756,-88.380928,Oswego,Orchard Way;Orchard Road,60543
+node,9128470488,McDonald's,McDonald's,Illinois,41.6470455,-88.5971036,Sandwich,Indian Springs Drive,60548
+node,9129718407,Culver's,Culver's,Illinois,41.700929,-88.315072,Oswego,Route 34,60543
+node,9217177389,McDonald's,McDonald's,Illinois,40.790852,-89.3731279,Metamora,West Mount Vernon Street,61548
+node,9233962239,Five Guys,Five Guys,Illinois,41.6036504,-87.8525797,Orland Park,South Lagrange Road,60462
+node,9274001436,Five Guys,Five Guys,Illinois,42.0811356,-87.9353111,Mount Prospect,East Kensington Road,60056
+node,9294100629,Shake Shack,Shake Shack,Illinois,41.8782183,-87.6356594,Chicago,South Wacker Drive,60606
+node,9309781151,Five Guys,Five Guys,Illinois,38.7914755,-89.950948,Edwardsville,Troy Road,62025
+node,9428866692,McDonald's,McDonald's,Illinois,39.6806201,-88.2977643,Arcola,East Springfield Road,61910
+node,9458923826,McDonald's,McDonald's,Illinois,39.390494,-89.0804379,,,
+node,9831084839,Five Guys,Five Guys,Illinois,40.5115089,-88.95281,Normal,East College Avenue,61761
+node,9958345830,Five Guys,Five Guys,Illinois,41.6989821,-88.3159661,Oswego,Route 34,60543
+node,9991802313,Five Guys,Five Guys,Illinois,38.572608,-89.9314611,O'Fallon,Merchants Way,62269
+node,9998816137,Five Guys,Five Guys,Illinois,42.2691153,-88.9841522,Rockford,East State Street,61108
+node,10005620326,McDonald's,McDonald's,Illinois,38.6132,-90.0458126,Caseyville,Rauckman Drive,62232
+node,10220471890,Five Guys,Five Guys,Illinois,42.1611429,-88.0494648,Kildeer,North Rand Road,60047
+node,10571622386,Five Guys,Five Guys,Illinois,42.3850298,-87.9577443,Gurnee,Grand Avenue,60031
+node,10624425532,McDonald's,McDonald's,Illinois,39.8013831,-89.6047744,Springfield,Clear Lake Avenue,62702
+node,10978267252,McDonald's,McDonald's,Illinois,41.9740656,-87.8894689,Chicago,Arrivals,60666
+node,11071533348,McDonald's,McDonald's,Illinois,41.4275082,-87.7569956,Monee,West Monee Manhattan Road,60449
+node,11162026362,Freddy's,Freddy's,Illinois,40.6689865,-89.5816357,East Peoria,Spinder Drive,61611
+node,11162217427,Five Guys,Five Guys,Illinois,41.8854312,-87.6248283,Chicago,North Michigan Avenue,60601
+node,11603312840,McDonald's,McDonald's,Illinois,42.233931,-88.834575,Belvidere,,61008-9260
+node,11623828738,Five Guys,Five Guys,Illinois,41.5652075,-87.6368199,Homewood,Halsted Street,60430
+node,11661789177,Culver's,Culver's,Illinois,41.9470142,-87.6576182,Chicago,West Addison Street,60657
+node,11769053450,McDonald's,McDonald's,Illinois,40.1780003,-88.2403287,Champaign,Market Street,61822
+node,11769878542,McDonald's,McDonald's,Illinois,42.2531693,-87.901853,Mettawa,Lake Forest Oasis,60045
+node,11881988439,McDonald's,McDonald's,Illinois,40.3122042,-89.1672448,,Main Street,61754
+node,11959781043,McDonald's,McDonald's,Illinois,41.430546,-87.9937134,,,60442-9245
+node,11959781545,McDonald's,McDonald's,Illinois,41.578181,-87.792845,,,60477-3369
+node,11991117908,Culver's,Culver's,Illinois,41.9534356,-88.2060214,Bartlett,South Illinois Route 59,60103
+node,11991117919,Five Guys,Five Guys,Illinois,41.9400003,-88.1139094,Bloomingdale,West Army Trail Road,60108
+node,11991117920,Culver's,Culver's,Illinois,41.9534778,-88.1224936,Bloomingdale,West Schick Road,60108
+node,11991121576,Culver's,Culver's,Illinois,41.6553535,-88.5610504,Plano,Lakeside Road,60545
+node,12103785330,McDonald's,McDonald's,Illinois,38.6793085,-88.4903408,,Given Drive,62839
+node,12108645399,McDonald's,McDonald's,Illinois,38.1388945,-89.7030807,,,62286
+node,12135255336,Five Guys,Five Guys,Illinois,42.001564,-87.8836409,Des Plaines,Mannheim Road,60018
+node,12158580098,Steak 'n Shake,Steak 'n Shake,Illinois,39.5676843,-89.309755,,,62568
+node,12202353763,Steak 'n Shake,Steak 'n Shake,Illinois,39.8777446,-88.9389487,,,62526
+node,12255900706,McDonald's,McDonald's,Illinois,41.6621908,-88.5027967,Plano,Route 34,60545
+node,12282690624,McDonald's,McDonald's,Illinois,40.7780189,-87.7414973,,West Walnut Street,60970
+node,12282693758,McDonald's,McDonald's,Illinois,40.4593633,-87.6867249,,South Dixie Highway,60942
+node,12282693781,McDonald's,McDonald's,Illinois,42.1612542,-88.1394284,,West Northwest Highway,60010-3168
+node,12292179405,McDonald's,McDonald's,Illinois,39.6042,-87.683789,,,61944-2466
+node,12292242947,McDonald's,McDonald's,Illinois,38.0798663,-89.3822683,,West Water Street,62274
+node,12292245321,McDonald's,McDonald's,Illinois,37.4600172,-89.2346068,,East Vienna Street,62906-2000
+node,12292255680,McDonald's,McDonald's,Illinois,38.5028622,-89.9821403,,South Belt East,62220
+node,12292256503,McDonald's,McDonald's,Illinois,40.004639,-90.438306,,Plaza Street,62618
+node,12292260274,McDonald's,McDonald's,Illinois,38.4372343,-89.9151859,,,62243
+node,12292262084,McDonald's,McDonald's,Illinois,38.3542327,-90.1537955,,,62298
+node,12292266130,McDonald's,McDonald's,Illinois,37.7659615,-89.3258033,,,62966
+node,12292448591,McDonald's,McDonald's,Illinois,39.1540794,-89.4937593,,,62049-1734
+node,12292448593,McDonald's,McDonald's,Illinois,39.9793039,-87.63662,,,61846
+node,12292452960,McDonald's,McDonald's,Illinois,38.3793645,-88.3771372,,West Main Street,62837-2326
+node,12292457030,McDonald's,McDonald's,Illinois,38.6200109,-89.5266317,,,62230
+node,12292458573,McDonald's,McDonald's,Illinois,38.7269787,-87.7002915,,West Haven Road,62439
+node,12292458672,McDonald's,McDonald's,Illinois,38.7541377,-89.6807138,,,62249-1114
+node,12292481002,McDonald's,McDonald's,Illinois,39.0915752,-88.5485814,Effingham,South Banker Street,62401
+node,12366009759,Freddy's,Freddy's,Illinois,41.7158889,-88.2873105,Montgomery,Ogden Avenue,60538
+node,12398887056,McDonald's,McDonald's,Illinois,40.5464241,-89.602388,,,
+node,12398887061,Steak 'n Shake,Steak 'n Shake,Illinois,40.5442498,-89.598335,,,61554
+node,12403377096,McDonald's,McDonald's,Illinois,40.56562,-89.6366489,,,
+node,12729727295,McDonald's,McDonald's,Illinois,41.6178452,-88.4476535,Yorkville,South Bridge Street,60560
+node,12729727984,McDonald's,McDonald's,Illinois,41.7187206,-88.3201774,Oswego,Douglas Road,60543
+node,12897749083,Five Guys,Five Guys,Illinois,38.595399,-89.9842985,,,
+node,13115079936,McDonald's,McDonald's,Illinois,41.9296612,-87.8467795,River Grove,West Grand Avenue,60171
+node,13147459188,McDonald's,McDonald's,Illinois,41.750598,-88.016958,,,
+node,13461193141,McDonald's,McDonald's,Illinois,38.8900464,-89.8347825,Hamel,State Route 140,62046
+node,13690181833,McDonald's,McDonald's,Illinois,40.0479901,-88.2531526,Savoy,South Dunlap Avenue,61874
+node,13757065855,Five Guys,Five Guys,Illinois,41.4709566,-90.4805632,,,
+node,14189987442,Culver's,Culver's,Illinois,40.1842518,-88.3671537,Mahomet,Patton Dr,61853
+node,14351031559,Shake Shack,Shake Shack,Illinois,41.9304071,-87.6857965,Chicago,West Logan Boulevard,60647
+way,24860625,McDonald's,McDonald's,Illinois,42.01247293684211,-87.76220957894736,Skokie,West Touhy Avenue,60077
+way,28032904,McDonald's,McDonald's,Illinois,42.152665581818184,-87.95057143636365,Wheeling,Lake Cook Road,60090
+way,32355862,Steak 'n Shake,Steak 'n Shake,Illinois,42.38530736,-87.95342993999999,Gurnee,Gurnee Mills Circle East,60031
+way,33191971,Steak 'n Shake,Steak 'n Shake,Illinois,42.026768100000005,-87.7067804,Evanston,Oakton Street,60202
+way,39672462,Culver's,Culver's,Illinois,42.007894840000006,-87.8857199,Rosemont,Mannheim Road,60018
+way,40782742,McDonald's,McDonald's,Illinois,41.93356564285715,-87.6689318238095,Chicago,North Ashland Avenue,60657
+way,41229497,McDonald's,McDonald's,Illinois,41.92474836875,-87.67191933750001,Chicago,West Fullerton Avenue,60614
+way,42278937,McDonald's,McDonald's,Illinois,42.02342534,-87.89703214,Des Plaines,East Oakton Street,60018
+way,42376644,McDonald's,McDonald's,Illinois,41.49503246153846,-88.16789759999999,Joliet,Riverboat Center Boulevard,60431
+way,44526058,Culver's,Culver's,Illinois,41.642507676923074,-88.1227126076923,Romeoville,North Weber Road,60446
+way,45367118,McDonald's,McDonald's,Illinois,41.56257648,-88.16081503999999,Joliet,Essington Road,60435
+way,47465875,Culver's,Culver's,Illinois,41.637692676470586,-88.20234044705882,Plainfield,Illinois Route 59,60585
+way,48024536,McDonald's,McDonald's,Illinois,42.00386484444444,-88.0045998111111,Elk Grove Village,Biesterfield Road,60007
+way,49805298,McDonald's,McDonald's,Illinois,41.45540518,-88.27066792000001,,,
+way,50278855,McDonald's,McDonald's,Illinois,41.69585798,-88.32174402,Oswego,Route 34,60543
+way,54223036,McDonald's,McDonald's,Illinois,42.047118080000004,-87.9377307,Des Plaines,West Golf Road,60016
+way,60693542,McDonald's,McDonald's,Illinois,41.847555185714285,-87.97185152857142,Oak Brook,Midwest Road,60523
+way,62256402,McDonald's,McDonald's,Illinois,42.38601495,-87.95959819,Gurnee,Grand Avenue,60031
+way,63526461,McDonald's,McDonald's,Illinois,40.770472500000004,-89.65627802857144,Peoria,West Baring Trace,61615
+way,63809399,McDonald's,McDonald's,Illinois,40.73149618,-89.6119349,Peoria,North University Street,61604
+way,64114711,McDonald's,McDonald's,Illinois,40.78195768,-89.62072609999998,Peoria,North University Street,61614
+way,64336907,McDonald's,McDonald's,Illinois,40.732702864705885,-89.57456888235295,Peoria Heights,North Prospect,61616-7742
+way,64362790,McDonald's,McDonald's,Illinois,40.74418428888888,-89.63021123333333,Peoria,West War Memorial Drive,61614
+way,65817881,McDonald's,McDonald's,Illinois,40.695619447058824,-89.62326687058827,West Peoria,North Western Avenue,61604
+way,65924507,McDonald's,McDonald's,Illinois,40.653260980000006,-89.64787698,Bartonville,South Washington Street,61607
+way,65924810,McDonald's,McDonald's,Illinois,40.64557315454545,-89.67386883636362,Bartonville,West Garfield,61607-1748
+way,66419087,McDonald's,McDonald's,Illinois,42.30514363076923,-87.98090738461539,Libertyville,West Peterson,60048
+way,68668400,McDonald's,McDonald's,Illinois,41.74968212222222,-88.1157309,Naperville,Naper Boulevard,60540
+way,70377860,McDonald's,McDonald's,Illinois,42.26729695,-89.0800941,Rockford,East State Street,61104
+way,72161089,Culver's,Culver's,Illinois,41.80562033846154,-88.04638816153846,Downers Grove,Ogden Avenue,60515
+way,86334624,McDonald's,McDonald's,Illinois,41.92678527647059,-87.88383035882352,Franklin Park,North Mannheim Road,60131
+way,91202967,Steak 'n Shake,Steak 'n Shake,Illinois,40.779765839999996,-89.67637074,Peoria,North Grand Prairie Drive,61615
+way,93478703,McDonald's,McDonald's,Illinois,41.16039607777778,-87.85034494444443,Bradley,North Kinzie Avenue,60915-1237
+way,93594851,Steak 'n Shake,Steak 'n Shake,Illinois,41.16312428888889,-87.84957581111112,Bourbonnais,Locke Drive,60914
+way,94669102,McDonald's,McDonald's,Illinois,42.051028020000004,-87.97828088,Arlington Heights,East Golf Road,60005
+way,95982595,McDonald's,McDonald's,Illinois,41.55177033076923,-88.08836457692308,Joliet,North Broadway,60435-2616
+way,96767859,McDonald's,McDonald's,Illinois,41.55430168,-88.12408427999999,Crest Hill,Plainfield Road,60435
+way,102630292,Culver's,Culver's,Illinois,40.680520676923074,-89.5882362923077,East Peoria,West Camp Street,61611
+way,102923615,Culver's,Culver's,Illinois,42.0040939,-88.12442050000001,Schaumburg,Wise Road,60193
+way,102923619,Culver's,Culver's,Illinois,42.279000700000005,-89.24245970000001,Winnebago,Cannell Puri Druve,61088
+way,102923626,Culver's,Culver's,Illinois,41.38227567692308,-88.4214507,Morris,North Division Street,60450
+way,102923636,Culver's,Culver's,Illinois,42.142753119999995,-88.02459034,Palatine,North Rand Road,60074
+way,102923649,Culver's,Culver's,Illinois,41.75440366,-87.95961288000001,Darien,Plainfield Road,60561
+way,102923652,Culver's,Culver's,Illinois,39.12122398,-88.5628618,Effingham,West Fayette Avenue,62401
+way,102923662,Culver's,Culver's,Illinois,40.486493800000005,-88.94269790000001,Bloomington,Hershey Road,61704
+way,102923670,Culver's,Culver's,Illinois,41.93172098461538,-89.03497545384616,Rochelle,South Dement Road,61068
+way,102923674,Culver's,Culver's,Illinois,42.121903079999996,-88.33715674000001,Carpentersville,Miller Road,60110
+way,102923682,Culver's,Culver's,Illinois,42.40193838,-89.01034372000001,Roscoe,North 2nd Street,61073
+way,102923686,McDonald's,McDonald's,Illinois,42.318260880000004,-88.98038856000001,Rockford,East Riverside Boulevard,61114
+way,102923693,Culver's,Culver's,Illinois,42.28141628,-87.93951804000001,Libertyville,East Park Avenue,60048
+way,102923701,McDonald's,McDonald's,Illinois,41.93259217999999,-89.03489834,,,
+way,102923713,Culver's,Culver's,Illinois,42.36598416,-88.0418138,Grayslake,N HWY 83,60030
+way,102923731,Culver's,Culver's,Illinois,40.15843784,-89.40251231999999,Lincoln,Woodlawn Road,62656
+way,102923750,Culver's,Culver's,Illinois,41.47258916,-90.47733442,Moline,38th Avenue,61265
+way,102923761,Culver's,Culver's,Illinois,41.86112900769231,-89.49874796923076,Dixon,North Galena Avenue,61021
+way,102923766,Culver's,Culver's,Illinois,38.688879146153845,-90.0096967153846,Collinsville,United Drive,62234
+way,102923769,Culver's,Culver's,Illinois,41.861301614285715,-88.0169916,Lombard,South Main Street,60148
+way,102923782,Culver's,Culver's,Illinois,41.55919325384615,-87.78878560769232,Tinley Park,Sayre Avenue,60477
+way,102923788,Culver's,Culver's,Illinois,42.436192033333334,-90.45043655,Galena,Oldenburg Lane,61036
+way,102923797,Culver's,Culver's,Illinois,42.27144092222222,-88.19635111111113,Island Lake,East State Road,60042
+way,102923816,Culver's,Culver's,Illinois,39.87630622,-88.95449593999999,Decatur,North Water Street,62526
+way,102923818,Culver's,Culver's,Illinois,41.944406300000004,-88.02151094000001,Addison,West Lake Street,60101
+way,102923819,Culver's,Culver's,Illinois,41.7240815,-87.79820742,Bridgeview,Harlem Avenue,60455
+way,102923835,Culver's,Culver's,Illinois,42.29075587999999,-88.4163117,Woodstock,West Lake Shore Drive,60098
+way,102923836,Culver's,Culver's,Illinois,42.0364814,-87.9586816,Mount Prospect,West Dempster Street,60056
+way,102923849,Culver's,Culver's,Illinois,40.08547148571429,-88.24611347142857,Champaign,South Neil Street,61820
+way,102923850,Culver's,Culver's,Illinois,42.43375058,-87.82513982,Zion,Sheridan Road,60099
+way,102923880,Culver's,Culver's,Illinois,42.31809514,-88.98512550000001,Rockford,East Riverside Boulevard,61114
+way,102923896,Culver's,Culver's,Illinois,40.48444391538462,-89.02111757692309,Bloomington,West Market Street,61701
+way,102923909,Culver's,Culver's,Illinois,42.23785754000001,-89.00735058000001,Rockford,Wansford Way,61109-7504
+way,102923930,Culver's,Culver's,Illinois,41.51716861999999,-87.85059708,Frankfort,South LaGrange Road,60423
+way,102923944,Culver's,Culver's,Illinois,40.137786628571426,-88.25970481428571,Champaign,West Marketview Drive,61822
+way,102923948,Culver's,Culver's,Illinois,42.20736901538463,-88.11246170000001,Lake Zurich,North Rand Road,60047
+way,102923983,Culver's,Culver's,Illinois,41.39493182,-89.46428446,Princeton,Ace Road,61356
+way,102923993,Culver's,Culver's,Illinois,41.98149542,-88.70444952,Sycamore,Dekalb Avenue,60178
+way,102924028,Culver's,Culver's,Illinois,41.3471972,-89.12421872307694,Peru,Midtown Road,61342
+way,102924032,Culver's,Culver's,Illinois,40.62905426,-89.46382654000001,Morton,East Courtland Street,61550
+way,102924048,Culver's,Culver's,Illinois,42.381103,-87.94097956363636,Gurnee,Nations Drive,60031
+way,102924055,Culver's,Culver's,Illinois,41.92869386,-87.86440574,Franklin Park,Rose Street,60131
+way,102924084,Culver's,Culver's,Illinois,42.16123716,-87.9622727,Buffalo Grove,McHenry Road,60089
+way,102924108,Culver's,Culver's,Illinois,38.59306716,-89.9574963,O'Fallon,West US-50,62269
+way,102924128,Culver's,Culver's,Illinois,42.280685059999996,-89.63452457999999,Freeport,South Dirck Drive,61032
+way,102924148,Culver's,Culver's,Illinois,38.78081555384615,-89.94802159230768,Edwardsville,Goshen Road,62025
+way,102924159,Culver's,Culver's,Illinois,42.34306,-88.24974420769232,McHenry,Adams Drive,60051
+way,102924175,Culver's,Culver's,Illinois,41.89630369230769,-88.10293240769231,Carol Stream,Schmale Road,60188
+way,102924182,Culver's,Culver's,Illinois,42.27242056,-88.85806778,Belvidere,Big Thunder Boulevard,61008
+way,102924261,Culver's,Culver's,Illinois,42.31782066,-89.07888626,Rockford,Benington Road,61103
+way,102924298,Culver's,Culver's,Illinois,41.762981079999996,-89.68902516,Rock Falls,Harley Davidson Drive,61071
+way,105742913,Steak 'n Shake,Steak 'n Shake,Illinois,38.5918379,-89.93943119999999,O'Fallon,Regency Park Drive,62269
+way,105742917,McDonald's,McDonald's,Illinois,38.5930433,-89.95526676,O'Fallon,West Highway 50,62269
+way,110460828,McDonald's,McDonald's,Illinois,42.07862884444444,-88.01932031111113,Rolling Meadows,Kirchoff Road,60008
+way,110750361,McDonald's,McDonald's,Illinois,42.09486558888889,-88.00604237777777,Palatine,East Northwest Highway,60074
+way,111559646,McDonald's,McDonald's,Illinois,41.8869713,-88.28243558461538,Geneva,East State Street,60134-2439
+way,113818991,Steak 'n Shake,Steak 'n Shake,Illinois,39.48529852,-88.32642272,Mattoon,Broadway Avenue East,61938
+way,114689758,McDonald's,McDonald's,Illinois,41.998443579999986,-87.88403139333332,Des Plaines,Mannheim Road,60018
+way,114823367,McDonald's,McDonald's,Illinois,41.990446479999996,-87.86046409000001,Rosemont,North River Road,60018
+way,117739210,McDonald's,McDonald's,Illinois,41.50583834444444,-87.67623351111112,Olympia Fields,Lincoln Highway,60461
+way,117744391,McDonald's,McDonald's,Illinois,41.50666783333333,-87.71467575555556,Matteson,Lincoln Highway,60443
+way,117993542,McDonald's,McDonald's,Illinois,41.88825416666666,-87.83350825555554,Maywood,North 1st Avenue,60153
+way,118993147,Culver's,Culver's,Illinois,40.77507091333334,-89.67245218666667,Peoria,West Holiday Drive,61615
+way,128553226,McDonald's,McDonald's,Illinois,40.2945506,-90.05680492,,,
+way,129223465,McDonald's,McDonald's,Illinois,40.147612328571434,-88.97582234285714,,,
+way,134608761,McDonald's,McDonald's,Illinois,41.3241541,-87.815453,Peotone,Oriole Drive,60468
+way,134935397,McDonald's,McDonald's,Illinois,39.48358260000001,-88.33686827142856,Mattoon,Dettro Drive,61938
+way,137436240,McDonald's,McDonald's,Illinois,41.91577759230769,-88.20674283846152,West Chicago,West North Avenue,60185
+way,142439026,McDonald's,McDonald's,Illinois,41.57756634,-88.15811988,Joliet,Plainfield Road,60431
+way,142439035,Steak 'n Shake,Steak 'n Shake,Illinois,41.5756078,-88.15532402,Joliet,Plainfield Road,60435
+way,143105825,Steak 'n Shake,Steak 'n Shake,Illinois,42.0874568,-87.93375885999998,Mount Prospect,East Euclid Avenue,60056
+way,144052892,Steak 'n Shake,Steak 'n Shake,Illinois,42.00556848,-88.04538446000001,Elk Grove Village,North Meacham Road,60007
+way,144059134,McDonald's,McDonald's,Illinois,41.45435368571428,-88.19739560000001,Channahon,West Eames,60410
+way,146574145,McDonald's,McDonald's,Illinois,42.13861586,-87.98151959999998,Arlington Heights,East Dundee Road,60004-1539
+way,147105305,McDonald's,McDonald's,Illinois,41.8008642,-87.58809416,Chicago,South Lake Park Avenue,60615
+way,151184012,McDonald's,McDonald's,Illinois,41.96049533846153,-87.78752184615384,Harwood Heights,West Montrose Avenue,60706
+way,151678651,Steak 'n Shake,Steak 'n Shake,Illinois,39.72355854,-90.2708476,Jacksonville,West Morton Avenue,62650
+way,158305681,McDonald's,McDonald's,Illinois,42.377881188888885,-87.93966492222222,Gurnee,Grand Avenue,60031-4900
+way,158384857,Culver's,Culver's,Illinois,42.34421245555555,-87.89573302222223,Waukegan,Waukegan Road,60085
+way,159142375,McDonald's,McDonald's,Illinois,41.89693281666666,-87.62775436666665,Chicago,East Chicago Avenue,60611
+way,160077296,Culver's,Culver's,Illinois,40.54273883076923,-89.59858686153846,Pekin,Court Street,61554
+way,160835829,McDonald's,McDonald's,Illinois,41.11253926,-88.41236008,Dwight,East Northbrook Drive,60420
+way,162166162,McDonald's,McDonald's,Illinois,41.8073225,-87.74353577142857,Chicago,South Cicero Avenue,60638
+way,162230011,McDonald's,McDonald's,Illinois,41.77579307058823,-87.74264337647058,Chicago,South Cicero Avenue,60638
+way,162297593,McDonald's,McDonald's,Illinois,41.84433084285714,-87.73232174285715,Chicago,West 26th Street,60623
+way,162390312,McDonald's,McDonald's,Illinois,41.922881839999995,-87.74594342,Chicago,North Cicero Avenue,60639
+way,162391327,McDonald's,McDonald's,Illinois,41.910100037499994,-87.73559824999998,Chicago,West North Avenue,60639
+way,162436517,McDonald's,McDonald's,Illinois,41.939296253333325,-87.72834306,Chicago,West Belmont Avenue,60641
+way,162439470,McDonald's,McDonald's,Illinois,41.93131047142857,-87.74223737142857,Chicago,West Diversey Avenue,60639
+way,162448218,McDonald's,McDonald's,Illinois,41.94584186,-87.74744066000001,Chicago,North Cicero Avenue,60641
+way,162513140,McDonald's,McDonald's,Illinois,41.86589676,-87.76536856,Chicago,West Roosevelt Road,60644
+way,162523972,McDonald's,McDonald's,Illinois,41.89460604,-87.75537138,Chicago,West Chicago Avenue,60651
+way,162551705,McDonald's,McDonald's,Illinois,41.9236199631579,-87.76640202631579,Chicago,North Central Avenue,60639
+way,162552578,McDonald's,McDonald's,Illinois,41.90921603999999,-87.75515041200002,Chicago,West North Avenue,60639
+way,162642593,Culver's,Culver's,Illinois,41.95304386,-87.75158854,Chicago,West Irving Park Road,60641
+way,162702448,McDonald's,McDonald's,Illinois,41.95932837777778,-87.74793842222223,Chicago,North Cicero Avenue,60641
+way,162856163,McDonald's,McDonald's,Illinois,41.792375883333335,-87.78990201666666,Chicago,West Archer Avenue,60638
+way,163084412,McDonald's,McDonald's,Illinois,41.930606383333334,-87.78623594166665,Chicago,North Narragansett Avenue,60639
+way,163164666,McDonald's,McDonald's,Illinois,41.953437669230766,-87.76908147692308,Chicago,West Irving Park Road,60634
+way,163237807,McDonald's,McDonald's,Illinois,41.99323724,-87.7835146,Chicago,North Milwaukee Avenue,60646
+way,163296105,McDonald's,McDonald's,Illinois,41.94439933076922,-87.8072607,Chicago,North Harlem Avenue,60634
+way,163522913,McDonald's,McDonald's,Illinois,41.740092340000004,-87.7213373,Chicago,South Pulaski Road,60652
+way,163572437,McDonald's,McDonald's,Illinois,41.77022804285714,-87.72229705714287,Chicago,South Pulaski Road,60629
+way,163670169,McDonald's,McDonald's,Illinois,41.79711410000001,-87.72267276666666,Chicago,South Pulaski Road,60632
+way,163775050,McDonald's,McDonald's,Illinois,41.86675245294117,-87.70619835882353,Chicago,West Roosevelt Road,60624
+way,163885043,McDonald's,McDonald's,Illinois,41.909801349999995,-87.70820077500001,Chicago,West North Avenue,60647
+way,163893062,McDonald's,McDonald's,Illinois,41.93043494,-87.70923575999998,Chicago,North Milwaukee Avenue,60647
+way,163906777,McDonald's,McDonald's,Illinois,41.95352751818182,-87.71825531818182,Chicago,West Irving Park Road,60618
+way,163949267,McDonald's,McDonald's,Illinois,41.96411762499999,-87.70865145,Chicago,North Kedzie Avenue,60625
+way,164018993,McDonald's,McDonald's,Illinois,41.97605169333334,-87.70824397999999,Chicago,West Foster Avenue,60625
+way,164021884,McDonald's,McDonald's,Illinois,41.99008409444445,-87.71052993333332,Chicago,West Peterson Avenue,60659
+way,165040498,McDonald's,McDonald's,Illinois,42.012047466666665,-87.70813658333333,Chicago,West Touhy Avenue,60645
+way,165052678,McDonald's,McDonald's,Illinois,41.705526813043484,-87.70161928695653,Chicago,South Kedzie Avenue,60655
+way,165132177,McDonald's,McDonald's,Illinois,41.78859242857142,-87.70314984285713,Chicago,South Kedzie Avenue,60629
+way,165243103,McDonald's,McDonald's,Illinois,41.852375930769234,-87.68746755384612,Chicago,West Cermak Road,60608
+way,165243732,McDonald's,McDonald's,Illinois,41.84407118,-87.70476368,Chicago,South Kedzie Avenue,60623
+way,165657597,McDonald's,McDonald's,Illinois,39.43318994444444,-88.37760896666668,,,
+way,166402041,McDonald's,McDonald's,Illinois,42.04531047142857,-87.88542692857142,Des Plaines,South Des Plaines River Road,60016
+way,168822578,McDonald's,McDonald's,Illinois,42.21734297777778,-88.25588336666667,Cary,Northwest Highway,60013
+way,175366456,McDonald's,McDonald's,Illinois,41.92190026666666,-88.26184014444443,Saint Charles,East Main Street,60174
+way,180891282,Culver's,Culver's,Illinois,41.81587465714286,-87.82641847142857,Lyons,Ogden Avenue,60534
+way,180905171,McDonald's,McDonald's,Illinois,41.8501162,-87.80313826,Berwyn,West Cermak Road,60402
+way,182241427,McDonald's,McDonald's,Illinois,37.8968753,-88.95147472,,,
+way,185721059,McDonald's,McDonald's,Illinois,41.85044865333334,-87.85171972666664,Broadview,Broadview Village Square,60155
+way,186577814,McDonald's,McDonald's,Illinois,41.833983869230764,-87.89786394615386,Westchester,West 31st Street,60154
+way,188241507,McDonald's,McDonald's,Illinois,39.935657979999995,-91.36438702000001,Quincy,Broadway Street,62301-3711
+way,188698939,Culver's,Culver's,Illinois,41.51272658571428,-87.95589477142858,New Lenox,East Lincoln Highway,60451
+way,190544253,McDonald's,McDonald's,Illinois,40.18545782857143,-88.3683133,Mahomet,Purnell Drive,61853
+way,190650327,McDonald's,McDonald's,Illinois,38.90126166666667,-90.05755366666666,Bethalto,Airport Plaza,62010
+way,190678396,Steak 'n Shake,Steak 'n Shake,Illinois,41.75567746,-88.21057110000001,,,60504
+way,190678986,McDonald's,McDonald's,Illinois,41.75946847777778,-88.20681962222221,Aurora,Fox Valley Center,60507
+way,190785746,McDonald's,McDonald's,Illinois,38.53210516,-89.15891924,,,
+way,191626749,McDonald's,McDonald's,Illinois,39.48401255714286,-88.18220575714285,Charleston,West Lincoln Avenue,61920
+way,191792310,McDonald's,McDonald's,Illinois,38.44692547272727,-90.21851970909091,Columbia,Columbia Center,62236-9803
+way,192787264,McDonald's,McDonald's,Illinois,42.37998439,-88.0648255,Round Lake Beach,East Rollins Road,60073
+way,193230966,McDonald's,McDonald's,Illinois,42.4071107,-88.02777535333331,Lindenhurst,East Grand,60046-7522
+way,194728228,Culver's,Culver's,Illinois,42.0411361,-87.80979288571429,Morton Grove,West Dempster Street,60053
+way,194928102,McDonald's,McDonald's,Illinois,41.84210504,-88.01090015999998,Lombard,Yorktown Shopping Center,60148
+way,195441760,McDonald's,McDonald's,Illinois,42.05908255555555,-87.84183524444444,Glenview,Milwaukee Avenue,60016
+way,195443113,McDonald's,McDonald's,Illinois,41.82983222,-88.05507912,Glen Ellyn,Route 53,60137
+way,195695230,McDonald's,McDonald's,Illinois,37.7293829,-88.5366077,,,
+way,195837730,McDonald's,McDonald's,Illinois,42.319084090909094,-87.86544618181816,North Chicago,Green Bay Road,60064
+way,196185499,McDonald's,McDonald's,Illinois,39.79121972,-88.27232304,Tuscola,County Road 950 North,61953
+way,198548504,McDonald's,McDonald's,Illinois,41.86083114,-88.00957973999999,Lombard,East Roosevelt Road,60148
+way,200043734,McDonald's,McDonald's,Illinois,38.88281242,-90.12069781999999,East Alton,Niagara Avenue,62024
+way,200053729,McDonald's,McDonald's,Illinois,38.91618011111111,-90.15149194444444,Alton,Homer M Adams Parkway,62002
+way,200457891,McDonald's,McDonald's,Illinois,39.72362761111112,-90.23740303333332,,,62650
+way,200665159,McDonald's,McDonald's,Illinois,41.7470676153846,-88.16377409999998,Naperville,75th Street,60565
+way,201716241,McDonald's,McDonald's,Illinois,42.317505620000006,-89.05837976,Rockford,North 2nd Street,61111
+way,206476685,McDonald's,McDonald's,Illinois,42.04109590909092,-87.74869120909092,Skokie,West Dempster Street,60077
+way,207404304,McDonald's,McDonald's,Illinois,41.9624674,-87.83716072,Chicago,North Cumberland Avenue,60656
+way,207636110,McDonald's,McDonald's,Illinois,39.178513699999996,-89.66898631999999,,,
+way,209381179,McDonald's,McDonald's,Illinois,41.88191037777778,-87.68607483333334,Chicago,North Western Avenue,60612
+way,209403717,McDonald's,McDonald's,Illinois,41.91717189999999,-87.68698001333333,Chicago,North Western Avenue,60647
+way,209464564,McDonald's,McDonald's,Illinois,41.947039188888894,-87.69366593333332,Chicago,West Addison Street,60618
+way,209478443,McDonald's,McDonald's,Illinois,41.96993941428571,-87.68967255714286,Chicago,North Lincoln Avenue,60625
+way,209592075,McDonald's,McDonald's,Illinois,42.00716274,-87.69045252000001,Chicago,North Western Avenue,60645
+way,209617050,McDonald's,McDonald's,Illinois,41.72072522222223,-87.66444527777779,Chicago,West 95th Street,60643
+way,209637835,McDonald's,McDonald's,Illinois,41.75127738333333,-87.6833745,Chicago,South Western Avenue,60620
+way,209653963,McDonald's,McDonald's,Illinois,41.775296780000005,-87.68322874,Chicago,South Western Avenue,60636
+way,209675238,McDonald's,McDonald's,Illinois,41.77798626,-87.66455674,Chicago,South Ashland Avenue,60636
+way,209840860,McDonald's,McDonald's,Illinois,41.89554815384615,-87.67751502307691,Chicago,West Chicago Avenue,60622
+way,209946888,McDonald's,McDonald's,Illinois,41.983911533333334,-87.66928448888888,Chicago,North Clark Street,60660
+way,209952962,McDonald's,McDonald's,Illinois,41.99753874347826,-87.67620320000002,Chicago,West Devon Avenue,60660
+way,209953767,McDonald's,McDonald's,Illinois,42.004806,-87.67313628000001,Chicago,North Clark Street,60626
+way,210050030,McDonald's,McDonald's,Illinois,41.72010342666666,-87.64364160666668,Chicago,South Halsted Street,60628
+way,210090136,McDonald's,McDonald's,Illinois,41.74249380769231,-87.66278717692308,Chicago,South Ashland Avenue,60620
+way,210164476,McDonald's,McDonald's,Illinois,41.80907415294118,-87.6623271352941,Chicago,West 47th Street,60609
+way,210258348,McDonald's,McDonald's,Illinois,41.858453000000004,-87.66101000909093,Chicago,South Blue Island Avenue,60608
+way,210321882,McDonald's,McDonald's,Illinois,41.930729785714284,-87.64342148571428,Chicago,North Clark Street,60614
+way,210382113,McDonald's,McDonald's,Illinois,41.965704943750005,-87.65521939999998,Chicago,West Wilson Avenue,60640
+way,210391118,McDonald's,McDonald's,Illinois,41.97613505625,-87.65529829375001,Chicago,North Sheridan Road,60640
+way,210395753,McDonald's,McDonald's,Illinois,41.99559068571428,-87.6598992285714,Chicago,North Broadway,60660
+way,210414865,McDonald's,McDonald's,Illinois,41.68661270588236,-87.64189038823528,Chicago,South Halsted Street,60628
+way,210490651,McDonald's,McDonald's,Illinois,41.736055717647055,-87.62291876470589,Chicago,East 87th Street,60619
+way,210501622,McDonald's,McDonald's,Illinois,41.75518604545455,-87.63220139090909,Chicago,South Vincennes Avenue,60620
+way,210515371,McDonald's,McDonald's,Illinois,41.768506964705885,-87.62706471764706,Chicago,South Lafayette Avenue,60621
+way,210525123,McDonald's,McDonald's,Illinois,41.79501326153847,-87.62304116923075,Chicago,East Garfield Boulevard,60615
+way,210533175,McDonald's,McDonald's,Illinois,41.83083769166667,-87.621065825,Chicago,East 35th Street,60616
+way,210695176,McDonald's,McDonald's,Illinois,41.68568536666666,-87.60771868666666,Chicago,East 115th Street,60628
+way,210858660,McDonald's,McDonald's,Illinois,41.75093551249999,-87.61554620000001,Chicago,South Doctor Martin Luther King Junior Drive,60619
+way,210915742,McDonald's,McDonald's,Illinois,41.80979968,-87.60715468666666,Chicago,East 47th Street,60653
+way,210965685,McDonald's,McDonald's,Illinois,41.8470810875,-87.61676080000001,Chicago,South Doctor Martin Luther King Junior Drive,60616
+way,211068640,McDonald's,McDonald's,Illinois,41.73654683333334,-87.58888095000002,Chicago,East 87th Street,60619
+way,211213295,McDonald's,McDonald's,Illinois,41.77536403529411,-87.58691507647059,Chicago,South Stony Island Avenue,60637
+way,211276753,McDonald's,McDonald's,Illinois,41.72208973684211,-87.57574035789474,Chicago,East 95th Street,60617
+way,211303567,McDonald's,McDonald's,Illinois,41.751324730769234,-87.56534044615385,Chicago,East 79th Street,60649
+way,211362327,McDonald's,McDonald's,Illinois,41.72772071538462,-87.5508335153846,Chicago,South Commercial Avenue,60617
+way,211390375,McDonald's,McDonald's,Illinois,41.70237962666666,-87.52499896666664,Chicago,East 106th Street,60617
+way,214442973,Steak 'n Shake,Steak 'n Shake,Illinois,39.13842047272727,-88.56631784545453,Effingham,North Keller Drive,62401
+way,214442976,McDonald's,McDonald's,Illinois,39.13982172,-88.5658026,Effingham,North Keller Drive,62401
+way,214843973,McDonald's,McDonald's,Illinois,42.37786529333333,-87.90402155333335,Gurnee,North Delany Road,60031
+way,217587176,McDonald's,McDonald's,Illinois,40.75211678000001,-88.00080369999999,,,
+way,218163593,McDonald's,McDonald's,Illinois,41.81790914285715,-87.6657904142857,Chicago,South Ashland Avenue,60609
+way,218812800,Steak 'n Shake,Steak 'n Shake,Illinois,40.140435479999994,-88.25735698,Champaign,North Prospect Avenue,61822
+way,220089987,McDonald's,McDonald's,Illinois,41.89290328,-87.63153498,Chicago,North Clark Street,60654
+way,220411033,McDonald's,McDonald's,Illinois,42.0413754,-87.70016091111111,Evanston,Dempster Street,60201
+way,223782524,Steak 'n Shake,Steak 'n Shake,Illinois,42.058518799999995,-88.14403166666666,Hoffman Estates,South Barrington Road,60169
+way,224607539,McDonald's,McDonald's,Illinois,41.70433705882354,-88.12671378235295,Bolingbrook,North Weber Road,60440
+way,225179798,McDonald's,McDonald's,Illinois,41.8635813,-87.88350813333335,Hillside,Roosevelt Road,60162
+way,225522939,McDonald's,McDonald's,Illinois,41.83085809230769,-88.20177399999997,Warrenville,Route 59,60555
+way,229330506,McDonald's,McDonald's,Illinois,41.523138288235295,-88.11950695882354,Joliet,West Jefferson Street,60435
+way,231145917,Culver's,Culver's,Illinois,42.06852475555556,-88.04283635555555,Schaumburg,East Algonquin Road,60173
+way,233325503,McDonald's,McDonald's,Illinois,41.71999776,-87.77188378000001,Oak Lawn,West 95th Street,60453
+way,233378324,McDonald's,McDonald's,Illinois,39.91922342857142,-88.95470088571427,Forsyth,Lucile Avenue,62535
+way,233378327,Steak 'n Shake,Steak 'n Shake,Illinois,39.922052099999995,-88.95486000000001,Forsyth,South Main,62535
+way,233699548,McDonald's,McDonald's,Illinois,41.823423822222225,-87.68865203333331,Chicago,South Archer Avenue,60632
+way,234049446,McDonald's,McDonald's,Illinois,42.0405332,-87.78395431999999,Morton Grove,West Dempster Street,60053
+way,236381953,Steak 'n Shake,Steak 'n Shake,Illinois,40.62465582,-89.46181367999999,Morton,East Ashland Street,61550
+way,236882337,McDonald's,McDonald's,Illinois,41.69037088571429,-87.81003524285713,Palos Hills,Southwest Highway,60465
+way,237429072,McDonald's,McDonald's,Illinois,38.74988009333333,-90.07168109333334,Pontoon Beach,Engineer Road,62040
+way,238298068,McDonald's,McDonald's,Illinois,40.61714425,-89.46476955714286,Morton,North Morton Avenue,61550
+way,238849932,McDonald's,McDonald's,Illinois,42.04941307142857,-88.05568905714286,Schaumburg,East Golf Road,60173
+way,239137919,McDonald's,McDonald's,Illinois,38.7007938,-90.14550002222224,Granite City,Madison Avenue,62040-4618
+way,239508793,McDonald's,McDonald's,Illinois,42.025800653333334,-87.81322726666667,Niles,North Milwaukee Avenue,60714
+way,242117495,McDonald's,McDonald's,Illinois,42.19446216,-88.21093742000001,Fox River Grove,Northwest Highway,60021
+way,243241778,Culver's,Culver's,Illinois,41.92200716,-88.2553389,St. Charles,East Main Street,60185
+way,243466793,McDonald's,McDonald's,Illinois,41.59690588000001,-88.0218409,Lockport,West 159th Street,60441
+way,244853889,McDonald's,McDonald's,Illinois,40.137487039999996,-88.24314213999999,Champaign,North Neil Street,61820-7817
+way,244986780,Steak 'n Shake,Steak 'n Shake,Illinois,42.36607678,-89.0241381,Machesney Park,West Lane Road,61115
+way,245021613,McDonald's,McDonald's,Illinois,42.01748874000001,-88.08041079333334,Schaumburg,South Roselle Road,60193
+way,245920172,Culver's,Culver's,Illinois,41.51240606,-87.73326669999999,Matteson,Cicero Avenue,60443
+way,247513534,McDonald's,McDonald's,Illinois,42.31625938,-89.03346661333333,Rockford,Northridge Drive,61114
+way,247536494,Culver's,Culver's,Illinois,41.54877636,-88.1989835,Joliet,Illinois Route 59,60431
+way,247558015,McDonald's,McDonald's,Illinois,40.70415988888889,-89.4295776111111,Washington,Washington Road,61571
+way,248676524,McDonald's,McDonald's,Illinois,42.366231381818174,-89.0325637,Machesney Park,North 2nd Street,61115
+way,250880749,McDonald's,McDonald's,Illinois,40.097935942857134,-88.29392713571427,Champaign,West Kirby Avenue,61821
+way,252550189,McDonald's,McDonald's,Illinois,42.31535006,-89.07506276000001,Rockford,West Riverside Boulevard,61103
+way,252823331,McDonald's,McDonald's,Illinois,42.021821330769235,-87.95725089999998,Elk Grove Village,East Higgins Road,60007
+way,253600635,McDonald's,McDonald's,Illinois,37.699305820000006,-89.21966319999999,Carbondale,S Illinois Avenue,62901
+way,254004770,Steak 'n Shake,Steak 'n Shake,Illinois,41.80867157777777,-88.02274236666668,Downers Grove,East Ogden Avenue,60515
+way,254959770,McDonald's,McDonald's,Illinois,41.88575376,-87.66204308000002,Chicago,West Lake Street,60607
+way,255566261,McDonald's,McDonald's,Illinois,41.93148337142857,-88.76812200000002,DeKalb,West Lincoln Highway,60115
+way,255606628,McDonald's,McDonald's,Illinois,41.92913338333333,-88.74759833333333,Dekalb,East Lincoln Highway,60115
+way,255682086,Culver's,Culver's,Illinois,41.930347514285714,-88.77737549999998,DeKalb,West Lincoln Highway,60115
+way,255941295,McDonald's,McDonald's,Illinois,40.1334936625,-88.25960021249999,Champaign,West Bloomington Road,61821
+way,257009737,McDonald's,McDonald's,Illinois,41.19902151111111,-90.73327541111111,Aledo,Southeast 3rd Street,61231
+way,257476928,McDonald's,McDonald's,Illinois,42.26902554,-88.85345846,Belvidere,North State Street,61008
+way,257854038,McDonald's,McDonald's,Illinois,41.80857883333333,-88.0255517,Downers Grove,East Ogden Avenue,60515
+way,258025978,McDonald's,McDonald's,Illinois,41.93952741428571,-88.14987152857144,Carol Stream,County Farm Road,60188
+way,258572192,McDonald's,McDonald's,Illinois,41.78141451333334,-88.17872682666668,Naperville,North River Road,60563
+way,259860603,McDonald's,McDonald's,Illinois,40.11822381428571,-88.20447681428571,Urbana,North Cunningham Avenue,61801-1721
+way,259990008,McDonald's,McDonald's,Illinois,41.9744649,-88.7158077,Sycamore,Dekalb Avenue,60178-2706
+way,261183142,McDonald's,McDonald's,Illinois,37.7355174,-89.18733545714288,Carbondale,East Main Street,62901
+way,262073469,Culver's,Culver's,Illinois,42.26739098,-89.00535572,Rockford,North Phelps Avenue,61108
+way,262241366,Steak 'n Shake,Steak 'n Shake,Illinois,42.2699599,-88.96904737999999,Rockford,East State Street,61108
+way,262265660,McDonald's,McDonald's,Illinois,42.267557020000005,-88.97929998,Rockford,South Perryville Road,61108
+way,262553117,McDonald's,McDonald's,Illinois,42.263103799999996,-89.02553278000002,Rockford,East State Street,61108
+way,264252203,McDonald's,McDonald's,Illinois,41.96698454,-87.99775074,Itasca,East Irving Park Road,60143
+way,266698971,McDonald's,McDonald's,Illinois,42.13712410909092,-88.01981980909092,Palatine,North Rand Road,60067-8506
+way,266981285,McDonald's,McDonald's,Illinois,42.24895116,-88.6105058,Marengo,West Grant Highway,60152
+way,275000018,McDonald's,McDonald's,Illinois,41.760924779999996,-88.24237480000001,Aurora,North Eola Road,60504
+way,281437415,McDonald's,McDonald's,Illinois,41.95421314,-87.86355640000001,Schiller Park,Irving Park Road,60176
+way,281604492,McDonald's,McDonald's,Illinois,41.77338578,-87.97274052,Westmont,East 63rd Street,60559-2601
+way,284841675,McDonald's,McDonald's,Illinois,38.61607562,-90.12823691999999,East Saint Louis,North 24th Street,62205
+way,290043840,McDonald's,McDonald's,Illinois,42.354470042857145,-88.26692322857146,McHenry,Richmond Road,60050
+way,290163570,McDonald's,McDonald's,Illinois,41.88293317272727,-87.8641854909091,Bellwood,25th Street,60104
+way,291941751,Steak 'n Shake,Steak 'n Shake,Illinois,42.35758038,-88.26662654,McHenry,Richmond Road,60050
+way,292019061,McDonald's,McDonald's,Illinois,41.83245142941176,-88.10400229411763,Wheaton,Naperville Road,60189
+way,292642529,McDonald's,McDonald's,Illinois,41.798147273684215,-88.11912116315789,Naperville,Naper Boulevard,60563
+way,293371707,McDonald's,McDonald's,Illinois,41.76027024,-88.32180484,Aurora,West Galena Boulevard,60506
+way,293456353,McDonald's,McDonald's,Illinois,37.745855,-89.07354971999999,Carterville,East Plaza Drive,62918
+way,294855350,McDonald's,McDonald's,Illinois,40.0238045,-88.57442771999999,,,
+way,296594227,McDonald's,McDonald's,Illinois,41.951072714285715,-88.11991450000002,Bloomingdale,South Gary Avenue,60108-2201
+way,299775012,McDonald's,McDonald's,Illinois,41.75251840909091,-87.96488197272727,Darien,Plainfield Road,60561-4215
+way,301706253,McDonald's,McDonald's,Illinois,38.58451602222222,-89.9091576888889,O'Fallon,East Highway 50,62269
+way,307242213,McDonald's,McDonald's,Illinois,41.672103799999995,-88.06820868,Romeoville,Marquette Drive,60446
+way,308290703,McDonald's,McDonald's,Illinois,41.85887938888889,-88.07055406666667,Glen Ellyn,West Roosevelt Road,60137
+way,309499165,McDonald's,McDonald's,Illinois,41.726649842857135,-88.03231847142857,Bolingbrook,Boughton Road,60440
+way,313517325,McDonald's,McDonald's,Illinois,41.751255400000005,-87.79937522,Bridgeview,Harlem Avenue,60455
+way,315081840,McDonald's,McDonald's,Illinois,41.65820168571429,-88.00044947142858,Lemont,State Street,60439
+way,317244135,McDonald's,McDonald's,Illinois,40.09750615555556,-88.2452569,Champaign,South Neil Street,61820-7250
+way,317308089,McDonald's,McDonald's,Illinois,37.99896901666666,-89.23646113333332,,,
+way,317329940,McDonald's,McDonald's,Illinois,41.748575720000005,-87.75543239999999,Burbank,79th Street,60459
+way,318991509,McDonald's,McDonald's,Illinois,42.01333254285714,-88.18512385714287,Streamwood,West Irving Park Road,60107
+way,319670298,McDonald's,McDonald's,Illinois,39.3161692,-87.98390108571427,Casey,North Route 49,62420
+way,320761966,McDonald's,McDonald's,Illinois,42.24054285714286,-87.99493208571427,Mundelein,Townline Road,60060
+way,321842359,McDonald's,McDonald's,Illinois,41.93697293333334,-88.00084755,Addison,West Lake Street,60101
+way,321932216,McDonald's,McDonald's,Illinois,41.97775803333334,-88.20654657407407,Bartlett,South Route 59,60103
+way,323767106,Five Guys,Five Guys,Illinois,42.16336086,-88.05715494,,,
+way,326056776,Culver's,Culver's,Illinois,42.24011638,-87.98777532,Mundelein,Oak Creek Plaza,60060
+way,327501165,McDonald's,McDonald's,Illinois,41.88908681666667,-87.91096700000001,Berkeley,Saint Charles Road,60163
+way,327815132,McDonald's,McDonald's,Illinois,42.10910783999999,-87.8909118,Prospect Heights,Milwaukee Avenue,60070
+way,328661275,Steak 'n Shake,Steak 'n Shake,Illinois,41.95245152,-88.72440582000002,DeKalb,Sycamore Road,60115
+way,331956739,McDonald's,McDonald's,Illinois,42.2555845,-88.02195171999999,Mundelein,South Illinois 83,60060
+way,332091964,Steak 'n Shake,Steak 'n Shake,Illinois,40.09497259999999,-88.24584820000001,Champaign,South Neil Street,61820
+way,332482899,McDonald's,McDonald's,Illinois,41.958287866666666,-88.08051660000001,Bloomingdale,East Lake Street,60108
+way,333374122,McDonald's,McDonald's,Illinois,42.340335679999995,-87.89548698,Waukegan,Waukegan Road,60085
+way,333880846,McDonald's,McDonald's,Illinois,41.8682817,-88.3414285888889,Geneva,South Randall Road,60134
+way,333881871,McDonald's,McDonald's,Illinois,41.86459874285714,-87.83882615714286,Maywood,Roosevelt Road,60153
+way,336603422,McDonald's,McDonald's,Illinois,37.740374046153846,-88.96330440769232,,,
+way,337036791,McDonald's,McDonald's,Illinois,42.123524919999994,-88.33627781999999,Carpentersville,Randall Road,60110
+way,339861459,McDonald's,McDonald's,Illinois,41.55386612857143,-89.0673097857143,,,
+way,348043248,McDonald's,McDonald's,Illinois,41.81841206,-87.8703823,La Grange,North La Grange Road,60525
+way,349638315,Steak 'n Shake,Steak 'n Shake,Illinois,37.743713480000004,-88.96940182,Marion,West Deyoung Street,62959
+way,350634443,McDonald's,McDonald's,Illinois,41.80765473333333,-89.95630126666667,Morrison,East Lincoln Way,61270
+way,350710034,McDonald's,McDonald's,Illinois,42.42935046,-87.82639997999999,Beach Park,North Sheridan Road,60099-3787
+way,353893067,McDonald's,McDonald's,Illinois,42.408912400000006,-88.61285952,Harvard,South Division Street,60033
+way,365561486,McDonald's,McDonald's,Illinois,40.503375884615394,-88.99425139230769,Normal,South Main Street,61701
+way,365598854,McDonald's,McDonald's,Illinois,39.84590316,-88.9316581,Decatur,East El Dorado,62521-2125
+way,368854849,Culver's,Culver's,Illinois,41.70301,-88.0678526,Bolingbrook,North Bollingbrook Drive,60440
+way,368854853,McDonald's,McDonald's,Illinois,41.69897398333334,-88.06784536666667,Bolingbrook,North Bolingbrook Drive,60440
+way,368854854,McDonald's,McDonald's,Illinois,41.65104092307692,-88.12412355384615,Romeoville,North Weber Road,60446-3938
+way,372344032,Steak 'n Shake,Steak 'n Shake,Illinois,42.009000820000004,-87.88803084000001,Rosemont,West Touhy Avenue,60018
+way,380623600,McDonald's,McDonald's,Illinois,39.418410185714286,-87.69275214285715,Marshall,East Trefz Drive,62441
+way,381382916,Culver's,Culver's,Illinois,41.421741242857145,-88.27079242857144,Minooka,South Ridge Road,60447
+way,381392997,McDonald's,McDonald's,Illinois,41.4182573,-88.264715,,,
+way,384157508,McDonald's,McDonald's,Illinois,41.8801848076923,-87.75071909230769,Chicago,West Madison Street,60644
+way,402743135,McDonald's,McDonald's,Illinois,42.004616733333336,-87.96028505555554,Elk Grove Village,Busse Road,60007
+way,407794064,McDonald's,McDonald's,Illinois,42.346818142857146,-88.28424155714285,McHenry,West Elm Street,60050
+way,408058979,McDonald's,McDonald's,Illinois,42.325879959999995,-88.27371194,McHenry,Knox Drive,60050
+way,408445245,McDonald's,McDonald's,Illinois,41.968038416666666,-87.7248773,Chicago,West Lawrence Avenue,60625
+way,408750195,McDonald's,McDonald's,Illinois,41.734521920000006,-87.70189614,Evergreen Park,South Kedzie Avenue,60805
+way,409138051,Steak 'n Shake,Steak 'n Shake,Illinois,40.50307758,-88.9539036,Normal,South Veterans Parkway,61761
+way,411828567,McDonald's,McDonald's,Illinois,41.90793898571428,-87.83365818571428,Melrose Park,North Avenue,60160
+way,413765845,McDonald's,McDonald's,Illinois,42.09461486666667,-88.28764216666666,West Dundee,South 8th Street,60118-2248
+way,416149496,McDonald's,McDonald's,Illinois,41.662539133333325,-87.66164559999999,Calumet Park,South Ashland Avenue,60827
+way,420213586,McDonald's,McDonald's,Illinois,42.02579108571428,-87.85324415714285,Park Ridge,North Northwest Highway,60068
+way,421212683,McDonald's,McDonald's,Illinois,41.97146903333333,-87.80755443333334,Harwood Heights,North Harlem Avenue,60706
+way,423966079,McDonald's,McDonald's,Illinois,38.79310595454545,-89.95077673636364,Edwardsville,Troy Road,62025
+way,424472763,McDonald's,McDonald's,Illinois,41.851397199999994,-87.76139703076925,Cicero,West Cermak Road,60804
+way,424472765,McDonald's,McDonald's,Illinois,41.85031248571428,-87.78425274285715,Berwyn,West Cermak Road,60402
+way,424473015,McDonald's,McDonald's,Illinois,41.879644007692306,-87.77794685384615,Oak Park,Madison Street,60302
+way,424474473,McDonald's,McDonald's,Illinois,41.89164272857143,-87.80549451428571,River Forest,North Harlem Avenue,60305
+way,426899673,McDonald's,McDonald's,Illinois,41.97062671818182,-87.76365116363637,Chicago,North Milwaukee Avenue,60630
+way,431232129,McDonald's,McDonald's,Illinois,37.73550602857143,-88.9329354,Marion,North Court Street,62959
+way,432940145,McDonald's,McDonald's,Illinois,41.84066011818182,-87.74318827272727,Cicero,South Cicero Avenue,60804
+way,436592630,Steak 'n Shake,Steak 'n Shake,Illinois,41.47092638,-90.48304874,Moline,41st Avenue Drive,61265
+way,437524805,McDonald's,McDonald's,Illinois,41.1185535,-87.8409351,Kankakee,East Court Street,60901
+way,437668289,McDonald's,McDonald's,Illinois,42.39402919999999,-88.18440691999999,Fox Lake,South Route 12,60020-1745
+way,437690754,McDonald's,McDonald's,Illinois,41.37563292,-88.42266565999999,Morris,Division Street,60450
+way,438883872,McDonald's,McDonald's,Illinois,42.04772204,-88.08041146000002,Hoffman Estates,North Roselle Road,60169
+way,439067114,Steak 'n Shake,Steak 'n Shake,Illinois,41.59814368,-87.7946862,Tinley Park,Harlem Avenue,60477
+way,439620382,McDonald's,McDonald's,Illinois,40.873154320000005,-88.64309008,,,
+way,440052537,Culver's,Culver's,Illinois,41.748389246666676,-88.20663727333334,Aurora,South Illinois Route 59,60504
+way,443607797,McDonald's,McDonald's,Illinois,41.786298085714286,-88.07147842857144,Lisle,Maple Avenue,60532-2330
+way,446744398,McDonald's,McDonald's,Illinois,42.32358795714286,-88.16369505714285,Volo,Highway 12,60073
+way,447973881,McDonald's,McDonald's,Illinois,42.18700008571428,-88.10205811428571,Lake Zurich,South Rand Road,60047-2468
+way,448009667,McDonald's,McDonald's,Illinois,42.313067466666666,-88.43524188333335,Woodstock,South Eastwood Drive,60098
+way,448759266,McDonald's,McDonald's,Illinois,42.019799636363636,-87.68775877272728,Evanston,Howard Street,60202
+way,449143801,McDonald's,McDonald's,Illinois,42.2825624,-88.20821698,Island Lake,West State Road,60042
+way,449512986,McDonald's,McDonald's,Illinois,42.247770457142856,-88.28751495714286,Crystal Lake,North Route 31,60014
+way,450494034,McDonald's,McDonald's,Illinois,40.097361660000004,-88.19115356,Urbana,South Philo Road,61802
+way,450942347,McDonald's,McDonald's,Illinois,41.87909835,-87.8135105,Forest Park,Des Plaines Avenue,60130
+way,450953127,McDonald's,McDonald's,Illinois,41.86465282857143,-87.8032098857143,Berwyn,West Roosevelt Road,60402
+way,450953129,McDonald's,McDonald's,Illinois,41.82527734444445,-87.79937954444443,Berwyn,West Ogden Avenue,60402
+way,451243239,McDonald's,McDonald's,Illinois,38.625512811111115,-88.96525232222223,,,
+way,451400602,McDonald's,McDonald's,Illinois,42.28029804,-89.24317934,Winnebago,Capriola Parkway,61088
+way,453179124,Culver's,Culver's,Illinois,41.60187858571429,-87.84214655714287,Orland Park,West 159th Street,60462
+way,453179125,McDonald's,McDonald's,Illinois,41.60196155999999,-87.84113058,Orland Park,West 159th Street,60462
+way,453186666,McDonald's,McDonald's,Illinois,41.62698808571429,-87.85314738571428,Orland Park,South La Grange Road,60462
+way,454302893,Steak 'n Shake,Steak 'n Shake,Illinois,42.02650666,-88.33949368,Elgin,South Randall Road,60123
+way,455235954,McDonald's,McDonald's,Illinois,41.517893019999995,-87.98177822,New Lenox,West Maple Street,60451
+way,463067654,McDonald's,McDonald's,Illinois,42.14880054666666,-88.51128379333333,Hampshire,North 649 US Route 20,60140
+way,476773329,McDonald's,McDonald's,Illinois,41.26567294,-88.20847426,Braidwood,North Front Street,60408
+way,478380481,McDonald's,McDonald's,Illinois,41.92392106153846,-87.8075893153846,Elmwood Park,West Grand Avenue,60707
+way,478754804,McDonald's,McDonald's,Illinois,42.23769758571429,-89.03103542857143,Rockford,Harrison Avenue,61108
+way,480034714,McDonald's,McDonald's,Illinois,42.265605228571424,-88.00355707142857,Mundelein,North Lake Street,60060-2203
+way,480077683,McDonald's,McDonald's,Illinois,40.50986776,-88.95596912,Bloomington,East College Avenue,61704
+way,484821404,McDonald's,McDonald's,Illinois,41.564064442857145,-87.88880839999999,Orland Park,West 179th Street,60467
+way,491217939,McDonald's,McDonald's,Illinois,41.714422299999995,-88.253782525,Aurora,South Eola Road,60503
+way,493383954,McDonald's,McDonald's,Illinois,38.31561708,-88.92649156,Mount Vernon,Broadway Street,62864
+way,497276864,Culver's,Culver's,Illinois,41.650337480000005,-87.73885802,Crestwood,Cicero Avenue,60418
+way,497276865,Culver's,Culver's,Illinois,41.59659972857143,-88.02712947142857,Lockport,South Farrell Road,60441
+way,508042965,McDonald's,McDonald's,Illinois,40.48334325294119,-89.02327385294117,Bloomington,Brock Drive,61701-2640
+way,516893396,McDonald's,McDonald's,Illinois,41.652669700000004,-88.07988032,Romeoville,Independence Boulevard,60446
+way,517981609,McDonald's,McDonald's,Illinois,41.77492681428571,-88.44161214285714,Sugar Grove,Illinois Route 47,60554
+way,519425210,McDonald's,McDonald's,Illinois,42.027087585714284,-88.33799632857142,Elgin,South Randall Road,60123
+way,520825761,McDonald's,McDonald's,Illinois,42.174526560000004,-88.33471396,Algonquin,South Randall Road,60102
+way,524091797,McDonald's,McDonald's,Illinois,41.629763036363634,-87.93172975454546,Homer Glen,South Bell Road,60491
+way,524774287,McDonald's,McDonald's,Illinois,42.164030312499996,-88.28332315,Algonquin,East Algonquin Road,60102
+way,535361864,McDonald's,McDonald's,Illinois,42.25803318333333,-88.15190185416667,Wauconda,West Liberty Street,60084
+way,535735409,McDonald's,McDonald's,Illinois,42.081686360000006,-87.93845602000002,Mount Prospect,West Rand Road,60056
+way,541741696,McDonald's,McDonald's,Illinois,42.279833142857136,-89.63221852857144,Freeport,South West Avenue,61032
+way,543978449,McDonald's,McDonald's,Illinois,42.480543025,-88.30647681666666,,,
+way,544211936,McDonald's,McDonald's,Illinois,40.81816082,-89.61414346000001,Peoria,North Knoxville,61615
+way,544366832,McDonald's,McDonald's,Illinois,41.751077371428565,-88.03947195714285,Woodridge,West 75th Street,60517-2301
+way,544379009,McDonald's,McDonald's,Illinois,41.86911624,-87.93502136,Elmhurst,East Butterfield Road,60126-5120
+way,545135035,Steak 'n Shake,Steak 'n Shake,Illinois,38.7849317,-89.95046453999998,Edwardsville,Troy Road,62025
+way,545135036,Freddy's,Freddy's,Illinois,38.785761314285715,-89.95045444285714,Edwardsville,Troy Road,62025
+way,545963397,Steak 'n Shake,Steak 'n Shake,Illinois,38.86783104,-90.06597584,Wood River,Memorial Lane,62095
+way,545976480,Culver's,Culver's,Illinois,41.71988898571429,-87.70145615714286,Evergreen Park,South Kedzie Avenue,60805
+way,547580030,McDonald's,McDonald's,Illinois,42.23990154,-88.84064088,Belvidere,Chrysler Drive,61008
+way,547745967,McDonald's,McDonald's,Illinois,41.59448168,-88.20216626000001,Plainfield,South Route 59,60544
+way,547964652,McDonald's,McDonald's,Illinois,40.67009354,-89.58161508,East Peoria,Spinder Drive,61611
+way,548456011,McDonald's,McDonald's,Illinois,42.18865738,-87.8018908,Highland Park,1st Street,60035
+way,548467772,McDonald's,McDonald's,Illinois,38.56289145263158,-90.17746059473684,Cahokia,Camp Jackson Road,62206-2230
+way,548974688,McDonald's,McDonald's,Illinois,41.33813604285714,-89.11765637142857,Peru,Shooting Park Road,61354
+way,548974805,Steak 'n Shake,Steak 'n Shake,Illinois,41.3598132,-89.12755910000001,Peru,Venture Drive,61354
+way,549354747,McDonald's,McDonald's,Illinois,40.907143142857144,-89.49387641428572,,,
+way,549783403,McDonald's,McDonald's,Illinois,38.51756058,-89.94908242,,,
+way,549835494,Culver's,Culver's,Illinois,41.79041237692308,-88.32149400000002,North Aurora,South Lincolnway Street,60542
+way,550503412,McDonald's,McDonald's,Illinois,38.52641988,-89.12491018,,,
+way,551176631,McDonald's,McDonald's,Illinois,41.71868706666666,-88.32022263333334,Oswego,Douglas Road,60543
+way,551176915,McDonald's,McDonald's,Illinois,41.7786359,-88.31512788,Aurora,North Lake Street,60506-2415
+way,553669125,McDonald's,McDonald's,Illinois,38.946890839999995,-90.1903318,Godfrey,Godfrey Road,62035
+way,556892739,McDonald's,McDonald's,Illinois,38.67901352222223,-90.01122260000001,Collinsville,Ramada Boulevard,62234
+way,557813510,McDonald's,McDonald's,Illinois,40.45819656,-90.6519612,Macomb,South Prairie Street,61455
+way,558669828,McDonald's,McDonald's,Illinois,40.45839582857143,-90.6804097,,,
+way,560873936,McDonald's,McDonald's,Illinois,42.11157004705883,-87.98116280588233,Arlington Heights,North Arlington Heights Road,60004
+way,561111405,Culver's,Culver's,Illinois,40.744020033333335,-89.61189036666669,Peoria,North University Street,61614
+way,568721093,Steak 'n Shake,Steak 'n Shake,Illinois,40.1752216,-87.62960698,Danville,North Vermilion Street,61832
+way,573690093,McDonald's,McDonald's,Illinois,41.90247170714286,-88.47160605714286,Elburn,Center Avenue,60119
+way,579052750,Freddy's,Freddy's,Illinois,38.57415648571429,-89.92545665714285,,,
+way,579403639,Culver's,Culver's,Illinois,41.42646657142858,-87.75358618571428,Monee,West Monee Manhattan Road,60449
+way,585236803,McDonald's,McDonald's,Illinois,41.67715382,-87.72025212000001,Alsip,South Pulaski Road,60803
+way,586398574,McDonald's,McDonald's,Illinois,38.69133865714286,-89.97694817142857,Collinsville,Beltline Road,62234
+way,586705875,McDonald's,McDonald's,Illinois,40.73656654,-89.02729916000001,El Paso,West Main Street,61738
+way,589107971,Steak 'n Shake,Steak 'n Shake,Illinois,40.45908210000001,-88.97596437777779,Bloomington,South Veterans Parkway,61704
+way,589107988,McDonald's,McDonald's,Illinois,40.44947139999999,-88.99153147777778,Bloomington,South Main Street,61701
+way,589126832,McDonald's,McDonald's,Illinois,40.48896584285715,-88.91857015714287,Bloomington,East Empire Street,61704
+way,589126833,McDonald's,McDonald's,Illinois,40.48893148571428,-88.95615264285713,Bloomington,East Empire Street,61701
+way,589126840,Steak 'n Shake,Steak 'n Shake,Illinois,40.53222471111111,-88.99815926666666,Normal,West Raab Road,61761
+way,589777613,McDonald's,McDonald's,Illinois,41.62304338,-87.6285542,Dolton,West Sibley Boulevard,60419
+way,591640156,McDonald's,McDonald's,Illinois,39.87706591999999,-88.95569406000001,Decatur,North Water Street,62526-2464
+way,595921178,McDonald's,McDonald's,Illinois,42.04582086363635,-88.27549071818183,Elgin,Summit Street,60120
+way,597017534,McDonald's,McDonald's,Illinois,42.364050038461535,-87.83038283846153,Waukegan,North Sheridan Road,60085
+way,599485874,Culver's,Culver's,Illinois,42.46682411538462,-88.06578283076922,Antioch,East Route 173,60002
+way,599488297,Culver's,Culver's,Illinois,42.14430924285715,-88.43177947142858,Huntley,Route 47,60142
+way,599488398,Culver's,Culver's,Illinois,41.98920724285714,-88.34281883571428,South Elgin,Randall Road,60177
+way,599495372,Culver's,Culver's,Illinois,37.74511066666666,-88.96113425555555,Marion,Blue Heron Drive,62959
+way,602805353,McDonald's,McDonald's,Illinois,42.173464983333325,-87.9857647958333,Buffalo Grove,North Arlington Heights Road,60089
+way,615247726,McDonald's,McDonald's,Illinois,41.250018322222225,-87.84816013333334,Manteno,South Creek Drive,60950
+way,615442313,McDonald's,McDonald's,Illinois,41.492849899999996,-90.55658666,Rock Island,30th Street,61201-4728
+way,616453035,McDonald's,McDonald's,Illinois,40.45656641428571,-88.3761536,Gibson City,South Sangamon Avenue,60936
+way,617653919,McDonald's,McDonald's,Illinois,41.85044132,-88.30922640000001,Batavia,West Wilson Street,60510
+way,622476767,McDonald's,McDonald's,Illinois,41.81819134285714,-87.92617501428572,Hinsdale,North York Road,60521-2905
+way,629541693,Culver's,Culver's,Illinois,41.16962931428571,-87.8760407,Bourbonnais,Convent Street,60914
+way,629541709,Culver's,Culver's,Illinois,41.58619830000001,-87.55994806923078,Lansing,Torrence Avenue,60438
+way,629541723,Culver's,Culver's,Illinois,41.37356768,-88.83531186,Ottawa,Fairfield Lane,61350
+way,629541724,Culver's,Culver's,Illinois,41.66329081428571,-88.44150108571428,Yorkville,Marketview Drive,60560
+way,629541726,Culver's,Culver's,Illinois,41.487963300000004,-90.42018490000001,Silvis,22nd Avenue,61282
+way,629541727,Culver's,Culver's,Illinois,42.0728802,-87.95678761428572,Arlington Heights,East Northwest Highway,60004
+way,629541728,Culver's,Culver's,Illinois,41.77290334285714,-88.44353790000001,Sugar Grove,North Sugar Grove Parkway,60554
+way,629541729,Culver's,Culver's,Illinois,42.05278641428571,-87.74389931428571,Skokie,Skokie Boulevard,60077
+way,629541730,Culver's,Culver's,Illinois,41.46872041428571,-87.57595112857143,Crete,South Volbrecht Road,60417
+way,629541733,Culver's,Culver's,Illinois,41.83329475714286,-87.61641512857143,Chicago,South Doctor Martin Luther King Junior Drive,60616
+way,629541735,Culver's,Culver's,Illinois,41.69672608571428,-87.73947017142856,Oak Lawn,South Cicero Avenue,60453
+way,629541772,Culver's,Culver's,Illinois,41.55796007142857,-87.6381578142857,Homewood,183rd Street,60430
+way,629541773,Culver's,Culver's,Illinois,41.86482541428571,-87.79848835714287,Berwyn,West Roosevelt Road,60402
+way,643238382,McDonald's,McDonald's,Illinois,39.93550414,-91.33882322000001,Quincy,Broadway Street,62305
+way,644215834,McDonald's,McDonald's,Illinois,38.34995414285714,-90.15023087142858,,,
+way,645808242,McDonald's,McDonald's,Illinois,41.348519,-87.62066430000002,Beecher,Dixie Highway,60401
+way,648240156,McDonald's,McDonald's,Illinois,42.057381320000005,-88.13649514,Hoffman Estates,West Higgins Road,60169
+way,648276005,McDonald's,McDonald's,Illinois,42.04718532857142,-88.14338812857143,Hoffman Estates,West Golf Road,60194
+way,648632264,McDonald's,McDonald's,Illinois,42.02440904,-88.1435906,Schaumburg,West Schaumburg Road,60194
+way,653668302,McDonald's,McDonald's,Illinois,41.22933364545454,-89.92787909090909,,,
+way,660880685,McDonald's,McDonald's,Illinois,41.725701040000004,-87.68293851999998,Evergreen Park,South Western Avenue,60805
+way,670007627,McDonald's,McDonald's,Illinois,38.07948788,-88.17797402000001,Carmi,West Main Street,62821
+way,676940711,McDonald's,McDonald's,Illinois,38.627425263157896,-89.37189595789474,,,
+way,677087978,McDonald's,McDonald's,Illinois,37.99807911764706,-88.93773345882354,Benton,,
+way,677110072,McDonald's,McDonald's,Illinois,37.92657262222222,-89.80503164444445,,,
+way,677523641,McDonald's,McDonald's,Illinois,42.09538842,-88.68349838,,,
+way,680244013,McDonald's,McDonald's,Illinois,42.42829113333333,-89.0158723,Roscoe,Elevator Road,61073
+way,687473867,Shake Shack,Shake Shack,Illinois,42.24110107142857,-87.9417506714286,,,
+way,691831777,Steak 'n Shake,Steak 'n Shake,Illinois,42.104217177777784,-87.8115938,Glenview,Willow Road,60025
+way,702569235,McDonald's,McDonald's,Illinois,41.5857238,-87.72000720000001,Country Club Hills,167th Street,60478
+way,702571892,McDonald's,McDonald's,Illinois,41.80287214,-88.37283611999999,North Aurora,Hansen Boulevard,60542
+way,706546960,McDonald's,McDonald's,Illinois,40.47200500625,-88.953248975,Bloomington,East Oakland Avenue,61701
+way,706822283,McDonald's,McDonald's,Illinois,41.600437057142855,-87.54105608571429,Calumet City,River Oaks Drive,60409
+way,706822342,McDonald's,McDonald's,Illinois,41.55762278571428,-87.69333334285716,Homewood,183rd Street,60430
+way,706895244,Culver's,Culver's,Illinois,41.434934039999995,-90.15853494000001,Geneseo,South Oakwood Avenue,61254
+way,706912943,McDonald's,McDonald's,Illinois,41.43962220000001,-90.15362982857143,Geneseo,South Oakwood Avenue,61254
+way,707365128,Steak 'n Shake,Steak 'n Shake,Illinois,39.815534955555556,-88.87752821111111,Decatur,South Mount Zion Road,62521
+way,707365133,McDonald's,McDonald's,Illinois,39.819748463636365,-88.87866718181819,Decatur,South Mount Zion Road,62521
+way,707365140,Culver's,Culver's,Illinois,39.8177966,-88.88024162307691,Decatur,Aldi Drive,62521
+way,718500212,McDonald's,McDonald's,Illinois,41.88183668,-88.1939402,West Chicago,South Neltnor Boulevard,60185-2927
+way,718594019,McDonald's,McDonald's,Illinois,41.91229074,-88.33782946,St. Charles,West Main Street,60174
+way,718621632,McDonald's,McDonald's,Illinois,41.98128237499999,-88.3414236125,South Elgin,Redington Drive,60177
+way,720335056,Steak 'n Shake,Steak 'n Shake,Illinois,41.85469094,-88.33840906,Batavia,McKee Street,60510
+way,731913493,McDonald's,McDonald's,Illinois,42.15113486,-88.43184907999998,Huntley,IL-47,60142
+way,731953302,McDonald's,McDonald's,Illinois,39.11037204,-90.31932241999999,Jerseyville,South State Street,62052
+way,732239419,Steak 'n Shake,Steak 'n Shake,Illinois,42.17721778,-88.33467682,Lake in the Hills,North Randall Road,60156
+way,732239426,Culver's,Culver's,Illinois,42.178651509999995,-88.33479112999999,Lake in the Hills,North Randall Road,60156
+way,740506031,McDonald's,McDonald's,Illinois,38.49696178181819,-89.79403703636363,Mascoutah,North Jefferson Street,62258
+way,741785673,McDonald's,McDonald's,Illinois,37.153543911111115,-88.71299384444444,Metropolis,East Fifth Street,62960
+way,746489309,McDonald's,McDonald's,Illinois,42.19875174285714,-88.05874047142856,Lake Zurich,Quentin Road,60047
+way,751185615,McDonald's,McDonald's,Illinois,42.22554270909091,-88.31144684545454,Crystal Lake,Crystal Point Drive,60014-8005
+way,752736846,McDonald's,McDonald's,Illinois,41.2972818,-88.14064142222223,Wilmington,South Water Street,60481
+way,769164839,McDonald's,McDonald's,Illinois,38.88920840000001,-90.17431687999999,Alton,East Broadway,62002
+way,771119301,Steak 'n Shake,Steak 'n Shake,Illinois,38.92287752,-90.17954124,Alton,Homer M Adams Parkway,62002
+way,772613292,McDonald's,McDonald's,Illinois,42.30193371428571,-89.6450164,Freeport,West Galena Avenue,61032
+way,777531825,McDonald's,McDonald's,Illinois,41.53347602,-88.19980378,Shorewood,Brookforest Avenue,60404
+way,777532391,McDonald's,McDonald's,Illinois,41.56200744,-88.19959188,Plainfield,Illinois Route 59,60586
+way,780505158,Shake Shack,Shake Shack,Illinois,42.050213,-88.03716529999998,Schaumburg,East Golf Road,60173
+way,782024664,Steak 'n Shake,Steak 'n Shake,Illinois,40.4880683,-89.03621968,Bloomington,Wylie Drive,61704
+way,785988914,McDonald's,McDonald's,Illinois,42.00701922941176,-88.14410071176472,Hanover Park,Barrington Road,60133
+way,802047019,Culver's,Culver's,Illinois,42.08670102222222,-87.79772052222222,Glenview,Waukegan Road,60025
+way,802417554,McDonald's,McDonald's,Illinois,42.348265293333334,-87.88179811333335,Park City,Belvidere Road,60085
+way,804705380,McDonald's,McDonald's,Illinois,42.0648342,-87.80025559999999,Glenview,Waukegan Road,60025
+way,806672511,McDonald's,McDonald's,Illinois,41.505551944444456,-87.79181795555556,Frankfort,West Lincoln Highway,60423
+way,806684756,McDonald's,McDonald's,Illinois,41.50811358888889,-87.84888826666668,Frankfort,South La Grange Road,60423
+way,808215208,McDonald's,McDonald's,Illinois,40.15852154,-89.38783464000001,,,
+way,810645698,McDonald's,McDonald's,Illinois,42.2880289,-89.11548923333334,Rockford,Auburn Street,61101
+way,824055566,McDonald's,McDonald's,Illinois,41.99672310769232,-88.31668766923077,South Elgin,North McLean Boulevard,60177
+way,824549922,McDonald's,McDonald's,Illinois,41.781740777777785,-88.28108687777778,Aurora,North Farnsworth Avenue,60505
+way,826131917,McDonald's,McDonald's,Illinois,42.2523859,-89.08743482222222,Rockford,Kishwaukee Street,61104
+way,826346143,McDonald's,McDonald's,Illinois,41.93703354,-88.07676852,Glendale Heights,East Army Trail Road,60139
+way,826346149,Steak 'n Shake,Steak 'n Shake,Illinois,41.93607964,-88.07733382,Glendale Heights,East Army Trail Road,60139
+way,832382244,McDonald's,McDonald's,Illinois,41.9817028,-88.0703459142857,Roselle,Irving Park Road,60172
+way,834543779,McDonald's,McDonald's,Illinois,42.496592899999996,-89.03572484444445,Beloit,State Street,53511
+way,838518977,McDonald's,McDonald's,Illinois,37.806700327777776,-88.44034843333334,,,
+way,845230656,McDonald's,McDonald's,Illinois,38.3774398,-88.05977446250002,,,
+way,847720418,McDonald's,McDonald's,Illinois,40.5660771909091,-90.03425710909093,,,
+way,849984430,McDonald's,McDonald's,Illinois,38.08979748,-88.54310425999999,McLeansboro,,62859
+way,850145976,Culver's,Culver's,Illinois,41.797412390909095,-88.12033572727272,Naperville,North Naper Boulevard,60563
+way,850669402,McDonald's,McDonald's,Illinois,41.6548111,-88.20288438,Plainfield,South Route 59,60544
+way,850669535,McDonald's,McDonald's,Illinois,41.70560186,-88.20488858,Naperville,South Illinois Route 59,60564
+way,850669632,McDonald's,McDonald's,Illinois,41.80913315454546,-87.9919755,Downers Grove,East Ogden Avenue,60515-3144
+way,850669800,McDonald's,McDonald's,Illinois,41.976180888888884,-88.12955793333333,Hanover Pk,East Lake Street,60133-5408
+way,851353047,McDonald's,McDonald's,Illinois,41.52127211333334,-88.18445567333332,Joliet,West Jefferson Street,60431
+way,851353076,Culver's,Culver's,Illinois,41.517918844444445,-88.12514285555557,Joliet,South Larkin Avenue,60436
+way,851353090,McDonald's,McDonald's,Illinois,41.5275587,-88.06937414000001,Joliet,East Cass Street,60432-2905
+way,860861149,McDonald's,McDonald's,Illinois,42.035097,-88.31417173076922,Elgin,Larkin Avenue,60123
+way,862426883,McDonald's,McDonald's,Illinois,42.45570352,-89.02702489999999,Rockton,Quail Trail,61073
+way,874465878,McDonald's,McDonald's,Illinois,41.700769,-87.7395646,Oak Lawn,South Cicero Avenue,60453
+way,882827907,McDonald's,McDonald's,Illinois,41.80456376,-88.04686359999998,Downers Grove,Ogden Avenue,60515
+way,887770664,Steak 'n Shake,Steak 'n Shake,Illinois,40.77583542000001,-87.70258175999999,Watseka,East Walnut Street,60970
+way,895116892,McDonald's,McDonald's,Illinois,41.7907614,-88.20495447142858,Naperville,North Illinois Route 59,60563
+way,911415942,Steak 'n Shake,Steak 'n Shake,Illinois,40.68403828181819,-89.58928296363636,East Peoria,Conference Center Drive,61611
+way,929332204,McDonald's,McDonald's,Illinois,41.808408459999995,-87.69626310000001,Chicago,West 47th Street,60632
+way,929754558,McDonald's,McDonald's,Illinois,41.456043664705874,-90.49850477058826,Moline,69th Avenue Court,61265
+way,930852017,McDonald's,McDonald's,Illinois,41.567211531578955,-87.63690081578947,Homewood,Halsted Street,60430
+way,930853633,McDonald's,McDonald's,Illinois,41.60170329230769,-87.79592640000001,Tinley Park,Harlem Avenue,60477
+way,934881466,Freddy's,Freddy's,Illinois,38.67464658,-90.01330886000001,Collinsville,North Bluff Road,62234
+way,947177664,Freddy's,Freddy's,Illinois,37.73125047999999,-89.18576596,,,
+way,955372883,McDonald's,McDonald's,Illinois,41.86603878,-87.68397478,Chicago,West Ogden Avenue,60612
+way,961394756,Culver's,Culver's,Illinois,39.93506285714285,-91.37601451428573,Quincy,Broadway Street,62301
+way,965484500,McDonald's,McDonald's,Illinois,42.22562408,-89.07277719999999,Rockford,11th Street,61109-2203
+way,967108857,McDonald's,McDonald's,Illinois,41.93492382857143,-89.06888912857141,Rochelle,North 7th Street,61068
+way,967369639,McDonald's,McDonald's,Illinois,42.45831846,-87.8256294,Zion,Sheridan Road,60099-4119
+way,967756752,Five Guys,Five Guys,Illinois,41.574985319999996,-88.1562142,Joliet,Plainfield Road,60431
+way,974158777,Culver's,Culver's,Illinois,42.20004516666667,-87.93225483333333,Lincolnshire,Milwaukee Avenue,60069
+way,974158788,McDonald's,McDonald's,Illinois,42.198321539999995,-87.93282980000001,Lincolnshire,Milwaukee Avenue,60069-3046
+way,975247344,McDonald's,McDonald's,Illinois,41.449704211764704,-90.56782260000001,Milan,West 1st Street,61264-2715
+way,984135015,Five Guys,Five Guys,Illinois,41.95410728,-88.72219206,DeKalb,Sycamore Road,60115
+way,988686291,McDonald's,McDonald's,Illinois,41.65827503333333,-88.44448061666667,Yorkville,West Veterans Parkway,60560
+way,991531604,Culver's,Culver's,Illinois,42.13813518888889,-87.88192326666666,Northbrook,Dundee Road,60062
+way,993104842,McDonald's,McDonald's,Illinois,41.76512334,-88.36723400000001,Aurora,West Galena Boulevard,60506
+way,997223515,McDonald's,McDonald's,Illinois,38.314090336363634,-88.95628201818182,Mount Vernon,Potomac Boulevard,62864
+way,1011041319,McDonald's,McDonald's,Illinois,41.77220537142857,-89.68878581428571,,,
+way,1012838942,McDonald's,McDonald's,Illinois,41.801180439999996,-89.66710692000001,,,
+way,1020190452,McDonald's,McDonald's,Illinois,41.48386644444444,-87.7334902222222,Richton Park,Sauk Trail,60471
+way,1025728326,McDonald's,McDonald's,Illinois,40.1226462,-87.77883896,Oakwood,North Oakwood Road,61858
+way,1027575264,McDonald's,McDonald's,Illinois,42.061125226666675,-88.31500495999998,Elgin,North McLean Boulevard,60123
+way,1027575269,Culver's,Culver's,Illinois,42.06228248,-88.31505800999999,Elgin,North McLean Boulevard,60123
+way,1029183810,McDonald's,McDonald's,Illinois,41.71904355555556,-87.80996613333333,Hickory Hills,West 95th Street,60457
+way,1043340900,McDonald's,McDonald's,Illinois,38.86486164,-90.07758768000001,Wood River,Vaughn Road,62095
+way,1055483191,McDonald's,McDonald's,Illinois,41.786503966666665,-87.86808153333332,Countryside,South La Grange Road,60525
+way,1068668014,McDonald's,McDonald's,Illinois,41.82014802222222,-87.81844403333332,Lyons,Ogden Avenue,60534
+way,1069832812,McDonald's,McDonald's,Illinois,41.72292457142857,-87.943102,Burr Ridge,South Kingery Highway,60527
+way,1070772709,McDonald's,McDonald's,Illinois,42.318847263636364,-87.83535966363637,Great Lakes,Paul Jones Street,60088
+way,1093926197,Culver's,Culver's,Illinois,41.6931889,-87.60131951428572,Chicago,South Doty Avenue,60628
+way,1099453922,McDonald's,McDonald's,Illinois,42.3577288,-89.99939092,Stockton,East North Avenue,61085
+way,1100711058,McDonald's,McDonald's,Illinois,42.000545333333335,-88.04531012222222,Elk Grove Village,Meacham Road,60007
+way,1108000223,McDonald's,McDonald's,Illinois,40.34209034,-88.76227718,,,
+way,1110439012,McDonald's,McDonald's,Illinois,41.18806144285715,-87.85022068571428,Bourbonnais,North State Road 50,60914
+way,1135969029,McDonald's,McDonald's,Illinois,42.2596865,-89.0540848,Rockford,Charles Street,61108
+way,1150610274,Culver's,Culver's,Illinois,41.894820814285715,-87.7352395857143,Chicago,West Chicago Avenue,60624
+way,1156062562,McDonald's,McDonald's,Illinois,40.697340607692304,-89.98945886923077,,,
+way,1157797095,McDonald's,McDonald's,Illinois,42.36708270769231,-88.04308096923077,,,
+way,1158544142,McDonald's,McDonald's,Illinois,42.29759654,-87.95596927714283,Libertyville,North Milwaukee Avenue,60048
+way,1159402542,McDonald's,McDonald's,Illinois,41.67672682,-87.68102744000001,Blue Island,Western Avenue,60406
+way,1167109353,McDonald's,McDonald's,Illinois,41.528449555555554,-87.63530881111109,Chicago Heights,South Halsted Street,60411
+way,1173222844,McDonald's,McDonald's,Illinois,38.59691266,-89.80826884000001,Lebanon,South Madison,62254
+way,1179795227,McDonald's,McDonald's,Illinois,41.59415245714285,-88.0381346761905,Lockport,East 9th Street,60441
+way,1181176118,McDonald's,McDonald's,Illinois,42.21528561818182,-87.8190070818182,Highwood,Sheridan Road,60040
+way,1193500331,McDonald's,McDonald's,Illinois,41.622181219999995,-87.67514844,Harvey,Dixie Highway,60426
+way,1198856858,Culver's,Culver's,Illinois,41.629459645454546,-87.92927477272727,Homer Glen,West 143rd Street,60491
+way,1223370463,Freddy's,Freddy's,Illinois,41.77538178571429,-88.20508544285714,Naperville,Glacier Park Avenue,60540
+way,1223681773,McDonald's,McDonald's,Illinois,42.36994948421054,-87.88183950526316,Waukegan,West Grand Avenue,60085-2205
+way,1227789222,McDonald's,McDonald's,Illinois,39.40621388666667,-88.80551093999999,,,
+way,1229123239,McDonald's,McDonald's,Illinois,42.14011946153846,-87.9112034846154,Wheeling,East Dundee Road,60090-3033
+way,1229500138,Steak 'n Shake,Steak 'n Shake,Illinois,39.179228,-89.67462658000001,Litchfield,Corvette Drive,62056
+way,1229729732,McDonald's,McDonald's,Illinois,41.66122962000001,-87.79380754000002,Palos Heights,West 127th Street,60463
+way,1230010514,Culver's,Culver's,Illinois,41.817412288888896,-88.20399482222223,Warrenville,Illinois Route 59,60555
+way,1243472378,McDonald's,McDonald's,Illinois,41.960629620000006,-87.9449425,Bensenville,Irving Park Road,60106
+way,1243475856,McDonald's,McDonald's,Illinois,41.492295671428565,-87.55686354285714,Sauk Village,East Sauk Trail,60411
+way,1245336397,McDonald's,McDonald's,Illinois,42.47121317272728,-88.09411572727271,Antioch,Main Street,60002
+way,1247749231,Culver's,Culver's,Illinois,41.9909104,-87.70716987777779,Chicago,North Albany Avenue,60659
+way,1248266550,McDonald's,McDonald's,Illinois,42.20932684,-89.07347243999999,Rockford,11th Steet,61109-3027
+way,1248267058,McDonald's,McDonald's,Illinois,42.26983338571428,-89.00039654285715,Rockford,North Mulford Road,61107-5158
+way,1248268153,McDonald's,McDonald's,Illinois,41.75383756,-88.30085982,Aurora,East New York Street,60505
+way,1248268374,McDonald's,McDonald's,Illinois,41.894040542857134,-88.1023833142857,Carol Stream,South Schmale Road,60188
+way,1251565528,McDonald's,McDonald's,Illinois,40.71489402,-89.59429816,Peoria,North Knoxville Avenue,61603
+way,1253315224,Culver's,Culver's,Illinois,42.19649802222223,-88.21535815555556,Fox River Grove,Northwest Highway,60021
+way,1264327787,McDonald's,McDonald's,Illinois,41.47989328571428,-90.58375801428572,Rock Island,11th Street,61201-5218
+way,1264328438,McDonald's,McDonald's,Illinois,41.49067547058822,-90.44242122941176,East Moline,Avenue Of The Cities,61244
+way,1264328846,McDonald's,McDonald's,Illinois,41.55718924,-89.12735649999999,,13th Avenue,61342
+way,1264329239,McDonald's,McDonald's,Illinois,41.328336533333335,-89.21195552222223,,West Dakota Street,61362
+way,1264329353,McDonald's,McDonald's,Illinois,41.13804374,-88.8363845,Streator,North Bloomington Street,61364
+way,1264329603,McDonald's,McDonald's,Illinois,41.5972175,-88.12343406,Romeoville,Weber Road,60446
+way,1265918729,McDonald's,McDonald's,Illinois,41.89037382,-87.96976756000001,Villa Park,East Saint Charles Road,60181-2420
+way,1265918922,McDonald's,McDonald's,Illinois,41.90568424285714,-87.99834669999998,Addison,North Avenue,60101-4912
+way,1265919063,McDonald's,McDonald's,Illinois,41.92769145454545,-87.94029325454545,Elmhurst,North York Street,60126
+way,1267230589,McDonald's,McDonald's,Illinois,42.28199114444445,-87.8796753111111,Lake Bluff,North Waukegan Road,60044
+way,1267230999,McDonald's,McDonald's,Illinois,42.05603936,-88.001938,Rolling Meadows,Algonquin Road,60008
+way,1267231284,McDonald's,McDonald's,Illinois,42.12237503636363,-88.05024369090908,Palatine,West Northwest Highway,60067-2412
+way,1268196137,McDonald's,McDonald's,Illinois,40.307835687499995,-88.1726300375,Rantoul,West Champaign Avenue,61866
+way,1270649469,McDonald's,McDonald's,Illinois,41.726882720000006,-87.74151876,Oak Lawn,South Cicero Avenue,60453
+way,1272409467,Culver's,Culver's,Illinois,40.116169600000006,-88.2094920777778,Urbana,West University Avenue,61801
+way,1275422034,McDonald's,McDonald's,Illinois,42.04058230476191,-87.83768555238095,Niles,West Dempster Street,60714
+way,1286014100,Freddy's,Freddy's,Illinois,40.142477771428574,-88.25010151428572,Champaign,West Town Center Boulevard,61822
+way,1289816581,McDonald's,McDonald's,Illinois,41.15959181428572,-87.88638264285714,,Main Street Northwest,60914-2305
+way,1290756253,McDonald's,McDonald's,Illinois,38.54474444,-90.05194370000001,,Westfield Plaza Drive,62222
+way,1290761244,McDonald's,McDonald's,Illinois,42.43649434,-88.24515699999999,,Route 12,60081
+way,1296534036,McDonald's,McDonald's,Illinois,39.00604147142857,-87.75481768571429,,,
+way,1303166640,Culver's,Culver's,Illinois,41.96297878,-87.80768919333333,Harwood Heights,North Harlem Avenue,60706
+way,1303800047,Five Guys,Five Guys,Illinois,41.77111142857143,-88.14753797142858,Naperville,East Chicago Avenue,60540
+way,1303817192,Culver's,Culver's,Illinois,42.40501085555556,-88.61272727777778,Harvard,South Division Street,60033
+way,1306449220,McDonald's,McDonald's,Illinois,41.60045662857143,-87.597173,South Holland,East 162nd Street,60473
+way,1308955128,Culver's,Culver's,Illinois,41.925869488888885,-87.81570211111112,Elmwood Park,West Grand Avenue,60707
+way,1312146063,McDonald's,McDonald's,Illinois,41.73439571428572,-87.79842938571429,Bridgeview,Harlem Avenue,60455
+way,1319953046,McDonald's,McDonald's,Illinois,42.14920336,-87.80032556,Northbrook,Skokie Boulevard,60062
+way,1326178601,McDonald's,McDonald's,Illinois,41.904897609523815,-88.03168992380952,Lombard,West North Avenue,60148
+way,1326181742,Steak 'n Shake,Steak 'n Shake,Illinois,40.13321366,-88.19864419999999,Urbana,North Kenyon Road,61802
+way,1327357186,McDonald's,McDonald's,Illinois,38.72366808,-90.12147136000002,Granite City,Johnson Road,62040-3831
+way,1327946697,Shake Shack,Shake Shack,Illinois,41.72006421818182,-87.72440425454545,Oak Lawn,West 95th Street,60453
+way,1328575154,McDonald's,McDonald's,Illinois,38.976898990909085,-89.1011236909091,Vandalia,Veterans Avenue,62471
+way,1328614710,McDonald's,McDonald's,Illinois,38.19898046,-89.99345314,Red Bud,South Main Street,62278
+way,1328640182,McDonald's,McDonald's,Illinois,40.12059836,-88.27736856666667,Champaign,North Mattis Avenue,61821
+way,1329496113,McDonald's,McDonald's,Illinois,41.571593539999995,-87.55924956000001,Lansing,Torrence Avenue,60438
+way,1331500007,McDonald's,McDonald's,Illinois,41.623140371428576,-87.57390334285716,Calumet City,Sibley Boulevard,60409
+way,1331671817,Freddy's,Freddy's,Illinois,41.569275366666666,-87.635713,Homewood,Halsted Street,60430
+way,1331761640,McDonald's,McDonald's,Illinois,41.906752335714295,-87.90246536428572,Northlake,East North Avenue,60164
+way,1333773791,McDonald's,McDonald's,Illinois,41.48042937692307,-87.63898497692306,South Chicago Heights,West Sauk Trail,60411
+way,1334375471,McDonald's,McDonald's,Illinois,41.60117177777778,-87.69043374444445,Markham,West 159th Street,60428
+way,1334375496,Culver's,Culver's,Illinois,41.603523,-87.75148793333334,Oak Forest,West 159th Street,60452
+way,1334375517,McDonald's,McDonald's,Illinois,41.60266265714285,-87.75321525714286,Oak Forest,West 159th Street,60452
+way,1336078751,McDonald's,McDonald's,Illinois,41.74800568,-87.81742218000001,Bridgeview,West 79th Street,60455
+way,1336896394,McDonald's,McDonald's,Illinois,42.15416853076923,-87.83710386923077,Deerfield,North Waukegan Road,60015
+way,1336896416,McDonald's,McDonald's,Illinois,42.199055737500004,-87.8616173,Bannockburn,Waukegan Road,60015
+way,1339650392,McDonald's,McDonald's,Illinois,41.62692036,-87.71733878,Midlothian,South Pulaski Road,60445
+way,1339650467,McDonald's,McDonald's,Illinois,41.6442145,-87.73857405999999,Crestwood,Cicero Avenue,60445
+way,1348549845,McDonald's,McDonald's,Illinois,40.74199426363636,-88.73263683636364,Chenoa,Hoselton Drive,61726
+way,1356749356,McDonald's,McDonald's,Illinois,38.878565099999996,-89.39003755714285,Greenville,South Street,62246
+way,1364856231,McDonald's,McDonald's,Illinois,42.33910314761906,-88.00411099523811,Grayslake,East Belvidere Road,60030
+way,1365334135,McDonald's,McDonald's,Illinois,42.0729386,-88.06003403999999,Schaumburg,East Algonquin Road,60173
+way,1365443610,Steak 'n Shake,Steak 'n Shake,Illinois,38.68480693636363,-90.00980980909091,Collinsville,North Bluff Road,62234
+way,1374302443,Culver's,Culver's,Illinois,40.81657216666667,-89.6139502111111,Peoria,North Centerway Drive,61615
+way,1376404018,Steak 'n Shake,Steak 'n Shake,Illinois,40.114966519999996,-87.63580824,Danville,South Gilbert Street,61832
+way,1377914795,McDonald's,McDonald's,Illinois,41.972661550000005,-87.9599991125,Bensenville,Busse Road,60106
+way,1380574640,Culver's,Culver's,Illinois,41.91131105714286,-87.94026611428572,Elmhurst,North York Street,60126
+way,1380574703,Culver's,Culver's,Illinois,41.7736863,-87.74180072857142,Chicago,South Cicero Avenue,60638
+way,1380574718,Culver's,Culver's,Illinois,41.91071212857143,-88.34079241428573,St. Charles,South Randall Road,60174
+way,1380574732,Culver's,Culver's,Illinois,38.30183257142858,-88.94271021428571,Mount Vernon,South 42nd Street,62864
+way,1382903184,Shake Shack,Shake Shack,Illinois,41.76526706666667,-88.20508714,Naperville,South Illinois Route 59,60540
+way,1384137677,Culver's,Culver's,Illinois,40.30878406666667,-88.17193414444444,Rantoul,West Champaign Avenue,61866
+way,1391052998,McDonald's,McDonald's,Illinois,41.48442025999999,-87.9216425,New Lenox,East Laraway Road,60451
+way,1393239638,McDonald's,McDonald's,Illinois,41.13241537142857,-87.87615089999998,Kankakee,North 5th Avenue,60901
+way,1424698168,McDonald's,McDonald's,Illinois,42.30403268666667,-87.87641581999999,Lake Bluff,North Skokie Highway,60044
+way,1436307925,McDonald's,McDonald's,Illinois,37.78653048571429,-89.02690435714285,,,
+way,1445478375,McDonald's,McDonald's,Illinois,39.898652616666666,-89.60062103333335,,,
+way,1447493977,Culver's,Culver's,Illinois,41.858010388888886,-88.33992432222223,Batavia,North Randall Road,60510
+way,1457840882,Freddy's,Freddy's,Illinois,39.483755640000005,-88.33456606,Mattoon,,61938
+way,1459824622,Culver's,Culver's,Illinois,41.85859085714286,-88.09335257142857,Wheaton,East Roosevelt Road,60187
+way,1466529818,Freddy's,Freddy's,Illinois,42.36426204285715,-89.03127154285714,Machesney Park,Orlando Street,61115
+way,1467127848,Shake Shack,Shake Shack,Illinois,42.163077725,-87.8434742625,Deerfield,North Waukegan Road,60015
+way,1502591785,Freddy's Pizza,Freddy's,Illinois,41.85799656428571,-87.77673512142857,Cicero,South 61st Avenue,60804
+way,1502737713,Culver's,Culver's,Illinois,40.70635777692308,-89.44502023846154,Washington,North Cummings Lane,61571
+way,1503682471,McDonald's,McDonald's,Illinois,41.491940672727274,-90.48794609090909,Moline,Avenue Of The Cities,61265-4418
+way,1511173578,McDonald's,McDonald's,Illinois,41.47037792,-90.5263791,Moline,41st Avenue Drive,61265
+way,1534020381,McDonald's,McDonald's,Illinois,42.388081354545456,-87.85490203636363,Waukegan,North Lewis Avenue,60085
+way,1536577373,Freddy's,Freddy's,Illinois,38.313235299999995,-88.95733024285713,,,
+way,1537784390,McDonald's,McDonald's,Illinois,42.172906575000006,-88.42809902083333,Huntley,Route 47,60142
+way,1547588001,Culver's,Culver's,Illinois,40.17580612222222,-87.63066575555554,Danville,North Vermilion Street,61832
+way,1575919161,Five Guys,Five Guys,Illinois,42.011581112500004,-87.7133104125,Lincolnwood,West Touhy Avenue,60712

@@ -1,0 +1,225 @@
+osm_type,osm_id,name,brand,state_query,latitude,longitude,city,street,postcode
+node,462048569,McDonald's,McDonald's,Kansas,38.3613791,-98.7841819,,,
+node,569442510,McDonald's,McDonald's,Kansas,37.3673772,-97.3224201,Belle Plaine,"N. I-35, Milepost 25",67013
+node,824085436,McDonald's,McDonald's,Kansas,39.0195587,-95.5092728,Tecumseh,,66542
+node,885342625,,Five Guys,Kansas,37.7305768,-97.4620208,,,
+node,1013072809,McDonald's,McDonald's,Kansas,38.8653793,-98.8536318,Russell,South Fossil Street,67665
+node,1251754341,McDonald's,McDonald's,Kansas,37.031899,-100.9214337,Liberal,East Pancake,67901-4114
+node,1408027135,McDonald's,McDonald's,Kansas,38.4053672,-96.1959148,Emporia,West 6th Avenue,66801
+node,1429619098,McDonald's,McDonald's,Kansas,37.6659552,-97.2449343,Wichita,South Rock Road,67207
+node,1482556291,McDonald's,McDonald's,Kansas,37.9755426,-100.8533294,Garden City,Kansas Plaza,67846-6234
+node,1482648618,McDonald's,McDonald's,Kansas,37.975374,-100.8830302,Garden City,North Taylor Avenue,67846-4017
+node,1707742734,McDonald's,McDonald's,Kansas,38.8542769,-94.7605662,Olathe,West 151st Street,66062
+node,1798898756,McDonald's,McDonald's,Kansas,37.3428078,-95.2587147,,,
+node,2166197518,McDonald's,McDonald's,Kansas,38.9714706,-94.7404129,Lenexa,West 87th Parkway,66215-4536
+node,2219686081,Five Guys,Five Guys,Kansas,38.9110404,-94.7593127,Olathe,West 119th Street,66062
+node,2282726690,McDonald's,McDonald's,Kansas,37.8133047,-94.7059249,,,
+node,2291762457,Five Guys,Five Guys,Kansas,39.0560141,-94.612105,Kansas City,Rainbow Boulevard,66103
+node,2458960180,McDonald's,McDonald's,Kansas,38.0860801,-97.9183223,Hutchinson,East 30th Street,67502-8432
+node,2467238848,McDonald's,McDonald's,Kansas,39.1169386,-94.7546913,Kansas City,State Avenue,66112
+node,2476134522,McDonald's,McDonald's,Kansas,38.8268121,-97.624558,Salina,South Broadway,67401
+node,2572510608,McDonald's,McDonald's,Kansas,38.423825,-96.2176394,Emporia,West 18th,66801
+node,2572580357,Freddy's,Freddy's,Kansas,38.4052329,-96.1978138,,West 6th Avenue,66801
+node,2670074399,McDonald's,McDonald's,Kansas,38.9859747,-94.6077279,Kansas City,State Line Road,64114-1636
+node,2716567021,McDonald's,McDonald's,Kansas,37.6942467,-97.2611678,Wichita,East Central Avenue,67206
+node,2918134534,McDonald's,McDonald's,Kansas,38.8268064,-97.5936777,Salina,East Crawford,67401
+node,3295942861,Freddy's,Freddy's,Kansas,37.677785,-97.4256213,,South Ridge Road,67209
+node,3754914063,Five Guys,Five Guys,Kansas,38.9632965,-94.6671668,,,
+node,3835263037,McDonald's,McDonald's,Kansas,38.5707929,-94.8572635,Paola,,66071
+node,4186889279,Freddy's,Freddy's,Kansas,38.7968869,-97.6135879,,,
+node,4727106437,Freddy's,Freddy's,Kansas,38.3621244,-98.7799323,Great Bend,10th Street,67530
+node,4846371575,McDonald's,McDonald's,Kansas,37.5491646,-97.2435779,Derby,North Rock Road,67037
+node,5017684723,McDonald's,McDonald's,Kansas,39.0505359,-94.6115943,Kansas City,Rainbow Boulevard,66103-3112
+node,5189832551,Freddy's,Freddy's,Kansas,37.5692977,-97.2437354,,,
+node,5248005310,McDonald's,McDonald's,Kansas,38.0645104,-97.9010656,Hutchinson,East 11th Avenue,67501
+node,5615439875,McDonald's,McDonald's,Kansas,37.6451955,-98.7155342,,,
+node,5615528801,McDonald's,McDonald's,Kansas,38.0149592,-97.9392014,South Hutchinson,South Main Street,67505
+node,5692035903,McDonald's,McDonald's,Kansas,39.0127701,-99.8909349,WaKeeney,South 1st Street,67672
+node,6564297827,McDonald's,McDonald's,Kansas,37.0080674,-94.736396,,,
+node,8193050002,Five Guys,Five Guys,Kansas,38.9284267,-95.2590753,Lawrence,West 31st Street,66046
+node,8270453294,Five Guys,Five Guys,Kansas,39.0214668,-94.6640267,Mission,Barkley Street,66202
+node,9170021596,McDonald's,McDonald's,Kansas,37.6483056,-97.3323536,,,
+node,9170798670,Freddy's Frozen Custard & Steakburgers,Freddy's,Kansas,38.9270872,-94.717606,Overland Park,College Boulevard,
+node,9241882490,McDonald's,McDonald's,Kansas,37.2240048,-95.7112117,,,
+node,10253345386,Freddy's,Freddy's,Kansas,37.7200243,-97.3635706,,North Amidon Avenue,
+node,10733553094,Five Guys,Five Guys,Kansas,38.7832636,-97.6118583,Salina,South 9th Street,67401
+node,11298392509,McDonald's,McDonald's,Kansas,37.6915436,-97.4439526,Wichita,North Tyler Road,67212-3633
+node,11436139967,McDonald's,McDonald's,Kansas,37.5667887,-97.3515742,Haysville,North Main Street,67060
+node,11457647972,McDonald's,McDonald's,Kansas,37.6936212,-97.1361753,,,
+node,11466027788,McDonald's,McDonald's,Kansas,37.6769404,-97.3890728,Wichita,South West,67213-2108
+node,11919444545,Whataburger,Whataburger,Kansas,38.8830973,-94.7495498,,West 135th Street,
+node,11997191651,McDonald's,McDonald's,Kansas,37.0332614,-95.6194988,,West 11th Street,67337-5905
+node,12288194155,McDonald's,McDonald's,Kansas,37.1673549,-94.8312421,,South East Avenue,66725
+node,12291998735,McDonald's,McDonald's,Kansas,37.7092465,-97.3902117,,North West Street,67212
+node,12292021199,McDonald's,McDonald's,Kansas,37.6818614,-97.3359879,,South Broadway Avenue,67202-3909
+node,12292036383,McDonald's,McDonald's,Kansas,37.2747616,-97.3756551,,East 16th Street,67152
+node,12292044387,McDonald's,McDonald's,Kansas,37.6640008,-97.2984603,,South Hillside Street,67211-4019
+node,12292052413,McDonald's,McDonald's,Kansas,38.0575108,-97.9307546,,East 4th Avenue,67501-6933
+node,12292058402,McDonald's,McDonald's,Kansas,37.7788562,-100.0166533,,Central Avenue,67801
+node,12292204095,McDonald's,McDonald's,Kansas,39.0112708,-95.688255,,,66611-2124
+node,12292217066,McDonald's,McDonald's,Kansas,37.6668361,-95.453864,,West 14th Street,66720
+node,12292218882,McDonald's,McDonald's,Kansas,38.8839346,-94.8064477,,,66061
+node,12292229691,McDonald's,McDonald's,Kansas,38.9926177,-94.7130294,,West 75th Street,66214
+node,12710075031,Culver's,Culver's,Kansas,39.1900373,-96.5488604,Manhattan,,66502
+node,12781980889,Culver's,Culver's,Kansas,39.2673988,-94.9145966,Leavenworth,Eisenhower Road,66048
+node,12781980905,Culver's,Culver's,Kansas,38.8822479,-94.7789154,Olathe,South Mur-Len Road,66062
+node,13067960344,Five Guys,Five Guys,Kansas,39.046018,-95.7621734,Topeka,Southwest Wanamaker Road,66604
+node,13660456057,Five Guys,Five Guys,Kansas,37.736199,-97.2450952,,,67226
+node,13786978550,McDonald's,McDonald's,Kansas,38.0187376,-97.337151,,,
+node,13932514879,Culver's,Culver's,Kansas,37.7495841,-97.2440415,Wichita,North Rock Road,67226
+node,14307082516,Whataburger,Whataburger,Kansas,38.7872279,-94.9268773,Gardner,South Gardner Road,66030
+way,42308178,McDonald's,McDonald's,Kansas,39.128069288888895,-94.82459002222224,Kansas City,Parallel Parkway,66111
+way,44904587,McDonald's,McDonald's,Kansas,39.01910427777777,-95.13690918888888,Lawrence,Kansas Turnpike,66044
+way,45507980,McDonald's,McDonald's,Kansas,37.72348306,-97.24370424,Wichita,East 21st Court,67226
+way,95356970,Culver's,Culver's,Kansas,39.12802988823529,-94.82059161176468,Kansas City,Prairie Crossing,66111
+way,101480901,Freddy's,Freddy's,Kansas,38.85435205,-94.80554420000003,Olathe,West 151st Street,66062
+way,102065261,McDonald's,McDonald's,Kansas,38.88405913333334,-94.78006830000001,Sante,East,66062
+way,102923634,Culver's,Culver's,Kansas,38.884508469230774,-94.68486293846155,Overland Park,West 135th Street,66223
+way,102923867,Culver's,Culver's,Kansas,38.98359975714286,-94.6078833857143,Kansas City,State Line Road,64114
+way,102923917,Culver's,Culver's,Kansas,38.92396096923077,-95.26126049999999,Lawrence,West 33rd Street,66046
+way,102923994,Culver's,Culver's,Kansas,38.85426391666666,-94.8033219,Olathe,West 151st Street,66062
+way,104897753,McDonald's,McDonald's,Kansas,39.19026164545455,-96.61054264545454,Manhattan,Westloop Place,66502
+way,109964835,McDonald's,McDonald's,Kansas,37.74752732,-97.24530992,Wichita,North Rock Road,67226
+way,114293455,McDonald's,McDonald's,Kansas,38.92961264285714,-94.72421018571428,Overland Park,Quivira Road,66210-1290
+way,116398414,McDonald's,McDonald's,Kansas,38.857815853846155,-94.81508502307695,Olathe,South Hamilton Circle,66061
+way,117393724,McDonald's,McDonald's,Kansas,38.90960425882353,-94.77224094705883,Olathe,South Strang Line Road,66062
+way,119862802,McDonald's,McDonald's,Kansas,38.89554512307692,-99.31685188461537,Hays,North Vine Street,67601
+way,120054818,McDonald's,McDonald's,Kansas,39.08672764285715,-94.88246925714284,Bonner Springs,South 130th,66012-9233
+way,120374639,McDonald's,McDonald's,Kansas,39.036917776923076,-95.76124467692307,Topeka,Southwest Wanamaker Road,66604
+way,122485076,McDonald's,McDonald's,Kansas,37.66357145384615,-97.22673613846153,Wichita,South Webb Road,67207
+way,126172022,McDonald's,McDonald's,Kansas,38.37146514444444,-97.62935707777778,,,
+way,130943915,McDonald's,McDonald's,Kansas,39.33173594444444,-101.72540591111111,Goodland,Enterprise Road,67735
+way,131697750,McDonald's,McDonald's,Kansas,37.1524918,-98.0397078857143,,,
+way,139052596,McDonald's,McDonald's,Kansas,37.67347588181818,-97.41603409999999,Wichita,West Kellogg Drive,67209
+way,139052597,McDonald's,McDonald's,Kansas,37.67982002352941,-96.9841364764706,,,
+way,139052599,McDonald's,McDonald's,Kansas,37.678574042857136,-97.19914262857144,Wichita,East Kellogg Drive,67207
+way,141913742,McDonald's,McDonald's,Kansas,39.563133228571424,-97.65786065714285,Concordia,Lincoln Street,66901
+way,144832465,McDonald's,McDonald's,Kansas,37.79222150909091,-97.329147,Park City,Air Cap Drive,67219-2105
+way,144836110,McDonald's,McDonald's,Kansas,37.630841454545454,-97.31650093636364,Wichita,South Hydraulic,67216
+way,153124855,Freddy's,Freddy's,Kansas,37.708047799999996,-97.20376482,Wichita,East 13th Street North,67206
+way,155017185,McDonald's,McDonald's,Kansas,39.366411361538454,-101.05628786153845,Colby,South Range Avenue,67701
+way,161930828,Freddy's,Freddy's,Kansas,38.94314245882353,-95.25980997647059,Lawrence,West 23rd Street,66046
+way,168658670,Freddy's,Freddy's,Kansas,39.189946400000004,-96.55541414000001,Manhattan,McCall Road,66502
+way,170670868,McDonald's,McDonald's,Kansas,39.116206039999994,-94.6723686,Kansas City,State Avenue,66102-3830
+way,180129289,McDonald's,McDonald's,Kansas,39.04536602,-95.72520124,Topeka,Southwest Gage Boulevard,66604
+way,184799785,McDonald's,McDonald's,Kansas,39.021900562499994,-94.6632848,Mission,Johnson Drive,66202
+way,195470049,Freddy's,Freddy's,Kansas,39.0486564,-95.76092163333333,Topeka,Southwest Wanamaker Road,66604
+way,195742993,McDonald's,McDonald's,Kansas,39.0438963,-95.67619711111111,Topeka,South Kansas Avenue,66612
+way,196252759,Five Guys,Five Guys,Kansas,38.911058360000006,-94.66713686,Overland Park,Metcalf Avenue,66213
+way,196461148,McDonald's,McDonald's,Kansas,38.9135124,-94.63918247999999,Leawood,West 119th Street,66209
+way,198739334,McDonald's,McDonald's,Kansas,39.01531582,-95.7154854,Topeka,Southwest 29th Street,66614
+way,201518358,McDonald's,McDonald's,Kansas,37.22758558,-96.99560604000001,,Pike Road,67156
+way,202173321,McDonald's,McDonald's,Kansas,39.02856118,-96.83628078,Junction City,West 6th Street,66441-3051
+way,203048009,Freddy's,Freddy's,Kansas,37.81710538,-96.87271569999999,,,
+way,203542513,McDonald's,McDonald's,Kansas,37.085074320000004,-97.03963234,Arkansas City,North Summit Street,67005
+way,203885384,McDonald's,McDonald's,Kansas,39.01555184,-95.6511282,Topeka,Southeast California Avenue,66605
+way,204197303,McDonald's,McDonald's,Kansas,39.01358443333333,-95.76284387777778,Topeka,Southwest Wanamaker Road,66614
+way,204197388,McDonald's,McDonald's,Kansas,39.028839055999995,-95.74971178,Topeka,Southwest 21st Street,66604
+way,210234046,McDonald's,McDonald's,Kansas,38.81307433333333,-94.88975344444444,Gardner,West 174th Street,66030
+way,210528833,McDonald's,McDonald's,Kansas,38.88509791176471,-94.68706897647058,Overland Park,West 135th Street,66223
+way,218961994,McDonald's,McDonald's,Kansas,38.94247005714285,-95.24468878571427,Lawrence,West 23rd Street,66046
+way,218982343,McDonald's,McDonald's,Kansas,38.97274986666666,-95.2502627111111,Lawrence,West 6th Street,66044
+way,219358913,McDonald's,McDonald's,Kansas,38.970941469230766,-95.30757588461537,Lawrence,West 6th Street,66049
+way,219637466,McDonald's,McDonald's,Kansas,38.92498181818182,-95.26121056363637,Lawrence,Iowa Street,66047
+way,230445400,McDonald's,McDonald's,Kansas,39.12996798571429,-95.71656342857143,Topeka,Northwest 46th Street,66618
+way,254525120,McDonald's,McDonald's,Kansas,38.98915511999999,-94.66812752000001,Overland Park,Metcalf Avenue,66204-2930
+way,258414370,McDonald's,McDonald's,Kansas,38.93773914545455,-97.21329047272728,Abilene,North Buckeye Avenue,67410
+way,262313651,McDonald's,McDonald's,Kansas,38.97084744285714,-94.69784789999999,Overland Park,West 87th Street,66212
+way,266069319,McDonald's,McDonald's,Kansas,39.187174600000006,-96.5611281,Manhattan,North 4th Street,66502
+way,266256051,McDonald's,McDonald's,Kansas,37.69500614,-97.29948935,Wichita,North Hillside,67214
+way,289660314,Freddy's,Freddy's,Kansas,38.9146715,-94.76058812000001,Olathe,South Blackbob Road,66062
+way,292129268,McDonald's,McDonald's,Kansas,38.8550223,-94.67920767999999,Overland Park,West 151st Street,66223-2118
+way,317405550,McDonald's,McDonald's,Kansas,37.05807117142857,-100.92299442857141,Liberal,North Kansas,67901
+way,318893898,Freddy's,Freddy's,Kansas,38.883322050000004,-94.67120715,Overland Park,West 135th Street,66223
+way,318896096,McDonald's,McDonald's,Kansas,38.885038370000004,-94.72310593999998,Overland Park,West 135th Street,66210
+way,319011636,McDonald's,McDonald's,Kansas,38.88613702857143,-94.60741185714286,Kansas City,State Line Road,64145
+way,319048807,McDonald's,McDonald's,Kansas,38.913808128571425,-94.67015314285713,Overland Park,West 119th Street,66213-1116
+way,320472150,McDonald's,McDonald's,Kansas,38.883211146153855,-94.83523686923078,Olathe,North Parker Street,66061
+way,334107019,McDonald's,McDonald's,Kansas,37.437878739999995,-94.70445124,Pittsburg,North Broadway Street,66762
+way,335633925,McDonald's,McDonald's,Kansas,38.92966408333333,-94.66710283333333,Overland Park,Metcalf Avenue,66211
+way,336756583,McDonald's,McDonald's,Kansas,38.99254965714287,-94.69567787142856,Overland Park,West 75th Street,66204
+way,385267761,McDonald's,McDonald's,Kansas,39.11583452222223,-94.63069606666667,Kansas City,Minnesota Avenue,66101-2609
+way,385780194,McDonald's,McDonald's,Kansas,38.878357140000006,-97.61101624,Salina,East Diamond Drive,67401
+way,388937097,McDonald's,McDonald's,Kansas,38.95711402,-94.67194021999998,Overland Park,Foster Street,66212-2232
+way,392145758,McDonald's,McDonald's,Kansas,37.684764277777774,-97.3524952888889,Wichita,North Seneca,67208
+way,398859698,Five Guys,Five Guys,Kansas,37.68566088,-97.32539693999999,Wichita,East Douglas Avenue,67202
+way,418250801,McDonald's,McDonald's,Kansas,38.80205526,-97.61367646,Salina,Planet,67401-7350
+way,430888203,McDonald's,McDonald's,Kansas,37.65122319999999,-97.35222456470588,Wichita,South Seneca Avenue,67216
+way,435093259,McDonald's,McDonald's,Kansas,37.576079805263156,-101.35851467368423,Ulysses,,
+way,435366353,McDonald's,McDonald's,Kansas,38.971459679999995,-94.77279019999997,Lenexa,West 87th Street Parkway,66215
+way,469559336,Five Guys,Five Guys,Kansas,38.9542238,-94.72102963333333,Overland Park,West 95th Street,66214
+way,469731009,McDonald's,McDonald's,Kansas,39.84255126,-95.52659464000001,,,
+way,470508895,Freddy's,Freddy's,Kansas,38.89519624,-99.31850166000001,,North Vine Street,
+way,480322500,McDonald's,McDonald's,Kansas,38.912289380000004,-94.79365487999999,Olathe,West 119th Street,66061
+way,484388118,McDonald's,McDonald's,Kansas,37.607512959999994,-97.33350102,Wichita,South Broadway,67216-3713
+way,485988794,Culver's,Culver's,Kansas,39.020175699999996,-94.6671623375,Mission,Metcalf Avenue,66202
+way,503490286,McDonald's,McDonald's,Kansas,39.28600381428571,-94.90430590000003,Leavenworth,South 4th Street Trafficway,66048-5005
+way,513038414,McDonald's,McDonald's,Kansas,39.08730614444444,-94.6254081111111,Kansas City,South 7th Street,66105-2001
+way,574638584,McDonald's,McDonald's,Kansas,38.957028900000005,-94.72022817777777,Overland Park,West 95th Street,66214
+way,578792531,McDonald's,McDonald's,Kansas,38.86997997142858,-99.31846595714286,Hays,Vine Street,67601-3452
+way,604419205,McDonald's,McDonald's,Kansas,37.9217377,-95.4086425,,,
+way,613885886,McDonald's,McDonald's,Kansas,39.0217684,-94.68894094285714,Merriam,Johnson Drive,66202
+way,619024137,Five Guys,Five Guys,Kansas,39.184048680000004,-96.55758594,Manhattan,Tuttle Creek Boulevard,66502
+way,620654435,McDonald's,McDonald's,Kansas,39.56117706470588,-95.12302161176473,,,
+way,620921048,McDonald's,McDonald's,Kansas,39.052127999999996,-94.6805823,Kansas City,Shawnee Drive,66106
+way,621258114,Freddy's,Freddy's,Kansas,39.014593072727266,-94.68895775454547,Merriam,Shawnee Mission Parkway,66203
+way,623065332,McDonald's,McDonald's,Kansas,39.009850921428566,-94.7745682642857,Shawnee,West 65th Street,66217
+way,623991427,McDonald's,McDonald's,Kansas,39.014111080000006,-94.72197933428572,Shawnee,West 63rd Street,66203
+way,632316350,Freddy's,Freddy's,Kansas,38.9717177,-94.77437444,Lenexa,W 87th St. Pkwy,66219
+way,655502935,Freddy's,Freddy's,Kansas,39.02222887777778,-96.81829701111111,Junction City,East Chestnut Street,
+way,667474521,Freddy's,Freddy's,Kansas,39.254149520000006,-94.90047618,,,
+way,680081962,McDonald's,McDonald's,Kansas,38.5801724888889,-95.26845717777779,,,
+way,702505533,McDonald's,McDonald's,Kansas,38.62025542857143,-94.69197997142858,Louisburg,West Amity Street,66053
+way,710770786,McDonald's,McDonald's,Kansas,37.7528508,-100.02351472,Dodge City,West Wyatt Earp Boulevard,67801-4249
+way,727761626,McDonald's,McDonald's,Kansas,37.72263480952381,-97.42823051428572,Wichita,West 21st Street,67206
+way,728194449,McDonald's,McDonald's,Kansas,38.05791851111111,-97.34567332222223,Newton,,
+way,747908596,McDonald's,McDonald's,Kansas,39.008348299999994,-94.84490578,Shawnee,West 66th Street,66226
+way,768399535,McDonald's,McDonald's,Kansas,37.81780561111111,-96.8769785,,,
+way,797565644,McDonald's,McDonald's,Kansas,38.961928611764705,-94.98194311176472,De Soto,Commerce Drive,66018
+way,854020581,McDonald's,McDonald's,Kansas,37.6500734,-97.3896862,,South West Street,67217
+way,854551595,Freddy's,Freddy's,Kansas,37.6909836,-97.2440698,,,
+way,904923908,Shake Shack,Shake Shack,Kansas,38.91337896,-94.64595802,Overland Park,West 119th Street,66209
+way,908956260,Freddy's,Freddy's,Kansas,38.935086277777785,-94.64010723333332,Overland Park,Roe Avenue,66211
+way,915276188,Culver's,Culver's,Kansas,38.97047212105263,-94.77097013157893,Lenexa,West 87th Street Parkway,66219
+way,981180844,Freddy's,Freddy's,Kansas,37.631910659999996,-97.37011576,Wichita,South Meridian Avenue,67217
+way,985429269,McDonald's,McDonald's,Kansas,37.71596651428572,-97.2994387,Wichita,North Hillside Street,67214-2317
+way,988064798,McDonald's,McDonald's,Kansas,39.20967214545454,-96.30455012727272,Wamego,US 24,66545
+way,1004142701,McDonald's,McDonald's,Kansas,37.78205488571429,-97.3732987,Wichita,West 53rd Street,67204
+way,1007457954,Freddy's,Freddy's,Kansas,38.07180266,-97.90178076,Hutchinson,East 17th Avenue,67501
+way,1055268879,McDonald's,McDonald's,Kansas,37.39677394,-94.70452103999999,Pittsburg,South Broadway Street,66762
+way,1086480236,McDonald's,McDonald's,Kansas,38.985980892307694,-94.60770253076923,,,
+way,1122155047,Whataburger,Whataburger,Kansas,38.95610348888889,-94.66710358888888,Overland Park,Metcalf Avenue,66212
+way,1123454509,Whataburger,Whataburger,Kansas,39.12901097500001,-94.82897792857146,Kansas City,Parallel Parkway,66109
+way,1127534901,Whataburger,Whataburger,Kansas,38.884217240000005,-94.68353494,Overland Park,West 135th Street,66223
+way,1140757412,McDonald's,McDonald's,Kansas,37.17029322857143,-101.33717644285716,Stevens County,East 11th Street,67951
+way,1144247124,Whataburger,Whataburger,Kansas,38.83914548,-94.67927956000001,Overland Park,West 159th Street,66223
+way,1144443833,Five Guys,Five Guys,Kansas,38.83861838,-94.67772486,Overland Park,West 159th Terrace,66223
+way,1144443835,Freddy's,Freddy's,Kansas,38.83921406666666,-94.68057634444443,Overland Park,West 159th Terrace,66223
+way,1149251496,McDonald's,McDonald's,Kansas,39.84191012,-96.05709332,,,
+way,1161049213,McDonald's,McDonald's,Kansas,39.085233980000005,-95.66602981999999,Topeka,North Topeka,66608-1828
+way,1169446635,McDonald's,McDonald's,Kansas,37.72208370526316,-97.46208165789471,Wichita,West 21st Street North,67212
+way,1182141813,McDonald's,McDonald's,Kansas,39.03603711818182,-94.63929118181818,Roeland Park,Roe Avenue,66205
+way,1195429829,Freddy's,Freddy's,Kansas,38.582209814285704,-95.26722738571428,Ottawa,South Princeton Street,66067
+way,1215449166,McDonald's,McDonald's,Kansas,37.723708469230765,-97.3636386,Wichita,North Amidon,67203
+way,1245272357,McDonald's,McDonald's,Kansas,39.08903824,-94.67620165999999,Kansas City,Kansas Avenue,66106
+way,1245849180,Freddy's,Freddy's,Kansas,37.985477319999994,-100.83367811999999,,,
+way,1250043182,McDonald's,McDonald's,Kansas,37.54916956153847,-97.24360783846154,,,
+way,1307388553,Freddy's Frozen Custard,Freddy's,Kansas,37.72243649999999,-97.44259332222222,Wichita,West 21st Street North,67205
+way,1313629173,Whataburger,Whataburger,Kansas,38.942296863636365,-95.24385427272728,Lawrence,West 23rd Street,66046
+way,1318487600,Freddy's,Freddy's,Kansas,38.028690819999994,-97.33847882,,,
+way,1328590908,McDonald's,McDonald's,Kansas,37.66363346000001,-97.57233074,,West Kellog Drive,67052
+way,1339075272,Freddy's,Freddy's,Kansas,38.81131594285715,-94.91720350000001,,,
+way,1369025133,Whataburger,Whataburger,Kansas,38.922736588235296,-94.64956039411766,Overland Park,Nall Avenue,66211
+way,1374421216,McDonald's,McDonald's,Kansas,38.957212240000004,-94.63001276,Leawood,West 95th,66206
+way,1380574711,Culver's,Culver's,Kansas,39.04853784285714,-95.76229688571429,Topeka,Southwest Wanamaker Road,66604
+way,1382799937,McDonald's,McDonald's,Kansas,37.55208862222222,-97.27217952222222,Derby,North Baltimore,67037-1818
+way,1388152991,McDonald's,McDonald's,Kansas,39.009131972727275,-96.83451673636364,Junction City,South Washington Street,66441
+way,1394866953,Culver's,Culver's,Kansas,38.784704633333334,-94.92780015555556,Gardner,Gardner Road,66030
+way,1411638342,McDonald's,McDonald's,Kansas,37.723653139999996,-97.20865614,Wichita,East 21st Street North,67226
+way,1413303571,McDonald's,McDonald's,Kansas,37.72365549999999,-97.20869017999999,,,
+way,1414333589,Freddy's,Freddy's,Kansas,39.12799554,-94.80759964,Kansas City,North 98th Street,66111
+way,1414989873,Culver's,Culver's,Kansas,37.741069780000004,-97.46168630000003,Wichita,North Maize Road,67205
+way,1432598055,Freddy's,Freddy's,Kansas,37.39504597142858,-94.70541348571429,,,
+way,1487236884,Five Guys,Five Guys,Kansas,39.1255634625,-94.8261098375,Kansas City,Village West Parkway,66111
+way,1494484663,Culver's,Culver's,Kansas,37.57977294285714,-97.24493925714286,Derby,North Rock Road,67037
+way,1564859414,Shake Shack,Shake Shack,Kansas,39.0135793,-94.68838473999999,Merriam,Shawnee Mission Parkway,66202

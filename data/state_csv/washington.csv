@@ -1,0 +1,307 @@
+osm_type,osm_id,name,brand,state_query,latitude,longitude,city,street,postcode
+node,418778904,McDonald's,McDonald's,Washington,47.6713987,-122.1142552,Redmond,Redmond Way,98052-4448
+node,506902314,McDonald's,McDonald's,Washington,47.1801787,-122.5465397,Lakewood,Steilacoom Boulevard Southwest,98498-6156
+node,516472243,McDonald's,McDonald's,Washington,48.0017318,-122.105255,Lake Stevens,Highway 9,98258
+node,724831176,McDonald's,McDonald's,Washington,46.1843297,-119.1743121,Kennewick,South Quillan Street,99337
+node,735982605,McDonald's,McDonald's,Washington,47.695046,-122.3745952,Seattle,Holman Road Northwest,98117
+node,741503291,McDonald's,McDonald's,Washington,47.0424726,-122.892666,Olympia,Plum Street Southeast,98501
+node,876672201,McDonald's,McDonald's,Washington,46.6038532,-120.5310162,Yakima,West Lincoln,98902
+node,1025425606,Five Guys,Five Guys,Washington,47.8495129,-122.2716803,Lynnwood,164th Street Southwest,98087
+node,1271663198,Shake Shack,Shake Shack,Washington,47.6163433,-122.2019456,Bellevue,Bellevue Way Northeast,98004
+node,1396603005,McDonald's,McDonald's,Washington,47.1399747,-119.2779555,Moses Lake,North Stratford Road,98837-1511
+node,1695295873,McDonald's,McDonald's,Washington,48.1015578,-119.7856706,,,
+node,1728576391,McDonald's,McDonald's,Washington,47.5853864,-122.2345236,Mercer Island,78th Avenue Southeast,98040-2818
+node,2100739171,McDonald's,McDonald's,Washington,46.953405,-122.93498,Tumwater,93rd Avenue Southwest,98512
+node,2102155092,McDonald's,McDonald's,Washington,47.8395478,-122.2982668,Lynnwood,Highway 99,98037
+node,2137824762,Five Guys,Five Guys,Washington,47.7918827,-122.2179064,Bothell,228th Street Southeast,98021
+node,2174319374,Five Guys,Five Guys,Washington,48.1516385,-122.192233,Marysville,171st Place Northeast,98271
+node,2197329416,McDonald's,McDonald's,Washington,48.2391872,-122.3297761,,,
+node,2327723251,Shake Shack,Shake Shack,Washington,47.6170156,-122.338426,Seattle,Westlake Avenue,98121
+node,2378427050,McDonald's,McDonald's,Washington,46.8013546,-123.0114322,Rochester,Old Highway 99 Southwest,98579
+node,2404231092,McDonald's,McDonald's,Washington,47.6107012,-122.3383912,Seattle,3rd Avenue,98101
+node,2410070366,McDonald's,McDonald's,Washington,48.7889292,-122.4432483,Bellingham,East Bakerview Road,98226
+node,2461755946,Five Guys,Five Guys,Washington,47.7029915,-122.3250769,Seattle,Northeast 103rd Street,98125
+node,2627336275,Five Guys,Five Guys,Washington,47.671315,-122.1117027,Redmond,Northeast Redmond Way,98052
+node,2710921747,McDonald's,McDonald's,Washington,46.7299874,-122.978263,,,
+node,2776043428,Five Guys,Five Guys,Washington,47.0368366,-122.9388327,Olympia,Cooper Point Southwest,98502
+node,2934750078,Five Guys,Five Guys,Washington,47.820909,-122.3158528,Lynnwood,Pacific Highway,98036
+node,2946891285,McDonald's,McDonald's,Washington,48.0797414,-122.188119,,,
+node,3075663833,McDonald's,McDonald's,Washington,48.4353065,-122.3126064,Mount Vernon,East College Way,98273
+node,3202483560,Five Guys,Five Guys,Washington,48.4511122,-122.337581,Burlington,Marketplace Drive,98233
+node,3326287919,Five Guys,Five Guys,Washington,47.7114885,-122.1914273,Kirkland,Northeast 124th Street,98034
+node,3415435795,McDonald's,McDonald's,Washington,48.5016699,-122.2579413,Sedro-Woolley,Hodgin Street,98284
+node,3605902827,Five Guys,Five Guys,Washington,47.4500167,-122.2618816,Tukwila,Southcenter Parkway,98188
+node,3618175320,McDonald's,McDonald's,Washington,47.3863806,-122.1976534,Kent,Southeast 240th Street,98031-5380
+node,3655104605,Five Guys,Five Guys,Washington,47.6577315,-117.1956454,Spokane,North Sullivan Road,99223
+node,3658233931,McDonald's,McDonald's,Washington,45.6235211,-122.5629998,,,
+node,3674108591,McDonald's,McDonald's,Washington,48.1812787,-122.1275327,Arlington,Northeast,98223
+node,3712362986,McDonald's,McDonald's,Washington,48.0530258,-122.1863033,Marysville,33rd Avenue Northeast,98271
+node,3792253610,McDonald's,McDonald's,Washington,47.1957885,-120.9525287,,West 1st Street,98922
+node,3834610712,McDonald's,McDonald's,Washington,46.3754615,-120.3229362,,,
+node,3885206759,Five Guys,Five Guys,Washington,48.7893899,-122.5130382,Bellingham,West Bakerview Road,98226
+node,3903603208,Five Guys,Five Guys,Washington,45.6165838,-122.4764633,Vancouver,Southeast Mill Plain Boulevard,98683
+node,3905855643,McDonald's,McDonald's,Washington,45.6693673,-120.8347758,,,
+node,4142027461,Five Guys,Five Guys,Washington,47.3139269,-122.3091297,Federal Way,South Commons,98003
+node,4285567570,McDonald's,McDonald's,Washington,47.1485093,-122.2925373,Puyallup,South Meridian,98373-3541
+node,4313613200,McDonald's,McDonald's,Washington,47.5895639,-117.5640061,Spokane,West Aero Road,99224
+node,4378621824,Five Guys,Five Guys,Washington,47.7442954,-117.4060841,Spokane,North Newport Highway,99218
+node,4381346202,McDonald's,McDonald's,Washington,47.8377303,-122.1245821,Snohomish,Highway 9 Southeast,98296
+node,4478462352,McDonald's,McDonald's,Washington,46.6758604,-122.9774737,,,
+node,4631101390,McDonald's,McDonald's,Washington,47.6893767,-117.1961834,Spokane,North Sullivan Road,99216
+node,5067615423,McDonald's,McDonald's,Washington,47.6196111,-122.3487399,Seattle,4th Avenue North,98109
+node,5659540992,Five Guys,Five Guys,Washington,47.86475,-121.976933,Monroe,North Kelsey Street,98272
+node,5877098599,Five Guys,Five Guys,Washington,47.2219048,-122.4663597,Tacoma,Tacoma Mall Boulevard,98409
+node,6617248034,McDonald's,McDonald's,Washington,47.5344282,-122.5962651,Port Orchard,Southeast Mile Hill Drive,98366-3920
+node,6708935005,Five Guys,Five Guys,Washington,46.5753217,-120.4899316,Yakima,South 1st Street,98903
+node,7261908310,Five Guys,Five Guys,Washington,46.2586599,-119.310498,Richland,Queensgate Drive,99352
+node,7925577768,McDonald's,McDonald's,Washington,46.2844704,-122.9005055,,,
+node,9213346512,McDonald's,McDonald's,Washington,46.6781341,-122.96262,,,
+node,9477229305,McDonald's,McDonald's,Washington,47.5718287,-122.6622777,Bremerton,Kitsap Way,98312-2861
+node,9657090552,Five Guys,Five Guys,Washington,47.628793,-122.142561,Redmond,148th Avenue Northeast,98052
+node,10724712193,McDonald's,McDonald's,Washington,47.1178884,-118.3673739,,,
+node,10800588664,Five Guys,Five Guys,Washington,45.6562314,-122.5867662,Vancouver,Northeast Vancouver Mall Drive,98662
+node,11090877804,In n Out Pho,In-N-Out,Washington,47.8795192,-122.2086285,,,
+node,11137336256,Five Guys,Five Guys,Washington,47.5213713,-122.3667225,Seattle,Southwest Barton Street,98126
+node,11268526530,McDonald's,McDonald's,Washington,48.7343381,-122.4704381,Bellingham,Samish Way,98225
+node,11436721271,Five Guys,Five Guys,Washington,47.6547514,-122.6935364,Silverdale,Kitsap Mall Boulevard Northwest,98383
+node,11980075512,McDonald's,McDonald's,Washington,47.689046,-122.712184,Silverdale,Pampana Street,98315
+node,11980089292,Five Guys,Five Guys,Washington,47.2253962,-122.5366114,University Place,Market Place West,98466
+node,11980093835,Five Guys,Five Guys,Washington,47.0402127,-122.8376447,Lacey,Pacific Avenue Southeast,98503
+node,12096171455,Five Guys,Five Guys,Washington,47.7422778,-122.3482352,Shoreline,Westminster Way North,98133
+node,12776924897,Shake Shack,Shake Shack,Washington,45.6046678,-122.5045786,,,
+node,12968716656,Five Guys,Five Guys,Washington,47.7546328,-122.1576776,Woodinville,Northeast 175th Street,98072
+node,13308291771,McDonald's,McDonald's,Washington,45.8161511,-122.6888106,,,
+node,13355499588,Shake Shack,Shake Shack,Washington,47.2171558,-122.4671769,,,
+node,13375107511,Five Guys,Five Guys,Washington,47.0396418,-122.8349158,Lacey,Pacific Avenue Southeast,98503
+node,13729033694,McDonald's,McDonald's,Washington,47.184594,-122.2557286,,,
+way,26958358,McDonald's,McDonald's,Washington,47.7528438882353,-122.1534142117647,Woodinville,140th Avenue Northeast,98072
+way,29261614,McDonald's,McDonald's,Washington,47.12161798181818,-122.43529980909094,Spanaway,Pacific Avenue South,98444-4657
+way,32802403,McDonald's,McDonald's,Washington,47.255134250000005,-122.4454905625,Tacoma,Tacoma Avenue South,98402-2204
+way,37275172,McDonald's,McDonald's,Washington,47.5214118125,-122.3663362125,Seattle,Southwest Barton Street,98106
+way,40876609,McDonald's,McDonald's,Washington,47.222038081818184,-122.4744945090909,Tacoma,South 38th Street,98409
+way,41831158,McDonald's,McDonald's,Washington,47.15689296,-122.43501068,Tacoma,Pacific Avenue,98444
+way,42389302,McDonald's,McDonald's,Washington,47.31556130769232,-122.30334252307694,Federal Way,South 320th Street,98003
+way,42422633,McDonald's,McDonald's,Washington,47.47117894,-122.21264488,Renton,South Grady Way,98057
+way,42479179,McDonald's,McDonald's,Washington,47.30115054444445,-122.22414526666665,Auburn,Auburn Way South,98002
+way,45818723,McDonald's,McDonald's,Washington,47.22216340909092,-122.5374893090909,University Place,Bridgeport Way West,98466
+way,46420356,McDonald's,McDonald's,Washington,47.24252513,-122.52674299999998,University Place,19th Street West,98466
+way,52063348,McDonald's,McDonald's,Washington,47.15704032857143,-122.40102334999999,Tacoma,22nd Avenue East,98445
+way,52063585,McDonald's,McDonald's,Washington,47.234013520000005,-122.50240959,Tacoma,Center Street,98409
+way,52067509,McDonald's,McDonald's,Washington,47.255818877777784,-122.52155053333331,Tacoma,6th Avenue,98406
+way,52637916,McDonald's,McDonald's,Washington,46.342294436842096,-124.05426813157892,,,
+way,53038470,McDonald's,McDonald's,Washington,47.677568068,-117.28213053599997,Spokane,North Argonne Road,99212-2337
+way,56959466,McDonald's,McDonald's,Washington,47.436717188888885,-120.32414897777777,Wenatchee,North Mission Street,98801
+way,67594662,McDonald's,McDonald's,Washington,46.14291028,-122.89585611999999,Kelso,Kelso Drive,98626-3111
+way,86366568,McDonald's,McDonald's,Washington,47.16333171818182,-122.48309793636363,Tacoma,Pacific Highway Southwest,98499
+way,98568688,McDonald's,McDonald's,Washington,47.581477064285714,-122.32952252142859,Seattle,4th Avenue South,98134
+way,104008701,McDonald's,McDonald's,Washington,47.61490587272727,-122.03617296363636,Sammamish,228th Avenue Northeast,98074
+way,104071711,McDonald's,McDonald's,Washington,47.5766246,-122.38702055714286,Seattle,California Avenue Southwest,98116
+way,105953078,McDonald's,McDonald's,Washington,47.59834507142857,-120.65632555714285,,,
+way,119506047,McDonald's,McDonald's,Washington,47.48830477142858,-121.79411219999999,North Bend,Southwest Mt Si Boulevard,98045
+way,120864587,McDonald's,McDonald's,Washington,47.69856717272727,-117.41056912727272,Spokane,North Division Street,99207-1503
+way,130353128,McDonald's,McDonald's,Washington,47.16730528,-122.14891832,Bonney Lake,Highway 410,98391
+way,143526504,McDonald's,McDonald's,Washington,46.6807841,-123.7388657857143,Raymond,Willapa Pl Way,98577
+way,147334574,McDonald's,McDonald's,Washington,47.699972249999995,-122.02535164999999,Redmond,Northeast Novelty Hill Road,98053-5500
+way,159410073,McDonald's,McDonald's,Washington,45.692748619999996,-122.66392106,Vancouver,Northeast 98th Circle,98665
+way,161392170,McDonald's,McDonald's,Washington,47.79708647142858,-122.2120491761905,Bothell,17th Avenue Southeast,98021
+way,161888052,McDonald's,McDonald's,Washington,47.62758128,-122.15460776,Bellevue,Northeast 20th Street,98005-2012
+way,162931720,McDonald's,McDonald's,Washington,47.45440357692307,-122.26303853846154,Tukwila,Southcenter Parkway,98188
+way,163534884,McDonald's,McDonald's,Washington,47.868335679999994,-121.777161,,Highway 2,
+way,165410189,McDonald's,McDonald's,Washington,46.07562866,-118.30293342,Walla Walla,East Isaacs Avenue,99362-2216
+way,166445840,McDonald's,McDonald's,Washington,47.28933428888889,-122.31747563333334,Federal Way,Pacific Highway South,98003
+way,172217686,McDonald's,McDonald's,Washington,47.80117692857142,-122.50087959999999,Kingston,Northeast State Highway 104,98346
+way,173545438,McDonald's,McDonald's,Washington,47.46266442,-122.33343166,Burien,1st Avenue South,98148
+way,174323362,McDonald's,McDonald's,Washington,47.658007999999995,-122.68601123333332,Silverdale,Silverdale Way Northwest,98383
+way,186994722,McDonald's,McDonald's,Washington,45.71524290666665,-122.65240123333334,Vancouver,Northeast Highway 99,98686
+way,200527751,McDonald's,McDonald's,Washington,46.97699973333334,-123.80433563333334,Aberdeen,E Wishkah Street,98520
+way,201028146,McDonald's,McDonald's,Washington,47.35790518181818,-122.10859291818183,Covington,Southeast 272nd Street,98042
+way,201713905,McDonald's,McDonald's,Washington,46.99766803076923,-122.90845692307691,Tumwater,Capitol Boulevard South,98501
+way,201844349,McDonald's,McDonald's,Washington,46.97557640666667,-123.86695596666667,,,
+way,204487373,McDonald's,McDonald's,Washington,47.63537553529412,-122.51485598235294,Bainbridge Island,High School Road Northeast,98110-1622
+way,204515055,McDonald's,McDonald's,Washington,47.393164742857145,-122.04642201428571,Maple Valley,Maple Valley Black Diamond Road Southeast,98038
+way,205724257,McDonald's,McDonald's,Washington,47.46637315,-122.287797275,Tukwila,International Boulevard,98188
+way,206454312,McDonald's,McDonald's,Washington,48.783961636363635,-122.48721139090908,Bellingham,Bellis Fair Parkway,98226-5560
+way,207101046,McDonald's,McDonald's,Washington,46.5995997,-120.58779018,Yakima,Summitview Avenue,98908-3043
+way,210898741,McDonald's,McDonald's,Washington,47.88136606923077,-122.24136403076923,,128th Street Southwest,
+way,210899612,McDonald's,McDonald's,Washington,47.84999979999999,-122.21832476666665,Mill Creek,Bothell-Everett Highway,98012
+way,217586004,McDonald's,McDonald's,Washington,47.66824754444445,-122.37311765555559,Seattle,14th Avenue Northwest,98107
+way,218405056,McDonald's,McDonald's,Washington,48.15310072,-122.18183772,Arlington,172nd Street Northeast,98223
+way,219348132,McDonald's,McDonald's,Washington,48.4484334857143,-122.33619238571428,Burlington,Market Place Drive,98233
+way,220189794,McDonald's,McDonald's,Washington,48.08378657391304,-122.17346354782609,Marysville,State Avenue,98270
+way,220759234,McDonald's,McDonald's,Washington,47.859144712500004,-121.96806422499999,Monroe,State Route 2,98272
+way,220912188,McDonald's,McDonald's,Washington,47.6676782,-122.30035275714286,Seattle,25th Avenue Northeast,98105
+way,222273533,McDonald's,McDonald's,Washington,47.9822372,-122.20258156,Everett,Everett Avenue,98201-3650
+way,222583798,McDonald's,McDonald's,Washington,47.708301320000004,-122.331647152,Seattle,North Northgate Way,98133
+way,224047548,McDonald's,McDonald's,Washington,46.241012500000004,-119.1204036909091,Pasco,West Court Street,99301-3937
+way,224053606,McDonald's,McDonald's,Washington,47.54536686,-122.05862133999999,Issaquah,Northwest Gilman Boulevard,98027-5308
+way,224144893,McDonald's,McDonald's,Washington,47.54332185555556,-122.38688278888887,Seattle,California Avenue Southwest,98136
+way,224300902,McDonald's,McDonald's,Washington,46.27141863999999,-119.18499594,Pasco,Road 68,99301
+way,224762137,McDonald's,McDonald's,Washington,46.285529728571426,-119.27508404285716,Richland,George Washington Way,99352
+way,225768629,McDonald's,McDonald's,Washington,47.53726790909091,-122.16616087272725,Newcastle,Newcastle Way,98056
+way,226293123,McDonald's,McDonald's,Washington,47.6434791235294,-117.57804211764709,Airway Heights,West Sunset Highway,99001
+way,228292083,McDonald's,McDonald's,Washington,47.520320215384615,-122.26695815384618,Seattle,Rainier Avenue South,98118
+way,228547524,McDonald's,McDonald's,Washington,47.54556654999999,-122.28607198181821,Seattle,Martin Luther King Junior Way South,98118
+way,228744779,McDonald's,McDonald's,Washington,47.58161415,-122.30007216666668,Seattle,25th Avenue South,98144
+way,230289001,McDonald's,McDonald's,Washington,47.50207192,-117.56550566000001,,,
+way,230353216,McDonald's,McDonald's,Washington,47.04427051428571,-122.83324461428573,Lacey,Sleater Kinney Road Southeast,98503
+way,230376459,McDonald's,McDonald's,Washington,47.04575705999999,-122.93372508,Olympia,Harrison Avenue Northwest,98502
+way,230381129,McDonald's,McDonald's,Washington,46.99599892,-122.82691890000001,Lacey,Whitman Lane Southeast,98513
+way,230779819,McDonald's,McDonald's,Washington,47.037482714285716,-122.80315745714286,Lacey,Pacific Avenue Southeast,98503
+way,232715390,McDonald's,McDonald's,Washington,48.511393815384615,-122.61224298461538,Anacortes,Commercial Avenue,98221
+way,233554621,McDonald's,McDonald's,Washington,46.604782388888886,-122.90423717777776,Chehalis,Kirkland Road,98532
+way,233695015,McDonald's,McDonald's,Washington,47.05905956666666,-122.76511793333333,Lacey,Marvin Road Northeast,98516
+way,236761133,McDonald's,McDonald's,Washington,45.58457968333334,-122.36987386666668,Camas,Northeast 3rd Avenue,98607
+way,243451294,McDonald's,McDonald's,Washington,47.77567035555555,-122.31207025555553,Seattle,Ballinger Way Northeast,98155-1143
+way,254500211,McDonald's,McDonald's,Washington,46.42018300000001,-117.04231224,Clarkston,Bridge Street,99403-1929
+way,256475422,McDonald's,McDonald's,Washington,46.94467746,-122.61221504,Yelm,Yelm Avenue West,98597
+way,258907639,McDonald's,McDonald's,Washington,47.00781998571428,-124.16208982857142,,Point Brown Avenue Northeast,
+way,259850033,McDonald's,McDonald's,Washington,48.41709824,-119.50754420000001,,,
+way,260174918,McDonald's,McDonald's,Washington,47.193683945454545,-122.29252777272728,Puyallup,2nd Street Northeast,98372-3008
+way,260227694,McDonald's,McDonald's,Washington,47.16028888499999,-122.30321805999999,Puyallup,South Hill Park Drive,98373
+way,260547964,McDonald's,McDonald's,Washington,47.31185675714285,-119.55738865714285,,,
+way,260560700,McDonald's,McDonald's,Washington,47.233069379999996,-119.85432996,,,
+way,261631198,Five Guys,Five Guys,Washington,47.199772519999996,-122.2942874,Puyallup,North Meridian,98371
+way,261739061,McDonald's,McDonald's,Washington,46.7396448,-117.17125544000001,Pullman,Northeast Stadium Way,99163
+way,277661820,McDonald's,McDonald's,Washington,46.71479039230769,-117.18169153846154,Pullman,Grand Avenue South,99163-4905
+way,283021297,McDonald's,McDonald's,Washington,47.70031204705882,-117.44362675294117,Spokane,West Wellesley Avenue,99205
+way,290092166,McDonald's,McDonald's,Washington,47.87771427272728,-122.18752206363637,Mill Creek,132nd Street Southeast,98012
+way,290274593,McDonald's,McDonald's,Washington,48.93625758095238,-122.48490172380954,Lynden,Guide Meridian Road,98264
+way,290573383,McDonald's,McDonald's,Washington,47.89051261764707,-122.28468636470586,Mukilteo,Harbour Pointe Boulevard Southwest,98275
+way,306006247,McDonald's,McDonald's,Washington,46.145944400000005,-122.92472028000002,Longview,Ocean Beach Highway,98632
+way,306163689,McDonald's,McDonald's,Washington,46.155034057142856,-122.9830504857143,Longview,38th Avenue,98632
+way,309142851,McDonald's,McDonald's,Washington,47.73866,-122.34582302857143,Shoreline,Aurora Avenue North,98133-6123
+way,309291915,McDonald's,McDonald's,Washington,47.8043355037037,-122.32898781481481,Edmonds,Highway 99,98026
+way,309955636,McDonald's,McDonald's,Washington,47.73419883333333,-122.29298916666666,Shoreline,Bothell Way Northeast,98155-7605
+way,310957424,McDonald's,McDonald's,Washington,45.91116928571429,-122.74682159999998,Woodland,Pacific Avenue,98674
+way,313914239,McDonald's,McDonald's,Washington,47.62854877142857,-117.36828108571429,Spokane,East 29th Avenue,99223
+way,314032197,McDonald's,McDonald's,Washington,47.61085294374999,-117.36764074375003,Spokane,South Regal Street,99203
+way,315166274,McDonald's,McDonald's,Washington,47.29623721538462,-122.24851471538463,Auburn,Outlet Collection Way Southwest,98001
+way,315989452,McDonald's,McDonald's,Washington,48.10826190625001,-122.78044831874999,Port Townsend,West Sims Way,98368
+way,322098832,McDonald's,McDonald's,Washington,48.75553054,-122.46308587333336,Bellingham,King Street,98225-4237
+way,327181869,McDonald's,McDonald's,Washington,47.67979084705882,-122.17659553529411,Kirkland,124th Avenue Northeast,98033
+way,327338914,McDonald's,McDonald's,Washington,47.731588114285714,-122.1740936857143,Kirkland,Northeast 144th Street,98034
+way,327913642,McDonald's,McDonald's,Washington,47.722680079999996,-122.20737251999999,Kirkland,100th Avenue Northeast,98034
+way,330753367,McDonald's,McDonald's,Washington,47.79100970857142,-122.36876395714285,Edmonds,Edmonds Way,98020
+way,331548920,McDonald's,McDonald's,Washington,47.50425156363636,-122.15975136363637,Renton,Northeast Sunset Boulevard,98059
+way,331549782,McDonald's,McDonald's,Washington,47.82034533461538,-122.26860471153849,Lynnwood,196th Street Southwest,98036
+way,335468579,McDonald's,McDonald's,Washington,47.669785239999996,-117.10520412000001,Liberty Lake,North Liberty Lake Road,99019
+way,338196278,McDonald's,McDonald's,Washington,47.664892859999995,-117.19719484,Veradale,North Sullivan Road,99037
+way,339200457,McDonald's,McDonald's,Washington,47.656922200000004,-117.34632854000002,Spokane,South Havana Street,99202
+way,342128799,McDonald's,McDonald's,Washington,47.35995903999999,-122.02025647999999,Maple Valley,Maple Valley Black Diamond Road Southeast,98038
+way,348101069,McDonald's,McDonald's,Washington,47.48794787391305,-122.1752606434783,Renton,Northeast 4th Street,98056
+way,353969831,McDonald's,McDonald's,Washington,47.501277614285705,-122.35441709999999,Burien,Southwest 114th Street,98146
+way,356870738,McDonald's,McDonald's,Washington,47.239958539999996,-122.48170522000001,Tacoma,South Union Avenue,98405
+way,357956393,McDonald's,McDonald's,Washington,47.62586880833334,-122.62938994166666,Bremerton,State Highway 303 Northeast,98311
+way,358974448,McDonald's,McDonald's,Washington,47.50231294545454,-122.64383565454546,Port Orchard,Bravo Terrace,98367
+way,362439948,McDonald's,McDonald's,Washington,48.08277802,-121.9750485,Granite Falls,West Stanley Street,98252
+way,366608265,McDonald's,McDonald's,Washington,45.78042034545454,-122.54353755454544,,,
+way,366837969,Five Guys,Five Guys,Washington,47.49873681111111,-122.20305105555556,Renton,North 10th Place,98057
+way,367290011,McDonald's,McDonald's,Washington,48.46846218181818,-122.34372416363635,Burlington,Nevitt Road,98233
+way,370325914,McDonald's,McDonald's,Washington,45.642795340000006,-122.60130634,Vancouver,Northeast Andresen Road,98661
+way,373164962,McDonald's,McDonald's,Washington,47.53199626666666,-122.19517185833335,Renton,Northeast 44th Street,98056
+way,375694815,McDonald's,McDonald's,Washington,48.09106934,-122.18624052,Marysville,Quil Ceda Boulevard,98271
+way,383528557,McDonald's,McDonald's,Washington,47.100404579999996,-122.20983638,Orting,Washington Avenue North,98360
+way,384615697,McDonald's,McDonald's,Washington,47.58121714999999,-122.13614563333333,Bellevue,156th Avenue Southeast,98007
+way,384623748,McDonald's,McDonald's,Washington,47.573158279999994,-122.16891449999999,Bellevue,Factoria Boulevard,98006
+way,384770386,McDonald's,McDonald's,Washington,45.63886850000001,-122.6485603,Vancouver,East Fourth Plain Boulevard,98661
+way,385793211,McDonald's,McDonald's,Washington,47.24158224666667,-122.36107818000002,Fife,51st Avenue East,98424
+way,386826509,McDonald's,McDonald's,Washington,45.662830853846145,-122.55881293846151,Vancouver,Northeast Gher Road,98684
+way,387041462,McDonald's,McDonald's,Washington,45.61882395833334,-122.53742368333336,Vancouver,Southeast 131st Avenue,98684
+way,390292347,McDonald's,McDonald's,Washington,47.622572585714295,-122.13291785714286,Bellevue,156th Avenue Northeast,98004
+way,396483074,McDonald's,McDonald's,Washington,47.37202815757575,-122.20503775757575,Kent,Southeast 256th Street,98030
+way,397666163,McDonald's,McDonald's,Washington,45.67165358181818,-122.50882657272729,Vancouver,Northeast 159th Avenue;Northeast Fourth Plain Boulevard,98682
+way,402104100,McDonald's,McDonald's,Washington,47.67474333333334,-117.4260615,Spokane,North Monroe,99205-4528
+way,403704129,McDonald's,McDonald's,Washington,47.758038899999995,-122.2447543,Kenmore,Bothell Way Northeast,98028
+way,404339935,McDonald's,McDonald's,Washington,47.688368159999996,-117.36477619999998,Spokane,North Market Street,99217
+way,404682843,McDonald's,McDonald's,Washington,47.653220914285725,-117.4205878,Spokane,West 3rd Avenue,99204
+way,405810206,McDonald's,McDonald's,Washington,47.7159403,-117.42585417999999,Spokane,North Monroe Street,99208
+way,407605563,McDonald's,McDonald's,Washington,47.67252478333334,-117.39690405,Spokane,North Hamilton Street,99207
+way,409971972,McDonald's,McDonald's,Washington,47.5527348,-122.04349085714284,Issaquah,East Lake Sammamish Parkway Southeast,98027
+way,410158419,McDonald's,McDonald's,Washington,47.3592369,-122.60572739999999,Gig Harbor,Borgen Boulevard,98332
+way,414304321,McDonald's,McDonald's,Washington,47.307284922222216,-122.57694866666667,Gig Harbor,Olympic Drive,98335-3638
+way,415202419,McDonald's,McDonald's,Washington,47.7418455,-117.41002504285714,Spokane,North Newport Highway,99212
+way,417460036,Five Guys,Five Guys,Washington,45.67881221428571,-122.66776562857142,Vancouver,Northeast 78th Street,98665
+way,419616290,McDonald's,McDonald's,Washington,47.73893561999999,-117.48539194,Spokane,North Indian Trail Road,99208
+way,422166336,McDonald's,McDonald's,Washington,47.785720516666665,-117.35305596666666,Mead,North Newport Highway,99021
+way,432327512,McDonald's,McDonald's,Washington,47.925807192307694,-122.22532303846153,Everett,Evergreen Way,98203
+way,444224467,Freddy's,Freddy's,Washington,46.13388868,-122.93517584000001,,,
+way,447918259,McDonald's,McDonald's,Washington,47.26818985384617,-122.5153095923077,Tacoma,North Pearl Street,98406-2549
+way,451427321,McDonald's,McDonald's,Washington,47.656638,-117.26382244000001,Spokane Valley,East Sprague Avenue,99206
+way,452151473,McDonald's,McDonald's,Washington,46.64716916666667,-120.52995115999997,Selah,South 1st Street,98942
+way,453130306,McDonald's,McDonald's,Washington,47.71261908,-122.186043,Kirkland,116th Avenue Northeast,98034-4313
+way,457491324,McDonald's,McDonald's,Washington,47.090704871428564,-122.64569992857142,DuPont,Wilmington Drive,98327
+way,458008558,McDonald's,McDonald's,Washington,47.68908082,-122.71221444,,,
+way,465342135,McDonald's,McDonald's,Washington,45.603517023076925,-122.50343523076921,Vancouver,Southeast 165th Avenue,98683
+way,479409275,McDonald's,McDonald's,Washington,45.67374796,-122.66358912000001,Vancouver,Northeast Highway 99,98665
+way,486319225,McDonald's,McDonald's,Washington,47.10110035555556,-119.24726043333334,Moses Lake,Kittleson Road Northeast,98837
+way,489626232,McDonald's,McDonald's,Washington,47.07227443333333,-122.41899881111112,Spanaway,Mountain Highway,98387
+way,496774070,McDonald's,McDonald's,Washington,47.226302520000004,-123.12444874,,,
+way,503144440,McDonald's,McDonald's,Washington,46.586519499999994,-120.49664588,Yakima,South 1st Street,98901-3503
+way,507709975,McDonald's,McDonald's,Washington,48.18422212,-117.0401957,Newport,West Walnut Street,99156
+way,521549904,McDonald's,McDonald's,Washington,47.32163628,-122.22210018000001,Auburn,Auburn Way North,98002
+way,533242380,McDonald's,McDonald's,Washington,47.516647666666664,-122.31449076666667,Seattle,Des Moines Memorial Drive South,98108
+way,538414591,McDonald's,McDonald's,Washington,47.597605400000006,-122.62904558571428,Bremerton,Wheaton Way,98310
+way,542587496,McDonald's,McDonald's,Washington,46.05502412,-118.34674781999999,Walla Walla,South 9th Avenue,99362
+way,554472434,McDonald's,McDonald's,Washington,47.09942934761904,-122.29283440476192,Puyallup,Meridian East,98375
+way,555333808,McDonald's,McDonald's,Washington,47.96378672727272,-122.20858707272728,Everett,Colby Avenue,98201-4929
+way,565644218,McDonald's,McDonald's,Washington,47.818955700000004,-122.29309592,Lynnwood,44th Avenue West,98036
+way,568390872,McDonald's,McDonald's,Washington,47.1663321,-122.51852804736843,Tacoma,100th Street Southwest,98499
+way,578243705,Five Guys,Five Guys,Washington,47.16529746,-122.51090178,Lakewood,Lakewood Towne Center Boulevard,98499
+way,578574004,McDonald's,McDonald's,Washington,46.404181946153855,-120.2762312923077,,,
+way,582603309,McDonald's,McDonald's,Washington,47.03330454666666,-122.94025629333333,Olympia,Cooper Point Road Southwest,98502
+way,586717727,McDonald's,McDonald's,Washington,47.408159080000004,-120.28832901999999,East Wenatchee,Valley Mall Parkway,98802
+way,601496852,McDonald's,McDonald's,Washington,47.18985301818182,-122.51141016363636,Lakewood,Custer Road Southwest,98467
+way,624333384,McDonald's,McDonald's,Washington,48.10726473333333,-123.40311948888888,,East Front Street,98362
+way,640583659,McDonald's,McDonald's,Washington,47.44519025555556,-122.15125666666667,Renton,Southeast Petrovitsky Road,98058
+way,640771045,McDonald's,McDonald's,Washington,47.446233719999995,-122.19813384,Renton,Southeast 174th Street,98055
+way,649041304,McDonald's,McDonald's,Washington,47.38083981538462,-122.2485233076923,Kent,West Meeker Street,98032
+way,649790419,McDonald's,McDonald's,Washington,47.354892660000004,-122.31169788,Federal Way,Pacific Highway South,98003
+way,652715894,McDonald's,McDonald's,Washington,47.24376735,-122.21168918999999,Auburn,Lake Tapps Parkway Southeast,98092
+way,653093122,McDonald's,McDonald's,Washington,47.273379639999995,-122.22838256,Auburn,A Street Southeast,98002
+way,653645138,McDonald's,McDonald's,Washington,47.41271183333333,-122.22866658000001,Kent,South 212th Street,98032
+way,653707114,McDonald's,McDonald's,Washington,47.39793871764705,-122.2953236411765,Des Moines,Pacific Highway South,98198
+way,654412343,McDonald's,McDonald's,Washington,47.25195293076923,-122.29460103076924,Milton,Meridian Avenue East,98354
+way,654879786,McDonald's,McDonald's,Washington,47.484104366666664,-122.21789525555556,Renton,Rainier Avenue South,98057
+way,661312524,McDonald's,McDonald's,Washington,48.84862375714287,-122.57325435714286,Ferndale,Main Street,98248
+way,669386283,McDonald's,McDonald's,Washington,46.980473939999996,-120.54470532,,,
+way,675334841,McDonald's,McDonald's,Washington,46.2203856,-119.78879873999999,,,
+way,676187348,McDonald's,McDonald's,Washington,46.22625548,-119.20809768000001,Kennewick,North Kellogg Street,99336-7691
+way,687283778,McDonald's,McDonald's,Washington,47.198983340000005,-121.97827327999998,Enumclaw,Roosevelt Avenue East,98022
+way,688499107,McDonald's,McDonald's,Washington,47.86267828,-122.28258607999999,Picnic Point-North Lynnwood,Highway 99,98087
+way,712534101,Shake Shack,Shake Shack,Washington,47.677669881818176,-122.2002157,Kirkland,Peter Kirk Lane,98033
+way,722938461,McDonald's,McDonald's,Washington,46.25710386,-119.31173604,Richland,Queensgate Drive,99352
+way,723862570,McDonald's,McDonald's,Washington,46.26076938888889,-119.2852382,Richland,Wellsian Way,99352
+way,773825914,McDonald's,McDonald's,Washington,46.22808354285714,-119.2434202142857,Kennewick,North Steptoe,99336
+way,780580880,McDonald's,McDonald's,Washington,46.209648873333336,-119.22273956666666,Kennewick,West Clearwater,99336-1642
+way,784349901,McDonald's,McDonald's,Washington,46.20897707142858,-119.15823268571428,Kennewick,West Kennewick Avenue,99336
+way,787352376,McDonald's,McDonald's,Washington,47.09669791428571,-122.35830355714286,Tacoma,Canyon Parkway East,98446
+way,793090685,McDonald's,McDonald's,Washington,47.77317587142857,-117.40203897142855,Spokane,North State Route 395,99218
+way,859949026,McDonald's,McDonald's,Washington,46.60236062,-120.50676863999999,Yakima,East Yakima Avenue,98901
+way,861227965,Shake Shack,Shake Shack,Washington,47.66354246666667,-122.2998042,,,
+way,863467828,McDonald's,McDonald's,Washington,47.94415965555556,-117.47789815555555,,,
+way,870631320,McDonald's,McDonald's,Washington,46.32241827142856,-119.99107582857144,,,
+way,882060641,McDonald's,McDonald's,Washington,48.533950319999995,-117.90425764,,,
+way,986335129,Dusty's In-N-Out,In-N-Out,Washington,47.307852780000005,-119.56120428,,,
+way,998035947,McDonald's,McDonald's,Washington,45.81244158571428,-120.80846342857141,,,
+way,1005944668,McDonald's,McDonald's,Washington,47.20253294,-122.23024316000001,Sumner,Main Street,98390-1820
+way,1030458418,McDonald's,McDonald's,Washington,46.56738344285714,-120.48524365714287,Union Gap,South 1st Street,98903
+way,1030493536,McDonald's,McDonald's,Washington,46.618383,-120.56168830769231,Yakima,River Road,98902
+way,1034321199,McDonald's,McDonald's,Washington,47.19162924,-122.43373473000001,Tacoma,Pacific Avenue,98408-7114
+way,1037488208,McDonald's,McDonald's,Washington,47.44266341666667,-122.30283519999999,,,
+way,1041820747,McDonald's,McDonald's,Washington,48.079345230769235,-123.11905220769232,Sequim,South 7th Avenue,98382
+way,1171049487,Five Guys,Five Guys,Washington,47.54343656,-122.05011467999998,Issaquah,Northwest Gilman Boulevard,98027
+way,1218395201,McDonald's,McDonald's,Washington,47.74944827142857,-122.65526825714286,Poulsbo,Viking Ave NW,98370
+way,1268216499,McDonald's,McDonald's,Washington,48.305262400000004,-122.64428938571427,Oak Harbor,Northeast Midway Boulevard,98277
+way,1283099015,Shake Shack,Shake Shack,Washington,47.82863418000001,-122.26917816,Lynnwood,Alderwood Mall Parkway,98037
+way,1331527434,McDonald's,McDonald's,Washington,46.254661539999994,-119.8851171,,,
+way,1338277044,McDonald's,McDonald's,Washington,47.92327684,-122.09743996000002,Snohomish,Avenue D,98290
+way,1365785835,McDonald's,McDonald's,Washington,47.1224547,-122.55301655454547,Lakewood,Union Avenue Southwest,98498
+way,1383659377,McDonald's,McDonald's,Washington,47.455350554545454,-122.81882575454546,Belfair,Northeast State Route 3,98528
+way,1393742819,McDonald's,McDonald's,Washington,46.82659300666668,-119.16846554666667,,,
+way,1432702724,McDonald's,McDonald's,Washington,47.157470720000006,-122.0369827,,,
+way,1454793829,In-N-Out Burger,In-N-Out,Washington,45.81835096470587,-122.68843414705883,Ridgefield,North Pioneer Canyon Drive,98642
+way,1477002039,McDonald's,McDonald's,Washington,48.993665060000005,-122.7336613,Blaine,Grant Avenue,98230
+way,1551217286,McDonald's,McDonald's,Washington,47.184608839999996,-122.25581858000001,,,
+way,1566715415,McDonald's,McDonald's,Washington,47.656809519999996,-117.22410195999998,Spokane Valley,East Sprague Avenue,
+way,1568553076,In-N-Out Burger,In-N-Out,Washington,45.61900638125,-122.53331033749998,Vancouver,Southeast 3rd Way,98684
+way,1576374683,McDonald's,McDonald's,Washington,47.908179776923085,-122.22688203846154,Everett,South Everett Mall Way,98204-2782

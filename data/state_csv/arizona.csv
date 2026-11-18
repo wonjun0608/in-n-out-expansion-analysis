@@ -1,0 +1,486 @@
+osm_type,osm_id,name,brand,state_query,latitude,longitude,city,street,postcode
+node,1457198991,Five Guys,Five Guys,Arizona,33.3803996,-111.7546686,Mesa,South Val Vista Drive,85204
+node,1978717990,McDonald's,McDonald's,Arizona,34.5542714,-112.4080715,,,
+node,2045384800,McDonald's,McDonald's,Arizona,33.6121413,-112.420502,Surprise,North Prasada Gateway,85388
+node,2120305893,McDonald's,McDonald's,Arizona,33.5799628,-112.0133451,Phoenix,North 32nd Street,85028
+node,2291919012,Five Guys,Five Guys,Arizona,33.3051421,-111.899963,Chandler,West Chandler Boulevard,85226
+node,2319068301,Noodles and Co.,Five Guys,Arizona,33.583083,-111.976577,,,
+node,2321311581,McDonald's,McDonald's,Arizona,33.606996,-112.064281,Phoenix,East Thunderbird Road,85022
+node,2391078492,Five Guys,Five Guys,Arizona,33.4239832,-111.9401765,Tempe,Mill Avenue,85281
+node,2469618312,Five Guys,Five Guys,Arizona,33.4479296,-112.074837,Phoenix,West Jefferson Street,85003
+node,2607325535,McDonald's,McDonald's,Arizona,33.5515901,-112.1793246,Glendale,West Northern Avenue,85301
+node,2676605108,McDonald's,McDonald's,Arizona,32.9395449,-111.7558924,,North Pinal Avenue,85122
+node,2955853297,McDonald's,McDonald's,Arizona,33.3585974,-111.467375,Gold Canyon,East US Highway 60;East United States Highway 60,85118
+node,3507893972,McDonald's,McDonald's,Arizona,33.5264835,-112.1317454,Phoenix,North 35th Avenue,85017
+node,3622852512,McDonald's,McDonald's,Arizona,33.6422558,-112.358403,Surprise,West Bell Road,85374
+node,3728806870,McDonald's,McDonald's,Arizona,33.5087485,-112.0461776,Phoenix,East Camelback Road,85016
+node,3789379511,McDonald's,McDonald's,Arizona,32.4245653,-111.0430058,Marana,West Tangerine Road,85742
+node,3793037722,McDonald's,McDonald's,Arizona,32.4593924,-111.2167512,Marana,North Sandario Road,85653
+node,3972840014,McDonald's,McDonald's,Arizona,33.4807048,-111.9856737,Phoenix,East Thomas Road,85018-7608
+node,3975074723,Five Guys,Five Guys,Arizona,33.4780333,-111.9863799,Phoenix,North 44th Street,85008
+node,4256978503,Five Guys,Five Guys,Arizona,33.626572,-111.924996,Scottsdale,North Scottsdale Road,85254
+node,4582197811,McDonald's,McDonald's,Arizona,34.9187688,-110.1518944,,,
+node,4586164294,Shake Shack,Shake Shack,Arizona,33.5033812,-111.9272804,,,
+node,5041582847,McDonald's,McDonald's,Arizona,32.3556584,-111.0892949,,,
+node,5041686224,McDonald's,McDonald's,Arizona,32.3380473,-111.04834,Marana,West Ina Road,85741-2240
+node,5264710550,Five Guys,Five Guys,Arizona,33.251406,-111.8407518,Chandler,South Arizona Avenue,85248
+node,5305894601,Five Guys,Five Guys,Arizona,33.3786935,-112.0310193,Phoenix,East Baseline Road,85042
+node,5326272421,Shake Shack,Shake Shack,Arizona,33.6239548,-111.9285671,Phoenix,North Scottsdale Road,85254
+node,6237140695,Five Guys,Five Guys,Arizona,33.319091,-111.980025,Phoenix,East Ray Road,85044
+node,6374869758,McDonald's,McDonald's,Arizona,34.548783,-112.4394748,Prescott,East State Route 69,86303
+node,6374869773,Five Guys,Five Guys,Arizona,34.5483415,-112.40501,Prescott,Lee Boulevard,86303
+node,6543695419,Shake Shack,Shake Shack,Arizona,33.4343798,-112.0105406,,,
+node,6611925685,McDonald's,McDonald's,Arizona,33.4322785,-111.865709,Mesa,North Dobson Road,85201
+node,6800616594,McDonald's,McDonald's,Arizona,33.4369564,-111.9944336,Phoenix,CONC,85034
+node,6884127366,Five Guys,Five Guys,Arizona,33.6389878,-112.353321,Surprise,West Bell Road,85374
+node,7276128861,McDonald's,McDonald's,Arizona,33.384878,-111.6006748,,,
+node,7573721189,McDonald's,McDonald's,Arizona,33.3809844,-111.803132,Mesa,South Stapley Drive,85204
+node,7742499080,McDonald's,McDonald's,Arizona,33.2898713,-111.837792,Chandler,South Arizona Avenue,85286
+node,7958040521,Five Guys,Five Guys,Arizona,33.2519742,-111.634993,Queen Creek,South Ellsworth Road,85142
+node,8402792034,Five Guys,Five Guys,Arizona,33.4656239,-112.0819311,Phoenix,North 7th Avenue,85007
+node,8551467570,Five Guys,Five Guys,Arizona,33.3923983,-111.6839654,Mesa,South Power Road,85206
+node,8910127050,Five Guys,Five Guys,Arizona,33.6375414,-112.2229953,Peoria,West Bell Road,85382
+node,8979039813,Five Guys,Five Guys,Arizona,33.5368402,-112.2614749,Glendale,West Glendale Avenue,85305
+node,9359048069,Whataburger,Whataburger,Arizona,33.3048547,-111.9682371,Chandler,West Chandler Boulevard,85226
+node,9574022265,McDonald's,McDonald's,Arizona,32.3813982,-111.0476781,Tucson,West Linda Vista Boulevard,85742
+node,9799703371,McDonald's,McDonald's,Arizona,32.3094594,-110.892137,Tucson,North Swan Road,85718-4525
+node,10673733073,Freddy's,Freddy's,Arizona,33.2981352,-111.9002898,Chandler,West Frye Road,85226
+node,10676557585,In-N-Out Burger,In-N-Out,Arizona,33.3064175,-111.891799,Chandler,West Chandler Boulevard,85224
+node,10744182743,Five Guys,Five Guys,Arizona,32.69801,-114.6001112,Yuma,East 16th Street,85365
+node,11151884853,Five Guys,Five Guys,Arizona,33.6398888,-112.0676765,Phoenix,East Bell Road,85022
+node,11180401783,McDonald's,McDonald's,Arizona,33.650208,-112.2345576,,,
+node,11228181515,McDonald's,McDonald's,Arizona,33.4591397,-112.395949,Goodyear,North Estrella Parkway,85338
+node,11374583987,McDonald's,McDonald's,Arizona,33.4702455,-112.2229832,Phoenix,North 75th Avenue,85035
+node,11651509460,McDonald's,McDonald's,Arizona,32.8776402,-111.7116518,Casa Grande,East Florence Boulevard,85122
+node,11663793895,Whataburger,Whataburger,Arizona,32.8790939,-111.7100117,Casa Grande,East Florence Boulevard,85122
+node,11732313747,McDonald's,McDonald's,Arizona,33.363123,-111.9452073,Tempe,West Guadalupe Road,85282
+node,11954426160,McDonald's,McDonald's,Arizona,33.7252021,-112.1157817,Phoenix,West Jomax Road,85085
+node,12061911183,Whataburger,Whataburger,Arizona,33.459368,-112.3918003,Goodyear,North Estrella Parkway,85338
+node,12078802765,Five Guys,Five Guys,Arizona,33.7152351,-112.112695,Phoenix,W Happy Valley Rd,85085
+node,12091886286,Whataburger,Whataburger,Arizona,33.4510001,-111.8390595,Mesa,North Country Club Drive,85201
+node,12103072365,Whataburger,Whataburger,Arizona,33.5815778,-112.1318655,Phoenix,West Peoria Avenue,85029
+node,12202531401,McDonald's,McDonald's,Arizona,33.6393689,-112.3439104,Surprise,West Bell Road,85378
+node,12292057830,McDonald's,McDonald's,Arizona,33.4801782,-112.1108396,,West Thomas Road,85015-5941
+node,12292067626,McDonald's,McDonald's,Arizona,32.1674085,-110.9427402,,South Campbell Avenue,85714
+node,12292078113,McDonald's,McDonald's,Arizona,31.4288428,-110.9623413,,East Frontage Road,85621
+node,12292088230,McDonald's,McDonald's,Arizona,34.7194274,-112.0012403,,,86326
+node,12292088237,McDonald's,McDonald's,Arizona,35.106363,-114.5975479,,,86442
+node,12292089752,McDonald's,McDonald's,Arizona,35.2386186,-111.8219168,,Brannigan Park Road,86015
+node,12292094778,McDonald's,McDonald's,Arizona,33.6809386,-112.238572,,West Deer Valley Road,85382
+node,12292095483,McDonald's,McDonald's,Arizona,33.6385457,-112.2769495,,West Bell Road,85373
+node,12507586096,McDonald's,McDonald's,Arizona,33.4594387,-112.3374369,Avondale,West Rancho Santa Fe Boulevard,85392
+node,12605988274,McDonald's,McDonald's,Arizona,31.3668723,-110.9396805,Nogales,West Mariposa Road,85621
+node,12652795826,McDonald's,McDonald's,Arizona,33.9722158,-112.7250332,Wickenburg,East Wickenburg Way,85390
+node,12781980839,Culver's,Culver's,Arizona,34.2074645,-110.0213027,Show Low,South White Mountain Road,85901
+node,12790327758,Freddy's,Freddy's,Arizona,33.2517499,-111.5639022,San Tan Valley,North Ironwood Road,85140
+node,12995083475,McDonald's,McDonald's,Arizona,33.2626529,-111.7533398,Gilbert,East Queen Creek Road,85298
+node,13125197648,In-N-Out Burger,In-N-Out,Arizona,33.258769,-111.6403705,Queen Creek,East Rittenhouse Road,85242
+node,13168447400,Freddy's,Freddy's,Arizona,33.3058883,-111.7868819,Gilbert,East Williams Field Road,85295
+node,13228123409,Whataburger,Whataburger,Arizona,33.2623075,-111.7883625,Chandler,East Queen Creek Road,85286
+node,13325040707,Five Guys,Five Guys,Arizona,34.5873745,-112.3393508,,,
+node,13337206320,McDonald's,McDonald's,Arizona,32.488108,-114.7827491,San Luis,Main Street,85349
+node,13370503342,Whataburger,Whataburger,Arizona,33.6075613,-112.3585399,Surprise,North Litchfield Road,85379
+node,13513292338,Five Guys,Five Guys,Arizona,33.4579864,-112.5035724,Buckeye,North Verrado Way,85326
+node,13547250073,Whataburger,Whataburger,Arizona,33.6952865,-112.4087016,Surprise,North 163rd Avenue,85387
+node,13607873955,McDonald's,McDonald's,Arizona,33.3500898,-111.6866088,,,
+node,14062117642,Shake Shack,Shake Shack,Arizona,33.4648817,-112.5013381,,,
+node,14129958292,Whataburger,Whataburger,Arizona,33.3755215,-111.721558,Gilbert,North Higley Road,85234
+node,14174495001,Five Guys,Five Guys,Arizona,33.4630063,-112.3575758,Goodyear,North Litchfield Road,85395
+node,14176160642,Five Guys,Five Guys,Arizona,33.503908,-111.9293314,,,
+node,14185334201,Five Guys,Five Guys,Arizona,33.7147218,-112.1131673,,West Happy Valley Road,85085
+node,14259325592,Five Guys,Five Guys,Arizona,33.3063464,-111.7495357,Gilbert,East Williams Field Road,85295
+node,14336356101,In-N-Out Burger,In-N-Out,Arizona,33.1820758,-111.5819846,,North Gary Road,85143
+way,28749296,McDonald's,McDonald's,Arizona,33.32042272941176,-111.96273642352944,Tempe,South Priest Drive,85284
+way,28754433,In-N-Out Burger,In-N-Out,Arizona,33.320474652777776,-111.96416646388886,Chandler,West Ray Road,85226
+way,34155718,McDonald's,McDonald's,Arizona,33.5380026,-112.04715812857141,Phoenix,North 16th Street,85036
+way,37057993,McDonald's,McDonald's,Arizona,33.45117916923077,-112.08215053076923,Phoenix,North 7th Avenue,85003
+way,38314463,In-N-Out Burger,In-N-Out,Arizona,32.2904986,-110.97785995789474,Tucson,North Oracle Road,85705
+way,38655552,McDonald's,McDonald's,Arizona,32.22052176,-110.80444336000001,Tucson,East Broadway,85710-4035
+way,39242195,McDonald's,McDonald's,Arizona,32.22038484285714,-110.77334935714286,Tucson,South Houghton Road,85748
+way,44660049,McDonald's,McDonald's,Arizona,33.43277557272727,-111.87112513636363,Mesa,North Dobson Road,85201
+way,62265096,McDonald's,McDonald's,Arizona,33.626861910526316,-112.01280209999997,Phoenix,East Greenway Road,85032
+way,64888580,McDonald's,McDonald's,Arizona,33.599373155555554,-111.98439238888889,Phoenix,East Cactus Road,85032-7701
+way,64888595,In-N-Out Burger,In-N-Out,Arizona,33.59898259047619,-111.9796745047619,Phoenix,North Tatum Boulevard,85032-7708
+way,64888609,Whataburger,Whataburger,Arizona,33.60061957142857,-111.98010160000001,Phoenix,North Tatum Boulevard,85032
+way,65155675,McDonald's,McDonald's,Arizona,33.46510436,-112.0656197,Phoenix,East McDowell Road,85004
+way,65698980,McDonald's,McDonald's,Arizona,33.565782790476185,-112.06475190952382,Phoenix,North 7th Street,85020
+way,66219807,McDonald's,McDonald's,Arizona,32.250913940000004,-110.95997786000001,Tucson,East Grant,85719-2933
+way,67121992,In-N-Out Burger,In-N-Out,Arizona,33.67906108799999,-111.976784572,Phoenix,North Tatum Boulevard,85050
+way,67392731,Whataburger,Whataburger,Arizona,33.40576291818182,-111.97884361818183,Phoenix,South 48th Street,85040
+way,68170917,Freddy's,Freddy's,Arizona,33.65557317142857,-111.9272131952381,Phoenix,East Mayo Boulevard,85204
+way,68295678,McDonald's,McDonald's,Arizona,33.61031089999999,-112.12024711,Phoenix,West Thunderbird Road,85053
+way,68295755,In-N-Out Burger,In-N-Out,Arizona,33.58240526315789,-112.1198365368421,Phoenix,West Peoria Avenue,85051
+way,71277328,McDonald's,McDonald's,Arizona,33.625379890909095,-111.9437801909091,Scottsdale,East Greenway Road,85254
+way,71277538,McDonald's,McDonald's,Arizona,33.6410434909091,-111.97623519090907,Phoenix,East Bell Road,85254
+way,73105173,McDonald's,McDonald's,Arizona,33.46523775000001,-112.16971062500002,Phoenix,North 51st Avenue,85043
+way,79734178,In-N-Out Burger,In-N-Out,Arizona,33.636481749999994,-111.9197754375,Scottsdale,East Frank Lloyd Wright Boulevard,85255
+way,82697493,McDonald's,McDonald's,Arizona,33.64006647058824,-112.02895167058824,Phoenix,East Bell Road,85032-2411
+way,93160843,McDonald's,McDonald's,Arizona,33.53914960714285,-111.88535851428573,Scottsdale,East Talking Stick Way,85258
+way,96322860,McDonald's,McDonald's,Arizona,33.669999876923086,-112.03170593076923,Phoenix,North Cave Creek Road,85024
+way,97516887,McDonald's,McDonald's,Arizona,33.509788699999994,-112.0847794,Phoenix,West Camelback Road,85013-2207
+way,102923762,Culver's,Culver's,Arizona,33.61166834285714,-112.23684437142857,Peoria,West Ludlow Drive,85381
+way,102923926,Culver's,Culver's,Arizona,33.379952054545456,-111.83957407272725,Mesa,South Country Club Drive,85210
+way,102924045,Culver's,Culver's,Arizona,33.63830492857143,-112.40667618571429,Surprise,West Bell Road,85374
+way,102924105,Culver's,Culver's,Arizona,33.50878793076923,-112.06312079230769,Phoenix,East Camelback Road,85014
+way,102924303,Culver's,Culver's,Arizona,33.683195514285714,-112.09793615714285,Phoenix,West Deer Valley Road,85027
+way,103863601,In-N-Out Burger,In-N-Out,Arizona,33.80051007142857,-112.13008302857145,Phoenix,North North Valley Parkway,85086
+way,103863656,McDonald's,McDonald's,Arizona,33.798974540740744,-112.12786674814815,Phoenix,West Carefree Highway,85086
+way,112964113,McDonald's,McDonald's,Arizona,34.32627964,-112.11967240000001,,,
+way,113486334,In-N-Out Burger,In-N-Out,Arizona,35.18156227857143,-111.66092773571427,Flagstaff,South Milton Road,86001
+way,113486339,Five Guys,Five Guys,Arizona,35.18266336363636,-111.66080942727272,Flagstaff,South Milton Road,86001
+way,124895995,Whataburger,Whataburger,Arizona,33.46546822857143,-112.06356335714285,Phoenix,East McDowell Road,85006
+way,130078649,McDonald's,McDonald's,Arizona,35.97207024,-112.12644906,Grand Canyon Village,State Route 64,86023
+way,130095745,McDonald's,McDonald's,Arizona,36.70782582,-110.25044238000001,,,
+way,132995600,Freddy's,Freddy's,Arizona,35.17509448,-111.66403944000001,Flagstaff,South Beulah Boulevard,86001
+way,134186760,In-N-Out Burger,In-N-Out,Arizona,33.30586995909091,-111.74344450909089,Gilbert,South Market Street,85296;85295
+way,141002701,McDonald's,McDonald's,Arizona,34.86353672222222,-111.80171466666667,,West US Highway 89A,
+way,144441010,McDonald's,McDonald's,Arizona,35.03698015,-110.69759534999999,,,
+way,144449029,McDonald's,McDonald's,Arizona,35.2265675,-111.57981815714287,Flagstaff,North Highway 89,86001
+way,146986464,Whataburger,Whataburger,Arizona,33.64029153333333,-112.01964803333334,Phoenix,East Bell Road,85032
+way,148485495,McDonald's,McDonald's,Arizona,34.24019338181818,-111.32245451818181,,,
+way,148608739,McDonald's,McDonald's,Arizona,33.57416415454546,-111.71446931818181,Fountain Hills,East Shea Boulevard,85268
+way,152233967,McDonald's,McDonald's,Arizona,33.45602072173913,-112.34167884782609,Goodyear,North Dysart Road,85338
+way,152769108,Whataburger,Whataburger,Arizona,33.49510486666667,-112.07992583333333,Phoenix,West Indian School Road,85013
+way,152783075,McDonald's,McDonald's,Arizona,33.509593653333326,-112.20500006666667,Glendale,West Camelback Road,85303
+way,152905145,McDonald's,McDonald's,Arizona,32.26481175555555,-109.8410746888889,Willcox,West Rex Allen Drive,85643
+way,154557413,McDonald's,McDonald's,Arizona,32.16254667,-110.98914316999999,Tucson,West Irvington Road,85714
+way,154559489,In-N-Out Burger,In-N-Out,Arizona,32.88019772727273,-111.68223814545455,Casa Grande,North Promenade Parkway,85194
+way,155457476,McDonald's,McDonald's,Arizona,33.4944081,-112.3401954666667,Litchfield Park,West Indian School Road,85340
+way,155465113,Whataburger,Whataburger,Arizona,33.470673911764706,-112.22121407058825,Phoenix,North 75th Avenue,85035
+way,155766522,McDonald's,McDonald's,Arizona,33.378592033333334,-112.16882609999998,Phoenix,West Baseline Road,85339
+way,160148394,McDonald's,McDonald's,Arizona,31.339563655555555,-109.55989315555556,,,
+way,165396220,McDonald's,McDonald's,Arizona,33.4146135,-111.57151563333332,Apache Junction,West Apache Trail,85120
+way,168946908,In-N-Out Burger,In-N-Out,Arizona,35.21827373684211,-114.03697168421056,Kingman,East Beverly Avenue,86409
+way,169002020,McDonald's,McDonald's,Arizona,33.640837999999995,-112.06607895384619,Phoenix,East Bell Road,85022
+way,169013351,McDonald's,McDonald's,Arizona,33.753659107692314,-111.99097880000001,Phoenix,North Cave Creek Road,85331
+way,169166491,McDonald's,McDonald's,Arizona,33.465424266666666,-112.27465725555555,Avondale,West McDowell Road,85323
+way,173055641,McDonald's,McDonald's,Arizona,33.49290476153846,-112.28966205384614,Avondale,North 107th Avenue,85392
+way,183803058,In-N-Out Burger,In-N-Out,Arizona,32.6990674,-114.60058253529412,Yuma,East 16th Street,85365
+way,186987544,McDonald's,McDonald's,Arizona,34.550338999999994,-112.47841742,Prescott,Miller Valley Road,86301-2313
+way,187123687,In-N-Out Burger,In-N-Out,Arizona,34.552513831249996,-112.40924890625,Prescott,Highway 69,86301
+way,188242040,McDonald's,McDonald's,Arizona,31.96299343076923,-110.34673513076922,Benson,South State Highway 90,85602
+way,199753945,Whataburger,Whataburger,Arizona,33.577112975,-111.88628030000001,Scottsdale,North 90th Street,85258
+way,200742455,McDonald's,McDonald's,Arizona,33.06713956,-112.04773689999999,Maricopa,North John Wayne Parkway,85139
+way,202303765,McDonald's,McDonald's,Arizona,33.30468789333333,-111.99505312666669,Phoenix,East Chandler Boulevard,85048
+way,203429896,McDonald's,McDonald's,Arizona,33.305839481818175,-112.05616318181819,Phoenix,East Chandler Boulevard,85048
+way,206617186,McDonald's,McDonald's,Arizona,33.28135462,-111.96120177333333,Chandler,West Sundust Road,85226
+way,207913729,McDonald's,McDonald's,Arizona,32.94426892857143,-112.73253654285715,Gila Bend,West Pima Street,85337
+way,208618153,McDonald's,McDonald's,Arizona,35.66204238,-109.06177326,,,
+way,211707783,In-N-Out Burger,In-N-Out,Arizona,33.38168881764705,-111.59970258823527,Mesa,South Signal Butte Road,85209
+way,217272717,McDonald's,McDonald's,Arizona,36.90574357142857,-111.48457065714285,,,
+way,218698839,McDonald's,McDonald's,Arizona,33.253628638888884,-111.63602333333333,Queen Creek,East Maya Road,85242
+way,219874977,In-N-Out Burger,In-N-Out,Arizona,33.45935330952381,-112.34042652380954,Avondale,North Dysart Road,85392
+way,220124088,McDonald's,McDonald's,Arizona,33.393294485714286,-111.97781395714286,Tempe,South 48th Street,85282
+way,221565623,Whataburger,Whataburger,Arizona,32.29792911,-110.99693033999999,Tucson,West River Road,85704
+way,222087536,McDonald's,McDonald's,Arizona,33.53813383076923,-112.15378511538462,Glendale,West Glendale Avenue,85301
+way,222388149,McDonald's,McDonald's,Arizona,33.52438645294117,-112.18675731176474,Glendale,North 59th Avenue,85301
+way,222893858,McDonald's,McDonald's,Arizona,33.331174335714294,-111.98144132142856,Phoenix,East Warner Road,85044
+way,224009474,McDonald's,McDonald's,Arizona,33.40701119999999,-111.95866632307693,Tempe,West Broadway Road,85282
+way,229504629,McDonald's,McDonald's,Arizona,32.265731024999994,-110.94336820000001,Tucson,North Campbell Avenue,85719
+way,229528413,Five Guys,Five Guys,Arizona,32.257946049999994,-110.94334680000001,Tucson,North Campbell Avenue,85719
+way,231265192,McDonald's,McDonald's,Arizona,33.629297994736845,-111.89206485263158,Scottsdale,North Pima Road,85260
+way,232234326,In-N-Out Burger,In-N-Out,Arizona,32.22178043684212,-110.8404761526316,Tucson,East Broadway Boulevard,85710
+way,235570546,McDonald's,McDonald's,Arizona,32.23572522777778,-110.91017531111112,Tucson,East Speedway Boulevard,85716
+way,236018413,Freddy's,Freddy's,Arizona,32.22053204285714,-110.8398274,Tucson,East Broadway Boulevard,85710
+way,236156104,McDonald's,McDonald's,Arizona,32.26707095333333,-110.89311064666666,Tucson,North Swan Road,85712
+way,241128629,McDonald's,McDonald's,Arizona,33.53707519444445,-112.23893892222223,Glendale,West Glendale Avenue,85305
+way,251859854,Culver's,Culver's,Arizona,33.58275103157895,-111.89369871578947,Scottsdale,East Shea Boulevard,85260
+way,252175638,McDonald's,McDonald's,Arizona,33.65712958,-112.37498217333334,Surprise,West Grand Avenue,85374
+way,253751140,McDonald's,McDonald's,Arizona,32.258454527272725,-110.79847824545455,Tucson,East Tanque Verde Road,85749
+way,256121362,McDonald's,McDonald's,Arizona,33.711731692307694,-112.20056218461539,Phoenix,West Happy Valley Road,85310
+way,256800780,In-N-Out Burger,In-N-Out,Arizona,33.2811947625,-111.79024815416666,Chandler,East Germann Road,85286
+way,256800787,McDonald's,McDonald's,Arizona,33.27673165714286,-111.79096485714285,Chandler,East Germann Road,85286
+way,257297498,In-N-Out Burger,In-N-Out,Arizona,34.47428501200001,-114.34734655199998,Lake Havasu City,London Bridge Road,86403
+way,258243203,McDonald's,McDonald's,Arizona,33.63982416363637,-112.0992151090909,Phoenix,West Bell Road,85023
+way,261267699,Whataburger,Whataburger,Arizona,33.44952381428572,-112.3420824,Avondale,North Dysart Road,85323
+way,261316478,Whataburger,Whataburger,Arizona,33.63981677777778,-112.15123644444444,Phoenix,West Bell Road,85308
+way,261316864,Whataburger,Whataburger,Arizona,33.48542951666667,-112.36550936666667,Goodyear,West Indian School Road,85338
+way,261316983,Whataburger,Whataburger,Arizona,33.40716951428571,-111.87349887142857,Mesa,West Broadway Road,85202
+way,261317375,Whataburger,Whataburger,Arizona,33.40773619,-111.77158806999998,Mesa,East Broadway Road,85204
+way,261318361,Whataburger,Whataburger,Arizona,33.638570574999996,-112.25117497500001,Peoria,West Bell Road,85382
+way,261318654,Whataburger,Whataburger,Arizona,33.525233766666666,-112.11152335000001,Phoenix,West Bethany Home Road,85015
+way,261331088,Whataburger,Whataburger,Arizona,33.429727222222226,-112.10035656666668,Phoenix,South 19th Avenue,85009
+way,261331634,Whataburger,Whataburger,Arizona,33.48172000000001,-111.90850074,Scottsdale,North Hayden Road,85251
+way,261331971,Whataburger,Whataburger,Arizona,32.17623053999999,-110.96801928,Tucson,South 6th Avenue,85714
+way,261414226,Whataburger,Whataburger,Arizona,32.2290639,-110.99200296,Tucson,West Saint Mary's Road,85745
+way,261414952,Whataburger,Whataburger,Arizona,32.133654899999996,-110.97633194,Tucson,West Valencia Road,85706
+way,261415329,Whataburger,Whataburger,Arizona,32.23584182,-110.87728682,Tucson,East Speedway Boulevard,85712
+way,261415794,Whataburger,Whataburger,Arizona,32.2060581,-110.85347048000001,Tucson,East 22nd Street,85710
+way,262090113,McDonald's,McDonald's,Arizona,33.655018812,-112.08247834799998,Phoenix,West Union Hills Drive,85027
+way,264116727,McDonald's,McDonald's,Arizona,33.41467925714286,-111.63337387142859,Mesa,East Apache Trail,85207
+way,271580382,McDonald's,McDonald's,Arizona,33.34878214545454,-111.96384977272727,Tempe,West Elliot Road,85284
+way,274175460,McDonald's,McDonald's,Arizona,32.67133954,-114.44095444,Yuma,East Commercial Centre Loop,85367
+way,286360768,McDonald's,McDonald's,Arizona,32.35854659090909,-111.09147355454543,Tucson,North Cortaro Road,85743
+way,286360769,In-N-Out Burger,In-N-Out,Arizona,32.355155942857145,-111.09299161428571,Marana,Cortaro Road,85743
+way,286992314,McDonald's,McDonald's,Arizona,33.58195766,-111.88169784666664,Scottsdale,East Shea Boulevard,85258
+way,290165091,McDonald's,McDonald's,Arizona,36.129547525,-111.24024136666668,Tuba City,Main Street,86045
+way,292498617,In-N-Out Burger,In-N-Out,Arizona,33.6620619375,-112.1167281458333,Phoenix,North 27th Avenue,85027
+way,297103056,McDonald's,McDonald's,Arizona,32.494197722222225,-110.92643567777777,Catalina,North Oracle Road,85739
+way,302427380,McDonald's,McDonald's,Arizona,33.4416053,-112.55586355454544,Buckeye,South Watson Road,85326
+way,306322116,McDonald's,McDonald's,Arizona,35.18676232962963,-111.66212651851855,Flagstaff,South Milton Road,86001
+way,308680724,McDonald's,McDonald's,Arizona,32.3057026,-111.01288496470588,Tucson,West River Road,85704
+way,315063644,McDonald's,McDonald's,Arizona,33.03881346666667,-111.3784886888889,Florence,North Highway 79,85132
+way,316168042,McDonald's,McDonald's,Arizona,32.221938933333334,-110.86201244166666,Tucson,East Broadway Boulevard,85711
+way,319686716,Culver's,Culver's,Arizona,32.87911236923077,-111.68153311538461,Casa Grande,East Florence Boulevard,85194
+way,323011597,McDonald's,McDonald's,Arizona,35.25707429999999,-112.19248014,Williams,North Grand Canyon Boulevard,86046
+way,323593988,McDonald's,McDonald's,Arizona,35.192485960000006,-111.62705442,Flagstaff,East Butler,86004
+way,333201876,Culver's,Culver's,Arizona,32.294318857142855,-110.96051045714285,Tucson,North 1st Avenue,85718
+way,334953948,McDonald's,McDonald's,Arizona,33.66155433333333,-114.23745252222223,Quartzsite,West Main Street,85346
+way,335387016,McDonald's,McDonald's,Arizona,33.3784191,-112.02910483571428,Phoenixq,East Baseline Road,85042
+way,337394702,McDonald's,McDonald's,Arizona,33.365107636842104,-111.75556371052632,Gilbert,North Val Vista Drive,85234
+way,342624277,McDonald's,McDonald's,Arizona,33.39076015454545,-111.68534444545456,Mesa,South Power Road,85206
+way,344058094,McDonald's,McDonald's,Arizona,33.49450131724137,-112.08376274482758,Phoenix,West Indian School Road,85013
+way,368887994,McDonald's,McDonald's,Arizona,32.18758430909091,-110.95587933636362,Tucson,East Tucson Marketplace Boulevard,85713
+way,368990306,McDonald's,McDonald's,Arizona,33.495130786666664,-112.06183951999999,Phoenix,East Indian School Road,85012
+way,372888581,McDonald's,McDonald's,Arizona,32.697899719999995,-114.60921544,Yuma,East 16th Street,85364
+way,374750488,McDonald's,McDonald's,Arizona,33.37855996,-111.78933416666669,Gilbert,East Baseline Road,85233
+way,374750502,Freddy's,Freddy's,Arizona,33.3784166,-111.78725665714286,Gilbert,East Baseline Road,85234
+way,374979860,McDonald's,McDonald's,Arizona,32.83557071538461,-109.73049206923078,Safford,West Thatcher Boulevard,85546
+way,375992295,McDonald's,McDonald's,Arizona,31.957417699999997,-110.98173030000001,Sahuarita,West Via Rancho Sahuarita Road,85629
+way,384783839,Culver's,Culver's,Arizona,33.45723473157895,-112.3059333368421,Avondale,North Avondale Boulevard,85323
+way,387016749,McDonald's,McDonald's,Arizona,31.5543089,-110.27875341111113,Sierra Vista,Fry Boulevard,85635-2703
+way,387411373,McDonald's,McDonald's,Arizona,32.35227528333334,-110.97395350000001,Tucson,West McGee,85704-6434
+way,387467902,McDonald's,McDonald's,Arizona,33.610406293333334,-112.24087578666669,Peoria,West Thunderbird Road,85381
+way,389295953,McDonald's,McDonald's,Arizona,32.24821405714285,-110.85051542857143,Tucson,East Tanque Verde Road,85715
+way,398412291,McDonald's,McDonald's,Arizona,33.86555115833333,-112.13743495833334,Phoenix,West Anthem Way,85087
+way,399577411,McDonald's,McDonald's,Arizona,33.58371876923077,-112.20336856923078,Peoria,West Peoria Avenue,85345
+way,408700822,McDonald's,McDonald's,Arizona,33.65203135714286,-111.88669471428571,Scottsdale,North Pima Road,85255
+way,414118464,McDonald's,McDonald's,Arizona,33.58487928571428,-111.9255850857143,Scottsdale,North Scottsdale Road,85254
+way,414773573,McDonald's,McDonald's,Arizona,31.33527262857143,-110.9428021,Nogales,West Crawford Street,85621-3208
+way,426089301,McDonald's,McDonald's,Arizona,33.59664750666666,-112.16823372000002,Glendale,West Cactus Road,85304
+way,427297198,McDonald's,McDonald's,Arizona,32.172003133333334,-111.07111936666666,Tucson,West Ajo Highway,85757
+way,427344441,McDonald's,McDonald's,Arizona,33.49470638461539,-112.23739022307693,Phoenix,West Indian School Road,85033
+way,427548116,McDonald's,McDonald's,Arizona,33.494503109090914,-112.12843028181818,Phoenix,West Indian School Road,85017
+way,429555297,McDonald's,McDonald's,Arizona,33.26710726363637,-111.68756512727273,Gilbert,East Queen Creek Road,85297
+way,431354348,McDonald's,McDonald's,Arizona,33.56803441,-112.185423095,Glendale,West Olive Avenue,85302
+way,435905708,McDonald's,McDonald's,Arizona,32.118583072727276,-110.79813092727272,Tucson,East Valencia Road,85747
+way,436200507,McDonald's,McDonald's,Arizona,33.52353735882353,-112.13460202941178,Phoenix,West Bethany Home Road,85019
+way,437089816,McDonald's,McDonald's,Arizona,33.537455253846154,-112.3576613153846,Glendale,North Litchfield Road,85307
+way,438899717,McDonald's,McDonald's,Arizona,33.36619931176471,-111.85856133529411,Mesa,South Alma School Road,85210
+way,446158126,McDonald's,McDonald's,Arizona,33.33632291764706,-111.75655003529413,Gilbert,South Val Vista Drive,85296
+way,446569272,In-N-Out Burger,In-N-Out,Arizona,33.50806421,-112.266494655,Phoenix,West Camelback Road,85037
+way,451470939,Culver's,Culver's,Arizona,31.549373340000006,-110.25806476000002,Sierra Vista,South State Highway 92,85635
+way,454586808,McDonald's,McDonald's,Arizona,34.59815061428571,-112.45739011428573,Prescott,Willow Creek Road,86305
+way,454799857,In-N-Out Burger,In-N-Out,Arizona,32.178274218750005,-110.94292915624999,Tucson,East Ajo Way,85713
+way,455578392,McDonald's,McDonald's,Arizona,33.523744488000006,-112.10862119199999,Phoenix,West Bethany Home Road,85015
+way,461569936,In-N-Out Burger,In-N-Out,Arizona,32.41544959375,-110.93878059375001,Oro Valley,North Oracle Road,85755
+way,471542221,In-N-Out Burger,In-N-Out,Arizona,33.3900887347826,-111.85772557391303,Mesa,South Alma School Road,85210
+way,476670407,McDonald's,McDonald's,Arizona,32.287907084615384,-110.97871066153847,Tucson,North Oracle Road,85705-1635
+way,479206006,McDonald's,McDonald's,Arizona,33.61117778888889,-112.15171616296294,Glendale,West Thunderbird Road,85306
+way,481900445,Culver's,Culver's,Arizona,32.220509155555554,-110.83201668888888,Tucson,South Broadway Place,85710
+way,488561405,McDonald's,McDonald's,Arizona,33.47683531,-112.22023548,Phoenix,North 75th Avenue,85035
+way,490410987,McDonald's,McDonald's,Arizona,33.42969686666666,-112.06568462916664,Phoenix,South 7th Street,85034-5120
+way,490818800,McDonald's,McDonald's,Arizona,32.20590624285715,-110.84138094285716,Tucson,East 22nd Street,85710
+way,492675021,McDonald's,McDonald's,Arizona,33.33563642307692,-111.87516611538462,Chandler,West Warner Road,85224
+way,497276866,Culver's,Culver's,Arizona,32.185987128571426,-110.94390961428573,Tucson,South Campbell Avenue,85713
+way,497276878,Culver's,Culver's,Arizona,33.39344724285714,-111.92986584285714,Tempe,East Southern Avenue,85282
+way,503378106,Culver's,Culver's,Arizona,33.67642124615384,-112.03045357692311,Phoenix,North Cave Creek Road,85024
+way,504691441,Culver's,Culver's,Arizona,33.509473469999996,-112.27192800999998,Glendale,North 99th Avenue,85305
+way,504969686,McDonald's,McDonald's,Arizona,33.48000858571429,-112.25650991428573,Phoenix,West Thomas Road,85037
+way,506257783,McDonald's,McDonald's,Arizona,32.98638824,-111.52432239999999,Coolidge,North Arizona Boulevard,85128
+way,506355322,Freddy's,Freddy's,Arizona,33.46142001333334,-112.35882437333333,Goodyear,North Litchfield Road,85395
+way,510458259,Freddy's,Freddy's,Arizona,33.39085712352942,-111.68321005882352,Mesa,East Hampton Avenue,85209
+way,511461033,McDonald's,McDonald's,Arizona,33.37937247777778,-111.83524837777777,Mesa,West Baseline Road,85210
+way,513272399,McDonald's,McDonald's,Arizona,33.39234937692308,-111.84071000769231,Mesa,South Country Club Drive,85210
+way,514206109,McDonald's,McDonald's,Arizona,33.37787186875,-111.96186758125,Tempe,West Baseline Road,85283
+way,514433972,McDonald's,McDonald's,Arizona,33.37778056999999,-111.93154579,Tempe,East Baseline Road,85282
+way,516982256,McDonald's,McDonald's,Arizona,33.349609463636355,-111.91238361818182,Tempe,East Elliot Road,85284
+way,516991841,Freddy's,Freddy's,Arizona,33.34968018000001,-111.91017354,Tempe,East Elliot Road,85284
+way,519590199,McDonald's,McDonald's,Arizona,33.259688833333335,-111.85782406666664,Chandler,South Alma School Road,85248
+way,525319894,McDonald's,McDonald's,Arizona,33.30576207222222,-111.94516807222222,Chandler,West Chandler Boulevard,85224
+way,530598708,McDonald's,McDonald's,Arizona,32.87912001538461,-111.73372523846153,Casa Grande,East Florence Boulevard,85122
+way,536526995,McDonald's,McDonald's,Arizona,34.142135100000004,-109.9544934,,,
+way,536527004,McDonald's,McDonald's,Arizona,34.25164816666667,-110.02821375555556,Show Low,North White Mountain Road,85901
+way,542305978,Culver's,Culver's,Arizona,32.332194685714285,-111.04676335714286,Tucson,North Thornydale Road,85741
+way,543900463,McDonald's,McDonald's,Arizona,33.29721059090909,-111.75488636363637,Gilbert,South Val Vista Drive,85295
+way,544152066,McDonald's,McDonald's,Arizona,33.415740650000004,-111.9259487,Tempe,South Rural Road,85281
+way,546211011,McDonald's,McDonald's,Arizona,33.47993532352941,-111.92658246470587,Scottsdale,North Scottsdale Road,85257
+way,550021825,McDonald's,McDonald's,Arizona,33.21805958888889,-111.84159331111113,Sun Lakes,East Riggs Road,85248
+way,550700865,McDonald's,McDonald's,Arizona,33.234585447368424,-111.85958120526314,Chandler,South Alma School Road,85248
+way,550991298,McDonald's,McDonald's,Arizona,33.42314083076922,-111.75315493846152,Mesa,North Val Vista,85205
+way,561627545,In-N-Out Burger,In-N-Out,Arizona,33.43492760666666,-111.92543279333334,Tempe,East Playa Del Norte Drive,85288
+way,562335297,McDonald's,McDonald's,Arizona,33.41568991538462,-111.78873543846157,Mesa,East Main Street,85203
+way,570344350,Culver's,Culver's,Arizona,33.06495024444445,-112.0485997,Maricopa,North John Wayne Parkway,85139
+way,573329386,McDonald's,McDonald's,Arizona,32.193539442857144,-110.8746278,Tucson,South Craycroft,85711-6630
+way,583377138,McDonald's,McDonald's,Arizona,33.32029002142857,-111.68646624285715,Mesa,South Power Road,85212
+way,591997992,McDonald's,McDonald's,Arizona,33.42151384545455,-111.91025049999999,Tempe,East University Drive,85281
+way,592795200,McDonald's,McDonald's,Arizona,33.58151642222222,-112.13361581111111,Phoenix,West Peoria Avenue,85029
+way,597610473,McDonald's,McDonald's,Arizona,33.378204857142855,-111.63557475714286,Mesa,South Ellsworth Road,85209
+way,598355888,McDonald's,McDonald's,Arizona,35.21834271666666,-114.00736899999998,Kingman,East Andy Devine,86401-3702
+way,604116304,McDonald's,McDonald's,Arizona,33.55278041935484,-112.10052303870965,Phoenix,West Northern Avenue,85021-5155
+way,626553258,McDonald's,McDonald's,Arizona,34.50407658,-110.07949564,,South Main Street,85937
+way,629541694,Culver's,Culver's,Arizona,34.5798724,-112.36109448571428,Prescott Valley,North Stoneridge Drive,86314
+way,629541715,Culver's,Culver's,Arizona,34.241316371428574,-111.31059327142857,Payson,East Highway 260,85541
+way,629541748,Culver's,Culver's,Arizona,33.391475099999994,-111.614752725,Mesa,South Crimson Road,85209
+way,629541751,Culver's,Culver's,Arizona,33.68205435714286,-112.23912865714286,Peoria,West Deer Valley Road,85383
+way,629541753,Culver's,Culver's,Arizona,33.46546566666667,-112.50502139999998,Buckeye,North Verrado Way,85396
+way,629541757,Culver's,Culver's,Arizona,34.490950839999996,-114.35025637999999,Lake Havasu City,Countryshire Avenue,86403
+way,630032582,Freddy's,Freddy's,Arizona,33.37483355862069,-111.84184643103453,Gilbert,North Arizona Avenue,85233
+way,631374316,McDonald's,McDonald's,Arizona,33.03716086,-112.014914,Maricopa,West Maricopa-Casa Grande Highway,85138
+way,634063791,McDonald's,McDonald's,Arizona,34.15457595454546,-114.27803334545456,Parker,West Riverside Drive,85344
+way,647126312,McDonald's,McDonald's,Arizona,33.39319656666666,-110.76768851111112,Globe,East Ash Street,85501
+way,648624413,McDonald's,McDonald's,Arizona,33.58917061999999,-111.83565874000001,Scottsdale,East Via Linda,85259
+way,650691746,McDonald's,McDonald's,Arizona,32.697803658333335,-114.65093114999998,Yuma,South Avenue B,85364
+way,666688689,McDonald's,McDonald's,Arizona,33.39344106666667,-111.87787402222222,Mesa,West Southern Avenue,85202
+way,669606164,McDonald's,McDonald's,Arizona,33.41535998571429,-111.85728565714285,Mesa,West Main Street,85201
+way,670377723,McDonald's,McDonald's,Arizona,33.4523312,-111.6849164,Mesa,East McKellips Road,85215
+way,671597079,Culver's,Culver's,Arizona,31.9084851125,-110.98281131249999,Green Valley,South Nogales Highway,85614
+way,685003635,McDonald's,McDonald's,Arizona,33.49539486,-112.16717514,Phoenix,West Indian School Road,85031
+way,685499525,McDonald's,McDonald's,Arizona,33.46513808125,-112.35751421875,Goodyear,West McDowell Road,85395
+way,687286050,McDonald's,McDonald's,Arizona,34.77435117142857,-112.45336551428571,,,
+way,690931341,McDonald's,McDonald's,Arizona,34.470878860000006,-114.34334922000001,Lake Havasu City,Swanson Avenue,86403
+way,693837661,McDonald's,McDonald's,Arizona,34.57558344444445,-111.88377495555555,,,
+way,698967238,McDonald's,McDonald's,Arizona,32.401420928571426,-110.95485517142856,Oro Valley,North Oracle Road,85737
+way,705631094,McDonald's,McDonald's,Arizona,31.50473718,-110.25685003999999,Sierra Vista,Canyon de Flores,85650
+way,709382094,McDonald's,McDonald's,Arizona,33.24709244666666,-111.56260439333333,San Tan Valley,North Gantzel Road,85140
+way,723352627,Freddy's,Freddy's,Arizona,32.69812267142857,-114.60215775714286,,,
+way,731233394,McDonald's,McDonald's,Arizona,33.61058475454546,-112.35881108181819,Surprise,North Litchfield Road,85379
+way,731233402,Freddy's,Freddy's,Arizona,33.60871805454545,-112.3620052909091,Surprise,West Waddell Road,85379
+way,732014310,McDonald's,McDonald's,Arizona,33.62364832857143,-112.39445077142857,Surprise,West Greenway Road,85379
+way,738636499,McDonald's,McDonald's,Arizona,33.6550290368421,-112.13356264736842,Phoenix,West Union Hills Drive,85027
+way,741584050,In-N-Out Burger,In-N-Out,Arizona,33.638134957894735,-112.3685650263158,Surprise,West Bell Road,85374
+way,757504306,McDonald's,McDonald's,Arizona,33.565830000000005,-112.2545463,Peoria,West Olive Avenue,85345
+way,775623529,McDonald's,McDonald's,Arizona,33.56511820909091,-112.2915303909091,Peoria,West Olive Avenue,85345
+way,775645793,McDonald's,McDonald's,Arizona,33.63822568571429,-112.41473238571429,Surprise,West Bell Road,85374
+way,779242741,McDonald's,McDonald's,Arizona,33.3649336,-111.60068035714285,Mesa,South Signal Butte Road,85209
+way,779398610,McDonald's,McDonald's,Arizona,34.58534524666666,-112.33368203333333,Prescott Valley,East Highway 69,86314-2214
+way,786941204,Culver's,Culver's,Arizona,35.19605837142857,-111.62707065714285,Flagstaff,East Route 66,86004
+way,788289717,McDonald's,McDonald's,Arizona,32.19121337777778,-110.79029508888888,Tucson,East Golf Links Road,85730
+way,802301766,Freddy's,Freddy's,Arizona,32.08899916,-110.77481412,,,
+way,802301811,McDonald's,McDonald's,Arizona,32.086782799999995,-110.77363038000001,Tucson,South Houghton Road,85747-9741
+way,810368670,McDonald's,McDonald's,Arizona,33.33480099473684,-111.8074365368421,Gilbert,West Warner Road,85233
+way,817961555,McDonald's,McDonald's,Arizona,33.452083328571426,-111.78884764285715,Mesa,East McKellips Road,85203
+way,818123266,McDonald's,McDonald's,Arizona,33.42278556521739,-111.82336527826087,Mesa,East University Drive,85201
+way,819698603,McDonald's,McDonald's,Arizona,31.852189019999997,-110.99516672,Green Valley,West Continental Road,85614-1957
+way,821217923,McDonald's,McDonald's,Arizona,33.350869925000005,-111.8237123875,Gilbert,North McQueen Road,85233
+way,822737418,McDonald's,McDonald's,Arizona,33.29227662608695,-111.82181076521739,Chandler,East Pecos Road,85225
+way,825313433,McDonald's,McDonald's,Arizona,33.452081222727266,-111.8392532090909,Mesa,North Country Club Drive,85201
+way,828356905,McDonald's,McDonald's,Arizona,33.32018496875,-111.84240663125001,Chandler,North Arizona Avenue,85225
+way,829537118,Culver's,Culver's,Arizona,33.28351736666667,-111.84216084285715,Chandler,South Arizona Avenue,85286
+way,829798998,McDonald's,McDonald's,Arizona,32.206709792307684,-110.92136294615385,Tucson,East 22nd Street,85713-2352
+way,834365364,McDonald's,McDonald's,Arizona,32.23674684285715,-110.87667694285713,Tucson,East Speedway Boulevard,85712
+way,834511531,Shake Shack,Shake Shack,Arizona,33.30726532,-111.7464558,Gilbert,East Williams Field Road,85295
+way,835207787,McDonald's,McDonald's,Arizona,32.25122897,-111.01523663,Tucson,West Ironwood Hill,85745-1056
+way,837268938,McDonald's,McDonald's,Arizona,33.436392472222224,-111.71957360555555,Mesa,North Higley Road,85205
+way,838321563,McDonald's,McDonald's,Arizona,33.37817910476191,-111.72275966190476,Gilbert,North Higley Road,85234
+way,838366632,Five Guys,Five Guys,Arizona,32.22127637999999,-110.87347798,Tucson,East Broadway Boulevard,85711
+way,839935504,McDonald's,McDonald's,Arizona,33.23521062,-111.721289776,Gilbert,South Higley Road,85298
+way,842254997,In-N-Out Burger,In-N-Out,Arizona,33.6377559347826,-112.2330107652174,Peoria,West Bell Road,85382
+way,842270291,McDonald's,McDonald's,Arizona,33.63778744545454,-112.18671745454547,Glendale,North 59th Avenue,85306
+way,842271608,Freddy's,Freddy's,Arizona,33.63875085714286,-112.16733757142856,Phoenix,West Bell Road,85308
+way,846784807,Culver's,Culver's,Arizona,33.24945968,-111.56599741999999,Queen Creek,West Ocotillo Road,85140
+way,847842998,McDonald's,McDonald's,Arizona,33.39346723928571,-111.73605077857147,Mesa,South Greenfield Road,85206
+way,848247642,Culver's,Culver's,Arizona,33.38112147777778,-111.73883621111112,Mesa,South Greenfield Road,85206
+way,851934895,Whataburger,Whataburger,Arizona,33.26553536,-111.63405312,Queen Creek,South Ellsworth Road,85142
+way,872062147,McDonald's,McDonald's,Arizona,32.199370241666664,-110.96806829999998,South Tucson,South 6th Avenue,85713
+way,877737000,McDonald's,McDonald's,Arizona,33.45111391034483,-112.13501999655169,Phoenix,West Van Buren Street,85009
+way,882003086,In-N-Out Burger,In-N-Out,Arizona,33.473405484210524,-111.70187112105263,Mesa,North Recker Road,85215
+way,886062644,McDonald's,McDonald's,Arizona,33.39124692,-111.59871236000001,Mesa,South Signal Butte Road,85209
+way,887380125,McDonald's,McDonald's,Arizona,33.6834494,-112.1082396,Phoenix,West Deer Valley Road,85027
+way,891098164,McDonald's,McDonald's,Arizona,33.69876046363636,-112.14309677272728,Glendale,West Pinnacle Peak Road,85310
+way,891290739,Freddy's,Freddy's,Arizona,32.40837588000001,-110.94456740000001,,,
+way,895126090,In-N-Out Burger,In-N-Out,Arizona,33.507180770000005,-112.03936236000001,Phoenix,North 20th Street,85016
+way,896035041,McDonald's,McDonald's,Arizona,33.45385257142857,-112.39322114285713,Goodyear,North Estrella Parkway,85338
+way,903268425,McDonald's,McDonald's,Arizona,32.13455104444444,-110.92580496666667,Tucson,East Valencia,85706
+way,903659746,McDonald's,McDonald's,Arizona,32.157218454545465,-110.91696584545453,Tucson,South Palo Verde Road,85706
+way,906612724,McDonald's,McDonald's,Arizona,33.65221944444444,-112.25546044444442,Peoria,West Union Hills Drive,85382
+way,909480918,McDonald's,McDonald's,Arizona,34.57341257142857,-114.36575030000002,Lake Havasu City,Showplace Avenue,86403
+way,918420110,McDonald's,McDonald's,Arizona,33.67017461111111,-112.20251119999999,Glendale,North 67th Avenue,85308
+way,918492610,Freddy's,Freddy's,Arizona,33.711366742857145,-112.27002887142858,Peoria,West Happy Valley Road,85383
+way,918492618,McDonald's,McDonald's,Arizona,33.70808323076923,-112.2730992307692,Peoria,North Lake Pleasant Parkway,85383
+way,931860515,McDonald's,McDonald's,Arizona,33.451944614285715,-112.20302932857143,Phoenix,West Van Buren Street,85043
+way,934055931,McDonald's,McDonald's,Arizona,33.39351103571428,-111.86335672142859,Mesa,West Southern Avenue,85202
+way,935169137,McDonald's,McDonald's,Arizona,33.394422172,-111.90953609200001,Tempe,South McClintock Drive,85282
+way,938132084,McDonald's,McDonald's,Arizona,33.45013328571429,-112.02979442857142,Phoenix,North 24th Street,85034
+way,940547876,Freddy's,Freddy's,Arizona,33.510199899999996,-112.34025042,Litchfield Park,North Dysart Road,85340
+way,955904765,McDonald's,McDonald's,Arizona,33.48086848571428,-112.1842598857143,Phoenix,West Thomas Road,85031-3227
+way,963244966,McDonald's,McDonald's,Arizona,33.63772336923077,-112.22084053846153,Peoria,West Bell Road,85382
+way,966290010,McDonald's,McDonald's,Arizona,33.419937100000006,-112.27192772857144,Phoenix,South 99th Avenue,85353
+way,974838430,McDonald's,McDonald's,Arizona,32.17745584000001,-111.00274016,Tucson,West Ajo Way,85713
+way,974855560,In-N-Out Burger,In-N-Out,Arizona,32.16363183333334,-110.98818918333332,Tucson,West Irvington Road,85714
+way,975144174,McDonald's,McDonald's,Arizona,33.49454538571428,-111.90845105714286,Scottsdale,East Indian School Road,85257
+way,980239219,McDonald's,McDonald's,Arizona,33.306430105882356,-111.88782641176469,Chandler,West Chandler Boulevard,85224
+way,981893013,Culver's,Culver's,Arizona,33.319814269230775,-111.89656701923076,Chandler,West Ray Road,85226
+way,984968959,McDonald's,McDonald's,Arizona,33.37825391,-112.09870747,Phoenix,West Baseline Road,85041
+way,988702783,McDonald's,McDonald's,Arizona,33.391925118749995,-112.07277605,Phoenix,South Central Avenue,85042
+way,991597078,McDonald's,McDonald's,Arizona,33.5235254,-111.90052899999998,Scottsdale,North Granite Reef Road,85250
+way,995348948,Culver's,Culver's,Arizona,33.44788838461539,-112.3932056153846,Goodyear,North Estrella Parkway,85338
+way,1010017511,McDonald's,McDonald's,Arizona,32.1343505882353,-110.97696265294118,Tucson,West Valencia Road,85706
+way,1016788596,McDonald's,McDonald's,Arizona,35.22356575555555,-114.03657743333332,Kingman,Stockton Hill Road,86409
+way,1028665979,McDonald's,McDonald's,Arizona,32.779642683333336,-111.62002933333332,Eloy,Toltec Road,85231
+way,1040011203,McDonald's,McDonald's,Arizona,33.494841914285715,-112.0133634142857,Phoenix,East Indian School Road,85016
+way,1049606365,McDonald's,McDonald's,Arizona,33.48665952727273,-112.02982053636362,Phoenix,North 24th Street,85016-7317
+way,1053532613,McDonald's,McDonald's,Arizona,32.13419127142857,-111.03098844285714,Tucson,West Valencia,85746
+way,1056806965,Culver's,Culver's,Arizona,32.13332704,-111.00797514000001,Tucson,West Valencia Road,85746
+way,1058190761,McDonald's,McDonald's,Arizona,33.4074919,-112.01387463333333,Phoenix,East Broadway Road,85040
+way,1083088982,Five Guys,Five Guys,Arizona,32.335571779999995,-111.04751361999999,Marana,North Thornydale Road,85741
+way,1085467182,McDonald's,McDonald's,Arizona,33.16176831818182,-111.5643454090909,San Tan Valley,East Hunt Highway,85143
+way,1085948446,McDonald's,McDonald's,Arizona,32.236478266666666,-110.94618478888887,Tucson,East Speedway Boulevard,85719-4514
+way,1087287206,Culver's,Culver's,Arizona,33.28480299333334,-111.75596272666668,Gilbert,South Val Vista Drive,85297
+way,1092438837,Freddy's,Freddy's,Arizona,33.84368288571429,-112.13190301428573,Phoenix,West Daisy Mountain Drive,85086
+way,1097255899,McDonald's,McDonald's,Arizona,33.39248971666667,-112.13411499166666,Phoenix,South 35th Avenue,85041
+way,1106477364,McDonald's,McDonald's,Arizona,33.21981556,-111.7886949,Chandler,East Riggs Road,85249
+way,1108441052,Freddy's,Freddy's,Arizona,33.18101803529412,-111.58299965294117,San Tan Valley,West Hunt Highway,85143
+way,1112841591,Whataburger,Whataburger,Arizona,33.609177960000004,-112.41020162,Surprise,North Sarival Avenue,85388
+way,1132361034,In-N-Out Burger,In-N-Out,Arizona,33.383369106060606,-111.80630139393942,Mesa,South Stapley Drive,85204
+way,1136098479,McDonald's,McDonald's,Arizona,33.319332280000005,-111.63461362000001,Mesa,East Cadence Parkway,85212
+way,1140668797,McDonald's,McDonald's,Arizona,33.063285944444445,-111.48546782222222,Florence,North Hunt Highway,85132
+way,1148990339,McDonald's,McDonald's,Arizona,33.3565184625,-112.42901331249999,Goodyear,West Elliot Road,85338
+way,1157273273,Five Guys,Five Guys,Arizona,33.6073737,-112.41500224,Surprise,North Prasada Parkway,85388
+way,1158129721,Culver's,Culver's,Arizona,35.225397533333336,-114.03492616666666,Kingman,Airway Avenue,86409
+way,1189776530,McDonald's,McDonald's,Arizona,33.581384379999996,-112.42886042,Surprise,West Peoria Avenue,85388
+way,1206765003,Freddy's,Freddy's,Arizona,33.63868542380953,-112.22420064285714,Glendale,West Bell Road,85308
+way,1213904443,Whataburger,Whataburger,Arizona,33.376876495000005,-112.18359037,Laveen Village,West Baseline Road,85339
+way,1233342438,McDonald's,McDonald's,Arizona,33.50922018,-112.11669494,Phoenix,West Camelback Road,85017
+way,1243053670,McDonald's,McDonald's,Arizona,33.42346235714286,-112.2199921,Phoenix,West Lower Buckeye Road,85043
+way,1246747195,Whataburger,Whataburger,Arizona,32.187477359999995,-110.95693999999999,Tucson,East Tucson Marketplace Boulevard,85713
+way,1248789611,McDonald's,McDonald's,Arizona,33.42120654285714,-112.30585195714285,Avondale,South Avondale Boulevard,85323
+way,1260415498,McDonald's,McDonald's,Arizona,33.46496435625,-111.90941506874998,Scottsdale,North Hayden Road,85257
+way,1262724790,McDonald's,McDonald's,Arizona,34.133262,-109.28549976,,East Main Street,85938
+way,1262725323,McDonald's,McDonald's,Arizona,33.34769624285714,-111.7206453142857,Gilbert,South Higley Road,85296
+way,1274706229,In-N-Out Burger,In-N-Out,Arizona,33.3775842,-111.9740455,Tempe,West Baseline Road,85283
+way,1274744873,In-N-Out Burger,In-N-Out,Arizona,33.32721087272728,-111.68636000909088,Mesa,South Power Road,85212
+way,1285743586,Freddy's,Freddy's,Arizona,33.45160054,-112.27184564,Tolleson,North 99th Avenue,85353
+way,1286399714,Whataburger,Whataburger,Arizona,33.48078776153846,-111.92800729999999,Scottsdale,East Thomas Road,85251
+way,1288179615,Whataburger,Whataburger,Arizona,33.37940932,-111.80867321999999,Mesa,East Baseline Road,85204
+way,1318587992,McDonald's,McDonald's,Arizona,35.0182393,-114.59754710666667,,Aztec Road,86426
+way,1323768176,McDonald's,McDonald's,Arizona,33.6977081,-112.41004312,Surprise,North 163rd Avenue,85387
+way,1328595986,McDonald's,McDonald's,Arizona,33.19787502,-111.61146980000001,San Tan Valley,West Hunt Highway,85142
+way,1354556345,Culver's,Culver's,Arizona,35.05462488571428,-114.59030308571427,Bullhead City,Mohave Valley Highway,86442
+way,1364126154,Shake Shack,Shake Shack,Arizona,33.610130871428574,-112.4133441,Surprise,West Waddell Road,85388
+way,1365640454,McDonald's,McDonald's,Arizona,33.262630671428575,-111.60210933809525,Queen Creek,East Queen Creek Road,85142
+way,1384503038,McDonald's,McDonald's,Arizona,35.16947782857143,-114.56549222857143,Bullhead City,AZ-95,86442
+way,1385229307,Whataburger,Whataburger,Arizona,33.389378923529414,-111.59879305882353,Mesa,South Signal Butte Road,85209
+way,1450418124,Freddy's,Freddy's,Arizona,32.66644842,-114.44466379999999,,,
+way,1450816979,McDonald's,McDonald's,Arizona,33.221035,-111.56386144000001,Queen Creek,North Gantzel Road,85140
+way,1453489876,Freddy's,Freddy's,Arizona,33.07417492857143,-112.0423502,Maricopa,North John Wayne Parkway,85138
+way,1453795319,McDonald's,McDonald's,Arizona,32.68055018,-114.62526538000002,Yuma,South 4th Avenue,85364-7221
+way,1461366655,McDonald's,McDonald's,Arizona,32.42844208,-111.20762525999999,,,
+way,1462199320,In-N-Out Burger,In-N-Out,Arizona,33.37792326,-112.18666751999999,Laveen Village,West Baseline Road,85339
+way,1472827640,McDonald's,McDonald's,Arizona,33.455934186666674,-112.50493376666665,Buckeye,North Verrado Way,85326
+way,1479318653,Whataburger,Whataburger,Arizona,33.480013019999994,-111.9972303,Phoenix,East Thomas Road,85018
+way,1486420953,Whataburger,Whataburger,Arizona,33.30304280666666,-111.74422786666668,Gilbert,South Market Street,85295
+way,1489339022,McDonald's,McDonald's,Arizona,33.23395000000001,-111.68507384,Queen Creek,South Power Road,85142
+way,1490414175,McDonald's,McDonald's,Arizona,33.75247234,-112.31104586,Peoria,West Lone Mountain Parkway,85383
+way,1494142570,Whataburger,Whataburger,Arizona,33.31736341578948,-111.68626892631578,Mesa,South Power Road,85212
+way,1497827023,In-N-Out Burger,In-N-Out,Arizona,33.59585757142857,-112.4125461,Surprise,West Cactus Road,85388
+way,1513640412,McDonald's,McDonald's,Arizona,33.71003536,-112.2317391,Peoria,West Happy Valley Road,85383
+way,1528364180,McDonald's,McDonald's,Arizona,33.46099716666666,-112.25444125555556,Tolleson,North 91st Avenue,85353
+way,1528943630,In-N-Out Burger,In-N-Out,Arizona,33.18170296,-111.58243198,San Tan Valley,North Gary Road,85143
+way,1540176533,In-N-Out Burger,In-N-Out,Arizona,33.458313524999994,-112.50501537999999,Buckeye,North Verrado Way,85326
+way,1545833679,Whataburger,Whataburger,Arizona,32.089002557142855,-110.77713215714286,,,
+way,1545855339,McDonald's,McDonald's,Arizona,32.136221920000004,-110.88177412,Tucson,East Valencia Road,85706
+way,1545855340,Whataburger,Whataburger,Arizona,32.13371216,-110.88419886,Tucson,East Valencia Road,85756
+way,1548490209,McDonald's,McDonald's,Arizona,32.59719126,-114.72233019999999,Somerton,West Main Street,85350
+way,1558224805,Shake Shack,Shake Shack,Arizona,33.4651672,-112.38308271999999,Goodyear,North Globe Drive,85395
+way,1562097256,Whataburger,Whataburger,Arizona,33.46501456,-112.28943692,Avondale,North 107th Avenue,85392
+way,1562633835,Shake Shack,Shake Shack,Arizona,33.46550464,-112.26982914,Avondale,West McDowell Road,85353
+way,1563919588,McDonald's,McDonald's,Arizona,33.40503238000001,-112.59021814,Buckeye,South Miller Road,85326
+way,1567870216,Culver's,Culver's,Arizona,33.23373606,-111.6337297,Queen Creek,S Ellsworth Rd,85142
+way,1569008807,Freddy's,Freddy's,Arizona,33.43954116,-112.42530403999999,Goodyear,South Cotton Lane,85338
+way,1569008809,McDonald's,McDonald's,Arizona,33.434965,-112.40884971999999,Goodyear,West Yuma Road,85338
+way,1569552743,In-N-Out Burger,In-N-Out,Arizona,33.7143058625,-112.27196269375,Peoria,North Lake Pleasant Parkway,85383
+way,1573257176,Whataburger,Whataburger,Arizona,33.42175322222222,-112.27359946666667,Tolleson,South 99th Avenue,85353
+way,1573414014,Culver's,Culver's,Arizona,34.5953447375,-112.46506844999999,,,
+way,1575622712,Freddy's,Freddy's,Arizona,32.183914220000005,-110.94993882000001,,,
+way,1576439210,McDonald's,McDonald's,Arizona,33.61035018,-112.42639282,Surprise,West Waddell Road,85388
